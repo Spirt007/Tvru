@@ -89,8 +89,6 @@ http://46.8.46.4/kvn/tracks-v1a1/mono.m3u8
 http://185.36.100.33/perec/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Квартал ТВ
 http://91.197.49.94/kvartaltv/mpegts
-#EXTINF:-1 group-title="Развлекательные",ETV
-http://31.128.159.6:5000/channel_239.1.10.18/index.m3u8
 
 
 
