@@ -38,6 +38,8 @@ https://kinescope.io/204564915/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2295.png" group-title="Общественные",RTД HD
 https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 group-title="Общественные",ТВ Центр
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/669.png" group-title="Общественные",Время
 http://46.151.151.245:10007/play/a002
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/304.png" group-title="Общественные",Домашний 
@@ -81,6 +83,15 @@ https://okkotv-live.cdnvideo.ru/channel/Che_OTT_2/480p.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Yu_OTT.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/323.png" group-title="Развлекательные",2x2
 https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",КВН ТВ
+http://46.8.46.4/kvn/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные",Перец
+http://185.36.100.33/perec/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Квартал ТВ
+http://91.197.49.94/kvartaltv/mpegts
+#EXTINF:-1 group-title="Развлекательные",ETV
+http://31.128.159.6:5000/channel_239.1.10.18/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/cnn.png" group-title="Новости",CNN
