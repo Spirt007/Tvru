@@ -277,9 +277,9 @@ http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2404.png" group-title="Кена",Феникс плюс Кино
 https://okkotv-live.cdnvideo.ru/channel/Phoenix_HD/1080p.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2271.png" group-title="Новости",Известия HD
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2271.png" group-title="Новости",Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3015.png" group-title="Новости",МИР 24
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3015.png" group-title="Новости",МИР24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1683.png" group-title="Новости",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
