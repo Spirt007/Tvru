@@ -126,7 +126,7 @@ https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 https://s23.federal.tv:8082/feda/kinosezon.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/kinoliving.png" group-title="Кена",Kinoliving
 http://31.40.155.227:9595/play/Kinoliving 
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/foxlife.png" group-title="Кена",Видеокассета
+#EXTINF:-1 group-title="Кена",Видеокассета
 https://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/tv1000-cee.png" group-title="Кена",Viasat Kino
 http://91.210.251.166:4893/udp/239.0.3.4:4000 
