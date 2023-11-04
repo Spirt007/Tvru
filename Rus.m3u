@@ -56,7 +56,7 @@ http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1000.png" group-title="Общественные",ОТР
 https://sirius.greenhosting.ru/Otr/video.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/427.png" group-title="Общественные",Пятый Канал
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/427.png" group-title="Общественные",5 Канал
 https://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/984.png" group-title="Общественные",Россия 1 
 http://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
