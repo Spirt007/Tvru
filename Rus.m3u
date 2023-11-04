@@ -187,11 +187,11 @@ http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m
 #EXTINF:-1 group-title="Хиты", Kion Хит
 http://ch01.spr24.net/7310/index.m3u8?token=Ti8qDtheX2PUkt
 
-#EXTINF:-1 group-title="Мужское", Viju TV1000 Action HD
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/tv1000-action.png" group-title="Мужское", Viju TV1000 Action HD
 https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Кинозал", Мужское кино
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/muzhskoe-kino.png" group-title="Кинозал", Мужское кино
 http://45.159.74.14:80/MujskoeKino/index.m3u8
-#EXTINF:-1 group-title="Кинозал", Мужское кино HD
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/muzhskoe-kino.png" group-title="Кинозал", Мужское кино HD
 http://31.40.155.227:9595/play/Muzhskoe_kino_HD
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4037.png" group-title="Музыкальные",1HD
@@ -331,7 +331,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/743.png" group-title="Новостные",РБК HD
 http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1 group-title="Новостные",RTVI
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/rtvi.png" group-title="Новостные",RTVI
 http://185.36.100.33/rtvi/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/5600.png" group-title="Познавательные",Univer TV
@@ -345,7 +345,7 @@ http://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_History_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1035.png" group-title="Познавательные",Travel+Adventure HD orig
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/648.png" group-title="Познавательные",RTG HD
 http://strm.yandex.ru/kal/rtg/rtg0.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Познавательные",Моя Планета
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/moya-planeta.png" group-title="Познавательные",Моя Планета
 http://193.33.240.8:8080/planeta_hd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2310.png" group-title="Познавательные",Первый Космический
 #EXTVLCOPT:http-user-agent=smartlabs
