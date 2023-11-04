@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz, https://iptvx.one/epg/epg.xml.gz, http://epg.it999.ru/edem.xml.gz"
+#EXTM3U url-tvg="http://http://epg.it999.ru/edem.xml.gz, www.teleguide.info/download/new3/xmltv.xml.gz, https://iptvx.one/epg/epg.xml.gz"
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/983.png" group-title="Общественные",Первый канал
 http://dmi3y-tv.ru/hls/okko/CH_1TVHD.m3u8
