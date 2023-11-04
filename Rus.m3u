@@ -37,7 +37,8 @@ http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спортивные", Okko Спорт HD
 https://kinescope.io/204564915/master.m3u8 
 
-
+#EXTINF:-1 group-title="Общественные",ТВ Центр
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/669.png" group-title="Общественные",Время
 http://46.151.151.245:10007/play/a002
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/304.png" group-title="Общественные",Домашний 
