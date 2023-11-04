@@ -83,7 +83,7 @@ https://okkotv-live.cdnvideo.ru/channel/Yu_OTT.m3u8
 https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Новости",CNN
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/cnn.png" group-title="Новости",CNN
 http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8
 #EXTINF:-1 group-title="Новости",Соловьeв.Live
 http://radio-live-mg.rtr-vesti.ru/hls/solovievlive/playlist_6.m3u8
