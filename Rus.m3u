@@ -136,51 +136,6 @@ http://91.210.251.166:4893/udp/239.0.3.4:4000
 http://91.210.251.166:4894/udp/239.0.3.5:4000
 #EXTINF:-1, group-title="Кена", Комедия
 http://flu.ttk.mx:9090/Komediya/index.m3u8?token=orh6o
-
-#EXTINF:-1,  tvg-logo="https://picon.pp.ua/kinopremiera.png" group-title="Премьеры",Кинопремьера HD 
-http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
-#EXTINF:-1,tvg-logo="https://picon.pp.ua/vip-premiere.png" group-title="Премьеры",Viju+ Premiere HD
-https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://picon.pp.ua/bcu-premiere-hd.png" group-title="Премьеры",BCU Premiere HD 
-http://217.107.34.114:8001/playlist.m3u8
-
-#EXTINF:-1 group-title="Хиты",Кинохит 
-http://95.217.196.109:8081/russia/kinohit/chunks.m3u8
-#EXTINF:-1 group-title="Хиты",Кинохит HD
-http://31.40.155.227:9595/play/Kinohit_HD
-#EXTINF:-1 group-title="Хиты",Viju+ Megahit HD
-https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Хиты",Amedia Hit HD
-http://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD/1080p.m3u8
-#EXTINF:-1 group-title="Хиты",Amedia Premium HD 
-http://okkotv-live.cdnvideo.ru/channel/dash/amedia_premium_hd/playlist.mpd
-#EXTINF:-1 group-title="Хиты" tvg-id="ntv-xit",НТВ-Хит HD 
-https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
-#EXTINF:-1 group-title="Хиты", Премиальное HD 
-http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
-#EXTINF:-1 group-title="Хиты", Kion Хит
-http://ch01.spr24.net/7310/index.m3u8?token=Ti8qDtheX2PUkt
-
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4037.png" group-title="Музыкальные",1HD
-http://91.247.68.229:8000/play/1HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2837.png" group-title="Музыкальные",AIVA HD
-http://194.190.78.91:8080/aivaya/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/591.png" group-title="Музыкальные",BRIDGE Русский Хит
-https://livetv.mylifeisgood.net.ru/channels/bridgerushittv.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4621.png" group-title="Музыкальные",BRIDGE Шлягер
-https://livetv.mylifeisgood.net.ru/channels/bridgetvshlyager.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2277.png" group-title="Музыкальные",RU TV HD
-https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/5369.png" group-title="Музыкальные",Страна FM
-http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2415.png" group-title="Музыкальные",Жар Птица
-http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/897.png" group-title="Музыкальные",Муз ТВ
-https://okkotv-live.cdnvideo.ru/channel/MuzTV/480p.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/680.png" group-title="Музыкальные",ТНТ Music HD
-http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/muzhskoe-kino.png" group-title="Кена", Мужское кино
 http://45.159.74.14:80/MujskoeKino/index.m3u8
 #EXTINF:-1, tvg-logo="https://picon.pp.ua/muzhskoe-kino.png" group-title="Кена",Наше новое кино 
@@ -243,6 +198,49 @@ http://dmi3y-tv.ru/hls/CH_KINOSVIDANIE.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4780.png" group-title="Кена",Фантастика HD
 http://hlss.goodgame.ru/hls/187241.m3u8
+
+#EXTINF:-1,  tvg-logo="https://picon.pp.ua/kinopremiera.png" group-title="Премьеры",Кинопремьера HD 
+http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
+#EXTINF:-1,tvg-logo="https://picon.pp.ua/vip-premiere.png" group-title="Премьеры",Viju+ Premiere HD
+https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://picon.pp.ua/bcu-premiere-hd.png" group-title="Премьеры",BCU Premiere HD 
+http://217.107.34.114:8001/playlist.m3u8
+
+#EXTINF:-1 group-title="Хиты",Кинохит 
+http://95.217.196.109:8081/russia/kinohit/chunks.m3u8
+#EXTINF:-1 group-title="Хиты",Кинохит HD
+http://31.40.155.227:9595/play/Kinohit_HD
+#EXTINF:-1 group-title="Хиты",Viju+ Megahit HD
+https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Хиты",Amedia Hit HD
+http://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD/1080p.m3u8
+#EXTINF:-1 group-title="Хиты",Amedia Premium HD 
+http://okkotv-live.cdnvideo.ru/channel/dash/amedia_premium_hd/playlist.mpd
+#EXTINF:-1 group-title="Хиты" tvg-id="ntv-xit",НТВ-Хит HD 
+https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
+#EXTINF:-1 group-title="Хиты", Премиальное HD 
+http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
+#EXTINF:-1 group-title="Хиты", Kion Хит
+http://ch01.spr24.net/7310/index.m3u8?token=Ti8qDtheX2PUkt
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4037.png" group-title="Музыкальные",1HD
+http://91.247.68.229:8000/play/1HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2837.png" group-title="Музыкальные",AIVA HD
+http://194.190.78.91:8080/aivaya/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/591.png" group-title="Музыкальные",BRIDGE Русский Хит
+https://livetv.mylifeisgood.net.ru/channels/bridgerushittv.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4621.png" group-title="Музыкальные",BRIDGE Шлягер
+https://livetv.mylifeisgood.net.ru/channels/bridgetvshlyager.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2277.png" group-title="Музыкальные",RU TV HD
+https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/5369.png" group-title="Музыкальные",Страна FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2415.png" group-title="Музыкальные",Жар Птица
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/897.png" group-title="Музыкальные",Муз ТВ
+https://okkotv-live.cdnvideo.ru/channel/MuzTV/480p.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/680.png" group-title="Музыкальные",ТНТ Music HD
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/267.png" group-title="Кена",Viju TV1000 Русское кино HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD/1080p.m3u8
