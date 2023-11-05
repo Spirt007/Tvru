@@ -24,13 +24,13 @@ https://ucdn.beetv.kz/btv/live/hls/000002649.m3u8
 http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/match-igra.png" group-title="Спортивные", Матч! Игра HD
 http://bl.uma.media/live/154036/HLS/154036_4/2/1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2055.png" group-title="Спортивные", viju+ Sport HD
+#EXTINF:-1 channel-id="1818" tvg-logo="http://epg.it999.ru/img2/2055.png" group-title="Спортивные", viju+ Sport HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD/1080p.m3u8
-#EXTINF:-1, tvg-logo="http://epg.it999.ru/img2/2530.png" group-title="Спортивные",Старт
+#EXTINF:-1, tvg-logo="http://epg.it999.ru/img2/2530.png" group-title="Спортивные", Старт
 https://okkotv-live.cdnvideo.ru/channel/Start/1080p.m3u8
 #EXTINF:-1, tvg-logo="http://epg.it999.ru/img2/2042.png" group-title="Спортивные",Матч! Страна
 http://bl.uma.media/live/291663/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://epg.it999.ru/img2/2044.png" group-title="Спортивные",Матч! ФУТБОЛ 1 HD
+#EXTINF:-1, tvg-logo="http://epg.it999.ru/img2/2044.png" group-title="Спортивные", Матч! Футбол 1 HD
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://epg.it999.ru/img2/2003.png" group-title="Спортивные",Матч! Арена
 http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
