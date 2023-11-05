@@ -55,7 +55,7 @@ http://flu.ttk.mx:9090/TVC/index.m3u8?token=orh6o
 https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/1080p.m3u8
 #EXTINF:-1 channel-id="105" tvg-logo="http://epg.it999.ru/img2/698.png" group-title="Общественные",ТВ3
 https://okkotv-live.cdnvideo.ru/channel/TV3_OTT_HD/1080p.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/427.png" group-title="Общественные",Пятый канал 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/427.png" group-title="Общественные",Пятый Канал 
 https://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/726.png" group-title="Общественные",Мир HD
 http://dmi3y-tv.ru/hls/T2/CH_MIRHD.m3u8
