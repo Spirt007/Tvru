@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="www.teleguide.info/download/new3/xmltv.xml.gz, https://iptvx.one/epg/epg.xml.gz, http://http://epg.it999.ru/edem.xml.gz"
+#EXTM3U url-tvg="www.teleguide.info/download/new3/xmltv.xml.gz, https://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2044.png" group-title="Спортивные", Матч! Футбол 1 HD 
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/match-football2.png" group-title="Спортивные", Матч! Футбол 2 HD 
