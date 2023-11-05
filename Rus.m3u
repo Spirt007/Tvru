@@ -16,6 +16,10 @@ https://ucdn.beetv.kz/btv/live/hls/000002479.m3u8
 https://ucdn.beetv.kz/btv/live/hls/000004498.m3u8
 #EXTINF:-1 group-title="Спортивные", Setanta Sports 2 HD
 https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
+#EXTINF:-1 group-title="Спортивные", Setanta Sports Украина
+https://tv.movielab.pro/942/video.m3u8 
+#EXTINF:-1 group-title="Спортивные", Setanta Sports Казахстан
+https://ucdn.beetv.kz/btv/live/hls/000002649.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/match-tv.png" group-title="Спортивные", Матч! HD
 http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/match-igra.png" group-title="Спортивные", Матч! Игра HD
