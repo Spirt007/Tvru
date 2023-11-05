@@ -206,22 +206,18 @@ https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://picon.pp.ua/bcu-premiere-hd.png" group-title="Премьеры",BCU Premiere HD 
 http://217.107.34.114:8001/playlist.m3u8
 
-#EXTINF:-1 group-title="Хиты",Кинохит 
+#EXTINF:-1, tvg-logo="https://picon.pp.ua/kinoxit.png" group-title="Хиты",Кинохит 
 http://95.217.196.109:8081/russia/kinohit/chunks.m3u8
-#EXTINF:-1 group-title="Хиты",Кинохит HD
+#EXTINF:-1, tvg-logo="https://picon.pp.ua/kinoxit.png" group-title="Хиты",Кинохит HD
 http://31.40.155.227:9595/play/Kinohit_HD
-#EXTINF:-1 group-title="Хиты",Viju+ Megahit HD
+#EXTINF:-1, tvg-logo="https://picon.pp.ua/vip-megahit.png" group-title="Хиты",Viju+ Megahit HD
 https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Хиты",Amedia Hit HD
+#EXTINF:-1, tvg-logo="https://picon.pp.ua/amedia-hit.png" group-title="Хиты",Amedia Hit HD
 http://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD/1080p.m3u8
-#EXTINF:-1 group-title="Хиты",Amedia Premium HD 
+#EXTINF:-1, tvg-logo="https://picon.pp.ua/amedia-premium.png" group-title="Хиты",Amedia Premium HD 
 http://okkotv-live.cdnvideo.ru/channel/dash/amedia_premium_hd/playlist.mpd
-#EXTINF:-1 group-title="Хиты" tvg-id="ntv-xit",НТВ-Хит HD 
-https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
-#EXTINF:-1 group-title="Хиты", Премиальное HD 
+#EXTINF:-1, #EXTINF:-1, tvg-logo="https://picon.pp.ua/premialnoe-hd.png" group-title="Хиты", Премиальное HD 
 http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
-#EXTINF:-1 group-title="Хиты", Kion Хит
-http://ch01.spr24.net/7310/index.m3u8?token=Ti8qDtheX2PUkt
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4037.png" group-title="Музыкальные",1HD
 http://91.247.68.229:8000/play/1HD/index.m3u8
