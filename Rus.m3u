@@ -22,24 +22,26 @@ http://bl.uma.media/live/154036/HLS/154036_4/2/1/playlist.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2497.png" group-title="Спортивные" ,Russian Extreme HD
 http://91.221.201.2:7013/play/a00a/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2530.png" group-title="Спортивные",СТАРТ HD
+#EXTINF:-1, tvg-logo="http://epg.it999.ru/img2/2530.png" group-title="Спортивные",СТАРТ HD
 https://okkotv-live.cdnvideo.ru/channel/Start/1080p.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2042.png" group-title="Спортивные",Матч! СТРАНА
+#EXTINF:-1, tvg-logo="http://epg.it999.ru/img2/2042.png" group-title="Спортивные",Матч! СТРАНА
 http://bl.uma.media/live/291663/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2044.png" group-title="Спортивные",Матч! ФУТБОЛ 1 HD
+#EXTINF:-1, tvg-logo="http://epg.it999.ru/img2/2044.png" group-title="Спортивные",Матч! ФУТБОЛ 1 HD
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2003.png" group-title="Спортивные",Матч! АРЕНА HD
+#EXTINF:-1, tvg-logo="http://epg.it999.ru/img2/2003.png" group-title="Спортивные",Матч! АРЕНА HD
 http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2043.png" group-title="Спортивные",Матч! ПЛАНЕТА
+#EXTINF:-1, tvg-logo="http://epg.it999.ru/img2/2043.png" group-title="Спортивные",Матч! ПЛАНЕТА
 http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спортивные",Okko Спорт HD
 https://kinescope.io/204564915/master.m3u8 
+#EXTINF:-1, group-title="Спортивные,Телеканал Футбол
+http://flu.ttk.mx:9090/Futbol/index.m3u8?token=orh6o
 
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2295.png" group-title="Общественные",RTД HD
 https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 group-title="Общественные",ТВ Центр
-http://dmitry-tv.my1.ru/his/DVB-T2/CH_TVC-1.m3u8
+http://flu.ttk.mx:9090/TVC/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/669.png" group-title="Общественные",Время
 http://46.151.151.245:10007/play/a002
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/304.png" group-title="Общественные",Домашний 
@@ -83,13 +85,6 @@ https://okkotv-live.cdnvideo.ru/channel/Che_OTT_2/480p.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Yu_OTT.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/323.png" group-title="Развлекательные",2x2
 https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательные",КВН ТВ
-http://46.8.46.4/kvn/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Развлекательные",Перец
-http://185.36.100.33/perec/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",Квартал ТВ
-http://91.197.49.94/kvartaltv/mpegts
-
 
 
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/cnn.png" group-title="Новости",CNN
@@ -141,6 +136,8 @@ https://v2.catcast.tv/content/37925/index.m3u8
 http://91.210.251.166:4893/udp/239.0.3.4:4000 
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/tv1000-worldkino.png" group-title="Кена",Viasat Kino World
 http://91.210.251.166:4894/udp/239.0.3.5:4000
+#EXTINF:-1, group-title="Кена", Комедия
+http://flu.ttk.mx:9090/Komediya/index.m3u8?token=orh6o
 
 #EXTINF:-1 group-title="Премьеры",Кинопремьера HD 
 http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
