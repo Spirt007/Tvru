@@ -286,6 +286,9 @@ http://ott-cdn.ucom.am/s44/04.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2296.png" group-title="Познавательные",Просвещение
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/index.m3u8
 
+#EXTINF:-1, group-title="18+" Private TV
+http://149.62.183.194:9293/play/a07t
+
 #EXTINF:-1, tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-retro-fm.jpg"group-title="Радио" radio="true",Ретро FM
 http://europaplus.hostingradio.ru:8014/retro320.mp3
 #EXTINF:-1, tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-nashe-radio." group-title="Радио"radio="true",Наше радио
