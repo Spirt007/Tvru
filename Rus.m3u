@@ -36,7 +36,7 @@ http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://epg.it999.ru/img2/2043.png" group-title="Спортивные",Матч! Планета
 http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
-#EXTINF:-1,tvg-logo="https://picon.pp.ua/football-ru.png" group-title="Спортивные,Телеканал Футбол
+#EXTINF:-1,tvg-logo="https://picon.pp.ua/football-ru.png" group-title="Спортивные,Футбол
 http://flu.ttk.mx:9090/Futbol/index.m3u8?token=orh6o
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/983.png" group-title="Общественные",Первый канал
