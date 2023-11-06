@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz, http://epg.it999.ru/epg2.xml.gz"
 
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2044.png" group-title="Спортивные", Матч! Футбол 1 HD 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2044.png" group-title="Спортивные", Матч! Футбол 1 HD
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/match-football2.png" group-title="Спортивные", Матч! Футбол 2 HD 
 http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
@@ -73,6 +73,8 @@ https://okkotv-live.cdnvideo.ru/channel/Russia_K_SD/480p.m3u8
 https://1527562093.rsc.cdn77.org/transcode/ngrp:ses_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2295.png" group-title="Общественные",RTД HD
 https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:-1, group-title="Общественные",Краснодар ТВ
+http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2830.png" group-title="Развлекательные", Пятница
 https://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD/1080p.m3u8
