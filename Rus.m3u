@@ -12,6 +12,7 @@ https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/161
 http://45.144.31.195:8016/playlist.m3u8
 #EXTINF:-1 tvg-id="100008" tvg-logo="https://picon.pp.ua/eurosport2.png" group-title="Спортивные", Eurosport 2  
 http://176.222.190.76/btv/SWM/Eurosport2/Eurosport2.m3u8
+
 #EXTINF:-1 tvg-id="setanta-sports" tvg-logo="https://picon.pp.ua/setanta-sports.png" group-title="Спортивные", Setanta Sports 1 HD
 https://ucdn.beetv.kz/btv/live/hls/000004498.m3u8
 #EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="https://picon.pp.ua/setanta-sports-plus.png" group-title="Спортивные", Setanta Sports 2 HD
@@ -108,6 +109,10 @@ http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8
 #EXTINF:-1 group-title="Новости",Соловьeв.Live
 http://radio-live-mg.rtr-vesti.ru/hls/solovievlive/playlist_6.m3u8
 
+#EXTINF:-1 group-title="Кена", Cinema HD
+https://ucdn.beetv.kz/btv/live/hls/000000239.m3u8
+#EXTINF:-1 group-title="Кена", Советское кино 
+https://s23.federal.tv:8082/feda/sovkinotv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/kinomiks.png" group-title="Кена",Киномикс
 http://91.197.104.34:8080/Kinomix/video.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/tv1000.png" group-title="Кена",Viju TV1000 HD
