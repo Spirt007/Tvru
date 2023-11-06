@@ -20,6 +20,8 @@ http://176.222.190.76/btv/SWM/SetantaSportPlus_HD/SetantaSportPlus_HD.m3u8
 https://tv.movielab.pro/942/video.m3u8 
 #EXTINF:-1  tvg-id="setanta-kz" tvg-logo="https://picon.pp.ua/setanta-kz.png"  group-title="Спортивные", Setanta Казахстан
 https://ucdn.beetv.kz/btv/live/hls/000002649.m3u8
+#EXTINF:-1 tvg-id="setanta2-kz" group-title="Спортивные", Setanta Sports 2 KZ
+http://176.222.190.76/btv/SWM/setantasports2hdkz/setantasports2hdkz.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/match-tv.png" group-title="Спортивные", Матч! HD
 http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/match-igra.png" group-title="Спортивные", Матч! Игра HD
