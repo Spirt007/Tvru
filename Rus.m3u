@@ -16,7 +16,7 @@ http://176.222.190.76/btv/SWM/Eurosport2/Eurosport2.m3u8
 #EXTINF:-1 tvg-id="setanta-sports" tvg-logo="https://picon.pp.ua/setanta-sports.png" group-title="Спортивные", Setanta Sports 1 HD
 https://ucdn.beetv.kz/btv/live/hls/000004498.m3u8
 #EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="https://picon.pp.ua/setanta-sports-plus.png" group-title="Спортивные", Setanta Sports 2 HD
-http://176.222.190.76/btv/SWM/SetantaSportPlus_HD/SetantaSportPlus_HD.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
 #EXTINF:-1 tvg-id="setanta-plus-ua" tvg-logo="https://picon.pp.ua/setanta-ua.png" group-title="Спортивные", Setanta+ Украина
 https://tv.movielab.pro/942/video.m3u8 
 #EXTINF:-1  tvg-id="setanta-kz" tvg-logo="https://picon.pp.ua/setanta-kz.png" group-title="Спортивные", Setanta Казахстан
@@ -95,6 +95,10 @@ https://okkotv-live.cdnvideo.ru/channel/Che_OTT_2/480p.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Yu_OTT.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/323.png" group-title="Развлекательные",Канал 2x2
 https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные", КВН ТВ
+http://91.197.104.34:8080/KVN/video.m3u8 
+#EXTINF:-1 group-title="Развлекательные", Перец
+https://ucdn.beetv.kz/btv/live/hls/000001248.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2271.png" group-title="Новости", Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
@@ -296,10 +300,9 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/1080p.m3u8
 http://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_History_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1035.png" group-title="Познавательные",Travel+Adventure HD orig
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2310.png" group-title="Познавательные",Первый Космический
-#EXTVLCOPT:http-user-agent=smartlabs
-http://ott-cdn.ucom.am/s44/04.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2296.png" group-title="Познавательные",Просвещение
-http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/index.m3u8
+http://stream01.vnet.am/Evrika/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", Top Secret
+https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
 
 #EXTINF:-1, tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-retro-fm.jpg"group-title="Радио" radio="true",Ретро FM
 http://europaplus.hostingradio.ru:8014/retro320.mp3
