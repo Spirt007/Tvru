@@ -43,7 +43,7 @@ http://dmi3y-tv.ru/hls/okko/CH_1TVHD.m3u8
 http://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/162.png" group-title="Общественные",НТВ HD
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Общественные",ТВ Центр
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/tvcentr.png" group-title="Общественные",ТВ Центр
 http://flu.ttk.mx:9090/TVC/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/18.png" group-title="Общественные",РЕН ТВ
 https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/1080p.m3u8
