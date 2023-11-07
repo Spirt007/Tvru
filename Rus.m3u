@@ -10,7 +10,7 @@ http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/match-tv.png" group-title="Спортивные", Матч! HD
 http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/kxl.png" group-title="Спортивные", Мир баскетбола 
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/mir-basketbola.png" group-title="Спортивные", Мир баскетбола 
 http://95.217.196.109:8081/russia/mir_basketbola/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/kxl.png" group-title="Спортивные" tvg-id="KHL", KHL  
 https://okkotv-live.cdnvideo.ru/dash/khl_hd_2/playlist.mpd
@@ -290,7 +290,7 @@ http://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD/1080p.m3u8
 http://okkotv-live.cdnvideo.ru/channel/dash/amedia_premium_hd/playlist.mpd
 #EXTINF:-1, tvg-logo="https://picon.pp.ua/premialnoe-hd.png" group-title="Хиты", Премиальное HD 
 http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
-#EXTINF:-1 group-title="Хиты", Блокбастер HD
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/blokbaster.png" group-title="Хиты", Блокбастер HD
 http://moobl.ru/hls/Blokbaster_hd.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4037.png" group-title="Музыкальные",1HD
@@ -311,7 +311,7 @@ http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
 https://okkotv-live.cdnvideo.ru/channel/MuzTV/480p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/680.png" group-title="Музыкальные",ТНТ Music HD
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Музыкальные",Bridge Rock 
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/bridge-tv-rock.png" group-title="Музыкальные",Bridge Rock 
 https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
 
 
@@ -325,21 +325,20 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2012.png" group-title="Познавательные",Viju+ Planet HD
 http://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_History_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2310.png" group-title="Познавательные",Первый Космический
-#EXTVLCOPT:http-user-agent=smartlabs
-http://stream01.vnet.am/Evrika/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",Da Vinci
+https://ucdn.beetv.kz/btv/live/hls/000001220.m3u8
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/da-vinci.png" group-title="Познавательные",Da Vinci
 https://okkotv-live.cdnvideo.ru/dash/da_vinci/playlist.mpd
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1036.png" group-title="Познавательные",История
 http://stream01.vnet.am/Istoria/mono.m3u8
-#EXTINF:-1 tvg-id="RTG.ru" group-title="Познавательные",RTG 
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/rtg-tv.png" tvg-id="RTG.ru" group-title="Познавательные",RTG 
 https://okkotv-live.cdnvideo.ru/channel/RTG_HD.m3u8
-#EXTINF:-1 group-title="Познавательные", Наука 2.0
+#EXTINF:-1tvg-logo="https://picon.pp.ua/nauka-20.png"  group-title="Познавательные", Наука 2.0
 http://stream01.vnet.am/Nauka/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Неизвестная Россия
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/neizvestnaya-rosia.png" group-title="Познавательные", Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные", H2
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/h2.png" group-title="Познавательные", H2
 https://ucdn.beetv.kz/btv/live/hls/000002722.m3u8
-#EXTINF:-1 group-title="Познавательные", 365 дней ТВ 
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/365-dnej.png" group-title="Познавательные", 365 дней ТВ 
 http://146.158.0.56:80/365dney/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-retro-fm.jpg"group-title="Радио" radio="true",Ретро FM
