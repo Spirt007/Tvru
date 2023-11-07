@@ -73,6 +73,9 @@ https://1527562093.rsc.cdn77.org/transcode/ngrp:ses_all/playlist.m3u8
 https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1, tvg-logo="https://picon.pp.ua/krasnodar.png" group-title="Общественные",Краснодар ТВ
 http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/690.png" group-title="Общественные",Санкт-Петербург
+http://dmi3y-tv.ru/hls/smotrim/region/CH_SANKTPETERBURG_SPB.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2830.png" group-title="Развлекательные", Пятница
 https://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD/1080p.m3u8
@@ -154,6 +157,8 @@ https://s23.federal.tv:8082/feda/kinosezon.stream/playlist.m3u8
 http://31.40.155.227:9595/play/Kinoliving 
 #EXTINF:-1 group-title="Кена",Видеокассета
 https://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2402.png" group-title="Кена",Ретро
+http://178.124.179.122:8088/Retro/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/tv1000-cee.png" group-title="Кена",Viasat Kino
 http://91.210.251.166:4893/udp/239.0.3.4:4000 
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/tv1000-worldkino.png" group-title="Кена",Viasat Kino World
@@ -301,6 +306,8 @@ http://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_History_HD/1080p.m3u8
 http://stream01.vnet.am/Evrika/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Top Secret
 https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1036.png" group-title="Познавательные",История
+http://stream01.vnet.am/Istoria/mono.m3u8
 
 #EXTINF:-1, tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-retro-fm.jpg"group-title="Радио" radio="true",Ретро FM
 http://europaplus.hostingradio.ru:8014/retro320.mp3
