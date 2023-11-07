@@ -36,6 +36,8 @@ http://bl.uma.media/live/291663/HLS/4614144_3/2/1/playlist.m3u8
 http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://epg.it999.ru/img2/2043.png" group-title="Спортивные",Матч! Планета
 http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Belarus5.by" tvg-logo="https://i.imgur.com/NJsRFud.png" group-title="Спортивные",Беларусь 5 
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://picon.pp.ua/football-ru.png" group-title="Спортивные,Футбол
 http://flu.ttk.mx:9090/Futbol/index.m3u8?token=orh6o
 
@@ -77,6 +79,7 @@ http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 http://dmi3y-tv.ru/hls/smotrim/region/CH_SANKTPETERBURG_SPB.m3u8
 
 
+
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2830.png" group-title="Развлекательные", Пятница
 https://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2288.png" group-title="Развлекательные", Суббота!
@@ -102,6 +105,8 @@ https://ucdn.beetv.kz/btv/live/hls/000001248.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2271.png" group-title="Новости", Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 tvg-id="Belarus24.by" tvg-logo="https://i.imgur.com/BP7tY6F.png" group-title="Новости",Belarus 24
+http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3015.png" group-title="Новости", МИР 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1683.png" group-title="Новости",Россия 24
@@ -112,6 +117,8 @@ http://92.50.128.180/utv/1358/index.m3u8
 http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8
 #EXTINF:-1 group-title="Новости",Соловьeв.Live
 http://radio-live-mg.rtr-vesti.ru/hls/solovievlive/playlist_6.m3u8
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="Новости",CNN International Europe 
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Кена", Cinema HD
 https://ucdn.beetv.kz/btv/live/hls/000000239.m3u8
@@ -292,6 +299,8 @@ http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
 https://okkotv-live.cdnvideo.ru/channel/MuzTV/480p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/680.png" group-title="Музыкальные",ТНТ Music HD
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Музыкальные",Bridge Rock 
+https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
 
 
 
