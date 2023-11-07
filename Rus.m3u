@@ -119,6 +119,8 @@ https://ucdn.beetv.kz/btv/live/hls/000000239.m3u8
 https://s23.federal.tv:8082/feda/sovkinotv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/kinomiks.png" group-title="Кена",Киномикс
 http://91.197.104.34:8080/Kinomix/video.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7314.png" group-title="Кена",Кинеко 
+https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8 
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/tv1000.png" group-title="Кена",Viju TV1000 HD
 https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/russky-bestseller.png" group-title="Кена",Русский бестселлер
