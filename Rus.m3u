@@ -10,11 +10,11 @@ http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/match-tv.png" group-title="Спортивные", Матч! HD
 http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Спортивные", Мир баскетбола 
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/kxl.png" group-title="Спортивные", Мир баскетбола 
 http://95.217.196.109:8081/russia/mir_basketbola/chunks.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-id="KHL", KHL  
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/kxl.png" group-title="Спортивные" tvg-id="KHL", KHL  
 https://okkotv-live.cdnvideo.ru/dash/khl_hd_2/playlist.mpd
-#EXTINF:-1 group-title="Спортивные" tvg-id="KHL Prime", KHL Prime  
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/kxl-hd.png" group-title="Спортивные" tvg-id="KHL Prime", KHL Prime  
 https://okkotv-live.cdnvideo.ru/dash/khl_prime_hd/playlist.mpd
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/eurosport1.png" group-title="Спортивные", Eurosport 1 
 http://45.144.31.195:8016/playlist.m3u8
@@ -115,7 +115,7 @@ https://ucdn.beetv.kz/btv/live/hls/000001248.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BP7tY6F.png" group-title="Новости",Беларусь 24
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
-#EXTINF:-1 group-title="Новости", Euronews
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/euronews.png" group-title="Новости", Euronews
 http://portal.ott.pink/watch/7045/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3015.png" group-title="Новости", МИР 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
@@ -130,9 +130,9 @@ http://radio-live-mg.rtr-vesti.ru/hls/solovievlive/playlist_6.m3u8
 #EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="Новости",CNN International Europe 
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Кена", Cinema HD
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/cinema.png" group-title="Кена", Cinema HD
 https://ucdn.beetv.kz/btv/live/hls/000000239.m3u8
-#EXTINF:-1 group-title="Кена", Советское кино 
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/sovkino.png" group-title="Кена", Советское кино 
 https://s23.federal.tv:8082/feda/sovkinotv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/kinomiks.png" group-title="Кена",Киномикс
 http://91.197.104.34:8080/Kinomix/video.m3u8
@@ -186,8 +186,6 @@ http://91.210.251.166:4894/udp/239.0.3.5:4000
 http://flu.ttk.mx:9090/Komediya/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/muzhskoe-kino.png" group-title="Кена", Мужское кино
 http://45.159.74.14:80/MujskoeKino/index.m3u8
-#EXTINF:-1, tvg-logo="https://picon.pp.ua/muzhskoe-kino.png" group-title="Кена", Наше новое кино 
-http://91.197.104.34:8080/NasheNovoeKino/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1570.png" group-title="Кена",Русский детектив
 http://45.144.31.195:8010/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/935.png" group-title="Кена",.Black
@@ -270,7 +268,7 @@ http://46.151.151.245:10002/play/a0b3
 http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2404.png" group-title="Кена",Феникс плюс Кино
 https://okkotv-live.cdnvideo.ru/channel/Phoenix_HD/1080p.m3u8
-#EXTINF:-1 group-title="Кена", Еврокино
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/eurokino.png" group-title="Кена", Еврокино
 http://109.239.208.82:80/eurokino/index.m3u8
 
 #EXTINF:-1,  tvg-logo="https://picon.pp.ua/kinopremiera.png" group-title="Премьеры",Кинопремьера HD 
