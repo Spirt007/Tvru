@@ -24,9 +24,9 @@ https://ucdn.beetv.kz/btv/live/hls/000002479.m3u8
 https://ucdn.beetv.kz/btv/live/hls/000004498.m3u8
 #EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="https://picon.pp.ua/setanta-sports-plus.png" group-title="Спортивные", Setanta Sports 2
 https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
-#EXTINF:-1 tvg-id="setanta-plus-ua" tvg-logo="https://picon.pp.ua/setanta-ua.png" group-title="Спортивные", Setanta Sports+ Ukraine
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/setanta-ua.png" group-title="Спортивные", Setanta Sports+ Ukraine
 https://tv.movielab.pro/942/video.m3u8 
-#EXTINF:-1  tvg-id="setanta-kz" tvg-logo="https://picon.pp.ua/setanta-kz.png" group-title="Спортивные", Setanta Казахстан
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/setanta-kz.png" group-title="Спортивные", Setanta Казахстан
 https://ucdn.beetv.kz/btv/live/hls/000002649.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/match-igra.png" group-title="Спортивные", Матч! Игра HD
 http://bl.uma.media/live/154036/HLS/154036_4/2/1/playlist.m3u8
