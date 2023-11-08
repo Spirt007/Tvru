@@ -276,8 +276,6 @@ http://217.107.34.114:8001/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://picon.pp.ua/kinoxit.png" group-title="Хиты",Кинохит 
 http://95.217.196.109:8081/russia/kinohit/chunks.m3u8
-#EXTINF:-1, tvg-logo="https://picon.pp.ua/kinoxit.png" group-title="Хиты",Кинохит HD
-http://31.40.155.227:9595/play/Kinohit_HD
 #EXTINF:-1, tvg-logo="https://picon.pp.ua/vip-megahit.png" group-title="Хиты",Viju+ Megahit HD
 https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://picon.pp.ua/amedia-hit.png" group-title="Хиты",Amedia Hit HD
@@ -293,11 +291,11 @@ http://moobl.ru/hls/Blokbaster_hd.m3u8
 http://91.247.68.229:8000/play/1HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2837.png" group-title="Музыкальные",AIVA HD
 http://194.190.78.91:8080/aivaya/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/591.png" group-title="Музыкальные",BRIDGE Русский Хит
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/591.png" group-title="Музыкальные",Bridge TV Русский хит
 https://livetv.mylifeisgood.net.ru/channels/bridgerushittv.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4621.png" group-title="Музыкальные",BRIDGE Шлягер
 https://livetv.mylifeisgood.net.ru/channels/bridgetvshlyager.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2277.png" group-title="Музыкальные",RU TV HD
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2277.png" group-title="Музыкальные",RU TV
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/5369.png" group-title="Музыкальные",Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
