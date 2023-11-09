@@ -1,5 +1,5 @@
 
-[Image alt](https://github.com/Spirt007/Tvru/blob/Master/IMG_20231109_124228.png).
+![Image alt](https://github.com/Spirt007/Tvru/blob/Master/IMG_20231109_124228.png)
                                  
                                   
  
