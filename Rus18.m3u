@@ -337,11 +337,11 @@ https://ucdn.beetv.kz/btv/live/hls/000002722.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/365-dnej.png" group-title="Познавательные", 365 дней ТВ 
 http://146.158.0.56:80/365dney/index.m3u8
 
-#EXTINF:-1 group-title="Детские", Смайлик ТВ
+#EXTINF:-1  tvg-logo="https://picon.pp.ua/smaylik-tv.png" group-title="Детские", Смайлик ТВ 
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/detsky-mir.png" group-title="Детские", Детский мир 
 http://stream01.vnet.am/CartoonNetwork/mono.m3u8
-#EXTINF:-1 group-title="Детские", Рыжий 
+#EXTINF:-1 tvg-logo="ttps://picon.pp.ua/ryzhy.png" group-title="Детские", Рыжий 
 http://45.144.31.195:8008/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/nickelodeon-ru.png" group-title="Детские", Nickelodeon
 https://ucdn.beetv.kz/btv/live/hls/000000499.m3u8
@@ -361,7 +361,7 @@ http://dvr-player.smotrim.ru/hls/karusel/playlist_3.m3u8
 http://stream01.vnet.am/Mult/mono.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/6870.png" group-title="Детские",Мультиландия
 https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7669.png" group-title="Детские",СОЛНЦЕ
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7669.png" group-title="Детские",Солнце
 https://okkotv-live.cdnvideo.ru/channel/Disney.m3u8
 
 #EXTINF:-1 , tvg-logo="https://picon.pp.ua/brazzers.png" group-title="18+", Brazzers TV Europe
@@ -378,11 +378,9 @@ http://live-1.otcnet.ru/shelkhdmts/index.m3u8
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6172/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RkzyjEd.png" group-title="18+",Dorcel TV 
 https://cdn-main.lolokoko.tv/DorcelTV.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/avtSqUu.png" group-title="18+",Visit-X TV 
-https://stream.visit-x.tv/vxtv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g0QF5IG.png" group-title="18+",Redlight HD 
 https://cdn-main.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6aOmZs4.png" group-title="18+",O-la-la! 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6aOmZs4.png" group-title="18+",O-la-la
 http://31.148.48.15/O-la-la/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sc11PtR.png" group-title="18+",EroXXX
 https://cdn-main.lolokoko.tv/Eroxxx.stream/playlist.m3u8
