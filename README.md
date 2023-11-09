@@ -1,7 +1,6 @@
 IPTV Russia
-<details>
-https://github.com/Spirt007/Tvru/blob/Master/IMG_20231109_124228.png
-</details>details> 
+![Image alt](https://github.com/Spirt007/Tvru/blob/Master/IMG_20231109_124228.png)
+ 
 Плейлист IPTV Россия для плееров IPTV, KODI (рекомендую).
 
 Протестировано VLC плеер, Kodi Xbox series S, Kodi Retropie Raspberry Pi3Bb.
