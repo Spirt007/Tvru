@@ -355,6 +355,14 @@ http://176.74.80.162:8099/Tiji/index.m3u8
 https://okkotv-live.cdnvideo.ru/channel/DuckTV/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/nick-jr.png" group-title="Детские", Nick Jr
 https://ucdn.beetv.kz/btv/live/hls/000000449.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/740.png" group-title="Детские",Карусель
+http://dvr-player.smotrim.ru/hls/karusel/playlist_3.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1332.png" group-title="Детские",Мульт
+http://stream01.vnet.am/Mult/mono.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/6870.png" group-title="Детские",Мультиландия
+https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7669.png" group-title="Детские",СОЛНЦЕ
+https://okkotv-live.cdnvideo.ru/channel/Disney.m3u8
 
 #EXTINF:-1 , tvg-logo="https://picon.pp.ua/brazzers.png" group-title="18+", Brazzers TV Europe
 http://194.190.78.91:8080/brazzers/index.m3u8 
