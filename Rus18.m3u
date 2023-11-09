@@ -368,14 +368,26 @@ https://okkotv-live.cdnvideo.ru/channel/Disney.m3u8
 http://194.190.78.91:8080/brazzers/index.m3u8 
 #EXTINF:-1, tvg-logo="https://picon.pp.ua/penthouse-gold.png" group-title="18+", Penthouse Gold HD
 http://51.159.102.100/PenthouseGold/index.m3u8
-#EXTINF:-1, tvg-logo="" group-title="18+", Hustler HD
-http://194.145.202.71:8087/udp/239.254.1.34:6060 
+#EXTINF:-1, tvg-logo="https://i.imgur.com/41Ej2io.png" group-title="18+", Hustler HD
+https://cdn-main.lolokoko.tv/HUSTLER.stream/chunks.m3u8
 #EXTINF:-1, tvg-logo="https://picon.pp.ua/private-tv.png" group-title="18+", Private HD
-http://194.145.202.71:8087/udp/239.254.1.38:6060
+https://cdn-main.lolokoko.tv/Private.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://picon.pp.ua/sholk.png" group-title="18+", Шелк
 http://live-1.otcnet.ru/shelkhdmts/index.m3u8
 #EXTINF:-1, tvg-logo="https://picon.pp.ua/babes-tv.png"  group-title="18+", Babes TV
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6172/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RkzyjEd.png" group-title="18+",Dorcel TV 
+https://cdn-main.lolokoko.tv/DorcelTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/avtSqUu.png" group-title="18+",Visit-X TV 
+https://stream.visit-x.tv/vxtv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g0QF5IG.png" group-title="18+",Redlight HD 
+https://cdn-main.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6aOmZs4.png" group-title="18+",O-la-la! 
+http://31.148.48.15/O-la-la/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sc11PtR.png" group-title="18+",EroXXX
+https://cdn-main.lolokoko.tv/Eroxxx.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/clpxgYh.png" group-title="18+",Playboy TV
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://picon.pp.ua/retro-fm.png"group-title="Радио" radio="true",Ретро FM
 http://europaplus.hostingradio.ru:8014/retro320.mp3
