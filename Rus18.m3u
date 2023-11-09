@@ -337,12 +337,12 @@ https://ucdn.beetv.kz/btv/live/hls/000002722.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/365-dnej.png" group-title="Познавательные", 365 дней ТВ 
 http://146.158.0.56:80/365dney/index.m3u8
 
+#EXTINF:-1 group-title="Детские", Смайлик ТВ
+https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/detsky-mir.png" group-title="Детские", Детский мир 
 http://stream01.vnet.am/CartoonNetwork/mono.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/v-gostiax-u-skazki.png" group-title="Детские", В гостях у сказки
-https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/bolt.png" group-title="Детские", Cartoonito
-https://ucdn.beetv.kz/btv/live/hls/000000160.m3u8
+#EXTINF:-1 group-title="Детские", Рыжий 
+http://45.144.31.195:8008/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/nickelodeon-ru.png" group-title="Детские", Nickelodeon
 https://ucdn.beetv.kz/btv/live/hls/000000499.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/nickelodeon-ru.png" group-title="Детские", Nickelodeon HD
@@ -368,18 +368,14 @@ https://okkotv-live.cdnvideo.ru/channel/Disney.m3u8
 http://194.190.78.91:8080/brazzers/index.m3u8 
 #EXTINF:-1, tvg-logo="https://picon.pp.ua/penthouse-gold.png" group-title="18+", Penthouse Gold HD
 http://51.159.102.100/PenthouseGold/index.m3u8
-#EXTINF:-1, tvg-logo="https://picon.pp.ua/penthouse-gold.png" group-title="18+", Passion XXX
-http://62.176.77.22:9781/play/a00n
-#EXTINF:-1, tvg-logo="https://picon.pp.ua/vivid-red.png" group-title="18+", Vivid Red
-http://62.176.77.22:9781/play/a00m
-#EXTINF:-1, tvg-logo="https://picon.pp.ua/penthouse-gold.png" group-title="18+", Evil Angel
-http://62.176.77.22:9781/play/a00l 
-#EXTINF:-1, tvg-logo="https://picon.pp.ua/penthouse-gold.png" group-title="18+", Hustler HD
+#EXTINF:-1, tvg-logo="" group-title="18+", Hustler HD
 http://194.145.202.71:8087/udp/239.254.1.34:6060 
-#EXTINF:-1, tvg-logo="https://picon.pp.ua/penthouse-gold.png" group-title="18+", Private HD
+#EXTINF:-1, tvg-logo="https://picon.pp.ua/private-tv.png" group-title="18+", Private HD
 http://194.145.202.71:8087/udp/239.254.1.38:6060
-#EXTINF:-1, tvg-logo="https://picon.pp.ua/penthouse-gold.png" group-title="18+", Кино 18+
-https://autopilot.catcast.tv/content/40381/index.m3u8
+#EXTINF:-1, tvg-logo="https://picon.pp.ua/sholk.png" group-title="18+", Шелк
+http://live-1.otcnet.ru/shelkhdmts/index.m3u8
+#EXTINF:-1, tvg-logo="https://picon.pp.ua/babes-tv.png"  group-title="18+", Babes TV
+http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6172/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://picon.pp.ua/retro-fm.png"group-title="Радио" radio="true",Ретро FM
 http://europaplus.hostingradio.ru:8014/retro320.mp3
