@@ -157,7 +157,7 @@ http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/solovjinypomiot.png" group-title="Новости",Соловьев.Live
 http://radio-live-mg.rtr-vesti.ru/hls/solovievlive/playlist_6.m3u8
 
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/comedy-central-pl.png" group-title="Кена", Comedy Central PL
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/comedy-central-pl.png" group-title="Кена", Comedy Central
 http://ucdn.beetv.kz/btv/live/hls/000000452.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/vip-comedy-cee.png" group-title="Кена", Viasat Kino Comedy
 http://91.210.251.166:4896/udp/239.0.3.7:4000
