@@ -5,7 +5,7 @@
  
 Плейлист IPTV Россия для плееров IPTV, KODI (рекомендую).
 
-Протестировано VLC плеер, Kodi Xbox series S, Kodi Retropie Raspberry Pi3Bb.
+Протестировано VLC плеер, Kodi Xbox series S, Kodi Retropie Raspberry Pi3B.
 
 162 тв канала 10 радио
 
