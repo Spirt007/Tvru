@@ -113,6 +113,33 @@ http://91.197.104.34:8080/KVN/video.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/perec.png" group-title="Развлекательные", Перец
 https://ucdn.beetv.kz/btv/live/hls/000001248.m3u8
 
+#EXTINF:-1  tvg-logo="https://picon.pp.ua/smaylik-tv.png" group-title="Детские", Смайлик ТВ 
+https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/detsky-mir.png" group-title="Детские", Детский мир 
+http://stream01.vnet.am/CartoonNetwork/mono.m3u8
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/ryzhy.png" group-title="Детские", Рыжий 
+http://45.144.31.195:8008/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/nickelodeon-ru.png" group-title="Детские", Nickelodeon
+https://ucdn.beetv.kz/btv/live/hls/000000499.m3u8
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/nickelodeon-ru.png" group-title="Детские", Nickelodeon HD
+http://45.144.31.195:8026/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/liova.png""  group-title="Детские", Лёва HD
+http://strm.yandex.ru/kal/leva/leva0.m3u8
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/tiji.png""  group-title="Детские", TiJi
+http://176.74.80.162:8099/Tiji/index.m3u8
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/ducktv.png"  group-title="Детские", Duck TV HD
+https://okkotv-live.cdnvideo.ru/channel/DuckTV/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/nick-jr.png" group-title="Детские", Nick Jr
+https://ucdn.beetv.kz/btv/live/hls/000000449.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/740.png" group-title="Детские",Карусель
+http://dvr-player.smotrim.ru/hls/karusel/playlist_3.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1332.png" group-title="Детские",Мульт
+http://stream01.vnet.am/Mult/mono.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/6870.png" group-title="Детские",Мультиландия
+https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7669.png" group-title="Детские",Солнце
+https://okkotv-live.cdnvideo.ru/channel/Disney.m3u8
+
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2271.png" group-title="Новости", Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BP7tY6F.png" group-title="Новости",Беларусь 24
@@ -130,6 +157,18 @@ http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/solovjinypomiot.png" group-title="Новости",Соловьев.Live
 http://radio-live-mg.rtr-vesti.ru/hls/solovievlive/playlist_6.m3u8
 
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/comedy-central-pl.png" group-title="Кена", Comedy Central PL
+http://ucdn.beetv.kz/btv/live/hls/000000452.m3u8
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/vip-comedy-cee.png" group-title="Кена", Viasat Kino Comedy
+http://91.210.251.166:4896/udp/239.0.3.7:4000
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/ostrosiuzhetnoe.png" group-title="Кена", Остросюжетное
+http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/filmbox-arthouse.png" group-title="Кена", FilmBox ArtHouse
+http://217.113.31.20:8009/play/a01q/index.m3u8
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/tvxxi.png" group-title="Кена", TV XXI
+https://ucdn.beetv.kz/btv/live/hls/000000006.m3u8
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/start-world.png" group-title="Кена", Start World
+https://okkotv-live.cdnvideo.ru/channel/START_World_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/cinema.png" group-title="Кена", Cinema HD
 https://ucdn.beetv.kz/btv/live/hls/000000239.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/sovkino.png" group-title="Кена", Советское кино 
@@ -273,8 +312,7 @@ http://109.239.208.82:80/eurokino/index.m3u8
 http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tvg-logo="https://picon.pp.ua/vip-premiere.png" group-title="Премьеры",Viju+ Premiere HD
 https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://picon.pp.ua/bcu-premiere-hd.png" group-title="Премьеры",BCU Premiere HD 
-http://217.107.34.114:8001/playlist.m3u8
+
 
 #EXTINF:-1, tvg-logo="https://picon.pp.ua/kinoxit.png" group-title="Хиты",Кинохит 
 http://95.217.196.109:8081/russia/kinohit/chunks.m3u8
