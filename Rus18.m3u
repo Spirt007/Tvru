@@ -125,9 +125,9 @@ https://ucdn.beetv.kz/btv/live/hls/000000499.m3u8
 http://45.144.31.195:8026/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/liova.png""  group-title="Детские", ЛЁВА
 http://strm.yandex.ru/kal/leva/leva0.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/tiji.png""  group-title="Детские", TiJi
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/tiji.png""  group-title="Детские", Tiji TV
 http://176.74.80.162:8099/Tiji/index.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/ducktv.png"  group-title="Детские", Duck TV HD
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/ducktv.png"  group-title="Детские", Duck TV
 https://okkotv-live.cdnvideo.ru/channel/DuckTV/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/nick-jr.png" group-title="Детские", Nick Jr
 https://ucdn.beetv.kz/btv/live/hls/000000449.m3u8
@@ -161,9 +161,9 @@ http://radio-live-mg.rtr-vesti.ru/hls/solovievlive/playlist_6.m3u8
 http://ucdn.beetv.kz/btv/live/hls/000000452.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/vip-comedy-cee.png" group-title="Кена", Viasat Kino Comedy
 http://91.210.251.166:4896/udp/239.0.3.7:4000
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/ostrosiuzhetnoe.png" group-title="Кена", Остросюжетное
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/ostrosiuzhetnoe.png" group-title="Кена", Остросюжетное HD
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/filmbox-arthouse.png" group-title="Кена", FilmBox ArtHouse
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/filmbox-arthouse.png" group-title="Кена", Filmbox Arthouse
 http://217.113.31.20:8009/play/a01q/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/tvxxi.png" group-title="Кена", TV XXI
 https://ucdn.beetv.kz/btv/live/hls/000000006.m3u8
