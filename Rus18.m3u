@@ -10,7 +10,7 @@ http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/match-tv.png" group-title="Спортивные", Матч! HD
 http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/mir-basketbola.png" group-title="Спортивные", Мир баскетбола 
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/mir-basketbola.png" group-title="Спортивные", Мир Баскетбола 
 http://95.217.196.109:8081/russia/mir_basketbola/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/kxl.png" group-title="Спортивные" tvg-id="KHL", KHL  
 https://okkotv-live.cdnvideo.ru/dash/khl_hd_2/playlist.mpd
@@ -51,11 +51,11 @@ http://dmi3y-tv.ru/hls/okko/CH_1TVHD.m3u8
 http://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/162.png" group-title="Общественные",НТВ HD
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/tvcentr.png" group-title="Общественные",ТВ Центр
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/tvcentr.png" group-title="Общественные",ТВЦ
 http://flu.ttk.mx:9090/TVC/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/18.png" group-title="Общественные",Рен ТВ
 https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/1080p.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/698.png" group-title="Общественные",ТВ-3
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/698.png" group-title="Общественные",ТВ3
 https://okkotv-live.cdnvideo.ru/channel/TV3_OTT_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/427.png" group-title="Общественные",Пятый канал 
 https://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8
@@ -71,7 +71,7 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1000.png" group-title="Общественные",ОТР
 https://sirius.greenhosting.ru/Otr/video.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/187.png" group-title="Общественные",Культура
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/187.png" group-title="Общественные",Россия-Культура
 https://okkotv-live.cdnvideo.ru/channel/Russia_K_SD/480p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2399.png" group-title="Общественные",Дождь
 https://1527562093.rsc.cdn77.org/transcode/ngrp:ses_all/playlist.m3u8
