@@ -283,7 +283,7 @@ https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/1080p.m3u8
 http://hlss.goodgame.ru/hls/187241.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/267.png" group-title="Кена",Viju TV1000 Русское
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD/1080p.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6241.png" group-title="Кена",Start Air
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6241.png" group-title="Кена",START Air HD
 https://okkotv-live.cdnvideo.ru/channel/START_Air_HD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/834.png" group-title="Кена",Дом Кино
 https://stream01.vnet.am/DomKino/mono.m3u8
@@ -349,7 +349,7 @@ https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/5600.png" group-title="Познавательные",Univer TV
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/5600.png" group-title="Познавательные",Univer TV HD
 http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4826.png" group-title="Познавательные",Viju History HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/1080p.m3u8
@@ -357,7 +357,7 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/1080p.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2012.png" group-title="Познавательные",Viju+ Planet HD
 http://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_History_HD/1080p.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2310.png" group-title="Познавательные",Первый Космический
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2310.png" group-title="Познавательные",Первый космический HD
 https://ucdn.beetv.kz/btv/live/hls/000001220.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/da-vinci.png" group-title="Познавательные",Da Vinci
 https://okkotv-live.cdnvideo.ru/dash/da_vinci/playlist.mpd
