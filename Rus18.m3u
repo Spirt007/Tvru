@@ -197,8 +197,6 @@ http://91.220.135.165:81/55/tracks-v1a1v1/playlist.m3u8?token=test
 http://185.23.80.28:8080/KinoSat/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/nash-kinopokaz.png" group-title="Кена",Кинопоказ HD
 http://95.217.196.109:8081/russia/kinopokaz/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/feniks-plus-kino.png" group-title="Кена",Феникс+Кино 
-http://okkotv-live.cdnvideo.ru/channel/Phoenix_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/flixsnip.png" group-title="Кена",FlixSnip 
 https://ucdn.beetv.kz/btv/live/hls/000004466.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/kinojam2.png" group-title="Кена",KinoJam 2 HD
@@ -263,11 +261,11 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD/1080p.m3u8
 https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2838.png" group-title="Кена",Viju+ Serial HD
 https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/1080p.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6240.png" group-title="Кена",Start World
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6240.png" group-title="Кена",START World
 https://okkotv-live.cdnvideo.ru/channel/START_World_HD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2145.png" group-title="Кена",Star Cinema
 https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD/1080p.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2153.png" group-title="Кена",Star Family HD
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2153.png" group-title="Кена",Star Family
 https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2174.png" group-title="Кена",Дорама HD
 http://okkotv-live.cdnvideo.ru/channel/Dorama_HD/1080p.m3u8
@@ -283,7 +281,7 @@ http://dmi3y-tv.ru/hls/CH_KINOSVIDANIE.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4780.png" group-title="Кена",Фантастика HD
 http://hlss.goodgame.ru/hls/187241.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/267.png" group-title="Кена",Viju TV1000 Русское кино HD
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/267.png" group-title="Кена",Viju TV1000 Русское
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6241.png" group-title="Кена",Start Air
 https://okkotv-live.cdnvideo.ru/channel/START_Air_HD.m3u8
