@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz, https://iptvx.one/epg/epg_lite.xml.gz"
+#EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz, https://iptvx.one/epg/epg_lite.xml.gz"
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2044.png" group-title="Спортивные", Матч! Футбол 1 HD
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
