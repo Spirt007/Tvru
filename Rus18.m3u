@@ -309,11 +309,18 @@ http://stream01.vnet.am/Telekafe/mono.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Phoenix_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/eurokino.png" group-title="Фильмы,сериалы", Еврокино
 http://109.239.208.82:80/eurokino/index.m3u8
+#EXTINF:-1 group-title="Фильмы,сериалы", Киноужас HD
+http://91.197.104.34:8080/Kinouzhas/video.m3u8
+#EXTINF:-1 group-title="Фильмы,сериалы", BCU СССР HD
+http://217.107.34.114:8006/playlist.m3u8
 
 #EXTINF:-1,  tvg-logo="https://picon.pp.ua/kinopremiera.png" group-title="Премьеры",Кинопремьера HD 
 http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tvg-logo="https://picon.pp.ua/vip-premiere.png" group-title="Премьеры",Viju+ Premiere HD
 https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Премьеры", BCU Premiere HD 
+http://217.107.34.114:8001/playlist.m3u8
+
 
 #EXTINF:-1, tvg-logo="https://picon.pp.ua/kinoxit.png" group-title="Хиты",Кинохит 
 http://95.217.196.109:8081/russia/kinohit/chunks.m3u8
