@@ -215,8 +215,6 @@ https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 https://s23.federal.tv:8082/feda/kinosezon.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/kinoliving.png" group-title="Фильмы,сериалы",Kinoliving
 http://31.40.155.227:9595/play/Kinoliving 
-#EXTINF:-1 group-title="Фильмы,сериалы",Видеокассета
-https://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2402.png" group-title="Фильмы,сериалы",Ретро
 http://178.124.179.122:8088/Retro/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/tv1000-cee.png" group-title="Фильмы,сериалы",Viasat Kino
@@ -237,8 +235,6 @@ https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi/480p.m3u8
 https://okkotv-live.cdnvideo.ru/channel/A1_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2492.png" group-title="Фильмы,сериалы",Amedia 2 HD
 https://okkotv-live.cdnvideo.ru/channel/A2_HD/1080p.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2007.png" group-title="Фильмы,сериалы",Amedia Hit HD
-https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1372.png" group-title="Фильмы,сериалы",Amedia Premium HD
 http://okkotv-live.cdnvideo.ru/channel/dash/amedia_premium_hd/playlist.mpd
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4770.png" group-title="Фильмы,сериалы",BackusTV Original
@@ -259,10 +255,6 @@ https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD/1080p.m3u8
 https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1011.png" group-title="Фильмы,сериалы",Viju+ Comedy HD
 https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD/1080p.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1012.png" group-title="Фильмы,сериалы",Viju+ Megahit HD
-https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD/1080p.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1013.png" group-title="Фильмы,сериалы",Viju+ Premiere HD
-https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2838.png" group-title="Фильмы,сериалы",Viju+ Serial HD
 https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6240.png" group-title="Фильмы,сериалы",Start World
