@@ -10,7 +10,7 @@ http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 https://ucdn.beetv.kz/btv/live/hls/000004498.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/setanta-sports-plus.png" group-title="Спортивные", Setanta Sports 2
 https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/setanta-ua.png" group-title="Спортивные", Setanta Sports Ukraine
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/setanta-plus-ua.png" group-title="Спортивные", Setanta Sports+ Ukraine
 https://tv.movielab.pro/942/video.m3u8 
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/setanta-ua.png" group-title="Спортивные", Setanta Sports Ukraine
 rtmp://93.189.60.202//272
