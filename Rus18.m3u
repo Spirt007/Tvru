@@ -18,6 +18,10 @@ https://ucdn.beetv.kz/btv/live/hls/000002649.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/match-premiere.png" group-title="Спортивные", Матч! Премьер HD 
 https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные", Старт Триумф HD
+https://okkotv-live.cdnvideo.ru/dash/start_triumph_hd/playlist.mpd
+#EXTINF:-1 tvg-id="qsport-kz" group-title="Спортивные", Q Sport
+http://89.254.128.5:22280/qsport/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/match-tv.png" group-title="Спортивные", Матч! HD
 http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/mir-basketbola.png" group-title="Спортивные", Мир баскетбола 
@@ -253,8 +257,6 @@ https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD/1080p.m3u8
 https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1011.png" group-title="Фильмы,сериалы",Viju+ Comedy HD
 https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD/1080p.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1012.png" group-title="Фильмы,сериалы",Viju+ Megahit HD
-https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2838.png" group-title="Фильмы,сериалы",Viju+ Serial HD
 https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6240.png" group-title="Фильмы,сериалы",Start World
