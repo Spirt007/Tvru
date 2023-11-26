@@ -12,6 +12,8 @@ https://ucdn.beetv.kz/btv/live/hls/000004498.m3u8
 https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/setanta-ua.png" group-title="Спортивные", Setanta Sports Ukraine
 https://tv.movielab.pro/942/video.m3u8 
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/setanta-ua.png" group-title="Спортивные", Setanta Sports Ukraine
+rtmp://93.189.60.202//272
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/setanta-kz.png" group-title="Спортивные", Setanta Qazaqstan
 https://ucdn.beetv.kz/btv/live/hls/000002649.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Спортивные",Real Madrid TV 
