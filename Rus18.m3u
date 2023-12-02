@@ -16,6 +16,8 @@ http://146.59.85.40:89/setantaplus/mono.m3u8
 rtmp://93.189.60.202//272
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/setanta-kz.png" group-title="Спортивные", Setanta Qazaqstan
 https://ucdn.beetv.kz/btv/live/hls/000002649.m3u8
+#EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/sport.png" group-title="Спортивные",Türkmenistan Sport (406p) [Not 24/7]
+https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Спортивные",Real Madrid TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/match-premiere.png" group-title="Спортивные", Матч! Премьер HD 
