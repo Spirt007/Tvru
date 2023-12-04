@@ -346,18 +346,17 @@ http://91.197.104.34:8080/Kinouzhas/video.m3u8
 http://217.107.34.114:8006/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Фильмы,сериалы",VIP FAMILY
 http://moobl.ru/hls/VIP_family.m3u8
-#EXTINF:-1 group-title="Фильмы,сериалы",Кино 1 International
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/kino1int-tviksel.png" group-title="Фильмы,сериалы",Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="Kinoseriya.ru" tvg-logo="https://i.imgur.com/iao7zLZ.png" group-title="Фильмы,сериалы",Киносерия 
 https://tbs01-edge11.itdc.ge/kinoseria/index.m3u8
-#EXTINF:-1 group-title="Фильмы,сериалы",Киноужас
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/kinouzhas.png" group-title="Фильмы,сериалы",Киноужас
 http://moobl.ru/hls/Kinouzhas.m3u8
-#EXTINF:-1  group-title="Фильмы,сериалы",Комедийное HD
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/komedijnoe-hd.png" group-title="Фильмы,сериалы",Комедийное HD
 http://moobl.ru/hls/Komedijnoe_hd.m3u8
-#EXTINF:-1 group-title="Фильмы,сериалы",Русский роман
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/russky-roman.png" group-title="Фильмы,сериалы",Русский роман
 http://moobl.ru/hls/Russkiy_roman.m3u8
-#EXTINF:-1 group-title="Фильмы,сериалы",A1
-http://31.148.48.15:80/A1/index.m3u8
+
 
 
 #EXTINF:-1,  tvg-logo="https://picon.pp.ua/kinopremiera.png" group-title="Премьеры",Кинопремьера HD 
