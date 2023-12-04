@@ -120,6 +120,8 @@ https://okkotv-live.cdnvideo.ru/channel/Yu_OTT.m3u8
 https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/kvn-tv.png" group-title="Развлекательные", КВН ТВ
 http://91.197.104.34:8080/KVN/video.m3u8 
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/e-tv.png" group-title="Развлекательные",E TV
+http://moobl.ru/hls/e_tv.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/perec.png" group-title="Развлекательные", Перец
 https://ucdn.beetv.kz/btv/live/hls/000001248.m3u8
 
@@ -309,6 +311,8 @@ http://109.239.208.82:80/eurokino/index.m3u8
 http://91.197.104.34:8080/Kinouzhas/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4747.png" group-title="Фильмы,сериалы", BCU СССР HD
 http://217.107.34.114:8006/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Фильмы,сериалы",VIP FAMILY
+http://moobl.ru/hls/VIP_family.m3u8
 
 #EXTINF:-1,  tvg-logo="https://picon.pp.ua/kinopremiera.png" group-title="Премьеры",Кинопремьера HD 
 http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
@@ -330,6 +334,9 @@ http://okkotv-live.cdnvideo.ru/channel/dash/amedia_premium_hd/playlist.mpd
 http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/blokbaster.png" group-title="Хиты", Блокбастер HD
 http://moobl.ru/hls/Blokbaster_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Хиты",VIP HIT
+http://moobl.ru/hls/VIP_hit.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/europa-plus-tv.png" group-title="Музыкальные", Europa Plus TV
 http://strm.yandex.ru/kal/europa_plus_tv/europa_plus_tv0.m3u8
@@ -380,6 +387,8 @@ https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 https://ucdn.beetv.kz/btv/live/hls/000002722.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/365-dnej.png" group-title="Познавательные", 365 дней ТВ 
 http://146.158.0.56:80/365dney/index.m3u8
+#EXTINF:-1 tvg-id="HDL.ru" tvg-logo="https://i.imgur.com/tKgmhxh.png" group-title="Познавательные",HD Life
+https://tbs01-edge11.itdc.ge/hdlife/index.m3u8
 
 #EXTINF:-1 , tvg-logo="https://picon.pp.ua/brazzers.png" group-title="18+", Brazzers TV Europe
 http://194.190.78.91:8080/brazzers/index.m3u8 
