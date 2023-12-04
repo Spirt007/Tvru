@@ -274,11 +274,11 @@ http://okkotv-live.cdnvideo.ru/channel/Dorama_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7314.png" group-title="Фильмы,сериалы",Кинеко
 https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/644.png" group-title="Фильмы,сериалы",Киномикс
-http://dmi3y-tv.ru/hls/CH_KINOMIKS.m3u8
+http://moobl.ru/hls/Kinomix.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/987.png" group-title="Фильмы,сериалы",Киносемья
-http://dmi3y-tv.ru/hls/CH_KINOSEMYA.m3u8
+http://moobl.ru/hls/Kinosemya.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/462.png" group-title="Фильмы,сериалы",Киносвидание
-http://dmi3y-tv.ru/hls/CH_KINOSVIDANIE.m3u8
+http://moobl.ru/hls/Kinosvidanie.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7315.png" group-title="Фильмы,сериалы",Сапфир
 https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4780.png" group-title="Фильмы,сериалы",Фантастика HD
@@ -292,9 +292,9 @@ https://stream01.vnet.am/DomKino/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2020.png" group-title="Фильмы,сериалы",Дом кино Премиум HD
 http://46.151.151.245:10007/play/a009
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/3357.png" group-title="Фильмы,сериалы",Мосфильм. Золотая коллекция
-http://dmi3y-tv.ru/hls/CH_MOSFILM.m3u8
+http://europe3.livetv.az/russia/mosfilm/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/485.png" group-title="Фильмы,сериалы",Наше новое кино HD
-http://dmi3y-tv.ru/hls/CH_NASHENOVOEKINO.m3u8
+http://europe3.livetv.az/russia/nashe_novoe_kino/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1754.png" group-title="Фильмы,сериалы",НТВ Сериал
 http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2041.png" group-title="Фильмы,сериалы",НТВ Хит
@@ -313,6 +313,22 @@ http://91.197.104.34:8080/Kinouzhas/video.m3u8
 http://217.107.34.114:8006/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Фильмы,сериалы",VIP FAMILY
 http://moobl.ru/hls/VIP_family.m3u8
+#EXTINF:-1 group-title="Фильмы,сериалы",Кино 1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-id="Kinoseriya.ru" tvg-logo="https://i.imgur.com/iao7zLZ.png" group-title="Фильмы,сериалы",Киносерия 
+https://tbs01-edge11.itdc.ge/kinoseria/index.m3u8
+#EXTINF:-1 group-title="Фильмы,сериалы",Киноужас
+http://moobl.ru/hls/Kinouzhas.m3u8
+#EXTINF:-1  group-title="Фильмы,сериалы",Комедийное HD
+http://moobl.ru/hls/Komedijnoe_hd.m3u8
+#EXTINF:-1 group-title="Фильмы,сериалы",Русский роман
+http://moobl.ru/hls/Russkiy_roman.m3u8
+#EXTINF:-1 tvg-id="red.ru" tvg-logo="https://i.imgur.com/GET9Qut.png" group-title="Фильмы,сериалы",.red Russia 
+https://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
+#EXTINF:-1 group-title="Фильмы,сериалы",A1
+http://31.148.48.15:80/A1/index.m3u8
+#EXTINF:-1 tvg-id="AngelTVRussian.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Фильмы,сериалы",Angel TV Russian 
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelrussia_all/playlist.m3u8
 
 #EXTINF:-1,  tvg-logo="https://picon.pp.ua/kinopremiera.png" group-title="Премьеры",Кинопремьера HD 
 http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
@@ -323,7 +339,7 @@ http://217.107.34.114:8001/playlist.m3u8
 
 
 #EXTINF:-1, tvg-logo="https://picon.pp.ua/kinoxit.png" group-title="Хиты",Кинохит 
-http://95.217.196.109:8081/russia/kinohit/chunks.m3u8
+http://moobl.ru/hls/Kinohit.m3u8
 #EXTINF:-1, tvg-logo="https://picon.pp.ua/vip-megahit.png" group-title="Хиты",Viju+ Megahit HD
 https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://picon.pp.ua/amedia-hit.png" group-title="Хиты",Amedia Hit HD
