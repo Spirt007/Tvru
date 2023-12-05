@@ -121,7 +121,7 @@ http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 http://dmi3y-tv.ru/hls/smotrim/region/CH_SANKTPETERBURG_SPB.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6766.png" group-title="Региональные",Первый Ростовский
 http://dmi3y-tv.ru/hls/region/CH_1ROSTOVSKIY_RD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2JYkoSa.png" group-title="Региональные",Ростов-папа 
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/rostov-papa.png" group-title="Региональные",Ростов-папа 
 https://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/sochi24.png" group-title="Региональные",Сочи 24
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
@@ -145,11 +145,11 @@ https://dvr-player.smotrim.ru/hls/doverie/playlist.m3u8
 https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/nts-sevastopol.png" group-title="Региональные",НТС Севастополь
 https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
-#EXTINF:-1 group-title="Региональные",ЛенТВ 24
+#EXTINF:-1 tvg-logo="ttp://epg.it999.ru/img2/7701.png" group-title="Региональные",Лен ТВ 24
 https://dvr-player.smotrim.ru/hls2/lentv24/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/pULU44E.png" group-title="Региональные",Регион 29 
+#EXTINF:-1  tvg-logo="https://picon.pp.ua/region29.png" group-title="Региональные",Регион 29
 http://live-atkmedia.cdnvideo.ru/atkmedia/atkmedia/playlist.m3u8
-#EXTINF:-1  group-title="Региональные",Симферополь-24 HD
+#EXTINF:-1 tvg-logo="ttp://epg.it999.ru/img2/7701.png" group-title="Региональные",Симферополь-24 HD
 http://46.151.151.245:10001/play/a004/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://picon.pp.ua/smaylik-tv.png" group-title="Детские", Смайлик ТВ 
