@@ -121,8 +121,6 @@ http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 http://dmi3y-tv.ru/hls/smotrim/region/CH_SANKTPETERBURG_SPB.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6766.png" group-title="Региональные",Первый Ростовский
 http://dmi3y-tv.ru/hls/region/CH_1ROSTOVSKIY_RD.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Региональные",43 канал
-http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/sochi24.png" group-title="Региональные",Сочи 24
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Vetta24.ru" tvg-logo="https://i.imgur.com/zKH1b5k.png" group-title="Региональные",Ветта 24 Пермь
@@ -172,6 +170,25 @@ http://stream01.vnet.am/Mult/mono.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7669.png" group-title="Детские",Солнце
 https://okkotv-live.cdnvideo.ru/channel/Disney.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2271.png" group-title="Новости", Известия
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BP7tY6F.png" group-title="Новости",Беларусь 24
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/euronews.png" group-title="Новости", Euronews
+http://portal.ott.pink/watch/7045/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3015.png" group-title="Новости", Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1683.png" group-title="Новости",Россия 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/743.png" group-title="Новости",РБК
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/moskva-24.png" group-title="Новости",Москва 24
+https://dvr-player.smotrim.ru/hls/moscow_24/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/cnn.png" group-title="Новости",CNN
+http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/solovjinypomiot.png" group-title="Новости",Соловьев.Live
+http://radio-live-mg.rtr-vesti.ru/hls/solovievlive/playlist_6.m3u8
 
 #EXTINF:-1 , tvg-logo="https://picon.pp.ua/brazzers.png" group-title="18+", Brazzers TV Europe
 http://194.190.78.91:8080/brazzers/index.m3u8 
