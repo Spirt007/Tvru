@@ -202,11 +202,11 @@ http://radio-live-mg.rtr-vesti.ru/hls/solovievlive/playlist_6.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2294.png" group-title="Беларусь",БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:-1  group-title="Беларусь",Беларусь 1 HD
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2538.png" group-title="Беларусь",Беларусь 1 HD
 http://moobl.ru/hls/Belarus1_hd.m3u8
-#EXTINF:-1 group-title="Беларусь",Беларусь 2 HD
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2539.png" group-title="Беларусь",Беларусь 2 HD
 http://moobl.ru/hls/Belarus2_hd.m3u8
-#EXTINF:-1 group-title="Беларусь",Беларусь 3 HD
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2540.png" group-title="Беларусь",Беларусь 3 HD
 http://moobl.ru/hls/Belarus3_hd.m3u8
 
 
