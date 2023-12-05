@@ -170,6 +170,8 @@ http://stream01.vnet.am/Mult/mono.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7669.png" group-title="Детские",Солнце
 https://okkotv-live.cdnvideo.ru/channel/Disney.m3u8
+#EXTINF:-1 group-title="Детские",VIP FAMILY
+http://moobl.ru/hls/VIP_family.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2271.png" group-title="Новости", Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
@@ -333,8 +335,6 @@ http://109.239.208.82:80/eurokino/index.m3u8
 http://91.197.104.34:8080/Kinouzhas/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4747.png" group-title="Фильмы,сериалы", BCU СССР HD
 http://217.107.34.114:8006/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Фильмы,сериалы",VIP FAMILY
-http://moobl.ru/hls/VIP_family.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/kino1int-tviksel.png" group-title="Фильмы,сериалы",Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="Kinoseriya.ru" tvg-logo="https://i.imgur.com/iao7zLZ.png" group-title="Фильмы,сериалы",Киносерия 
