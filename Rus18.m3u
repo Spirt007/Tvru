@@ -117,6 +117,8 @@ https://ucdn.beetv.kz/btv/live/hls/000001248.m3u8
 
 #EXTINF:-1, tvg-logo="https://picon.pp.ua/krasnodar.png" group-title="Региональные",Краснодар
 http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/kuban-24.png" group-title="Региональные",Кубань 24
+https://mhd109.iptv2022.com/p/fazM2rBWMeyITEB0UwokRA,1702007145/streaming/cuban24/324/5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/690.png" group-title="Региональные",Санкт-Петербург
 http://dmi3y-tv.ru/hls/smotrim/region/CH_SANKTPETERBURG_SPB.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6766.png" group-title="Региональные",Первый Ростовский
@@ -149,7 +151,7 @@ https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 https://dvr-player.smotrim.ru/hls2/lentv24/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://picon.pp.ua/region29.png" group-title="Региональные",Регион 29
 http://live-atkmedia.cdnvideo.ru/atkmedia/atkmedia/playlist.m3u8
-#EXTINF:-1 tvg-logo="ttp://epg.it999.ru/img2/7701.png" group-title="Региональные",Симферополь 24
+#EXTINF:-1 tvg-logo="" group-title="Региональные",Симферополь 24
 http://46.151.151.245:10001/play/a004/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://picon.pp.ua/smaylik-tv.png" group-title="Детские", Смайлик ТВ 
