@@ -116,9 +116,11 @@ https://ucdn.beetv.kz/btv/live/hls/000001248.m3u8
 #EXTINF:-1, tvg-logo="https://picon.pp.ua/krasnodar.png" group-title="Региональные",Краснодар
 http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/kuban-24.png" group-title="Региональные",Кубань 24
-https://mhd109.iptv2022.com/p/fazM2rBWMeyITEB0UwokRA,1702007145/streaming/cuban24/324/5/tracks-v1a1/mono.m3u8
+https://river-5-513.rutube.ru/stream/genetta-511.ost.rutube.ru/blxinLQzOqxFka7ZHp8TLw/1701946982/cb2f1d99b88c9b4d38df05cd7fa0a6c2/360p_stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/690.png" group-title="Региональные",Санкт-Петербург
 http://dmi3y-tv.ru/hls/smotrim/region/CH_SANKTPETERBURG_SPB.m3u8
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/don-24.png" group-title="Региональные",Дон 24 
+https://donmedia.bonus-tv.ru/cdn/donmedia/playlist_sdmid.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6766.png" group-title="Региональные",Первый Ростовский
 http://dmi3y-tv.ru/hls/region/CH_1ROSTOVSKIY_RD.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/rostov-papa.png" group-title="Региональные",Ростов-папа 
