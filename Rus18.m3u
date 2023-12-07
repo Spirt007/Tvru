@@ -114,6 +114,8 @@ https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
 http://moobl.ru/hls/e_tv.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/perec.png" group-title="Развлекательные", Перец
 https://ucdn.beetv.kz/btv/live/hls/000001248.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2304.png" group-title="Развлекательные",Телекафе
+http://stream01.vnet.am/Telekafe/mono.m3u8
 
 #EXTINF:-1, tvg-logo="https://picon.pp.ua/krasnodar.png" group-title="Региональные",Краснодар
 http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
@@ -249,7 +251,7 @@ http://91.220.135.165:81/55/tracks-v1a1v1/playlist.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/kinosat.png" group-title="Фильмы,сериалы",Киносат
 http://185.23.80.28:8080/KinoSat/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/nash-kinopokaz.png" group-title="Фильмы,сериалы",Кинопоказ HD
-http://95.217.196.109:8081/russia/kinopokaz/chunks.m3u8
+http://moobl.ru/hls/Kinopokaz.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/flixsnip.png" group-title="Фильмы,сериалы",FlixSnip 
 https://ucdn.beetv.kz/btv/live/hls/000004466.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/kinojam2.png" group-title="Фильмы,сериалы",Kinojam 2
@@ -335,7 +337,7 @@ https://okkotv-live.cdnvideo.ru/channel/START_Air_HD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/834.png" group-title="Фильмы,сериалы",Дом кино
 https://stream01.vnet.am/DomKino/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2020.png" group-title="Фильмы,сериалы",Дом кино Премиум HD
-http://46.151.151.245:10007/play/a009
+http://moobl.ru/hls/Dom_kino_premium_hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/3357.png" group-title="Фильмы,сериалы",Мосфильм. Золотая коллекция
 http://europe3.livetv.az/russia/mosfilm/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/485.png" group-title="Фильмы,сериалы",Наше новое кино HD
@@ -344,16 +346,10 @@ http://europe3.livetv.az/russia/nashe_novoe_kino/playlist.m3u8
 http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2041.png" group-title="Фильмы,сериалы",НТВ Хит
 http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/401.png" group-title="Фильмы,сериалы",Русский роман
-http://46.151.151.245:10002/play/a0b3
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2304.png" group-title="Фильмы,сериалы",Телекафе
-http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2404.png" group-title="Фильмы,сериалы",Феникс+Кино
 https://okkotv-live.cdnvideo.ru/channel/Phoenix_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/eurokino.png" group-title="Фильмы,сериалы", Еврокино
 http://109.239.208.82:80/eurokino/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2493.png" group-title="Фильмы,сериалы", Киноужас HD
-http://91.197.104.34:8080/Kinouzhas/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4747.png" group-title="Фильмы,сериалы", BCU СССР HD
 http://217.107.34.114:8006/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/kino1int-tviksel.png" group-title="Фильмы,сериалы",Кино 1 International
@@ -361,7 +357,7 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="Kinoseriya.ru" tvg-logo="https://i.imgur.com/iao7zLZ.png" group-title="Фильмы,сериалы",Киносерия 
 https://tbs01-edge11.itdc.ge/kinoseria/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/kinouzhas.png" group-title="Фильмы,сериалы",Киноужас
-http://moobl.ru/hls/Kinouzhas.m3u8
+https://tbs01-edge11.itdc.ge/kinoujas/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/komedijnoe-hd.png" group-title="Фильмы,сериалы",Комедийное HD
 http://moobl.ru/hls/Komedijnoe_hd.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/russky-roman.png" group-title="Фильмы,сериалы",Русский роман
