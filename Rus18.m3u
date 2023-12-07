@@ -306,12 +306,16 @@ https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2838.png" group-title="Фильмы,сериалы",Viju+ Serial HD
 https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/1080p.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/267.png" group-title="Фильмы,сериалы",Viju TV1000 Русское кино HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6240.png" group-title="Фильмы,сериалы",Start World
 https://okkotv-live.cdnvideo.ru/channel/START_World_HD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2145.png" group-title="Фильмы,сериалы",Star Cinema
 https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2153.png" group-title="Фильмы,сериалы",Star Family HD
 https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/1080p.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6241.png" group-title="Фильмы,сериалы",Start Air
+https://okkotv-live.cdnvideo.ru/channel/START_Air_HD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2174.png" group-title="Фильмы,сериалы",Дорама HD
 http://okkotv-live.cdnvideo.ru/channel/Dorama_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7314.png" group-title="Фильмы,сериалы",Кинеко
@@ -326,10 +330,6 @@ http://moobl.ru/hls/Kinosvidanie.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4780.png" group-title="Фильмы,сериалы",Фантастика HD
 http://hlss.goodgame.ru/hls/187241.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/267.png" group-title="Фильмы,сериалы",Viju TV1000 Русское кино HD
-https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD/1080p.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6241.png" group-title="Фильмы,сериалы",Start Air
-https://okkotv-live.cdnvideo.ru/channel/START_Air_HD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/834.png" group-title="Фильмы,сериалы",Дом кино
 https://stream01.vnet.am/DomKino/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2020.png" group-title="Фильмы,сериалы",Дом кино Премиум HD
