@@ -366,7 +366,7 @@ http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m
 http://moobl.ru/hls/Blokbaster_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/europa-plus-tv.png" group-title="Музыкальные", Europa Plus TV
-http://strm.yandex.ru/kal/europa_plus_tv/europa_plus_tv0.m3u8
+http://europe3.livetv.az/russia/evropaplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4037.png" group-title="Музыкальные",1HD
 http://91.247.68.229:8000/play/1HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2837.png" group-title="Музыкальные",AIVA HD
