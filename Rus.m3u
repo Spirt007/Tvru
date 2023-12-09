@@ -229,6 +229,8 @@ https://ucdn.beetv.kz/btv/live/hls/000000239.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8 
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/russky-bestseller.png" group-title="Фильмы,сериалы",Русский бестселлер
 http://94.230.240.12:80/rusbestseller/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1570.png" group-title="Фильмы,сериалы",Русский детектив
+http://45.144.31.195:8010/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/fox.png" group-title="Фильмы,сериалы",Fox
 http://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/foxlife.png"  group-title="Фильмы,сериалы",Fox Life
@@ -363,7 +365,7 @@ http://moobl.ru/hls/Blokbaster_hd.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/europa-plus-tv.png" group-title="Музыкальные", Europa Plus TV
-http://strm.yandex.ru/kal/europa_plus_tv/europa_plus_tv0.m3u8
+http://europe3.livetv.az/russia/evropaplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4037.png" group-title="Музыкальные",1HD
 http://91.247.68.229:8000/play/1HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2837.png" group-title="Музыкальные",AIVA HD
