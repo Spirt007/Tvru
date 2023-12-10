@@ -220,7 +220,7 @@ https://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4662.png" group-title="Фильмы,сериалы",BackusTV Страшное
 http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/comedy-central-pl.png" group-title="Фильмы,сериалы", Comedy Central
-https://nl2.justv.org:8080/hls/comedy/chunks.m3u8?nimblesessionid=43727175&wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIzIDY6MzA6MDIgUE0maGFzaF92YWx1ZT1aVUx2d2dMSUFMLzNUWE5wMUY2QWF3PT0mdmFsaWRtaW51dGVzPTYwJmlkPSZjaGVja2lwPXRydWU=
+https://balans.streamsport.net:8080/hls/comedy_1/chunks.m3u8?nimblesessionid=20145793&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMyA4OjU2OjAwIEFNJmhhc2hfdmFsdWU9RytrdVVCRWx6a3pRWGdGcFB1Y3ZvZz09JnZhbGlkbWludXRlcz02MCZpZD0mY2hlY2tpcD10cnVl
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/ostrosiuzhetnoe.png" group-title="Фильмы,сериалы", Остросюжетное
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/tvxxi.png" group-title="Фильмы,сериалы", TV XXI
