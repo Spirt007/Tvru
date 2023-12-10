@@ -227,6 +227,8 @@ http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playli
 https://ucdn.beetv.kz/btv/live/hls/000000006.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/cinema.png" group-title="Фильмы,сериалы", Cinema HD
 http://moobl.ru/hls/Cinema.m3u8
+#EXTINF:-1 group-title="Фильмы,сериалы",Cinema Classic
+http://moobl.ru/hls/Cinema_classic.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7314.png" group-title="Фильмы,сериалы",Кинеко 
 https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8 
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/russky-bestseller.png" group-title="Фильмы,сериалы",Русский бестселлер
