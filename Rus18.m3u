@@ -220,7 +220,7 @@ https://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4662.png" group-title="Фильмы,сериалы",BackusTV Страшное
 http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/comedy-central-pl.png" group-title="Фильмы,сериалы", Comedy Central
-https://balans.streamsport.net:8080/hls/comedy_1/chunks.m3u8?nimblesessionid=20145793&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMyA4OjU2OjAwIEFNJmhhc2hfdmFsdWU9RytrdVVCRWx6a3pRWGdGcFB1Y3ZvZz09JnZhbGlkbWludXRlcz02MCZpZD0mY2hlY2tpcD10cnVl
+http://ucdn.beetv.kz/btv/live/hls/000000452.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/ostrosiuzhetnoe.png" group-title="Фильмы,сериалы", Остросюжетное
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/tvxxi.png" group-title="Фильмы,сериалы", TV XXI
@@ -412,6 +412,8 @@ http://stream01.vnet.am/Istoria/mono.m3u8
 https://okkotv-live.cdnvideo.ru/channel/RTG_HD.m3u8
 #EXTINF:-1tvg-logo="https://picon.pp.ua/nauka-20.png"  group-title="Познавательные", Наука 2.0
 http://stream01.vnet.am/Nauka/mono.m3u8
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/texno-24.png" group-title="Познавательные",24 Техно
+http://moobl.ru/hls/Texno_24.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/neizvestnaya-rosia.png" group-title="Познавательные", Неизвестная Россия HD
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/h2.png" group-title="Познавательные", H2
