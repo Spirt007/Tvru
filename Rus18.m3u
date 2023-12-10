@@ -278,7 +278,7 @@ http://moobl.ru/hls/India.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/indijskoe-kino.png"" group-title="Фильмы,сериалы",Индийское кино
 https://tbs01-edge11.itdc.ge/indiyskoekino/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/608.png" group-title="Фильмы,сериалы",HollywooD HD
-http://stream01.vnet.am/ParamountChannel/mono.m3u8
+http://moobl.ru/hls/Hollywood_hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/127.png" group-title="Фильмы,сериалы",Viju TV1000 HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/125.png" group-title="Фильмы,сериалы",Viju TV1000 Action HD
