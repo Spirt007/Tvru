@@ -118,7 +118,7 @@ https://ucdn.beetv.kz/btv/live/hls/000001248.m3u8
 #EXTINF:-1, tvg-logo="https://picon.pp.ua/krasnodar.png" group-title="Региональные",Краснодар
 http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/kuban-24.png" group-title="Региональные",Кубань 24
-https://mhd158.iptv2022.com/p/Y-BhpV_qMSl2RVOJZE0WkA,1702176049/streaming/cuban24/324/5/index.m3u8
+https://river-3-304.rutube.ru/stream/genetta-315.m9.rutube.ru/aPlBuF9yDo6xYXy9Pf306w/1702294572/cb2f1d99b88c9b4d38df05cd7fa0a6c2/360p_stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/690.png" group-title="Региональные",Санкт-Петербург
 http://dmi3y-tv.ru/hls/smotrim/region/CH_SANKTPETERBURG_SPB.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/don-24.png" group-title="Региональные",Дон 24 
@@ -218,7 +218,7 @@ https://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4662.png" group-title="Фильмы,сериалы",BackusTV Страшное
 http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/comedy-central-pl.png" group-title="Фильмы,сериалы", Comedy Central
-https://balans.streamsport.net:8080/hls/comedy_1/chunks.m3u8?nimblesessionid=20145793&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMyA4OjU2OjAwIEFNJmhhc2hfdmFsdWU9RytrdVVCRWx6a3pRWGdGcFB1Y3ZvZz09JnZhbGlkbWludXRlcz02MCZpZD0mY2hlY2tpcD10cnVl
+tps://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/ostrosiuzhetnoe.png" group-title="Фильмы,сериалы", Остросюжетное
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/tvxxi.png" group-title="Фильмы,сериалы", TV XXI
