@@ -118,7 +118,7 @@ http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1, tvg-logo="https://picon.pp.ua/krasnodar.png" group-title="Региональные",Краснодар
 http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/kuban-24.png" group-title="Региональные",Кубань 24
-https://river-3-304.rutube.ru/stream/genetta-315.m9.rutube.ru/aPlBuF9yDo6xYXy9Pf306w/1702294572/cb2f1d99b88c9b4d38df05cd7fa0a6c2/360p_stream.m3u8
+https://river-5-512.rutube.ru/stream/genetta-315.m9.rutube.ru/2ameWqRmyFXN3Uqz66wWXw/1702401344/cb2f1d99b88c9b4d38df05cd7fa0a6c2/360p_stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/690.png" group-title="Региональные",Санкт-Петербург
 http://dmi3y-tv.ru/hls/smotrim/region/CH_SANKTPETERBURG_SPB.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/don-24.png" group-title="Региональные",Дон 24 
@@ -127,19 +127,21 @@ https://donmedia.bonus-tv.ru/cdn/donmedia/playlist_sdmid.m3u8
 https://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/sochi24.png" group-title="Региональные",Сочи 24
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zKH1b5k.png" group-title="Региональные",Ветта 24 Пермь
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/astraxan24.png" group-title="Региональные",Астрахань 24
+https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
+#EXTINF:-1 tvg-id="Vetta24.ru" tvg-logo="https://i.imgur.com/zKH1b5k.png" group-title="Региональные",Ветта 24 Пермь
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/volga.png"" group-title="Региональные",Волга
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gFMnaU5.png" group-title="Региональные",Волгоград 24
+#EXTINF:-1 tvg-id="Volgograd24.ru" tvg-logo="https://i.imgur.com/gFMnaU5.png" group-title="Региональные",Волгоград 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zMNJfoV.png" group-title="Региональные",Городской телеканал Ярославль
 https://www.gtk.tv/hls/gtyar.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IlL57Rm.png" group-title="Региональные",Губерния Самара
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/enisey-region.png" group-title="Региональные",Енисей регион
+#EXTINF:-1  tvg-logo="https://picon.pp.ua/enisey-region.png" group-title="Региональные",Енисей регион
 https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a42jk7b.png" group-title="Региональные",Липецкое время
+#EXTINF:-1  tvg-logo="https://i.imgur.com/a42jk7b.png" group-title="Региональные",Липецкое время
 http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/doverie.png" group-title="Региональные",Москва. Доверие
 https://dvr-player.smotrim.ru/hls/doverie/playlist.m3u8
@@ -151,7 +153,7 @@ https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 https://dvr-player.smotrim.ru/hls2/lentv24/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://picon.pp.ua/region29.png" group-title="Региональные",Регион 29
 http://live-atkmedia.cdnvideo.ru/atkmedia/atkmedia/playlist.m3u8
-#EXTINF:-1 group-title="Региональные",Симферополь 24 
+#EXTINF:-1 tvg-logo="" group-title="Региональные",Симферополь 24
 http://46.151.151.245:10001/play/a004/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://picon.pp.ua/smaylik-tv.png" group-title="Детские", Смайлик ТВ 
@@ -180,6 +182,8 @@ http://stream01.vnet.am/Mult/mono.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7669.png" group-title="Детские",Солнце
 https://okkotv-live.cdnvideo.ru/channel/Disney.m3u8
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/cartoon-network.png" group-title="Детские",Cartoon Network
+http://europe3.livetv.az/russia/cartoon/playlist.m3u8
 #EXTINF:-1 group-title="Детские",VIP FAMILY
 http://moobl.ru/hls/VIP_family.m3u8
 
