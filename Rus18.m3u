@@ -176,10 +176,8 @@ https://ucdn.beetv.kz/btv/live/hls/000000449.m3u8
 http://dvr-player.smotrim.ru/hls/karusel/playlist_3.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1332.png" group-title="Детские",Мульт
 http://stream01.vnet.am/Mult/mono.m3u8
-#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/6870.png" group-title="Детские",Мультиландия
-https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7669.png" group-title="Детские",Солнце
-https://okkotv-live.cdnvideo.ru/channel/Disney.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/740.png" group-title="Детские",Карусель
+http://dvr-player.smotrim.ru/hls/karusel/playlist_3.m3u8
 #EXTINF:-1 group-title="Детские",VIP FAMILY
 http://moobl.ru/hls/VIP_family.m3u8
 
