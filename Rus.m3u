@@ -54,35 +54,33 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 http://flu.ttk.mx:9090/Futbol/index.m3u8?token=orh6o
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/983.png" group-title="Общественные",Первый канал
-http://dmi3y-tv.ru/hls/okko/CH_1TVHD.m3u8
+http://europe3.livetv.az/russia/pervyj_kanal/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/984.png" group-title="Общественные",Россия 1 
-http://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
+http://europe3.livetv.az/russia/rossiya_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/162.png" group-title="Общественные",НТВ HD
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/tvcentr.png" group-title="Общественные",ТВ Центр
 http://flu.ttk.mx:9090/TVC/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/18.png" group-title="Общественные",Рен ТВ
-https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/1080p.m3u8
+http://moobl.ru/hls/Rentv.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/698.png" group-title="Общественные",ТВ-3
-https://okkotv-live.cdnvideo.ru/channel/TV3_OTT_HD/1080p.m3u8
+https://bl.uma.media/live/317846/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/427.png" group-title="Общественные",Пятый канал 
-https://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8
+http://europe3.livetv.az/russia/5kanal/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/726.png" group-title="Общественные",Мир
 http://dmi3y-tv.ru/hls/T2/CH_MIRHD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/669.png" group-title="Общественные",Время
 http://46.151.151.245:10007/play/a002
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/304.png" group-title="Общественные",Домашний 
-https://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT/1080p.m3u8
+http://moobl.ru/hls/Domashny_international.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/405.png" group-title="Общественные",Звезда
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1755.png" group-title="Общественные",НТВ Стиль
 http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pUcV46F.png" group-title="Общественные",НТВ-Мир
-http://ucdn.beetv.kz/btv/live/hls/000000079.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1000.png" group-title="Общественные",ОТР
 https://sirius.greenhosting.ru/Otr/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/187.png" group-title="Общественные",Культура
-https://okkotv-live.cdnvideo.ru/channel/Russia_K_SD/480p.m3u8
+https://dvr-player.smotrim.ru/live/smil:russiak.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2399.png" group-title="Общественные",Дождь
 https://1527562093.rsc.cdn77.org/transcode/ngrp:ses_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2295.png" group-title="Общественные",RTД HD
@@ -91,29 +89,31 @@ https://hls.rt.com/hls/rtdru.m3u8
 https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2830.png" group-title="Развлекательные", Пятница
-https://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD/1080p.m3u8
+http://europe3.livetv.az/russia/pyatnica/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2288.png" group-title="Развлекательные", Суббота!
 https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/79.png" group-title="Развлекательные",СТС
-https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
+http://moobl.ru/hls/STS_int.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1322.png" group-title="Развлекательные",СТС Love
-https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
+http://31.148.48.15:80/STS_Love/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/353.png" group-title="Развлекательные",ТНТ
-https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
+https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1649.png" group-title="Развлекательные",ТНТ4
 https://bl.uma.media/live/317849/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1598.png" group-title="Развлекательные",Че
-https://okkotv-live.cdnvideo.ru/channel/Che_OTT_2/480p.m3u8
+http://moobl.ru/hls/Che.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2678.png" group-title="Развлекательные",Ю
-https://okkotv-live.cdnvideo.ru/channel/Yu_OTT.m3u8
+https://strm.yandex.ru/kal/utv/utv0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/323.png" group-title="Развлекательные",2x2
 https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/kvn-tv.png" group-title="Развлекательные", КВН ТВ
-http://moobl.ru/hls/KVN.m3u8 
+ http://moobl.ru/hls/KVN.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/e-tv.png" group-title="Развлекательные",E TV
 http://moobl.ru/hls/e_tv.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/perec.png" group-title="Развлекательные", Перец
 https://ucdn.beetv.kz/btv/live/hls/000001248.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2304.png" group-title="Развлекательные",Телекафе
+http://stream01.vnet.am/Telekafe/mono.m3u8
 
 #EXTINF:-1, tvg-logo="https://picon.pp.ua/krasnodar.png" group-title="Региональные",Краснодар
 http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
