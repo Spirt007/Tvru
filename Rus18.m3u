@@ -233,6 +233,10 @@ https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
 http://94.230.240.12:80/rusbestseller/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1570.png" group-title="Фильмы,сериалы",Русский детектив
 http://moobl.ru/hls/Russkiy_detektiv.m3u8
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/russky-illuzion.png" group-title="Фильмы,сериалы",Русский Иллюзион
+http://moobl.ru/hls/Russky_illuzion.m3u8
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/russky-roman.png" group-title="Фильмы,сериалы",Русский роман
+http://moobl.ru/hls/Russkiy_roman.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/fox.png" group-title="Фильмы,сериалы",Fox
 http://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/foxlife.png"  group-title="Фильмы,сериалы",Fox Life
@@ -343,8 +347,7 @@ http://109.239.208.82:80/eurokino/index.m3u8
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/komedijnoe-hd.png" group-title="Фильмы,сериалы",Комедийное HD
 http://moobl.ru/hls/Komedijnoe_hd.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/russky-roman.png" group-title="Фильмы,сериалы",Русский роман
-http://moobl.ru/hls/Russkiy_roman.m3u8
+
 
 #EXTINF:-1,  tvg-logo="https://picon.pp.ua/kinopremiera.png" group-title="Премьеры,хиты",Кинопремьера HD 
 http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
