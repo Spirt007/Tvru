@@ -373,6 +373,8 @@ http://europe3.livetv.az/russia/evropaplus/playlist.m3u8
 http://91.247.68.229:8000/play/1HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2837.png" group-title="Музыкальные",AIVA HD
 http://194.190.78.91:8080/aivaya/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Bridge TV Classic
+https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/591.png" group-title="Музыкальные",Bridge TV Русский хит
 https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4621.png" group-title="Музыкальные",Bridge TV Шлягер
@@ -393,17 +395,9 @@ https://okkotv-live.cdnvideo.ru/channel/MuzTV/480p.m3u8
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Музыкальные",Angel TV
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelrussia_all/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные", MTV 00's
+http://89.254.128.5:22280/mtv_00/video.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/5600.png" group-title="Познавательные",Univer TV
-http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4826.png" group-title="Познавательные",Viju History HD
-https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/1080p.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/765.png" group-title="Познавательные",Viju Nature HD
-https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/1080p.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2012.png" group-title="Познавательные",Viju+ Planet HD
-http://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_History_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2310.png" group-title="Познавательные",Первый Космический
 https://ucdn.beetv.kz/btv/live/hls/000001220.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/da-vinci.png" group-title="Познавательные",Da Vinci
@@ -411,7 +405,7 @@ https://okkotv-live.cdnvideo.ru/dash/da_vinci/playlist.mpd
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1036.png" group-title="Познавательные",История
 http://stream01.vnet.am/Istoria/mono.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/rtg-tv.png" tvg-id="RTG.ru" group-title="Познавательные",RTG 
-https://okkotv-live.cdnvideo.ru/channel/RTG_HD.m3u8
+https://strm.yandex.ru/kal/rtg/rtg0.m3u8
 #EXTINF:-1tvg-logo="https://picon.pp.ua/nauka-20.png"  group-title="Познавательные", Наука 2.0
 http://stream01.vnet.am/Nauka/mono.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/texno-24.png" group-title="Познавательные",24 Техно
