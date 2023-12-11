@@ -264,7 +264,7 @@ https://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/516.png" group-title="Фильмы,сериалы",.Sci-Fi
 https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi/480p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1371.png" group-title="Фильмы,сериалы",Amedia 1 HD
-https://okkotv-live.cdnvideo.ru/channel/A1_HD/1080p.m3u8
+https://tbs01-edge11.Itdc.ge/amedia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2492.png" group-title="Фильмы,сериалы",Amedia 2 HD
 http://europe3.livetv.az/russia/amedia2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2359.png" group-title="Фильмы,сериалы",FAN
