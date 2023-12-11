@@ -121,6 +121,8 @@ http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 https://river-3-304.rutube.ru/stream/genetta-315.m9.rutube.ru/aPlBuF9yDo6xYXy9Pf306w/1702294572/cb2f1d99b88c9b4d38df05cd7fa0a6c2/360p_stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/690.png" group-title="Региональные",Санкт-Петербург
 http://dmi3y-tv.ru/hls/smotrim/region/CH_SANKTPETERBURG_SPB.m3u8
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/astraxan24.png" group-title="Региональные",Астрахань 24
+https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/don-24.png" group-title="Региональные",Дон 24 
 https://donmedia.bonus-tv.ru/cdn/donmedia/playlist_sdmid.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/rostov-papa.png" group-title="Региональные",Ростов-папа 
@@ -176,6 +178,8 @@ https://ucdn.beetv.kz/btv/live/hls/000000449.m3u8
 http://dvr-player.smotrim.ru/hls/karusel/playlist_3.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1332.png" group-title="Детские",Мульт
 http://stream01.vnet.am/Mult/mono.m3u8
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/cartoon-network.png" group-title="Детские",Cartoon Network
+http://europe3.livetv.az/russia/cartoon/playlist.m3u8
 #EXTINF:-1 group-title="Детские",VIP FAMILY
 http://moobl.ru/hls/VIP_family.m3u8
 
