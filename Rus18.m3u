@@ -129,6 +129,8 @@ https://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/astraxan24.png" group-title="Региональные",Астрахань 24
 https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/svoyo-tv-stavropol.png" group-title="Региональные",Своё ТВ Ставрополь
+https://svoetv.mediacdn.ru/cdn/svoetv/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="Vetta24.ru" tvg-logo="https://i.imgur.com/zKH1b5k.png" group-title="Региональные",Ветта 24 Пермь
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/volga.png"" group-title="Региональные",Волга
@@ -256,7 +258,7 @@ https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2402.png" group-title="Фильмы,сериалы",Ретро
 http://178.124.179.122:8088/Retro/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/sovkino.png" group-title="Фильмы,сериалы", Советское кино 
-https://mhd116.iptv2022.com/p/qQID5GQRSnX7QtXPbgnO6A,1702124503/streaming/sovietmovs/324/5/tracks-v1a1/mono.m3u8
+https://mhd158.iptv2022.com/p/o6PAMF5XySKtuuMq7Px7dg,1702595750/streaming/sovietmovs/324/5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4747.png" group-title="Фильмы,сериалы", BCU СССР HD
 http://217.107.34.114:8006/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-komediya.png" group-title="Фильмы,сериалы", Комедия
@@ -376,7 +378,7 @@ http://194.190.78.91:8080/aivaya/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Bridge TV Classic
 https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/591.png" group-title="Музыкальные",Bridge TV Русский хит
-https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
+https://mhd128.iptv2022.com/p/X1OQnUMxj9jP5rjMXse0Rg,1702595642/streaming/br_rushit/324/5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4621.png" group-title="Музыкальные",Bridge TV Шлягер
 https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/bridge-tv-rock.png" group-title="Музыкальные",Bridge TV Rock
