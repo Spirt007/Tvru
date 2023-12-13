@@ -224,7 +224,7 @@ http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playli
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/tvxxi.png" group-title="Фильмы,сериалы", TV XXI
 https://ucdn.beetv.kz/btv/live/hls/000000006.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/cinema.png" group-title="Фильмы,сериалы", Cinema HD
-http://moobl.ru/hls/Cinema.m3u8
+http://iptv.mega.net.ru:8888/History_HD/index.m3u8
 #EXTINF:-1 group-title="Фильмы,сериалы",Cinema Classic
 http://moobl.ru/hls/Cinema_classic.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7314.png" group-title="Фильмы,сериалы",Кинеко 
@@ -237,6 +237,8 @@ http://moobl.ru/hls/Russkiy_detektiv.m3u8
 http://moobl.ru/hls/Russky_illuzion.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/russky-roman.png" group-title="Фильмы,сериалы",Русский роман
 http://moobl.ru/hls/Russkiy_roman.m3u8
+#EXTINF:-1 tvg-logo="http://sd.uploads.ru/t/9tZ4v.png" group-title="Фильмы,сериалы",Родное кино
+http://iptv.mega.net.ru:8888/Rodnoe_kino/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/fox.png" group-title="Фильмы,сериалы",Fox
 http://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/foxlife.png"  group-title="Фильмы,сериалы",Fox Life
@@ -340,7 +342,7 @@ http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2041.png" group-title="Фильмы,сериалы",НТВ Хит
 http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2404.png" group-title="Фильмы,сериалы",Феникс+Кино
-https://okkotv-live.cdnvideo.ru/channel/Phoenix_HD/1080p.m3u8
+http://livetv.mylifeisgood.net.ru/channels/fenixkino.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/eurokino.png" group-title="Фильмы,сериалы", Еврокино
 http://109.239.208.82:80/eurokino/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/kino1int-tviksel.png" group-title="Фильмы,сериалы",Кино 1 International
@@ -409,7 +411,8 @@ http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/142/index.m3u8
 http://194.145.202.71:8087/udp/239.254.5.229:6060
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2310.png" group-title="Познавательные",Первый Космический
-https://ucdn.beetv.kz/btv/live/hls/000001220.m3u8
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s44/04.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/da-vinci.png" group-title="Познавательные",Da Vinci
 https://okkotv-live.cdnvideo.ru/dash/da_vinci/playlist.mpd
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1036.png" group-title="Познавательные",История
