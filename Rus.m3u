@@ -123,6 +123,8 @@ http://dmi3y-tv.ru/hls/smotrim/region/CH_SANKTPETERBURG_SPB.m3u8
 https://donmedia.bonus-tv.ru/cdn/donmedia/playlist_sdmid.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/rostov-papa.png" group-title="Региональные",Ростов-папа 
 https://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/moskva-24.png" group-title="Региональные",Москва 24
+https://dvr-player.smotrim.ru/hls/moscow_24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/sochi24.png" group-title="Региональные",Сочи 24
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/astraxan24.png" group-title="Региональные",Астрахань 24
@@ -199,8 +201,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/743.png" group-title="Новости",РБК
 http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/moskva-24.png" group-title="Новости",Москва 24
-https://dvr-player.smotrim.ru/hls/moscow_24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/cnn.png" group-title="Новости",CNN
 http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/solovjinypomiot.png" group-title="Новости",Соловьев.Live
