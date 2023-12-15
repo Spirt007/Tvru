@@ -115,7 +115,7 @@ https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/e-tv.png" group-title="Развлекательные",E TV
 http://moobl.ru/hls/e_tv.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/perec.png" group-title="Развлекательные", Перец
-https://ucdn.beetv.kz/btv/live/hls/000001248.m3u8
+http://178.124.179.122:8088/Peretz/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2304.png" group-title="Развлекательные",Телекафе
 http://stream01.vnet.am/Telekafe/mono.m3u8
 
@@ -290,7 +290,7 @@ https://tbs01-edge11.itdc.ge/indiyskoekino/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/608.png" group-title="Фильмы,сериалы",HollywooD HD
 http://moobl.ru/hls/Hollywood_hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/127.png" group-title="Фильмы,сериалы",Viju TV1000 HD
-http://109.171.45.109:81/udp/239.54.5.91:1234
+http://iptv.mega.net.ru:8888/TV1000/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/125.png" group-title="Фильмы,сериалы",Viju TV1000 Action HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/tv1000-action.png" group-title="Фильмы,сериалы", Viju TV1000 Action HD
