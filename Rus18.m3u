@@ -419,6 +419,8 @@ http://194.145.202.71:8087/udp/239.254.5.229:6060
 http://ott-cdn.ucom.am/s44/04.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/da-vinci.png" group-title="Познавательные",Da Vinci
 https://okkotv-live.cdnvideo.ru/dash/da_vinci/playlist.mpd
+#EXTINF:-1 group-title="Познавательные", Top Secret
+http://94.232.104.237:8000/play/107/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1036.png" group-title="Познавательные",История
 http://stream01.vnet.am/Istoria/mono.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/rtg-tv.png" tvg-id="RTG.ru" group-title="Познавательные",RTG 
