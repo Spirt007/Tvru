@@ -312,8 +312,6 @@ https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/1080p.m3u8
 https://okkotv-live.cdnvideo.ru/channel/START_Air_HD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2174.png" group-title="Фильмы,сериалы",Дорама HD
 http://okkotv-live.cdnvideo.ru/channel/Dorama_HD/1080p.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7314.png" group-title="Фильмы,сериалы",Кинеко
-https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/644.png" group-title="Фильмы,сериалы",Киномикс
 http://moobl.ru/hls/Kinomix.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/987.png" group-title="Фильмы,сериалы",Киносемья
@@ -321,7 +319,7 @@ http://moobl.ru/hls/Kinosemya.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/462.png" group-title="Фильмы,сериалы",Киносвидание
 http://moobl.ru/hls/Kinosvidanie.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/kino-tv.png" group-title="Фильмы,сериалы",Кино ТВ
-http://91.220.135.165:81/55/tracks-v1a1v1/playlist.m3u8?token=test
+http://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/nash-kinopokaz.png" group-title="Фильмы,сериалы",Кинопоказ HD
 http://moobl.ru/hls/Kinopokaz.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/kinosezon.png" group-title="Фильмы,сериалы",КиноСезон
