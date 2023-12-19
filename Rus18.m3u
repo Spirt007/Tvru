@@ -232,7 +232,7 @@ http://iptv.mega.net.ru:8888/History_HD/index.m3u8
 #EXTINF:-1 group-title="Фильмы,сериалы",Cinema Classic
 http://moobl.ru/hls/Cinema_classic.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7314.png" group-title="Фильмы,сериалы",Кинеко 
-https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8 
+http://31.148.48.15/Kineko/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/russky-bestseller.png" group-title="Фильмы,сериалы",Русский бестселлер
 http://94.230.240.12:80/rusbestseller/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1570.png" group-title="Фильмы,сериалы",Русский детектив
