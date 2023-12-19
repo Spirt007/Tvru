@@ -353,7 +353,7 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 http://moobl.ru/hls/Komedijnoe_hd.m3u8
 
 #EXTINF:-1,  tvg-logo="https://picon.pp.ua/kinopremiera.png" group-title="Премьеры,хиты",Кинопремьера HD 
-http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
+https://tbs01-edge11.itdc.ge/kinopremyerahd/index.m3u8
 #EXTINF:-1,tvg-logo="https://picon.pp.ua/vip-premiere.png" group-title="Премьеры,хиты",Viju+ Premiere HD
 https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4760.png" group-title="Премьеры,хиты", BCU Premiere HD 
