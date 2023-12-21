@@ -122,7 +122,7 @@ http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1, tvg-logo="https://picon.pp.ua/krasnodar.png" group-title="Региональные",Краснодар
 http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/kuban-24.png" group-title="Региональные",Кубань 24
-https://river-7-701.rutube.ru/stream/musang-706.brz.rutube.ru/g4PKoerdAS9d6lLerUBKJA/1703085321/cb2f1d99b88c9b4d38df05cd7fa0a6c2/360p_stream.m3u8
+https://river-3-304.rutube.ru/stream/musang-706.brz.rutube.ru/9wpKragVM5-g21AL5APJHA/1703761004/cb2f1d99b88c9b4d38df05cd7fa0a6c2/360p_stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/690.png" group-title="Региональные",Санкт-Петербург
 http://dmi3y-tv.ru/hls/smotrim/region/CH_SANKTPETERBURG_SPB.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/don-24.png" group-title="Региональные",Дон 24 
