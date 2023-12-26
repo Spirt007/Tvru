@@ -58,9 +58,9 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 http://flu.ttk.mx:9090/Futbol/index.m3u8?token=orh6o
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/983.png" group-title="Общественные",Первый канал
-http://europe3.livetv.az/russia/pervyj_kanal/playlist.m3u8
+https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/984.png" group-title="Общественные",Россия 1 
-http://europe3.livetv.az/russia/rossiya_1/playlist.m3u8
+http://farm-vgtrk.rfn.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/162.png" group-title="Общественные",НТВ HD
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/tvcentr.png" group-title="Общественные",ТВ Центр
