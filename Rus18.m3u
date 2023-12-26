@@ -206,8 +206,10 @@ https://strm.yandex.ru/kal/ducktv_belarus/ducktv_belarus0.m3u8
 http://178.124.179.122:8088/karusel/index.m3u8
 #EXTINF:-1 group-title="Детские", Радость моя
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1332.png" group-title="Детские",Мульт
+https://strm.yandex.ru/kal/mult_belarus/mult_belarus0.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/cartoon-network.png" group-title="Детские",Cartoon Network
-http://europe3.livetv.az/russia/cartoon/playlist.m3u8
+
 #EXTINF:-1 group-title="Детские",VIP FAMILY
 http://moobl.ru/hls/VIP_family.m3u8
 
