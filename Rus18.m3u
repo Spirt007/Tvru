@@ -196,8 +196,6 @@ https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/play
 http://stream01.vnet.am/CartoonNetwork/mono.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/ryzhy.png" group-title="Детские", Рыжий 
 https://strm.yandex.ru/kal/ryzhii_sd_belarus/ryzhii_sd_belarus0.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/nickelodeon-ru.png" group-title="Детские", Nickelodeon HD
-http://45.144.31.195:8026/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/liova.png""  group-title="Детские", Лёва HD
 http://strm.yandex.ru/kal/leva/leva0.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/tiji.png""  group-title="Детские", TiJi
