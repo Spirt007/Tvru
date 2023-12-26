@@ -223,6 +223,8 @@ https://stream.backustv.ru/live/btv/index.m3u8
 http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/comedy-central-pl.png" group-title="Фильмы,сериалы", Comedy Central
 http://ucdn.beetv.kz/btv/live/hls/000000452.m3u8
+#EXTINF:-1 group-title="Фильмы,сериалы", Видеокассета
+https://media-gateway-cache.nuum.ru/live/4968/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/ostrosiuzhetnoe.png" group-title="Фильмы,сериалы", Остросюжетное
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/tvxxi.png" group-title="Фильмы,сериалы", TV XXI
@@ -272,11 +274,11 @@ http://flu.ttk.mx:9090/Komediya/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/muzhskoe-kino.png" group-title="Фильмы,сериалы", Мужское кино
 http://45.159.74.14:80/MujskoeKino/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/935.png" group-title="Фильмы,сериалы",.Black
-https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo/480p.m3u8
+http://94.232.104.237:8000/play/106/index.m3u8
 #EXTINF:-1 tvg-id="red.ru" tvg-logo="https://i.imgur.com/GET9Qut.png" group-title="Фильмы,сериалы",.Red  
-https://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
+https://cdn01.poster-abh.ru/red/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/516.png" group-title="Фильмы,сериалы",.Sci-Fi
-https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi/480p.m3u8
+https://cdn01.poster-abh.ru/sci-fi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1371.png" group-title="Фильмы,сериалы",Amedia 1 HD
 https://tbs01-edge11.Itdc.ge/amedia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2492.png" group-title="Фильмы,сериалы",Amedia 2 HD
