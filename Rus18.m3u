@@ -74,7 +74,8 @@ https://rentv-live-megafon2.mediavitrina.ru:443/hls-livef1/ren-tv/tracks-v5a1/mo
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/698.png" group-title="Общественные",ТВ-3
 https://bl.uma.media/live/317846/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/427.png" group-title="Общественные",Пятый канал 
-http://europe3.livetv.az/russia/5kanal/playlist.m3u8
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/726.png" group-title="Общественные",Мир
 http://dmi3y-tv.ru/hls/T2/CH_MIRHD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/669.png" group-title="Общественные",Время
@@ -88,7 +89,7 @@ http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1000.png" group-title="Общественные",ОТР
 https://sirius.greenhosting.ru/Otr/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/187.png" group-title="Общественные",Культура
-https://dvr-player.smotrim.ru/live/smil:russiak.smil/playlist.m3u8
+http://moobl.ru/hls/Russia_K.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2399.png" group-title="Общественные",Дождь
 https://1527562093.rsc.cdn77.org/transcode/ngrp:ses_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2295.png" group-title="Общественные",RTД HD
