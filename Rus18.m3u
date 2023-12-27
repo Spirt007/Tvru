@@ -300,7 +300,7 @@ https://cdn01.poster-abh.ru/Viju-plus-ComedyHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2838.png" group-title="Фильмы,сериалы",Viju+ Serial HD
 https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/267.png" group-title="Фильмы,сериалы",Viju TV1000 Русское кино HD
-http://europe3.livetv.az/russia/tv1000_russkoe_kino/playlist.m3u8
+http://tv.streams.baikal-telecom.net/TV1000RuKino/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6240.png" group-title="Фильмы,сериалы",Start World
 http://109.248.236.21:4433/udp/238.1.1.158:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2145.png" group-title="Фильмы,сериалы",Star Cinema
@@ -338,7 +338,7 @@ https://stream01.vnet.am/DomKino/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2020.png" group-title="Фильмы,сериалы",Дом кино Премиум HD
 http://moobl.ru/hls/Dom_kino_premium_hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/3357.png" group-title="Фильмы,сериалы",Мосфильм. Золотая коллекция
-http://europe3.livetv.az/russia/mosfilm/playlist.m3u8
+http://data.homeiptv.org:8090/Mosfilm/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/485.png" group-title="Фильмы,сериалы",Наше новое кино HD
 https://strm.yandex.ru/kal/nashe_novoe_kino_belarus/nashe_novoe_kino_belarus0.m3u8 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1754.png" group-title="Фильмы,сериалы",НТВ Сериал
