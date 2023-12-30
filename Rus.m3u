@@ -1,5 +1,9 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz, http://www.teleguide.info/download/new3/xmltv.xml.gz"
 
+tvg-logo="http://epg.it999.ru/img2/2044.png" group-title="Спортивные", Матч! Футбол 1 HD
+http://91.207.115.228:5000/c114
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/match-football2.png" group-title="Спортивные", Матч! Футбол 2 HD
+http://91.207.115.228:5000/c115
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/match-football3.png"group-title="Спортивные", Матч! Футбол 3 HD 
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/setanta-sports.png" group-title="Спортивные", Setanta Sports 1
@@ -11,15 +15,15 @@ http://146.59.85.40:89/setantaplus/mono.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/setanta-ua.png" group-title="Спортивные", Setanta Sports Ukraine
 rtmp://93.189.60.202//272
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/setanta-kz.png" group-title="Спортивные", Setanta Qazaqstan
-https://3oadqw1shf2.a.trbcdn.net/livemaster/jtf2d_live-81uc5nxeyae.smil/playlist.m3u8
+http://176.222.190.11/btv/SWM/Sentanta_Kaz/Sentanta_Kaz_720p_3500kbps.m3u8
 #EXTINF:-1 tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/sport.png" group-title="Спортивные",Turkmenistan Sport 
 https://alpha.tv.online.tm/hls/ch004.m3u8
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/match-tv.png" group-title="Спортивные", Матч! HD
+http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/match-premiere.png" group-title="Спортивные", Матч! Премьер HD 
 https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/qsport-kz.png" tvg-id="qsport-kz" group-title="Спортивные", QSport Казахстан
 http://89.254.128.5:22280/qsport/index.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/match-tv.png" group-title="Спортивные", Матч! HD
-http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/mir-basketbola.png" group-title="Спортивные", Мир баскетбола 
 http://95.217.196.109:8081/russia/mir_basketbola/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/kxl.png" group-title="Спортивные" tvg-id="KHL", KHL  
@@ -27,9 +31,9 @@ https://okkotv-live.cdnvideo.ru/dash/khl_hd_2/playlist.mpd
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/kxl-hd.png" group-title="Спортивные" tvg-id="KHL Prime", KHL Prime  
 https://okkotv-live.cdnvideo.ru/dash/khl_prime_hd/playlist.mpd
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/eurosport1.png" group-title="Спортивные", Eurosport 1 
-http://45.144.31.195:8016/playlist.m3u8
+http://86.57.211.182:32200/Eurosport1HD/index.m3u8?auth=token:test
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/eurosport2.png" group-title="Спортивные", Eurosport 2 
-https://ucdn.beetv.kz/btv/live/hls/000002479.m3u8
+http://86.57.211.182:32200/Eurosport2HD/index.m3u8?auth=token:test
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/match-igra.png" group-title="Спортивные", Матч! Игра HD
 http://bl.uma.media/live/154036/HLS/154036_4/2/1/playlist.m3u8
 #EXTINF:-1 channel-id="1818" tvg-logo="http://epg.it999.ru/img2/2055.png" group-title="Спортивные", viju+ Sport HD
@@ -168,6 +172,12 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
 http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/cnn.png" group-title="Новости",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Новости", BBC World News
+http://176.222.190.11/btv/SWM/BBC_World/BBC_World.m3u8
+#EXTINF:-1 group-title="Новости", France 24
+http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/solovjinypomiot.png" group-title="Новости",Соловьев Life
+https://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BP7tY6F.png" group-title="Беларусь",Беларусь 24
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
@@ -254,7 +264,7 @@ http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/kino-24.png" group-title="Фильмы,сериалы",Kino24
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2402.png" group-title="Фильмы,сериалы",Ретро
-http://178.124.179.122:8088/Retro/index.m3u8
+http://109.239.208.82:80/retro/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/sovkino.png" group-title="Фильмы,сериалы", Советское кино 
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4747.png" group-title="Фильмы,сериалы", BCU СССР HD
@@ -347,6 +357,8 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 http://moobl.ru/hls/Komedijnoe_hd.m3u8
 #EXTINF:-1 group-title="Фильмы,сериалы", Кинокомедия
 https://strm.yandex.ru/kal/kinokomedia_belarus/kinokomedia_belarus0.m3u8
+#EXTINF:-1 group-title="Премьеры,хиты", Kion Хит
+http://data.homeiptv.org:8090/KION_HIT_HD/video.m3u8 
 
 
 #EXTINF:-1,  tvg-logo="https://picon.pp.ua/kinopremiera.png" group-title="Премьеры,хиты",Кинопремьера HD 
@@ -369,8 +381,7 @@ http://moobl.ru/hls/Amedia_Premium_hd.m3u8
 http://185.26.157.3:8080/live/kinopremiumhd/mono.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/blokbaster.png" group-title="Премьеры,хиты", Блокбастер HD
 http://moobl.ru/hls/Blokbaster_hd.m3u8
-#EXTINF:-1 group-title="Премьеры,хиты", Kion Хит
-http://data.homeiptv.org:8090/KION_HIT_HD/video.m3u8 
+
 
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/europa-plus-tv.png" group-title="Музыкальные", Europa Plus TV
 http://europe3.livetv.az/russia/evropaplus/playlist.m3u8
