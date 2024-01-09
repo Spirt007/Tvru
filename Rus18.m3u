@@ -252,7 +252,7 @@ http://45.132.87.69:8080/foxlife/tracks-v1a1/index.m3u8
 rtmp://93.189.60.202//1071
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/filmbox-arthouse.png" group-title="Фильмы,сериалы", Filmbox Arthouse
 http://185.163.194.185:6991/208/mpegts
-#EXTINF:-1 group-title="Фильмы,сериалы", Kinoliving
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/kinoliving.png" group-title="Фильмы,сериалы", Kinoliving
 http://91.207.115.228:5000/c61
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/tvxxi.png" group-title="Фильмы,сериалы",TV XXI
 https://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
