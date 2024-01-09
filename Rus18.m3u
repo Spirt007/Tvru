@@ -67,8 +67,9 @@ http://flu.ttk.mx:9090/TVC/index.m3u8?token=orh6o
 https://rentv-live-megafon2.mediavitrina.ru:443/hls-livef1/ren-tv/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/698.png" group-title="Общественные",ТВ-3
 https://bl.uma.media/live/317846/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/427.png" group-title="Общественные",Пятый канал 
-http://213.59.128.165:8888/play/Pyatyj_kanal/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.it999.ru/img2/427.png" group-title="Общественные",Пятый канал 
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/726.png" group-title="Общественные",Мир
 http://dmi3y-tv.ru/hls/T2/CH_MIRHD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/669.png" group-title="Общественные",Время
@@ -174,9 +175,9 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
 http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/cnn.png" group-title="Новости",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Новости", BBC World News
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/bbc.png" group-title="Новости", BBC World News
 http://176.222.190.11/btv/SWM/BBC_World/BBC_World.m3u8
-#EXTINF:-1 group-title="Новости", France 24
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/france24.png" group-title="Новости", France 24
 http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/solovjinypomiot.png" group-title="Новости",Соловьев Life
 https://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
@@ -206,12 +207,12 @@ http://176.74.80.162:8099/Tiji/index.m3u8
 https://strm.yandex.ru/kal/ducktv_belarus/ducktv_belarus0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/740.png" group-title="Детские",Карусель
 http://178.124.179.122:8088/karusel/index.m3u8
-#EXTINF:-1 group-title="Детские", Радость моя
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/radost-moya.png" group-title="Детские", Радость моя
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1332.png" group-title="Детские",Мульт
 https://strm.yandex.ru/kal/mult_belarus/mult_belarus0.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/cartoon-network.png" group-title="Детские",Cartoon Network
-
+http://135.181.115.81/russia/cartoon/playlist.m3u8
 #EXTINF:-1 group-title="Детские",VIP FAMILY
 http://moobl.ru/hls/VIP_family.m3u8
 
@@ -241,7 +242,7 @@ http://94.232.104.237:8000/play/048/index.m3u8
 http://91.142.158.107:8092/play/25/index.m3u8
 #EXTINF:-1 tvg-logo="http://sd.uploads.ru/t/9tZ4v.png" group-title="Фильмы,сериалы",Родное кино
 https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
-#EXTINF:-1 group-title="Фильмы,сериалы", Любимое кино 
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/lubimoe-kino.png" group-title="Фильмы,сериалы", Любимое кино 
 http://185.163.194.185:8181/180/mpegts
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/fox.png" group-title="Фильмы,сериалы",Fox
 http://stream01.vnet.am/Fox/mono.m3u8
@@ -315,7 +316,7 @@ http://89.254.128.5:22280/star_family_hd/video.m3u8
 http://109.248.236.21:4433/udp/238.1.1.157:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2174.png" group-title="Фильмы,сериалы",Дорама HD
 http://okkotv-live.cdnvideo.ru/channel/Dorama_HD/1080p.m3u8
-#EXTINF:-1 group-title="Фильмы,сериалы", Киносат
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/kinosat.png" group-title="Фильмы,сериалы", Киносат
 https://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/644.png" group-title="Фильмы,сериалы",Киномикс
 https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
@@ -343,7 +344,7 @@ http://194.26.229.213/DomKino/index.m3u8
 http://195.245.99.251:8106
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/3357.png" group-title="Фильмы,сериалы",Мосфильм. Золотая коллекция
 http://stream-msk-05.ott.tricolor.tv/dtv/id711_MSKSG-PVR-1--Mosfilm_HD/03/plst.m3u8
-#EXTINF:-1 group-title="Фильмы,сериалы", Наше HD
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/3357.png" group-title="Фильмы,сериалы", Наше HD
 http://194.26.229.213/Nashe/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/485.png" group-title="Фильмы,сериалы",Наше новое кино HD
 https://strm.yandex.ru/kal/nashe_novoe_kino_belarus/nashe_novoe_kino_belarus0.m3u8
