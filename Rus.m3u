@@ -1,25 +1,25 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz, http://www.teleguide.info/download/new3/xmltv.xml.gz"
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2044.png" group-title="Спортивные", Матч! Футбол 1 HD
-http://91.205.165.11:22888/play/58/index.m3u8
+http://91.207.115.228:5000/c114
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/match-football2.png" group-title="Спортивные", Матч! Футбол 2 HD
-http://92.100.39.32:2289/play/a07g/index.m3u8
+http://91.207.115.228:5000/c115
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/match-football3.png"group-title="Спортивные", Матч! Футбол 3 HD 
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/setanta-sports.png" group-title="Спортивные", Setanta Sports 1
-https://kinescope.io/8d7BiRwYs73eSFpTXq4ara/master.m3u8
+http://194.26.229.213/777_Setanta-Sports-1/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/setanta-sports-plus.png" group-title="Спортивные", Setanta Sports 2
-https://kinescope.io/otaALtprAjbbfBJpXQep9p/master.m3u8
+http://194.26.229.213/777_Setanta-Sports-2/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/setanta-plus-ua.png" group-title="Спортивные", Setanta Sports+ Ukraine
 http://146.59.85.40:89/setantaplus/mono.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/setanta-ua.png" group-title="Спортивные", Setanta Sports Ukraine
-
+http://194.26.229.213/777_Setanta-Sports-Ukraine/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/setanta-kz.png" group-title="Спортивные", Setanta Qazaqstan
 http://176.222.190.11/btv/SWM/Sentanta_Kaz/Sentanta_Kaz_720p_3500kbps.m3u8
 #EXTINF:-1 tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/sport.png" group-title="Спортивные",Turkmenistan Sport 
-https://alpha.tv.online.tm/hls/ch004.m3u8
+
 #EXTINF:-1 group-title="Спортивные", Okko Спорт HD 
-https://kinescope.io/45MS3AGtLrPJPTSP2XPf7Y/master.m3u8
+http://194.26.229.213/777_oKkO/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/match-tv.png" group-title="Спортивные", Матч! HD
 http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/match-premiere.png" group-title="Спортивные", Матч! Премьер HD 
