@@ -26,7 +26,7 @@ http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
 https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u88
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/qsport-kz.png" tvg-id="qsport-kz" group-title="Спортивные", QSport Казахстан
 http://89.254.128.5:22280/qsport/index.m3u8 
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/q-sport-ext.png" tvg-id="qsport-kz" group-title="Спортивные", Q League
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/q-sport-ext.png" tvg-id="q-sport-ext" group-title="Спортивные", Q League
 http://109.248.236.21:4433/udp/238.1.1.143:1234 
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/mir-basketbola.png" group-title="Спортивные", Мир баскетбола 
 
