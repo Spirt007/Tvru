@@ -173,7 +173,7 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/360-news.png" group-title="Новости",360° Новости
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/euronews.png" group-title="Новости", Euronews
-http://portal.ott.pink/watch/7045/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3015.png" group-title="Новости", Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1683.png" group-title="Новости",Россия 24
@@ -186,7 +186,9 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 http://176.222.190.11/btv/SWM/BBC_World/BBC_World.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/france24.png" group-title="Новости", France 24
 http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/solovjinypomiot.png" group-title="Новости",Соловьев Life
+#EXTINF:-1 group-title="Новости", Rai News 24
+https://streamcdnb4-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/solovjinypomiot.png" group-title="Новости",Соловьев.Life
 https://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BP7tY6F.png" group-title="Беларусь",Беларусь 24
