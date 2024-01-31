@@ -84,10 +84,12 @@ https://dom-live-megafon2.mediavitrina.ru:443/hls-livef1/ctc-dom/tracks-v5a1/mon
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1755.png" group-title="Общественные",НТВ Стиль
 http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1000.png" group-title="Общественные",ОТР
-https://sirius.greenhosting.ru/Otr/video.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/187.png" group-title="Общественные",Культура
-http://moobl.ru/hls/Russia_K.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общественные" tvg-id="otr", ОТР
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="kultura", Россия К
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2399.png" group-title="Общественные",Дождь
 https://1527562093.rsc.cdn77.org/transcode/ngrp:ses_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2295.png" group-title="Общественные",RTД HD
