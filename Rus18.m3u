@@ -25,9 +25,11 @@ http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/match-premiere.png" group-title="Спортивные", Матч! Премьер HD 
 https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/qsport-kz.png" tvg-id="qsport-kz" group-title="Спортивные", QSport Казахстан
-http://89.254.128.5:22280/qsport/index.m3u8
+http://89.254.128.5:22280/qsport/index.m3u8 
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/q-sport-ext.png" tvg-id="qsport-kz" group-title="Спорт", Q League
+http://109.248.236.21:4433/udp/238.1.1.143:1234 
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/mir-basketbola.png" group-title="Спортивные", Мир баскетбола 
-http://92.100.39.32:2289/play/a07u/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/kxl.png" group-title="Спортивные" tvg-id="KHL", KHL  
 http://bl.uma.media/live/148307/HLS/148307_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/kxl-hd.png" group-title="Спортивные" tvg-id="KHL Prime", KHL Prime  
@@ -36,14 +38,14 @@ http://bl.uma.media/live/171748/HLS/171748_4/2/1/playlist.m3u8
 http://86.57.211.182:32200/Eurosport1HD/index.m3u8?auth=token:test
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/eurosport2.png" group-title="Спортивные", Eurosport 2 
 http://86.57.211.182:32200/Eurosport2HD/index.m3u8?auth=token:test
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/match-igra.png" group-title="Спортивные", Матч! Игра HD
-http://bl.uma.media/live/154036/HLS/154036_4/2/1/playlist.m3u8
 #EXTINF:-1 channel-id="1818" tvg-logo="http://epg.it999.ru/img2/2055.png" group-title="Спортивные", viju+ Sport HD
-http://moobl.ru/hls/Viju_plus_Sport_hd.m3u8
+http://94.232.104.237:8000/play/063/index.m3u8
 #EXTINF:-1, tvg-logo="http://epg.it999.ru/img2/2530.png" group-title="Спортивные", Старт
 https://strm.yandex.ru/kal/start/start0.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/start-triumf.png" group-title="Спортивные", Старт Триумф HD
-https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
+ https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/match-igra.png" group-title="Спортивные", Матч! Игра HD
+http://bl.uma.media/live/154036/HLS/154036_4/2/1/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://epg.it999.ru/img2/2042.png" group-title="Спортивные",Матч! Страна
 http://bl.uma.media/live/291663/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://epg.it999.ru/img2/2003.png" group-title="Спортивные",Матч! Арена
@@ -52,8 +54,10 @@ http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
 http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus5.by" tvg-logo="https://i.imgur.com/NJsRFud.png" group-title="Спортивные",Беларусь 5 
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1,tvg-logo="https://picon.pp.ua/football-ru.png" group-title="Спортивные,Футбол
+#EXTINF:-1,tvg-logo="https://picon.pp.ua/football-ru.png" group-title="Спортивные",Футбол
 http://flu.ttk.mx:9090/Futbol/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="Спортивные", Футбольный HD
+http://194.26.229.213/777_futboln/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/983.png" group-title="Общественные",Первый канал
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
