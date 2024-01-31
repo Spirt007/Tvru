@@ -130,13 +130,13 @@ http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/kuban-24.png" group-title="Региональные",Кубань 24
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/690.png" group-title="Региональные",Санкт-Петербург
-http://dmi3y-tv.ru/hls/smotrim/region/CH_SANKTPETERBURG_SPB.m3u8
+https://player.smotrim.ru/iframe/stream/live_id/62037
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/don-24.png" group-title="Региональные",Дон 24 
 https://donmedia.bonus-tv.ru/cdn/donmedia/playlist_sdmid.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/rostov-papa.png" group-title="Региональные",Ростов-папа 
 https://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/moskva-24.png" group-title="Региональные",Москва 24
-https://dvr-player.smotrim.ru/hls/moscow_24/playlist.m3u8
+http://212.22.76.51:83/Moskva_24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/sochi24.png" group-title="Региональные",Сочи 24
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/astraxan24.png" group-title="Региональные",Астрахань 24
@@ -158,13 +158,13 @@ https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/a42jk7b.png" group-title="Региональные",Липецкое время
 http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/doverie.png" group-title="Региональные",Москва. Доверие
-https://dvr-player.smotrim.ru/hls/doverie/playlist.m3u8
+https://player.smotrim.ru/iframe/stream/live_id/61125
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZWgPVIC.png" group-title="Региональные",Нижний Новгород 24
 https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/nts-sevastopol.png" group-title="Региональные",НТС Севастополь
 https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="ttp://epg.it999.ru/img2/7701.png" group-title="Региональные",Лен ТВ 24
-https://dvr-player.smotrim.ru/hls2/lentv24/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://picon.pp.ua/region29.png" group-title="Региональные",Регион 29
 http://live-atkmedia.cdnvideo.ru/atkmedia/atkmedia/playlist.m3u8
 
