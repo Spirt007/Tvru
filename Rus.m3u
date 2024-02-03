@@ -248,6 +248,10 @@ http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playli
 https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
 #EXTINF:-1 group-title="Фильмы,сериалы",Cinema Classic
 
+#EXTINF:-1 tvg-id="ViasatKino.ua" tvg-logo="https://i.imgur.com/io0WAkA.png" group-title="Фильмы,сериалы",Viasat Kino 
+http://89.254.128.5:22280/viasat_kino/index.m3u8
+#EXTINF:-1 tvg-id="ViasatKinoAction.ua" tvg-logo="https://i.imgur.com/HwsNIDK.png" group-title="Фильмы,сериалы",Viasat Kino Action
+http://89.254.128.5:22280/viasat_kino_action/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7314.png" group-title="Фильмы,сериалы",Кинеко 
 http://217.25.80.15/FOX_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/russky-bestseller.png" group-title="Фильмы,сериалы",Русский бестселлер
@@ -282,7 +286,7 @@ https://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
 http://94.232.104.237:8000/play/049/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/flixsnip.png" group-title="Фильмы,сериалы",FlixSnip 
 http://91.207.115.228:5000/c60
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/IMG_20230720_080606.jpg" group-title="Фильмы,сериалы",  312
+#EXTINF:-1 tvg-id="312TV.kg" tvg-logo="https://i.imgur.com/iLSGi6c.png" group-title="Фильмы,сериалы",312 ТВ 
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/312-kino.png" group-title="Фильмы,сериалы",312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
@@ -388,6 +392,8 @@ https://strm.yandex.ru/kal/kinokomedia_belarus/kinokomedia_belarus0.m3u8
 http://data.homeiptv.org:8090/KION_HIT_HD/video.m3u8 
 
 
+#EXTINF:-1,  tvg-logo="https://picon.pp.ua/kinopremiera.png" group-title="Премьеры,хиты",Кинопремьера  
+http://streaming.tv-teleport.ru/Kinopokaz/index.m3u8
 #EXTINF:-1,  tvg-logo="https://picon.pp.ua/kinopremiera.png" group-title="Премьеры,хиты",Кинопремьера HD 
 https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
 #EXTINF:-1,tvg-logo="https://picon.pp.ua/vip-premiere.png" group-title="Премьеры,хиты",Viju+ Premiere HD
