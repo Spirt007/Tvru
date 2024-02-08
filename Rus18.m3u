@@ -478,7 +478,7 @@ http://146.158.0.56:80/365dney/index.m3u8
 https://strm.yandex.ru/kal/hd_life_belarus/hd_life_belarus0.m3u8
 
 #EXTINF:-1 , tvg-logo="https://picon.pp.ua/brazzers.png" group-title="18+", Brazzers TV Europe
-http://194.190.78.91:8080/brazzers/index.m3u8 
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://picon.pp.ua/penthouse-gold.png" group-title="18+", Penthouse Gold HD
 http://51.159.102.100/PenthouseGold/index.m3u8
 #EXTINF:-1, tvg-logo="https://i.imgur.com/41Ej2io.png" group-title="18+", Hustler HD
@@ -497,6 +497,8 @@ https://cdn-main.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
 http://31.148.48.15/O-la-la/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/clpxgYh.png" group-title="18+",Playboy TV
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1, Extasy HD
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://picon.pp.ua/retro-fm.png" group-title="Радио" radio="true",Ретро FM
 http://europaplus.hostingradio.ru:8014/retro320.mp3
