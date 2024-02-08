@@ -9,7 +9,7 @@ http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/setanta-sports.png" group-title="Спортивные", Setanta Sports 1
 http://176.222.190.11/btv/SWM/SetantaSport_HD/SetantaSport_HD_720p_3500kbps.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/setanta-sports-plus.png" group-title="Спортивные", Setanta Sports 2
-http://176.222.190.11/btv/SWM/SetantaSportPlus_HD/SetantaSportPlus_HD.m3u8
+
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/setanta-plus-ua.png" group-title="Спортивные", Setanta Sports+ Ukraine
 
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/setanta-ua.png" group-title="Спортивные", Setanta Sports Ukraine
@@ -19,7 +19,7 @@ http://176.222.190.11/btv/SWM/Sentanta_Kaz/Sentanta_Kaz_720p_3500kbps.m3u8
 #EXTINF:-1 tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/sport.png" group-title="Спортивные",Turkmenistan Sport 
 
 #EXTINF:-1 group-title="Спортивные", Okko Спорт HD 
-http://194.26.229.213/777_oKkO/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/match-tv.png" group-title="Спортивные", Матч! HD
 http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/match-premiere.png" group-title="Спортивные", Матч! Премьер HD 
