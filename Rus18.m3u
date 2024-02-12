@@ -43,7 +43,7 @@ http://217.25.80.15/Viasat_Sport_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-logo="http://epg.it999.ru/img2/2530.png" group-title="Спортивные", Старт
 https://strm.yandex.ru/kal/start/start0.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/start-triumf.png" group-title="Спортивные", Старт Триумф HD
-https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
+https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/1080p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph/
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/match-igra.png" group-title="Спортивные", Матч! Игра HD
 http://bl.uma.media/live/154036/HLS/154036_4/2/1/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://epg.it999.ru/img2/2042.png" group-title="Спортивные",Матч! Страна
@@ -329,7 +329,7 @@ http://217.25.80.15/TV1000_Action_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1011.png" group-title="Фильмы,сериалы",Viju+ Comedy HD
 http://91.207.115.228:5000/c143
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2838.png" group-title="Фильмы,сериалы",Viju+ Serial HD
-http://91.205.199.3:80/vipserialhd/index.m3u8
+http://31.148.6.4:10215/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/267.png" group-title="Фильмы,сериалы",Viju TV1000 Русское кино HD
 http://94.232.104.237:8000/play/041/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6240.png" group-title="Фильмы,сериалы",Start World
