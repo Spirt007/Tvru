@@ -21,7 +21,7 @@ http://91.207.115.228:5000/c115
 #EXTINF:-1 group-title="Спортивные", Okko Спорт HD 
 
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/match-tv.png" group-title="Спортивные", Матч! HD
-
+http://91.142.158.107:8092/play/33/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/match-premiere.png" group-title="Спортивные", Матч! Премьер HD 
 
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/qsport-kz.png" tvg-id="qsport-kz" group-title="Спортивные", QSport Казахстан
