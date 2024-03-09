@@ -19,11 +19,11 @@ http://otv.wotom.net:4433/udp/238.1.1.161:1234
 #EXTINF:-1 tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/sport.png" group-title="Спортивные",Turkmenistan Sport 
 
 #EXTINF:-1 group-title="Спортивные", Okko Спорт HD 
-
+http://90.156.210.69:8080/okka/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/match-tv.png" group-title="Спортивные", Матч! HD
 http://91.142.158.107:8092/play/33/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/match-premiere.png" group-title="Спортивные", Матч! Премьер HD 
-http://92.242.110.52:9835/udp/238.1.2.3:1234
+http://otv.wotom.net:4433/udp/238.1.1.14:1234
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/qsport-kz.png" tvg-id="qsport-kz" group-title="Спортивные", QSport Казахстан
 http://89.254.128.5:22280/qsport/index.m3u8 
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/q-sport-ext.png" tvg-id="q-sport-ext" group-title="Спортивные", Q League
