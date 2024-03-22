@@ -504,8 +504,10 @@ https://cdn-main.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
 http://31.148.48.15/O-la-la/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/clpxgYh.png" group-title="18+",Playboy TV
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1, Extasy HD
+#EXTINF:-1 ,group-title="18+", Extasy HD
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1, group-title="18+", PassionXXX
+https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://picon.pp.ua/retro-fm.png" group-title="Радио" radio="true",Ретро FM
 http://europaplus.hostingradio.ru:8014/retro320.mp3
