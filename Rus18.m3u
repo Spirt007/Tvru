@@ -264,7 +264,7 @@ http://217.25.80.15/FOX_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/russky-bestseller.png" group-title="Фильмы,сериалы",Русский бестселлер
 http://91.142.158.107:8092/play/26/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1570.png" group-title="Фильмы,сериалы",Русский детектив
-http://91.207.115.228:5000/c35
+http://91.142.158.107:8092/play/27/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/russky-illuzion.png" group-title="Фильмы,сериалы",Русский иллюзион
 http://94.232.104.237:8000/play/048/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/russky-roman.png" group-title="Фильмы,сериалы",Русский роман
