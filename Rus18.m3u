@@ -6,15 +6,15 @@ http://194.143.148.28:8080/MatchFutbol1/mpegts
 http://80.85.241.205:8070/m2/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2005.png" group-title="Спортивные", Матч! Футбол 3 HD 
 http://185.57.68.33/110/mpegts
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/setanta-sports.png" group-title="Спортивные", Setanta Sports 1
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7517.png" group-title="Спортивные", Setanta Sports 1
 http://otv.wotom.net:4433/udp/238.1.1.162:1234
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/setanta-sports-plus.png" group-title="Спортивные", Setanta Sports 2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2363.png" group-title="Спортивные", Setanta Sports 2
 http://otv.wotom.net:4433/udp/238.1.1.163:1234
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/setanta-plus-ua.png" group-title="Спортивные", Setanta Sports+ Ukraine
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6860.png" group-title="Спортивные", Setanta Sports+ Ukraine
 http://146.59.85.40:89/setantaplus/mono.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/setanta-ua.png" group-title="Спортивные", Setanta Sports Ukraine
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2370.png" group-title="Спортивные", Setanta Sports Ukraine
 http://194.26.229.213/777_Setanta-Sports-Ukraine/index.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/setanta-kz.png" group-title="Спортивные", Setanta Qazaqstan
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2630.png" group-title="Спортивные", Setanta Qazaqstan
 https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
 #EXTINF:-1 group-title="Спортивные", Sport+ Qazaqstan
 http://87.76.32.36:9106/udp/238.1.1.204:1234
@@ -26,11 +26,11 @@ https://alpha.tv.online.tm/hls/ch004.m3u8
 http://91.142.158.107:8092/play/33/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/match-premiere.png" group-title="Спортивные", Матч! Премьер HD 
 http://83.234.207.29:8004/play/a014/index.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/qsport-kz.png" tvg-id="qsport-kz" group-title="Спортивные", QSport Казахстан
+#EXTINF:-1  tvg-id="qsport-kz" group-title="Спортивные", QSport Казахстан
 http://89.254.128.5:22280/qsport/index.m3u8 
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/q-sport-ext.png" tvg-id="q-sport-ext" group-title="Спортивные", Q League
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/q-sport-ext.png" group-title="Спортивные", Q League
 http://109.248.236.21:4433/udp/238.1.1.143:1234
-#EXTINF:-1 group-title="Спортивные", Q Arena
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/qsport-kz.png" group-title="Спортивные", Q Arena
 http://otv.wotom.net:4433/udp/238.1.1.142:1234 
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/mir-basketbola.png" group-title="Спортивные", Мир баскетбола 
 http://92.242.110.52:9835/udp/238.1.1.17:1234
@@ -89,9 +89,9 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1755.png" group-title="Общественные",НТВ Стиль
 https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/3004.png" group-title="Общественные", ОТР
-
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
-#EXTINF:-1 group-title="Общественные" tvg-id="kultura", Россия К
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/187.png" group-title="Общественные" , Россия К
 http://91.142.158.107:8092/play/36/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2399.png" group-title="Общественные",Дождь
 https://1527562093.rsc.cdn77.org/transcode/ngrp:ses_all/playlist.m3u8
@@ -139,7 +139,7 @@ https://player.smotrim.ru/iframe/stream/live_id/62037
 https://donmedia.bonus-tv.ru/cdn/donmedia/playlist_sdmid.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/rostov-papa.png" group-title="Региональные",Ростов-папа 
 https://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/moskva-24.png" group-title="Региональные",Москва 24
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/334.png" group-title="Региональные",Москва 24
 http://212.22.76.51:83/Moskva_24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/sochi24.png" group-title="Региональные",Сочи 24
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
@@ -192,7 +192,7 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 http://176.222.190.11/btv/SWM/BBC_World/BBC_World.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/france24.png" group-title="Новости", France 24
 http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
-#EXTINF:-1 group-title="Новости", Rai News 24
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6470.png" group-title="Новости", Rai News 24
 https://streamcdnb4-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/solovjinypomiot.png" group-title="Новости",Соловьев.Live
 https://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
@@ -210,7 +210,7 @@ https://edge60.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://picon.pp.ua/smaylik-tv.png" group-title="Детские", Смайлик ТВ 
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/detsky-mir.png" group-title="Детские", Детский мир 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/923.png" group-title="Детские", Детский мир 
 http://stream01.vnet.am/CartoonNetwork/mono.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/ryzhy.png" group-title="Детские", Рыжий 
 https://strm.yandex.ru/kal/ryzhii_sd_belarus/ryzhii_sd_belarus0.m3u8
@@ -222,11 +222,11 @@ http://stream01.vnet.am/Tiji/mono.m3u8
 https://strm.yandex.ru/kal/ducktv_belarus/ducktv_belarus0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/740.png" group-title="Детские",Карусель
 http://178.124.179.122:8088/karusel/index.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/radost-moya.png" group-title="Детские", Радость моя
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2287.png" group-title="Детские", Радость моя
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1332.png" group-title="Детские",Мульт
 https://strm.yandex.ru/kal/mult_belarus/mult_belarus0.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/cartoon-network.png" group-title="Детские",Cartoon Network
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7852.png" group-title="Детские",Cartoon Network
 http://135.181.115.81/russia/cartoon/playlist.m3u8
 #EXTINF:-1 group-title="Детские",VIP FAMILY
 
@@ -252,7 +252,7 @@ https://media-gateway-cache.nuum.ru/live/4968/index.m3u8
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/cinema.png" group-title="Фильмы,сериалы", Cinema HD
 http://176.74.80.162:8099/Cinema/index.m3u8
-#EXTINF:-1 group-title="Фильмы,сериалы",Cinema Classic
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/cinema.png" group-title="Фильмы,сериалы",Cinema Classic
 https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 #EXTINF:-1 tvg-id="ViasatKino.ua" tvg-logo="https://i.imgur.com/io0WAkA.png" group-title="Фильмы,сериалы",Viasat Kino 
 http://89.254.128.5:22280/viasat_kino/index.m3u8
