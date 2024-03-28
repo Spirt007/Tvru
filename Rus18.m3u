@@ -423,15 +423,15 @@ http://otv.wotom.net:4433/udp/238.1.1.71:1234
 
 
 
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/backustv-music.png" group-title="Музыка", BackusTV Music 
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/backustv-music.png" group-title="Музыкальные", BackusTV Music 
 https://stream.backustv.ru/live/btv3/index.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/europa-plus-tv.png" group-title="Музыкальные", Europa Plus TV
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/681.png" group-title="Музыкальные", Europa Plus TV
 http://45.15.43.12:80/europaplus/video.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4037.png" group-title="Музыкальные",1HD
 http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2837.png" group-title="Музыкальные",AIVA HD
 
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/bridge-tv.png" group-title="Музыкальные",Bridge
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/151.png" group-title="Музыкальные",Bridge
 https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJTQq81.png" group-title="Музыкальные", Bridge TV Classic
 https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
@@ -439,11 +439,11 @@ https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
 https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4621.png" group-title="Музыкальные",Bridge TV Шлягер
 https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/bridge-tv-rock.png" group-title="Музыкальные",Bridge TV Rock
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6188.png" group-title="Музыкальные",Bridge TV Rock
 https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/bridge-hd.png" group-title="Музыкальные",Bridge TV Deluxe
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2022.png" group-title="Музыкальные",Bridge TV Deluxe
 https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/bridge-tv-dance.png" group-title="Музыкальные", Bridge TV Hits
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2024.png" group-title="Музыкальные", Bridge TV Hits
 https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2277.png" group-title="Музыкальные",RU.TV HD
 https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
@@ -463,7 +463,7 @@ https://bkm.beetv.kz/btv/live/hls/000000264.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/156.png" group-title="Музыкальные", MTV 80s
 http://45.5.119.155:8090/play/a0ge/index.m3u8
-#EXTINF:-1 group-title="Музыка", MTV Hits 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1723.png" group-title="Музыкальные", MTV Hits 
 https://tr003.androidtvbox.co.hu/tr3_MTVHits_SD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2310.png" group-title="Познавательные",Первый Космический
