@@ -39,13 +39,13 @@ https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/kxl-hd.png" group-title="Спортивные" tvg-id="KHL Prime", KHL Prime  
 https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/eurosport1.png" group-title="Спортивные", Eurosport 1 
-http://86.57.211.182:32200/Eurosport1HD/index.m3u8?auth=token:test
+http://45.159.74.14:80/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/eurosport2.png" group-title="Спортивные", Eurosport 2 
 http://86.57.211.182:32200/Eurosport2HD/index.m3u8?auth=token:test
 #EXTINF:-1 channel-id="1818" tvg-logo="http://epg.it999.ru/img2/2055.png" group-title="Спортивные", viju+ Sport HD
 https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
 #EXTINF:-1, tvg-logo="http://epg.it999.ru/img2/2530.png" group-title="Спортивные", Старт
-https://strm.yandex.ru/kal/start/start0.m3u8
+http://188.113.190.15/127/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/start-triumf.png" group-title="Спортивные", Старт Триумф HD
 https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/1080p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph/
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2050.png" group-title="Спортивные", Матч! Игра HD
@@ -179,7 +179,7 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/360-news.png" group-title="Новости",360° Новости
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/euronews.png" group-title="Новости", Euronews
-
+https://bkm.beetv.kz/btv/live/hls/000000025.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3015.png" group-title="Новости", Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1683.png" group-title="Новости",Россия 24
@@ -189,11 +189,13 @@ http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/cnn.png" group-title="Новости",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/bbc.png" group-title="Новости", BBC World News
-http://176.222.190.11/btv/SWM/BBC_World/BBC_World.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000014.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/france24.png" group-title="Новости", France 24
-http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6470.png" group-title="Новости", Rai News 24
 https://streamcdnb4-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="https://1000marken.net/wp-content/uploads/2021/01/Sky-News-Logo-2048x1152.png", Sky News
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8 
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/solovjinypomiot.png" group-title="Новости",Соловьев.Live
 https://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
 
