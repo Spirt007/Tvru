@@ -244,8 +244,6 @@ http://stream.backustv.ru/live/btv/index.m3u8
 http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/comedy-central-pl.png" group-title="Фильмы,сериалы", Comedy Central
 https://bkm.beetv.kz/btv/live/hls/000000452.m3u8
-#EXTINF:-1 tvg-logo="https://epgx.site/p/tvoyo-tv-hd.png" group-title="Фильмы,сериалы",Твоё ТВ HD
-http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="Фильмы,сериалы", Видеокассета
 https://media-gateway-cache.nuum.ru/live/4968/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/ostrosiuzhetnoe.png" group-title="Фильмы,сериалы", Остросюжетное
