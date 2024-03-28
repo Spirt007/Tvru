@@ -222,20 +222,20 @@ http://stream01.vnet.am/Tiji/mono.m3u8
 https://strm.yandex.ru/kal/ducktv_belarus/ducktv_belarus0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/740.png" group-title="Детские",Карусель
 http://178.124.179.122:8088/karusel/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2287.png" group-title="Детские", Радость моя
-https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1332.png" group-title="Детские",Мульт
 https://strm.yandex.ru/kal/mult_belarus/mult_belarus0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7852.png" group-title="Детские",Cartoon Network
-http://135.181.115.81/russia/cartoon/playlist.m3u8
-#EXTINF:-1 group-title="Детские",VIP FAMILY
-
+https://bkm.beetv.kz/btv/live/hls/000000015.m3u8
 #EXTINF:-1 tvg-logo="https://epgx.site/p/boomerang.png" group-title="Детские",Cartoonito
-http://135.181.115.81/russia/boomerang/playlist.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000160.m3u8
 #EXTINF:-1 tvg-logo="https://epgx.site/p/gulli-girl.png" group-title="Детские",Gulli Girl
-http://135.181.115.81/russia/gulli_girl/playlist.m3u8
+https://strm.yandex.ru/kal/gulli_girl_belarus/gulli_girl_belarus0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2481.png" group-title="Детские",СТС Kids
 http://45.159.74.13:80/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1tvg-logo="http://epg.it999.ru/img2/423.png"  group-title="Детские", Nickelodeon
+http://88.135.128.20:7272/DL3JGiEPHMCY4vy
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/3784.png" group-title="Детские", Nick Jr.
+http://88.135.128.20:7272/Jke5tdvCxp2Yhs6
 
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4770.png" group-title="Фильмы,сериалы",BackusTV Original
