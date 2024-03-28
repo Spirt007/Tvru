@@ -402,23 +402,23 @@ http://stream02.vnet.am/Kinopremera/mono.m3u8
 #EXTINF:-1,  tvg-logo="https://picon.pp.ua/kinopremiera.png" group-title="Премьеры,хиты",Кинопремьера HD 
 https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
 #EXTINF:-1,tvg-logo="https://picon.pp.ua/vip-premiere.png" group-title="Премьеры,хиты",Viju+ Premiere HD
-http://91.207.115.228:5000/c145 
+https://bkm.beetv.kz/btv/live/hls/000000868.m3u8
 #EXTINF:-1, tvg-logo="https://picon.pp.ua/vip-megahit.png" group-title="Премьеры,хиты",Viju+ Megahit HD
-http://91.207.115.228:5000/c144
+http://92.242.110.52:9835/udp/238.1.3.7:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4760.png" group-title="Премьеры,хиты", BCU Premiere HD 
 
 #EXTINF:-1, tvg-logo="https://picon.pp.ua/kinoxit.png" group-title="Премьеры,хиты",Кинохит 
 https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/khit.png" group-title="Фильмы,сериалы",Хит HD
-http://65.21.196.155/russia/hit_hd/playlist.m3u8
+
 #EXTINF:-1, tvg-logo="https://picon.pp.ua/amedia-hit.png" group-title="Премьеры,хиты",Amedia Hit HD
-http://65.21.196.155/russia/amedia_hit/playlist.m3u8
+http://otv.wotom.net:4433/udp/238.1.1.96:1234
 #EXTINF:-1, tvg-logo="https://picon.pp.ua/amedia-premium.png" group-title="Премьеры,хиты",Amedia Premium HD 
-http://91.207.115.228:5000/c58
+http://otv.wotom.net:4433/udp/238.1.1.71:1234
 #EXTINF:-1, tvg-logo="https://picon.pp.ua/premialnoe-hd.png" group-title="Премьеры,хиты", Премиальное HD 
-http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/blokbaster.png" group-title="Премьеры,хиты", Блокбастер HD
-http://65.21.196.155/russia/blokbaster/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/europa-plus-tv.png" group-title="Музыкальные", Europa Plus TV
