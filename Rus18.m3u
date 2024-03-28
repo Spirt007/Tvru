@@ -421,7 +421,7 @@ http://otv.wotom.net:4433/udp/238.1.1.71:1234
 
 
 
-#EXTINF:-1 group-title="Музыка", BackusTV Music 
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/backustv-music.png" group-title="Музыка", BackusTV Music 
 https://stream.backustv.ru/live/btv3/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/europa-plus-tv.png" group-title="Музыкальные", Europa Plus TV
 http://45.15.43.12:80/europaplus/video.m3u8?token=test
