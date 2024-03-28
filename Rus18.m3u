@@ -27,7 +27,7 @@ http://91.142.158.107:8092/play/33/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/match-premiere.png" group-title="Спортивные", Матч! Премьер HD 
 http://83.234.207.29:8004/play/a014/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/qsport-kz.png" tvg-id="qsport-kz" group-title="Спортивные", QSport Казахстан
-http://89.254.128.5:22280/qsport/index.m3u8 
+http://88.135.128.20:7272/ipKJnd6cVw1Nu7a
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/q-sport-ext.png" tvg-id="q-sport-ext" group-title="Спортивные", Q League
 http://109.248.236.21:4433/udp/238.1.1.143:1234
 #EXTINF:-1 group-title="Спортивные", Q Arena
@@ -39,15 +39,15 @@ https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/kxl-hd.png" group-title="Спортивные" tvg-id="KHL Prime", KHL Prime  
 https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/eurosport1.png" group-title="Спортивные", Eurosport 1 
-http://86.57.211.182:32200/Eurosport1HD/index.m3u8?auth=token:test
+http://88.135.128.20:7272/mlR5cGNUsvBxcv8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/eurosport2.png" group-title="Спортивные", Eurosport 2 
-http://86.57.211.182:32200/Eurosport2HD/index.m3u8?auth=token:test
+http://193.201.98.10:5000/c154
 #EXTINF:-1 channel-id="1818" tvg-logo="http://epg.it999.ru/img2/2055.png" group-title="Спортивные", viju+ Sport HD
 https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
 #EXTINF:-1, tvg-logo="http://epg.it999.ru/img2/2530.png" group-title="Спортивные", Старт
 https://strm.yandex.ru/kal/start/start0.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/start-triumf.png" group-title="Спортивные", Старт Триумф HD
-https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/1080p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph/
+ https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2050.png" group-title="Спортивные", Матч! Игра HD
 http://188.190.222.48:80/Match_Igra_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-logo="http://epg.it999.ru/img2/2042.png" group-title="Спортивные",Матч! Страна
@@ -88,7 +88,7 @@ http://88.135.128.20:7272/CGGe9lr8Dx9PZy1
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1755.png" group-title="Общественные",НТВ Стиль
 https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/3004.png" group-title="Общественные", ОТР
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/5867.png" group-title="Общественные", ОТР
 
 https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 #EXTINF:-1 group-title="Общественные" tvg-id="kultura", Россия К
@@ -140,7 +140,7 @@ https://donmedia.bonus-tv.ru/cdn/donmedia/playlist_sdmid.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/rostov-papa.png" group-title="Региональные",Ростов-папа 
 https://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/moskva-24.png" group-title="Региональные",Москва 24
-http://212.22.76.51:83/Moskva_24/tracks-v1a1/mono.m3u8
+http://92.242.110.52:9835/udp/238.1.9.22:1234
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/sochi24.png" group-title="Региональные",Сочи 24
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/astraxan24.png" group-title="Региональные",Астрахань 24
@@ -244,6 +244,10 @@ http://stream.backustv.ru/live/btv/index.m3u8
 http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/comedy-central-pl.png" group-title="Фильмы,сериалы", Comedy Central
 https://bkm.beetv.kz/btv/live/hls/000000452.m3u8
+#EXTINF:-1 group-title="Фильмы,сериалы" tvg-id="ntv-xit", НТВ-Хит HD 
+https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
+#EXTINF:-1 group-title="Фильмы,сериалы" tvg-id="ntv-serial", НТВ-Сериал HD 
+https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
 #EXTINF:-1 tvg-logo="https://epgx.site/p/tvoyo-tv-hd.png" group-title="Фильмы,сериалы",Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="Фильмы,сериалы", Видеокассета
