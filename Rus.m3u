@@ -400,8 +400,7 @@ http://stream01.vnet.am/Fox/mono.m3u8
 http://146.158.0.56:80/Motosport/index.m3u8
 #EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-logo="https://epgx.site/p/viju-tv1000-novella.png" group-title="Фильмы,сериалы",Viju TV1000 Новелла 
 http://158.101.194.132:8080/channel/n51877d66/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
-#EXTINF:-1 tvg-id="vip-comedy" tvg-logo="https://epgx.site/p/vip-comedy.png" group-title="Фильмы,сериалы",Viju+ Comedy
-http://188.113.190.15/203/tracks-v1a1/index.m3u8
+
 
 
 #EXTINF:-1  tvg-logo="https://picon.pp.ua/kinopremiera.png" group-title="Премьеры,хиты", Кинопремьера
