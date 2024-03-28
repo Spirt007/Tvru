@@ -246,8 +246,6 @@ http://stream.backustv.ru/live/btv/index.m3u8
 http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/920.png" group-title="Фильмы,сериалы", Comedy Central
 https://bkm.beetv.kz/btv/live/hls/000000452.m3u8
-#EXTINF:-1 tvg-id="Hollywood.ru" tvg-logo="https://i.imgur.com/1j7cT2I.png" group-title="Фильмы,сериалы",Hollywood
-
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6005.png" group-title="Фильмы,сериалы", Видеокассета VHS
 https://media-gateway-cache.nuum.ru/live/4968/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/ostrosiuzhetnoe.png" group-title="Фильмы,сериалы", Остросюжетное
@@ -311,20 +309,20 @@ http://91.142.158.107:8092/play/30/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/muzhskoe-kino.png" group-title="Фильмы,сериалы", Мужское кино
 http://45.159.74.14:80/MujskoeKino/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/935.png" group-title="Фильмы,сериалы",.Black
-http://94.232.104.237:8000/play/106/index.m3u8
+http://91.205.199.3/black/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="red.ru" tvg-logo="https://i.imgur.com/GET9Qut.png" group-title="Фильмы,сериалы",.Red  
-http://91.207.115.228:5000/c78
+http://91.205.199.3:80/red/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/516.png" group-title="Фильмы,сериалы",.Sci-Fi
-http://91.207.115.228:5000/c77
+http://188.113.190.15/23/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1371.png" group-title="Фильмы,сериалы",Amedia 1 HD
-http://176.222.190.11/btv/SWM/A1/A1.m3u8
+http://45.15.43.12:80/amedia1/video.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2492.png" group-title="Фильмы,сериалы",Amedia 2 HD
-http://176.222.190.11/btv/SWM/A2/A2.m3u8
+http://176.113.48.221:8986/128
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2359.png" group-title="Фильмы,сериалы",FAN
-http://65.21.196.155/russia/fan/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/zee-tv.png" group-title="Фильмы,сериалы",Индия
-http://94.232.104.237:8000/play/097/index.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/indijskoe-kino.png"" group-title="Фильмы,сериалы",Индийское кино
+http://92.242.110.52:9835/udp/238.1.7.6:1234
+#EXTINF:-1 tvg-logo="https://epgx.site/p/zee-tv.png" group-title="Фильмы,сериалы",Индия
+https://stream01.vnet.am/ZeeTV/mono.m3u8
+#EXTINF:-1 tvg-logo="https://epgx.site/p/indijskoe-kino.png" group-title="Фильмы,сериалы",Индийское кино
 http://45.11.139.43:8081/stream/jimi/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/608.png" group-title="Фильмы,сериалы",HollywooD HD
 https://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
