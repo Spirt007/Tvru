@@ -421,12 +421,14 @@ http://otv.wotom.net:4433/udp/238.1.1.71:1234
 
 
 
+#EXTINF:-1 group-title="Музыка", BackusTV Music 
+https://stream.backustv.ru/live/btv3/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/europa-plus-tv.png" group-title="Музыкальные", Europa Plus TV
-http://strm.yandex.ru/kal/europa_plus_tv/europa_plus_tv0.m3u8
+http://45.15.43.12:80/europaplus/video.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4037.png" group-title="Музыкальные",1HD
 http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2837.png" group-title="Музыкальные",AIVA HD
-http://217.25.80.15/aiva_hd/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/bridge-tv.png" group-title="Музыкальные",Bridge
 https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJTQq81.png" group-title="Музыкальные", Bridge TV Classic
@@ -446,19 +448,21 @@ https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/5369.png" group-title="Музыкальные",Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2415.png" group-title="Музыкальные",Жар Птица
-http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/897.png" group-title="Музыкальные",Муз ТВ
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/680.png" group-title="Музыкальные",ТНТ Music HD
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Музыкальные",Angel TV
-https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelrussia_all/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7838.png" group-title="Музыкальные", MTV 00s
-http://89.254.128.5:22280/mtv_00/video.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000264.m3u8
 #EXTINF:-1 group-title="Музыкальные", MTV Classic
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/156.png" group-title="Музыкальные", MTV 80s
 http://45.5.119.155:8090/play/a0ge/index.m3u8
+#EXTINF:-1 group-title="Музыка", MTV Hits 
+https://tr003.androidtvbox.co.hu/tr3_MTVHits_SD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2310.png" group-title="Познавательные",Первый Космический
 http://stream01.vnet.am/Evrika/mono.m3u8
