@@ -39,9 +39,9 @@ https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/kxl-hd.png" group-title="Спортивные" tvg-id="KHL Prime", KHL Prime  
 https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/eurosport1.png" group-title="Спортивные", Eurosport 1 
-http://45.159.74.14:80/Eurosport/tracks-v1a2/mono.m3u8
+http://176.113.48.221:8986/63
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/eurosport2.png" group-title="Спортивные", Eurosport 2 
-http://86.57.211.182:32200/Eurosport2HD/index.m3u8?auth=token:test
+http://193.201.98.10:5000/c154
 #EXTINF:-1 channel-id="1818" tvg-logo="http://epg.it999.ru/img2/2055.png" group-title="Спортивные", viju+ Sport HD
 https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
 #EXTINF:-1, tvg-logo="http://epg.it999.ru/img2/2530.png" group-title="Спортивные", Старт
@@ -124,6 +124,8 @@ https://strm.yandex.ru/kal/kvn_tv_belarus/kvn_tv_belarus0.m3u8
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/On6ggLe.png" group-title="Развлекательные", Перец
 http://178.124.179.122:8088/Peretz/index.m3u8
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/zal-suda.png" group-title="Развлекательные", Зал суда
+http://95.156.76.230:33001/udp/230.4.34.6:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2304.png" group-title="Развлекательные",Телекафе
 http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epgx.site/p/tvoyo-tv-hd.png" group-title="Развлекательные",Твоё ТВ HD
@@ -279,7 +281,7 @@ https://bkm.beetv.kz/btv/live/hls/000004471.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2181.png" tvg-id="filmbox-ru" group-title="Фильмы,сериалы",Filmbox 
 
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/filmzone.png" group-title="Фильмы,сериалы", FilmZone
-http://88.135.128.20:7272/ko7BKj9NV0ZCX2C
+
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/431.png" group-title="Фильмы,сериалы", Shot TV
 http://92.242.110.52:9835/udp/238.1.6.2:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2182.png" group-title="Фильмы,сериалы", Filmbox Arthouse
@@ -382,6 +384,8 @@ http://otv.wotom.net:4433/udp/238.1.1.100:1234
 http://217.25.80.15/nashe_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/485.png" group-title="Фильмы,сериалы",Наше новое кино HD
 https://strm.yandex.ru/kal/nashe_novoe_kino_belarus/nashe_novoe_kino_belarus0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uzj7wVp.png" group-title="Фильмы,сериалы", Мир сериала 
+http://109.248.236.21:4433/udp/238.1.1.136:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1754.png" group-title="Фильмы,сериалы",НТВ Сериал
 http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2041.png" group-title="Фильмы,сериалы",НТВ Хит
@@ -400,6 +404,12 @@ https://strm.yandex.ru/kal/kinokomedia_belarus/kinokomedia_belarus0.m3u8
 http://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 tvg-id="romance" tvg-logo="https://epgx.site/p/romance.png" group-title="Фильмы,сериалы",Romance
 http://146.158.0.56:80/Motosport/index.m3u8
+#EXTINF:-1 tvg-logo=""https://picon.pp.ua/bolt.png" group-title="Фильмы,сериалы", Bolt
+http://88.135.128.20:7272/6B1DxxB8sXUqpZM
+#EXTINF:-1 tvg-logo=""https://epgx.site/p/plan-b.png" group-title="Фильмы,сериалы", Plan B HD 
+http://88.85.172.243:7012/play/a028
+#EXTINF:-1 group-title="Фильмы,сериалы", VHSка
+http://strm.yandex.ru/kal/vhs_ka/vhs_ka0.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://picon.pp.ua/kinopremiera.png" group-title="Премьеры,хиты", Кинопремьера
