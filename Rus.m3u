@@ -382,6 +382,8 @@ http://otv.wotom.net:4433/udp/238.1.1.100:1234
 http://217.25.80.15/nashe_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/485.png" group-title="Фильмы,сериалы",Наше новое кино HD
 https://strm.yandex.ru/kal/nashe_novoe_kino_belarus/nashe_novoe_kino_belarus0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uzj7wVp.png" group-title="Фильмы,сериалы", Мир сериала 
+http://109.248.236.21:4433/udp/238.1.1.136:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1754.png" group-title="Фильмы,сериалы",НТВ Сериал
 http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2041.png" group-title="Фильмы,сериалы",НТВ Хит
