@@ -90,7 +90,7 @@ http://88.135.128.20:7272/CGGe9lr8Dx9PZy1
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1755.png" group-title="Общественные",НТВ Стиль
 https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
-#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/e2f886585f0a9003ad258d7aa18b83b8.png" group-title="Общественные",ОТР
+#EXTINF:-1 tvg-logo="https://epgx.site/p/otr.png" group-title="Общественные",ОТР
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/187.png" group-title="Общественные",Россия К
