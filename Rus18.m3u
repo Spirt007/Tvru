@@ -22,11 +22,11 @@ http://87.76.32.36:9106/udp/238.1.1.204:1234
 https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1 tvg-logo="https://epgx.site/p/okko-sport.png" group-title="Спортивные",Okko Спорт HD 
 http://90.156.210.69:8080/okka/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/match-tv.png" group-title="Спортивные",Матч! HD
+#EXTINF:-1 tvg-logo="https://epgx.site/p/match-tv.png" group-title="Спортивные",Матч! HD
 http://91.142.158.107:8092/play/33/index.m3u
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/match-premiere.png" group-title="Спортивные",Матч! Премьер HD
+#EXTINF:-1 tvg-logo="https://epgx.site/p/match-premiere.png" group-title="Спортивные",Матч! Премьер HD
 http://92.242.110.52:9835/udp/238.1.2.3:1234
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/match-premiere.png" group-title="Спортивные",Матч! Премьер HD
+#EXTINF:-1 tvg-logo="https://epgx.site/p/match-premiere.png" group-title="Спортивные",Матч! Премьер HD
 http://83.234.207.29:8004/play/a014/index.m3u8
 #EXTINF:-1 tvg-logo="https://epgx.site/p/qsport-kz.png" tvg-id="qsport-kz" group-title="Спортивные",QSport Казахстан
 http://89.254.128.5:22280/qsport/index.m3u8 
