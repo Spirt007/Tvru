@@ -34,7 +34,7 @@ http://89.254.128.5:22280/qsport/index.m3u8
 http://109.248.236.21:4433/udp/238.1.1.143:1234
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/qsport-kz.png" group-title="Спортивные",Q Arena
 http://otv.wotom.net:4433/udp/238.1.1.142:1234 
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/mir-basketbola.png" group-title="Спортивные",Мир баскетбола 
+#EXTINF:-1 tvg-id="mir-basketbola tvg-logo="https://picon.pp.ua/mir-basketbola.png" group-title="Спортивные",Мир баскетбола 
 http://92.242.110.52:9835/udp/238.1.1.17:1234
 #EXTINF:-1 tvg-logo="https://epgx.site/p/kxl.png" group-title="Спортивные" tvg-id="KHL",KHL
 https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
