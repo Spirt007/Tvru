@@ -126,7 +126,7 @@ https://strm.yandex.ru/kal/kvn_tv_belarus/kvn_tv_belarus0.m3u8
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/On6ggLe.png" group-title="Развлекательные",Перец
 http://178.124.179.122:8088/Peretz/index.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/zal-suda.png" group-title="Развлекательные",Зал суда
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/3550.png" group-title="Развлекательные",Зал суда
 http://95.156.76.230:33001/udp/230.4.34.6:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2304.png" group-title="Развлекательные",Телекафе
 http://stream01.vnet.am/Telekafe/mono.m3u8
