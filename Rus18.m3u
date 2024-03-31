@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2044.png" group-title="Спортивные",Матч! Футбол 1 HD
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1042.png" group-title="Спортивные",Матч! Футбол 2 HD
-http://80.85.241.205:8070/m2/index.m3u8
+https://kinescope.io/5cuYjysVnE1GWyZm2uTbRx/master.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2005.png" group-title="Спортивные",Матч! Футбол 3 HD 
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7517.png" group-title="Спортивные",Setanta Sports 1
@@ -21,7 +21,7 @@ http://87.76.32.36:9106/udp/238.1.1.204:1234
 #EXTINF:-1 tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/sport.png" group-title="Спортивные",Turkmenistan Sport 
 https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1 tvg-logo="https://epgx.site/p/okko-sport.png" group-title="Спортивные",Okko Спорт HD 
-
+http://90.156.210.69:8080/okka/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/match-tv.png" group-title="Спортивные",Матч! HD
 http://91.142.158.107:8092/play/33/index.m3u
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/match-premiere.png" group-title="Спортивные",Матч! Премьер HD
