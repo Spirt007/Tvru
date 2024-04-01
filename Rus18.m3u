@@ -552,23 +552,24 @@ http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="18+",PassionXXX
 https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/retro-fm.png" group-title="Радио" radio="true",Ретро FM
+#EXTINF:-1, tvg-logo="https://epgx.site/p/retro-fm.png" group-title="Радио" radio="true",Ретро FM
 http://europaplus.hostingradio.ru:8014/retro320.mp3
-#EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-nashe-radio." group-title="Радио"radio="true",Наше радио
+#EXTINF:-1, tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-nashe-radio." group-title="Радио"radio="true",Наше радио
 http://nashe1.hostingradio.ru/nashespb128.mp3
-#EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-rock-fm.png" group-title="Радио" radio="true",ROCK-FM 
+#EXTINF:-1,tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-rock-fm.png" group-title="Радио" radio="true",ROCK-FM 
 http://nashe1.hostingradio.ru/rock-64.mp3
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/xit-fm.png" group-title="Радио" radio="true",Хит FM
+#EXTINF:-1,tvg-logo="https://epgx.site/p/xit-fm.png" group-title="Радио" radio="true",Хит FM
 http://hitfm.hostingradio.ru/hitfm96.aacp
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/russkoe-radio.png" group-title="Радио" radio="true",Русское радио
+#EXTINF:-1, tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-russkoe-radio.png" group-title="Радио" radio="true",Русское радио
 http://rusradio.hostingradio.ru/rusradio96.aacp
-#EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-radio-maximum.jpg" group-title="Радио" radio="true",Maximum
+#EXTINF:-1, tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-radio-maximum.jpg" group-title="Радио" radio="true",Maximum
 http://maximum.hostingradio.ru/maximum96.aacp
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/vesti-fm.png" group-title="Радио" radio="true",Вести FM
+#EXTINF:-1, tvg-logo="https://epgx.site/p/vesti-fm.png" group-title="Радио" radio="true",Вести FM
 http://icecast.vgtrk.cdnvideo.ru/vestifm
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/europa-plus-radio.png" group-title="Радио" radio="true",Радио Европа Плюс
+#EXTINF:-1, tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-europa-plus.png" group-title="Радио" radio="true",Радио Европа Плюс
 http://europaplus.hostingradio.ru:8014/europaplus320.mp3
-#EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-radio-ultra.png" group-title="Радио" radio="true",Ultra
+#EXTINF:-1, tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-radio-ultra.png" group-title="Радио" radio="true",Ultra
 http://nashe1.hostingradio.ru/ultra-64.mp3
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/yumor-fm.png" group-title="Радио" radio="true",Юмор FM
+#EXTINF:-1, tvg-logo="https://epgx.site/p/yumor-fm.png" radio="true",Юмор FM
 https://pub0301.101.ru:8443/stream/air/mp3/256/102
+
