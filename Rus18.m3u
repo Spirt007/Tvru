@@ -14,7 +14,7 @@ http://otv.wotom.net:4433/udp/238.1.1.163:1234
 http://146.59.85.40:89/setantaplus/mono.m3u8
 #EXTINF:-1 tvg-id="setanta-ua" tvg-logo="http://epg.it999.ru/img2/2370.png" group-title="Спортивные",Setanta Sports Ukraine
 http://194.26.229.213/777_Setanta-Sports-Ukraine/index.m3u8
-#EXTINF:-1 tvg-id="setanta1-kz" tvg-logo="http://epg.it999.ru/img2/2630.png" group-title="Спортивные",Setanta Sports Qazaqstan
+#EXTINF:-1 tvg-id="setanta-kz" tvg-logo="http://epg.it999.ru/img2/2630.png" group-title="Спортивные",Setanta Sports Qazaqstan
 https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
 #EXTINF:-1 tvg-id="sport-plus-kz" tvg-logo="https://epgx.site/p/sport-plus-kz.png" group-title="Спортивные",Sport+ Qazaqstan
 http://87.76.32.36:9106/udp/238.1.1.204:1234
