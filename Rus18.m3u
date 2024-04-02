@@ -1,14 +1,14 @@
 #EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="match-football1" tvg-logo="http://epg.it999.ru/img2/2044.png" group-title="Спортивные",Матч! Футбол 1
+#EXTINF:-1 tvg-id="match-football1" tvg-logo="http://epg.it999.ru/img2/2044.png" group-title="Спортивные",Матч! Футбол 1 HD
 http://194.143.148.28:8080/MatchFutbol1/mpegts
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1042.png" group-title="Спортивные",Матч! Футбол 2 HD
+#EXTINF:-1 tvg-id="match-football2" tvg-logo="http://epg.it999.ru/img2/1042.png" group-title="Спортивные",Матч! Футбол 2 HD
 http://91.207.114.209:5000/c115
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2005.png" group-title="Спортивные",Матч! Футбол 3 HD 
+#EXTINF:-1 tvg-id="match-football2" tvg-logo="http://epg.it999.ru/img2/2005.png" group-title="Спортивные",Матч! Футбол 3 HD 
 http://185.57.68.33/110/mpegts
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7517.png" group-title="Спортивные",Setanta Sports 1
+#EXTINF:-1 tvg-id="setanta-sports" tvg-logo="http://epg.it999.ru/img2/7517.png" group-title="Спортивные",Setanta Sports 1
 http://otv.wotom.net:4433/udp/238.1.1.162:1234
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2363.png" group-title="Спортивные",Setanta Sports 2
+#EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="http://epg.it999.ru/img2/2363.png" group-title="Спортивные",Setanta Sports 2
 http://otv.wotom.net:4433/udp/238.1.1.163:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6860.png" group-title="Спортивные",Setanta Sports+ Ukraine
 http://146.59.85.40:89/setantaplus/mono.m3u8
@@ -90,7 +90,7 @@ http://92.242.110.52:9835/udp/238.1.11.25:1234
 http://88.135.128.20:7272/CGGe9lr8Dx9PZy1
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="https://epgx.site/p/zvezda.png" group-title="Общественные",Звезда
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1755.png" group-title="Общественные",НТВ Стиль
+#EXTINF:-1 tvg-id="ntv-style" tvg-logo="http://epg.it999.ru/img2/1755.png" group-title="Общественные",НТВ Стиль
 https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
 #EXTINF:-1 tvg-id="otr" tvg-logo="https://epgx.site/p/otr.png" group-title="Общественные",ОТР
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
