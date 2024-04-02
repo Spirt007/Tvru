@@ -547,5 +547,5 @@ http://icecast.vgtrk.cdnvideo.ru/vestifm
 http://europaplus.hostingradio.ru:8014/europaplus320.mp3
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-radio-ultra.png" group-title="Радио" radio="true",Ultra
 http://nashe1.hostingradio.ru/ultra-64.mp3
-#EXTINF:-1 tvg-logo="https://epgx.site/p/yumor-fm.png" group-title="Радио radio="true",Юмор FM
+#EXTINF:-1 tvg-logo="https://epgx.site/p/yumor-fm.png" group-title="Радио" radio="true",Юмор FM
 https://pub0301.101.ru:8443/stream/air/mp3/256/102
