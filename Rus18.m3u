@@ -205,14 +205,13 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/828.png" group-title="Новости",BBC World News
 https://bkm.beetv.kz/btv/live/hls/000000014.m3u8
 #EXTINF:-1 tvg-logo="https://epgx.site/p/france24.png" group-title="Новости",France 24
-https://bkm.beetv.kz/btv/live/hls/000000290.m3u8
+
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6470.png" group-title="Новости",Rai News 24 HD
 https://streamcdnb4-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
 #EXTINF:-1 group-title="Новости" tvg-logo="https://1000marken.net/wp-content/uploads/2021/01/Sky-News-Logo-2048x1152.png",Sky News
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8 
 #EXTINF:-1 tvg-logo="https://epgx.site/p/solovjinypomiot.png" group-title="Новости",Соловьев.Live
 https://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
-
 
 
 
@@ -226,5 +225,36 @@ https://edge60.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 https://edge60.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2540.png" group-title="Беларусь",Беларусь 3 HD
 https://edge60.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+
+
+
+#EXTINF:-1  tvg-logo="https://epgx.site/p/smaylik-tv.png" group-title="Детские",Смайлик ТВ 
+https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/923.png" group-title="Детские",Детский мир 
+http://stream01.vnet.am/CartoonNetwork/mono.m3u8
+#EXTINF:-1 tvg-logo="https://epgx.site/p/ryzhy.png" group-title="Детские",Рыжий 
+https://strm.yandex.ru/kal/ryzhii_sd_belarus/ryzhii_sd_belarus0.m3u8
+#EXTINF:-1 tvg-logo="https://epgx.site/p/liova.png" group-title="Детские",Лёва HD
+http://strm.yandex.ru/kal/leva/leva0.m3u8
+#EXTINF:-1 channel id="tiji" tvg-logo="https://epgx.site/p/tiji.png" group-title="Детские", TiJi
+http://stream01.vnet.am/Tiji/mono.m3u8
+#EXTINF:-1 tvg-logo="https://epgx.site/p/ducktv.png" group-title="Детские", Duck TV HD
+https://strm.yandex.ru/kal/ducktv_belarus/ducktv_belarus0.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/740.png" group-title="Детские",Карусель
+http://178.124.179.122:8088/karusel/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1332.png" group-title="Детские",Мульт
+https://strm.yandex.ru/kal/mult_belarus/mult_belarus0.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7852.png" group-title="Детские",Cartoon Network
+https://bkm.beetv.kz/btv/live/hls/000000015.m3u8
+#EXTINF:-1 tvg-logo="https://epgx.site/p/boomerang.png" group-title="Детские",Cartoonito
+https://bkm.beetv.kz/btv/live/hls/000000160.m3u8
+#EXTINF:-1 tvg-logo="https://epgx.site/p/gulli-girl.png" group-title="Детские",Gulli Girl
+https://strm.yandex.ru/kal/gulli_girl_belarus/gulli_girl_belarus0.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2481.png" group-title="Детские",СТС Kids
+http://45.159.74.13:80/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1tvg-logo="http://epg.it999.ru/img2/423.png"  group-title="Детские", Nickelodeon
+http://88.135.128.20:7272/DL3JGiEPHMCY4vy
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/3784.png" group-title="Детские",Nick Jr
+http://88.135.128.20:7272/Jke5tdvCxp2Yhs6
 
 
