@@ -425,3 +425,168 @@ http://88.85.172.243:7012/play/a028
 http://strm.yandex.ru/kal/vhs_ka/vhs_ka0.m3u8
 #EXTINF:-1 tvg-id="kinojam2" tvg-logo="https://epgx.site/p/kinojam2.png" group-title="Фильмы,сериалы",Kinojam 2 
 https://live-mirror-12.ott.tricolor.tv/dtv/id861_MSKSG-PVR-1--Kinojam_2/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTAyNTUwMDYwNTg4MiIsImV4cCI6MTY5MjczNTA3OCwiaHdpZCI6IjA1OTgxOTUwMjliODE3MzIxYTQ2MGE3M2QwNWRjNGY5M2I5ZmM0NjM5OWFlOWRmYzJlZTZiMGUwNDVhZWViYzkiLCJsYXN0X3JlcV9kYXRlIjoxNjkyMTMwMjc4LCJzZXNzaW9uX2lkIjoiOWNmODQ0NGJiOGM3NWI5NGFjNDJiM2JkNGI3ZWMxMzIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.hUXvl74L08qIrIia8T5RQVD8khzcJt-HW6HB1kR6Shc
+
+
+
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/566.png" group-title="Премьеры,хиты",Кинопремьера
+http://stream02.vnet.am/Kinopremera/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/566.png" group-title="Премьеры,хиты",Кинопремьера HD 
+https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1013.png" group-title="Премьеры,хиты",Viju+ Premiere HD
+https://bkm.beetv.kz/btv/live/hls/000000868.m3u8
+#EXTINF:-1 tvg-logo=""http://epg.it999.ru/img2/1012.png" group-title="Премьеры,хиты",Viju+ Megahit HD
+http://92.242.110.52:9835/udp/238.1.3.7:1234
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4760.png" group-title="Премьеры,хиты",BCU Premiere HD 
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/542.png" group-title="Премьеры,хиты",Кинохит 
+https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2041.png" group-title="Фильмы,сериалы",Хит HD
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2007.png" group-title="Премьеры,хиты",Amedia Hit HD
+http://otv.wotom.net:4433/udp/238.1.1.96:1234
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1372.png" group-title="Премьеры,хиты",Amedia Premium HD 
+http://otv.wotom.net:4433/udp/238.1.1.71:1234
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2732.png" group-title="Премьеры,хиты",Премиальное HD 
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2832.png" group-title="Премьеры,хиты",Блокбастер HD
+
+
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6262.png" group-title="Музыкальные",BackusTV Music 
+https://stream.backustv.ru/live/btv3/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/681.png" group-title="Музыкальные",Europa Plus TV
+http://45.15.43.12:80/europaplus/video.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4037.png" group-title="Музыкальные",1HD
+http://91.247.68.229:8000/play/eee/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2837.png" group-title="Музыкальные",AIVA HD
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/151.png" group-title="Музыкальные",Bridge
+https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JJTQq81.png" group-title="Музыкальные",Bridge TV Classic
+https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/591.png" group-title="Музыкальные",Bridge TV Русский хит
+https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4621.png" group-title="Музыкальные",Bridge TV Шлягер
+https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6188.png" group-title="Музыкальные",Bridge TV Rock
+https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2022.png" group-title="Музыкальные",Bridge TV Deluxe
+https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2024.png" group-title="Музыкальные",Bridge TV Hits
+https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2277.png" group-title="Музыкальные",RU.TV HD
+https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/5369.png" group-title="Музыкальные",Страна FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2415.png" group-title="Музыкальные",Жар Птица
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/897.png" group-title="Музыкальные",Муз ТВ
+http://stream01.vnet.am/MuzTv/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/680.png" group-title="Музыкальные",ТНТ Music HD
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Музыкальные",Angel TV
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7838.png" group-title="Музыкальные",MTV 00&#039;s PT
+https://bkm.beetv.kz/btv/live/hls/000000264.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6426.png" group-title="Музыкальные", MTV Classic
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/156.png" group-title="Музыкальные",MTV 80s
+http://45.5.119.155:8090/play/a0ge/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1723.png" group-title="Музыкальные",MTV Hits 
+https://tr003.androidtvbox.co.hu/tr3_MTVHits_SD/index.m3u8?token=test
+
+
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2310.png" group-title="Познавательные",Первый Космический
+http://stream01.vnet.am/Evrika/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/410.png" group-title="Познавательные",Da Vinci
+http://92.242.110.52:9835/udp/238.1.8.45:1234
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/275.png" group-title="Познавательные",Top Secret
+http://45.15.43.12:80/sovershennosekretno/video.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1036.png" group-title="Познавательные",История
+http://stream01.vnet.am/Istoria/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/648.png" tvg-id="RTG.ru" group-title="Познавательные",RTG 
+http://176.113.48.221:8986/104
+#EXTINF:-1tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-nauka-2-0.jpg"  group-title="Познавательные",Наука 2.0
+http://188.113.190.15/96/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2762.png" group-title="Познавательные",24 Техно
+https://strm.yandex.ru/kal/t24_belarus/t24_belarus0.m3u8
+#EXTINF:-1 tvg-logo="tvg-logo="https://i.imgur.com/W7ste2f.png" group-title="Познавательные",Неизвестная Россия HD
+https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2356.png" group-title="Познавательные",H2
+https://bkm.beetv.kz/btv/live/hls/000002722.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2423.png" group-title="Познавательные",365 дней ТВ 
+http://146.158.0.56:80/365dney/index.m3u8
+#EXTINF:-1 tvg-id="HDL.ru" tvg-logo="https://i.imgur.com/tKgmhxh.png" group-title="Познавательные",HD Life
+https://strm.yandex.ru/kal/hd_life_belarus/hd_life_belarus0.m3u8
+#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://epgx.site/p/viasat-history.png" group-title="Познавательные",Viju History 
+http://31.131.136.4:8001/play/e002
+#EXTINF:-1 tvg-id="viasat-nature" tvg-logo="https://epgx.site/p/viasat-nature.png" group-title="Познавательные",Viju Nature
+http://91.205.199.3:80/viasatnature/index.m3u8
+#EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-logo="http://epg.it999.ru/img2/2012.png" group-title="Познавательные",Viju+ Planet
+http://31.131.136.4:8001/play/e006
+#EXTINF:-1 tvg-id="animal-planet-eu" tvg-logo="https://epgx.site/p/animal-planet-eu.png" group-title="Познавательные",Animal Planet
+http://45.159.74.14:80/AnimalPlanet/tracks-v1a2/mono.m3u8
+#EXTINF:-1 tvg-id="big-planet" tvg-logo="https://epgx.site/p/big-planet.png" group-title="Познавательные",Big Planet
+http://92.242.110.52:9835/udp/238.1.8.20:1234
+#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://epgx.site/p/discovery-channel.png" group-title="Познавательные",Discovery
+http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
+#EXTINF:-1 tvg-id="galaxy-tv" tvg-logo="https://epgx.site/p/galaxy-tv.png" group-title="Познавательные",Galaxy TV
+http://146.158.0.56/Galaxy/mono.m3u8
+#EXTINF:-1 tvg-id="id-xtra-eu" tvg-logo="https://epgx.site/p/idxtra.png" group-title="Познавательные",ID Xtra
+http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://epgx.site/p/nat-geo-wild.png" group-title="Познавательные",Nat Geo Wild
+http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ocean-tv" tvg-id="ocean-tv" tvg-logo="https://epgx.site/p/ocean-tv.png" group-title="Познавательные",Ocean 
+http://camera.global-x.ru/OceanTV/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://epgx.site/p/brazzers.png" group-title="18+",Brazzers TV Europe
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://epgx.site/p/penthouse-gold.png" group-title="18+",Penthouse Gold HD
+http://146.59.54.163/353/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/41Ej2io.png" group-title="18+",Hustler HD
+https://cdn-main.lolokoko.tv/HUSTLER.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://epgx.site/p/private-tv.png" group-title="18+",Private HD
+https://cdn-main.lolokoko.tv/Private.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://epgx.site/p/sholk.png" group-title="18+",Шелк
+http://live-1.otcnet.ru/shelkhdmts/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2528.png" group-title="18+",Vivid Red
+http://146.59.54.163:80/361/mono.m3u8
+#EXTINF:-1 tvg-logo="https://epgx.site/p/dorcel.png" group-title="18+",Dorcel TV 
+https://cdn-main.lolokoko.tv/DorcelTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://epgx.site/p/redlight-hd.png" group-title="18+",Redlight HD 
+https://cdn-main.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://epgx.site/p/o-la-la.pngg" group-title="18+",O-la-la
+http://31.148.48.15/O-la-la/index.m3u8
+#EXTINF:-1 tvg-logo="https://epgx.site/p/playboy-tv.pngg" group-title="18+",Playboy TV
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://epgx.site/p/extasytv.png" group-title="18+",Extasy HD
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://epgx.site/p/passionxxx.png" group-title="18+",PassionXXX
+https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://epgx.site/p/retro-fm.png" group-title="Радио" radio="true",Ретро FM
+http://europaplus.hostingradio.ru:8014/retro320.mp3
+#EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-nashe-radio." group-title="Радио"radio="true",Наше радио
+http://nashe1.hostingradio.ru/nashespb128.mp3
+#EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-rock-fm.png" group-title="Радио" radio="true",ROCK-FM 
+http://nashe1.hostingradio.ru/rock-64.mp3
+#EXTINF:-1 tvg-logo="https://epgx.site/p/xit-fm.png" group-title="Радио" radio="true",Хит FM
+http://hitfm.hostingradio.ru/hitfm96.aacp
+#EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-russkoe-radio.png" group-title="Радио" radio="true",Русское радио
+http://rusradio.hostingradio.ru/rusradio96.aacp
+#EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-radio-maximum.jpg" group-title="Радио" radio="true",Maximum
+http://maximum.hostingradio.ru/maximum96.aacp
+#EXTINF:-1 tvg-logo="https://epgx.site/p/vesti-fm.png" group-title="Радио" radio="true",Вести FM
+http://icecast.vgtrk.cdnvideo.ru/vestifm
+#EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-europa-plus.png" group-title="Радио" radio="true",Радио Европа Плюс
+http://europaplus.hostingradio.ru:8014/europaplus320.mp3
+#EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-radio-ultra.png" group-title="Радио" radio="true",Ultra
+http://nashe1.hostingradio.ru/ultra-64.mp3
+#EXTINF:-1 tvg-logo="https://epgx.site/p/yumor-fm.png" group-title="Радио" radio="true",Юмор FM
+https://pub0301.101.ru:8443/stream/air/mp3/256/102
