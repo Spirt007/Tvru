@@ -77,7 +77,7 @@ http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-logo="https://epgx.site/p/rentv.png" group-title="Общественные",Рен ТВ
 http://185.37.150.46:8092/RenTV_HD/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/698.png" group-title="Общественные",ТВ-3
+#EXTINF:-1 tvg-id="tv3-ru" tvg-logo="http://epg.it999.ru/img2/698.png" group-title="Общественные",ТВ-3
 http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-logo="https://epgx.site/p/5kanal-ru.png" group-title="Общественные",Пятый канал 
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -95,9 +95,9 @@ https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
 #EXTINF:-1 tvg-id="otr" tvg-logo="https://epgx.site/p/otr.png" group-title="Общественные",ОТР
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/187.png" group-title="Общественные",Россия К
+#EXTINF:-1 tvg-id="kultura" tvg-logo="http://epg.it999.ru/img2/187.png" group-title="Общественные",Россия К
 http://91.142.158.107:8092/play/36/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2399.png" group-title="Общественные",Дождь
+#EXTINF:-1 tvg-id="dozhd" tvg-logo="http://epg.it999.ru/img2/2399.png" group-title="Общественные",Дождь
 https://1527562093.rsc.cdn77.org/transcode/ngrp:ses_all/playlist.m3u8
 #EXTINF:-1 tvg-id="rtd-ru" tvg-logo="https://epgx.site/p/rt-doc.png" group-title="Общественные",RTД
 https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
