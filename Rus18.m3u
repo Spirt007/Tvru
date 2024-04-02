@@ -132,7 +132,7 @@ http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 http://178.124.179.122:8088/Peretz/index.m3u8
 #EXTINF:-1 tvg-id="zal-suda" tvg-logo="https://epgx.site/p/zal-suda.png" group-title="Развлекательные",Зал суда
 http://95.156.76.230:33001/udp/230.4.34.6:1234
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2304.png" group-title="Развлекательные",Телекафе
+#EXTINF:-1 tvg-id="telekafe" tvg-logo="http://epg.it999.ru/img2/2304.png" group-title="Развлекательные",Телекафе
 http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-logo="https://epgx.site/p/tvoyo-tv-hd.png" group-title="Развлекательные",Твоё ТВ
 http://tvoetv.space:8080/tvoetv/index.m3u8
