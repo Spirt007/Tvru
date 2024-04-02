@@ -139,7 +139,7 @@ http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/690.png" group-title="Региональные",Санкт-Петербург
 https://player.smotrim.ru/iframe/stream/live_id/62037
-#EXTINF:-1 tvg-logo="https://epgx.site/p/don-24.pngg" group-title="Региональные",Дон 24 
+#EXTINF:-1 tvg-logo="https://epgx.site/p/don-24.png" group-title="Региональные",Дон 24 
 https://donmedia.bonus-tv.ru/cdn/donmedia/playlist_sdmid.m3u8
 #EXTINF:-1 tvg-logo="https://epgx.site/p/rostov-papa.png" group-title="Региональные",Ростов-папа 
 
