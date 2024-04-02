@@ -183,7 +183,7 @@ https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://epgx.site/p/region29.png" group-title="Региональные",Регион 29
 http://live-atkmedia.cdnvideo.ru/atkmedia/atkmedia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://epgx.site/p/krym24.png" group-title="Региональные",Крым 24 HD
+#EXTINF:-1 tvg-logo="https://epgx.site/p/krym24.png" group-title="Региональные",Крым 24
 http://iptv.crimea.net:8787
 
 
