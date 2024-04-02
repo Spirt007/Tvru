@@ -141,13 +141,13 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://epgx.site/p/retro-fm.png" group-title="Радио" radio="true",Ретро FM
+#EXTINF:-1 tvg-id="retro-fm" tvg-logo="https://epgx.site/p/retro-fm.png" group-title="Радио" radio="true",Ретро FM
 http://europaplus.hostingradio.ru:8014/retro320.mp3
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-nashe-radio." group-title="Радио"radio="true",Наше радио
 http://nashe1.hostingradio.ru/nashespb128.mp3
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-rock-fm.png" group-title="Радио" radio="true",ROCK-FM 
 http://nashe1.hostingradio.ru/rock-64.mp3
-#EXTINF:-1 tvg-logo="https://epgx.site/p/xit-fm.png" group-title="Радио" radio="true",Хит FM
+#EXTINF:-1 tvg-id="xit-fm" tvg-logo="https://epgx.site/p/xit-fm.png" group-title="Радио" radio="true",Хит FM
 http://hitfm.hostingradio.ru/hitfm96.aacp
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-russkoe-radio.png" group-title="Радио" radio="true",Русское радио
 http://rusradio.hostingradio.ru/rusradio96.aacp
@@ -159,5 +159,5 @@ http://icecast.vgtrk.cdnvideo.ru/vestifm
 http://europaplus.hostingradio.ru:8014/europaplus320.mp3
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-radio-ultra.png" group-title="Радио" radio="true",Ultra
 http://nashe1.hostingradio.ru/ultra-64.mp3
-#EXTINF:-1 tvg-logo="https://epgx.site/p/yumor-fm.png" group-title="Радио" radio="true",Юмор FM
+#EXTINF:-1 tvg-id="yumor-fm" tvg-logo="https://epgx.site/p/yumor-fm.png" group-title="Радио" radio="true",Юмор FM
 https://pub0301.101.ru:8443/stream/air/mp3/256/102
