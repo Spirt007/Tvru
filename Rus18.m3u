@@ -19,7 +19,7 @@ https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
 #EXTINF:-1 tvg-logo="https://epgx.site/p/sport-plus-kz.png" group-title="Спортивные",Sport+ Qazaqstan
 http://87.76.32.36:9106/udp/238.1.1.204:1234
 #EXTINF:-1 tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/sport.png" group-title="Спортивные",Turkmenistan Sport 
-https://alpha.tv.online.tm/hls/ch004.m3u8
+
 #EXTINF:-1 tvg-logo="https://epgx.site/p/okko-sport.png" group-title="Спортивные",Okko Спорт HD 
 
 #EXTINF:-1 tvg-logo="https://epgx.site/p/match-tv.png" group-title="Спортивные",Матч! HD
@@ -215,33 +215,3 @@ https://edge60.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 https://edge60.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2540.png" group-title="Беларусь",Беларусь 3 HD
 https://edge60.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://epgx.site/p/smaylik-tv.png" group-title="Детские",Смайлик ТВ 
-https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/923.png" group-title="Детские",Детский мир 
-http://stream01.vnet.am/CartoonNetwork/mono.m3u8
-#EXTINF:-1 tvg-logo="https://epgx.site/p/ryzhy.png" group-title="Детские",Рыжий 
-https://strm.yandex.ru/kal/ryzhii_sd_belarus/ryzhii_sd_belarus0.m3u8
-#EXTINF:-1 tvg-logo="https://epgx.site/p/liova.png" group-title="Детские",Лёва HD
-http://strm.yandex.ru/kal/leva/leva0.m3u8
-#EXTINF:-1 channel id="tiji" tvg-logo="https://epgx.site/p/tiji.png" group-title="Детские", TiJi
-http://stream01.vnet.am/Tiji/mono.m3u8
-#EXTINF:-1 tvg-logo="https://epgx.site/p/ducktv.png" group-title="Детские", Duck TV HD
-https://strm.yandex.ru/kal/ducktv_belarus/ducktv_belarus0.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/740.png" group-title="Детские",Карусель
-http://178.124.179.122:8088/karusel/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1332.png" group-title="Детские",Мульт
-https://strm.yandex.ru/kal/mult_belarus/mult_belarus0.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7852.png" group-title="Детские",Cartoon Network
-https://bkm.beetv.kz/btv/live/hls/000000015.m3u8
-#EXTINF:-1 tvg-logo="https://epgx.site/p/boomerang.png" group-title="Детские",Cartoonito
-https://bkm.beetv.kz/btv/live/hls/000000160.m3u8
-#EXTINF:-1 tvg-logo="https://epgx.site/p/gulli-girl.png" group-title="Детские",Gulli Girl
-https://strm.yandex.ru/kal/gulli_girl_belarus/gulli_girl_belarus0.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2481.png" group-title="Детские",СТС Kids
-http://45.159.74.13:80/DisneyChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1tvg-logo="http://epg.it999.ru/img2/423.png"  group-title="Детские", Nickelodeon
-http://88.135.128.20:7272/DL3JGiEPHMCY4vy
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/3784.png" group-title="Детские",Nick Jr
-http://88.135.128.20:7272/Jke5tdvCxp2Yhs6
-
