@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz,http://www.teleguide.info/download/new3/xmltv.xml.gz"
+up#EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz,http://www.teleguide.info/download/new3/xmltv.xml.gz"
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2044.png" group-title="Спортивные",Матч! Футбол 1 HD
 http://194.143.148.28:8080/MatchFutbol1/mpegts
@@ -558,9 +558,9 @@ http://146.59.54.163:80/361/mono.m3u8
 https://cdn-main.lolokoko.tv/DorcelTV.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epgx.site/p/redlight-hd.png" group-title="18+",Redlight HD 
 https://cdn-main.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://epgx.site/p/o-la-la.pngg" group-title="18+",O-la-la
+#EXTINF:-1 tvg-logo="https://epgx.site/p/o-la-la.png" group-title="18+",O-la-la
 http://31.148.48.15/O-la-la/index.m3u8
-#EXTINF:-1 tvg-logo="https://epgx.site/p/playboy-tv.pngg" group-title="18+",Playboy TV
+#EXTINF:-1 tvg-logo="https://epgx.site/p/playboy-tv.png" group-title="18+",Playboy TV
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epgx.site/p/extasytv.png" group-title="18+",Extasy HD
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
