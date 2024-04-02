@@ -182,9 +182,9 @@ http://live-atkmedia.cdnvideo.ru/atkmedia/atkmedia/playlist.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/360-news.png" group-title="Новости",360° Новости
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2266.png" group-title="Новости", Euronews
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2266.png" group-title="Новости",Euronews
 https://bkm.beetv.kz/btv/live/hls/000000025.m3u8
-#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3015.png" group-title="Новости", Мир 24
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3015.png" group-title="Новости",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1683.png" group-title="Новости",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
@@ -192,13 +192,13 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
 http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/cnn.png" group-title="Новости",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/828.png" group-title="Новости", BBC World News
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/828.png" group-title="Новости",BBC World News
 https://bkm.beetv.kz/btv/live/hls/000000014.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/france24.png" group-title="Новости", France 24
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/france24.png" group-title="Новости",France 24
 
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6470.png" group-title="Новости", Rai News 24 HD
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6470.png" group-title="Новости",Rai News 24 HD
 https://streamcdnb4-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
-#EXTINF:-1 group-title="Новости" tvg-logo="https://1000marken.net/wp-content/uploads/2021/01/Sky-News-Logo-2048x1152.png", Sky News
+#EXTINF:-1 group-title="Новости" tvg-logo="https://1000marken.net/wp-content/uploads/2021/01/Sky-News-Logo-2048x1152.png",Sky News
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8 
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/solovjinypomiot.png" group-title="Новости",Соловьев.Live
 https://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
@@ -214,13 +214,13 @@ https://edge60.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2540.png" group-title="Беларусь",Беларусь 3 HD
 https://edge60.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://picon.pp.ua/smaylik-tv.png" group-title="Детские", Смайлик ТВ 
+#EXTINF:-1  tvg-logo="https://picon.pp.ua/smaylik-tv.png" group-title="Детские",Смайлик ТВ 
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/923.png" group-title="Детские", Детский мир 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/923.png" group-title="Детские",Детский мир 
 http://stream01.vnet.am/CartoonNetwork/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QlncxbD.png" group-title="Детские", Рыжий 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QlncxbD.png" group-title="Детские",Рыжий 
 https://strm.yandex.ru/kal/ryzhii_sd_belarus/ryzhii_sd_belarus0.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/liova.png"  group-title="Детские", Лёва HD
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/liova.png"  group-title="Детские",Лёва HD
 http://strm.yandex.ru/kal/leva/leva0.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/tiji.png"  group-title="Детские", TiJi
 http://stream01.vnet.am/Tiji/mono.m3u8
@@ -240,7 +240,7 @@ https://strm.yandex.ru/kal/gulli_girl_belarus/gulli_girl_belarus0.m3u8
 http://45.159.74.13:80/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1tvg-logo="http://epg.it999.ru/img2/423.png"  group-title="Детские", Nickelodeon
 http://88.135.128.20:7272/DL3JGiEPHMCY4vy
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/3784.png" group-title="Детские", Nick Jr
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/3784.png" group-title="Детские",Nick Jr
 http://88.135.128.20:7272/Jke5tdvCxp2Yhs6
 
 
@@ -248,11 +248,11 @@ http://88.135.128.20:7272/Jke5tdvCxp2Yhs6
 http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4662.png" group-title="Фильмы,сериалы",BackusTV Страшное
 http://stream.backustv.ru/live/btv2/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/920.png" group-title="Фильмы,сериалы", Comedy Central
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/920.png" group-title="Фильмы,сериалы",Comedy Central
 https://bkm.beetv.kz/btv/live/hls/000000452.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6005.png" group-title="Фильмы,сериалы", Видеокассета VHS
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6005.png" group-title="Фильмы,сериалы",Видеокассета VHS
 https://media-gateway-cache.nuum.ru/live/4968/index.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/ostrosiuzhetnoe.png" group-title="Фильмы,сериалы", Остросюжетное
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/ostrosiuzhetnoe.png" group-title="Фильмы,сериалы",Остросюжетное
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2754.png" group-title="Фильмы,сериалы",Cinema HD
 https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
@@ -274,7 +274,7 @@ http://195.191.130.11:9000/play/a00u/index.m3u8
 http://91.142.158.107:8092/play/25/index.m3u8
 #EXTINF:-1 tvg-logo="https://epgx.site/p/rodnoe-kino.png" group-title="Фильмы,сериалы",Родное кино
 https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
-#EXTINF:-1 tvg-logo="https://epgx.site/p/lubimoe-kino.png" group-title="Фильмы,сериалы", Любимое кино 
+#EXTINF:-1 tvg-logo="https://epgx.site/p/lubimoe-kino.png" group-title="Фильмы,сериалы",Любимое кино 
 http://88.135.128.20:7272/JS7lUbMstASMl0r
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/fox.png" group-title="Фильмы,сериалы",Fox
 http://stream01.vnet.am/Fox/mono.m3u8
@@ -296,7 +296,7 @@ https://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
 http://176.113.48.221:8986/73
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/flixsnip.png" group-title="Фильмы,сериалы",FlixSnip 
 
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6654.png" group-title="Фильмы,сериалы",312 Кино KG
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6654.png" group-title="Фильмы,сериалы",312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 tvg-id="312TV.kg" tvg-logo="https://i.imgur.com/iLSGi6c.png" group-title="Фильмы,сериалы",312 ТВ 
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
@@ -308,7 +308,7 @@ http://109.239.208.82:80/retro/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4747.png" group-title="Фильмы,сериалы",BCU СССР HD
 
-#EXTINF:-1, tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-komediya.png" group-title="Фильмы,сериалы",Комедия
+#EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-komediya.png" group-title="Фильмы,сериалы",Комедия
 http://91.142.158.107:8092/play/30/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/muzhskoe-kino.png" group-title="Фильмы,сериалы",Мужское кино
 http://45.159.74.14:80/MujskoeKino/index.m3u8
@@ -545,5 +545,5 @@ http://icecast.vgtrk.cdnvideo.ru/vestifm
 http://europaplus.hostingradio.ru:8014/europaplus320.mp3
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-radio-ultra.png" group-title="Радио" radio="true",Ultra
 http://nashe1.hostingradio.ru/ultra-64.mp3
-#EXTINF:-1 tvg-logo="https://epgx.site/p/yumor-fm.png" radio="true",Юмор FM
+#EXTINF:-1 tvg-logo="https://epgx.site/p/yumor-fm.png" group-title="Радио radio="true",Юмор FM
 https://pub0301.101.ru:8443/stream/air/mp3/256/102
