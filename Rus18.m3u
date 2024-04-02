@@ -36,29 +36,29 @@ http://109.248.236.21:4433/udp/238.1.1.143:1234
 http://otv.wotom.net:4433/udp/238.1.1.142:1234 
 #EXTINF:-1 tvg-id="mir-basketbola" tvg-logo="https://epgx.site/p/mir-basketbola.png" group-title="Спортивные",Мир баскетбола
 http://92.242.110.52:9835/udp/238.1.1.17:1234
-#EXTINF:-1 tvg-logo="https://epgx.site/p/kxl.png" group-title="Спортивные" tvg-id="KHL",KHL
+#EXTINF:-1  tvg-id="kxl" tvg-logo="https://epgx.site/p/kxl.png" group-title="Спортивные",KHL
 https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
 #EXTINF:-1 tvg-logo="https://epgx.site/p/kxl-hd.png" group-title="Спортивные" tvg-id="KHL Prime",KHL Prime
 https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2052.png" group-title="Спортивные",Eurosport 1
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://epgx.site/p/eurosport1.png" group-title="Спортивные",Eurosport 1
 http://176.113.48.221:8986/63
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4313.png" group-title="Спортивные",Eurosport 2
 http://193.201.98.10:5000/c154
-#EXTINF:-1 channel-id="1818" tvg-logo="http://epg.it999.ru/img2/2055.png" group-title="Спортивные",viju+ Sport HD
+#EXTINF:-1 tvg-id="viasat-sport" tvg-logo="http://epg.it999.ru/img2/2055.png" group-title="Спортивные",Viju+ Sport
 https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2530.png" group-title="Спортивные",Старт
+#EXTINF:-1 tvg-id="start" tvg-logo="http://epg.it999.ru/img2/2530.png" group-title="Спортивные",Старт
 http://188.113.190.15/127/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://epgx.site/p/start-triumf.png"" group-title="Спортивные",Старт Триумф HD
+#EXTINF:-1 tvg-id="start-triumf" tvg-logo="https://epgx.site/p/start-triumf.png" group-title="Спортивные",Старт Триумф
 https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/1080p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph/
 #EXTINF:-1 tvg-id="match-igra" tvg-logo="https://epgx.site/p/match-igra.png" group-title="Спортивные",Матч! Игра
 http://193.201.98.10:5000/c104
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-logo="https://epgx.site/p/match-strana.png" group-title="Спортивные",Матч! Страна
 http://193.201.98.10:5000/c106
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2003.png" group-title="Спортивные",Матч! Арена
+#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://epgx.site/p/match-arena.png" group-title="Спортивные",Матч! Арена
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 tvg-id="match-planeta" tvg-logo="https://epgx.site/p/match-planeta.png" group-title="Спортивные",Матч! Планета
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
-#EXTINF:-1 tvg-id="Belarus5.by" tvg-logo="https://i.imgur.com/NJsRFud.png" group-title="Спортивные",Беларусь 5
+#EXTINF:-1 tvg-id="belarus5" tvg-logo="https://epgx.site/p/belarus5hd.png" group-title="Спортивные",Беларусь 5
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epgx.site/p/football-ru.png" group-title="Спортивные",Футбол
 http://flu.ttk.mx:9090/Futbol/index.m3u8?token=orh6o
@@ -188,17 +188,17 @@ http://iptv.crimea.net:8787
 
 
 
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2271.png" group-title="Новости", Известия
+#EXTINF:-1 tvg-id="izvestia" tvg-logo="https://epgx.site/p/izvestia.png" group-title="Новостные",Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://epgx.site/p/360-news.png" group-title="Новости",360° Новости
+#EXTINF:-1 tvg-id="360-news" tvg-logo="https://epgx.site/p/360-news.png" group-title="Новостные",360° Новости
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2266.png" group-title="Новости",Euronews
 https://bkm.beetv.kz/btv/live/hls/000000025.m3u8
 #EXTINF:-1 tvg-id="mir-24" tvg-logo="https://epgx.site/p/mir24.png" group-title="Новости",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1683.png" group-title="Новости",Россия 24
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://epgx.site/p/rossia-24.png" group-title="Новостные",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/743.png" group-title="Новости",РБК
+#EXTINF:-1 tvg-id="rbk" tvg-logo="http://epg.it999.ru/img2/743.png" group-title="Новостные",РБК
 http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1 tvg-logo="https://epgx.site/p/cnn.png" group-title="Новости",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -210,7 +210,7 @@ https://bkm.beetv.kz/btv/live/hls/000000014.m3u8
 https://streamcdnb4-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
 #EXTINF:-1 group-title="Новости" tvg-logo="https://1000marken.net/wp-content/uploads/2021/01/Sky-News-Logo-2048x1152.png",Sky News
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8 
-#EXTINF:-1 tvg-logo="https://epgx.site/p/solovjinypomiot.png" group-title="Новости",Соловьев.Live
+#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://epgx.site/p/solovjinypomiot.png" group-title="Новостные",Соловьев.Live
 https://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
 
 
