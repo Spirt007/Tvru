@@ -174,7 +174,8 @@ https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epgx.site/p/nts-sevastopol.png" group-title="Региональные",НТС Севастополь
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7701.png" group-title="Региональные",Лен ТВ 24
-
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
 #EXTINF:-1  tvg-logo="https://epgx.site/p/region29.png" group-title="Региональные",Регион 29
 http://live-atkmedia.cdnvideo.ru/atkmedia/atkmedia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epgx.site/p/krym24.png" group-title="Региональные",Крым 24 HD
@@ -419,27 +420,27 @@ https://live-mirror-12.ott.tricolor.tv/dtv/id861_MSKSG-PVR-1--Kinojam_2/03/plst.
 
 
 
-#EXTINF:-1  tvg-logo="https://picon.pp.ua/kinopremiera.png" group-title="Премьеры,хиты",Кинопремьера
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/566.png" group-title="Премьеры,хиты",Кинопремьера
 http://stream02.vnet.am/Kinopremera/mono.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/kinopremiera.png" group-title="Премьеры,хиты",Кинопремьера HD 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/566.png" group-title="Премьеры,хиты",Кинопремьера HD 
 https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/vip-premiere.png" group-title="Премьеры,хиты",Viju+ Premiere HD
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1013.png" group-title="Премьеры,хиты",Viju+ Premiere HD
 https://bkm.beetv.kz/btv/live/hls/000000868.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/vip-megahit.png" group-title="Премьеры,хиты",Viju+ Megahit HD
+#EXTINF:-1 tvg-logo=""http://epg.it999.ru/img2/1012.png" group-title="Премьеры,хиты",Viju+ Megahit HD
 http://92.242.110.52:9835/udp/238.1.3.7:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4760.png" group-title="Премьеры,хиты",BCU Premiere HD 
 
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/kinoxit.png" group-title="Премьеры,хиты",Кинохит 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/542.png" group-title="Премьеры,хиты",Кинохит 
 https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/khit.png" group-title="Фильмы,сериалы",Хит HD
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2041.png" group-title="Фильмы,сериалы",Хит HD
 
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/amedia-hit.png" group-title="Премьеры,хиты",Amedia Hit HD
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2007.png" group-title="Премьеры,хиты",Amedia Hit HD
 http://otv.wotom.net:4433/udp/238.1.1.96:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1372.png" group-title="Премьеры,хиты",Amedia Premium HD 
 http://otv.wotom.net:4433/udp/238.1.1.71:1234
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/premialnoe-hd.png" group-title="Премьеры,хиты",Премиальное HD 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2732.png" group-title="Премьеры,хиты",Премиальное HD 
 
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/blokbaster.png" group-title="Премьеры,хиты",Блокбастер HD
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2832.png" group-title="Премьеры,хиты",Блокбастер HD
 
 
 
