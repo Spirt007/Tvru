@@ -65,6 +65,8 @@ http://flu.ttk.mx:9090/Futbol/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4679.png" group-title="Спортивные",Футбольный HD
 http://62.231.191.65:8888/95
 
+
+
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/983.png" group-title="Общественные",Первый канал
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/984.png" group-title="Общественные",Россия 1 
@@ -102,6 +104,8 @@ https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LbHdHEk.png" group-title="Общественные",ОНТ
 https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2830.png" group-title="Развлекательные",Пятница
 http://streamer2.fokks.ru:10016/index.m3u8 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2288.png" group-title="Развлекательные",Суббота!
@@ -132,6 +136,8 @@ http://95.156.76.230:33001/udp/230.4.34.6:1234
 http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epgx.site/p/tvoyo-tv-hd.png" group-title="Развлекательные",Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://epgx.site/p/krasnodar.png" group-title="Региональные",Краснодар
 http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
@@ -179,5 +185,46 @@ https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
 http://live-atkmedia.cdnvideo.ru/atkmedia/atkmedia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epgx.site/p/krym24.png" group-title="Региональные",Крым 24 HD
 http://iptv.crimea.net:8787
+
+
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2271.png" group-title="Новости", Известия
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://epgx.site/p/360-news.png" group-title="Новости",360° Новости
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2266.png" group-title="Новости",Euronews
+https://bkm.beetv.kz/btv/live/hls/000000025.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3015.png" group-title="Новости",Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1683.png" group-title="Новости",Россия 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/743.png" group-title="Новости",РБК
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 tvg-logo="https://epgx.site/p/cnn.png" group-title="Новости",CNN
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/828.png" group-title="Новости",BBC World News
+https://bkm.beetv.kz/btv/live/hls/000000014.m3u8
+#EXTINF:-1 tvg-logo="https://epgx.site/p/france24.png" group-title="Новости",France 24
+https://bkm.beetv.kz/btv/live/hls/000000290.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6470.png" group-title="Новости",Rai News 24 HD
+https://streamcdnb4-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="https://1000marken.net/wp-content/uploads/2021/01/Sky-News-Logo-2048x1152.png",Sky News
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8 
+#EXTINF:-1 tvg-logo="https://epgx.site/p/solovjinypomiot.png" group-title="Новости",Соловьев.Live
+https://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BP7tY6F.png" group-title="Беларусь",Беларусь 24
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2294.png" group-title="Беларусь",БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2538.png" group-title="Беларусь",Беларусь 1 HD
+https://edge60.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2539.png" group-title="Беларусь",Беларусь 2 HD
+https://edge60.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2540.png" group-title="Беларусь",Беларусь 3 HD
+https://edge60.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 
 
