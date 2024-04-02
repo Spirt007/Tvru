@@ -4,19 +4,19 @@
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:-1 tvg-id="match-football2" tvg-logo="http://epg.it999.ru/img2/1042.png" group-title="Спортивные",Матч! Футбол 2 HD
 http://91.207.114.209:5000/c115
-#EXTINF:-1 tvg-id="match-football2" tvg-logo="http://epg.it999.ru/img2/2005.png" group-title="Спортивные",Матч! Футбол 3 HD 
+#EXTINF:-1 tvg-id="match-football3" tvg-logo="http://epg.it999.ru/img2/2005.png" group-title="Спортивные",Матч! Футбол 3 HD 
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 tvg-id="setanta-sports" tvg-logo="http://epg.it999.ru/img2/7517.png" group-title="Спортивные",Setanta Sports 1
 http://otv.wotom.net:4433/udp/238.1.1.162:1234
 #EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="http://epg.it999.ru/img2/2363.png" group-title="Спортивные",Setanta Sports 2
 http://otv.wotom.net:4433/udp/238.1.1.163:1234
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6860.png" group-title="Спортивные",Setanta Sports+ Ukraine
+#EXTINF:-1 tvg-id="setanta-plus-ua" tvg-logo="http://epg.it999.ru/img2/6860.png" group-title="Спортивные",Setanta Sports+ Ukraine
 http://146.59.85.40:89/setantaplus/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2370.png" group-title="Спортивные",Setanta Sports Ukraine
+#EXTINF:-1 tvg-id="setanta-ua" tvg-logo="http://epg.it999.ru/img2/2370.png" group-title="Спортивные",Setanta Sports Ukraine
 http://194.26.229.213/777_Setanta-Sports-Ukraine/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2630.png" group-title="Спортивные",Setanta Qazaqstan
+#EXTINF:-1 tvg-id="setanta-kz" tvg-logo="http://epg.it999.ru/img2/2630.png" group-title="Спортивные",Setanta Qazaqstan
 https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
-#EXTINF:-1 tvg-logo="https://epgx.site/p/sport-plus-kz.png" group-title="Спортивные",Sport+ Qazaqstan
+#EXTINF:-1 tvg-id="sport-plus-kz" tvg-logo="https://epgx.site/p/sport-plus-kz.png" group-title="Спортивные",Sport+ Qazaqstan
 http://87.76.32.36:9106/udp/238.1.1.204:1234
 #EXTINF:-1 tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/sport.png" group-title="Спортивные",Turkmenistan Sport 
 
@@ -26,19 +26,19 @@ http://87.76.32.36:9106/udp/238.1.1.204:1234
 http://91.142.158.107:8092/play/33/index.m3u
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://epgx.site/p/match-premiere.png" group-title="Спортивные",Матч! Премьер
 http://91.207.114.209:5000/c105
-#EXTINF:-1 tvg-logo="https://epgx.site/p/match-premiere.png" group-title="Спортивные",Матч! Премьер HD
+#EXTINF:-1 tvg-id="match-premier" tvg-logo="https://epgx.site/p/match-premiere.png" group-title="Спортивные",Матч! Премьер HD
 http://83.234.207.29:8004/play/a014/index.m3u8
 #EXTINF:-1 tvg-logo="https://epgx.site/p/qsport-kz.png" tvg-id="qsport-kz" group-title="Спортивные",QSport Казахстан
 http://88.135.128.20:7272/ipKJnd6cVw1Nu7a
-#EXTINF:-1 tvg-logo="https://epgx.site/p/q-sport-ext.png" group-title="Спортивные",Q League
+#EXTINF:-1 tvg-id="q-sport-ext" tvg-logo="https://epgx.site/p/q-sport-ext.png" group-title="Спортивные",Q League
 http://109.248.236.21:4433/udp/238.1.1.143:1234
-#EXTINF:-1 tvg-logo="https://epgx.site/p/qsport-kz.png" group-title="Спортивные",Q Arena
+#EXTINF:-1 tvg-id="qsport-kz" tvg-logo="https://epgx.site/p/qsport-kz.png" group-title="Спортивные",Q Arena
 http://otv.wotom.net:4433/udp/238.1.1.142:1234 
 #EXTINF:-1 tvg-id="mir-basketbola" tvg-logo="https://epgx.site/p/mir-basketbola.png" group-title="Спортивные",Мир баскетбола
 http://92.242.110.52:9835/udp/238.1.1.17:1234
 #EXTINF:-1  tvg-id="kxl" tvg-logo="https://epgx.site/p/kxl.png" group-title="Спортивные",KHL
 https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
-#EXTINF:-1 tvg-logo="https://epgx.site/p/kxl-hd.png" group-title="Спортивные" tvg-id="KHL Prime",KHL Prime
+#EXTINF:-1 tvg-id="kxl-hd" tvg-logo="https://epgx.site/p/kxl-hd.png" group-title="Спортивные" tvg-id="KHL Prime",KHL Prime
 https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://epgx.site/p/eurosport1.png" group-title="Спортивные",Eurosport 1
 http://176.113.48.221:8986/63
@@ -60,9 +60,9 @@ http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 #EXTINF:-1 tvg-id="belarus5" tvg-logo="https://epgx.site/p/belarus5hd.png" group-title="Спортивные",Беларусь 5
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://epgx.site/p/football-ru.png" group-title="Спортивные",Футбол
+#EXTINF:-1 tvg-id="football-ru" tvg-logo="https://epgx.site/p/football-ru.png" group-title="Спортивные",Футбол
 http://flu.ttk.mx:9090/Futbol/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4679.png" group-title="Спортивные",Футбольный HD
+#EXTINF:-1 tvg-id="footbolny" tvg-logo="http://epg.it999.ru/img2/4679.png" group-title="Спортивные",Футбольный HD
 http://62.231.191.65:8888/95
 
 
