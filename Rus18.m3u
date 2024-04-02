@@ -261,7 +261,7 @@ http://88.135.128.20:7272/Jke5tdvCxp2Yhs6
 
 #EXTINF:-1 tvg-id="backustv" tvg-logo="http://epg.it999.ru/img2/4770.png" group-title="Фильмы,сериалы",BackusTV original
 http://stream.backustv.ru/live/btv/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4662.png" group-title="Фильмы,сериалы",BackusTV Страшное
+#EXTINF:-1 tvg-id="backustv-horror" tvg-logo="https://epgx.site/p/backustv-horror.png" group-title="Кинозал",BackusTV dark
 http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 tvg-id="paramount-comedy" tvg-logo="http://epg.it999.ru/img2/920.png" group-title="Фильмы,сериалы",Comedy Central
 https://bkm.beetv.kz/btv/live/hls/000000452.m3u8
