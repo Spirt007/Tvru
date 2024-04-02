@@ -214,17 +214,17 @@ https://edge60.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2540.png" group-title="Беларусь",Беларусь 3 HD
 https://edge60.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://picon.pp.ua/smaylik-tv.png" group-title="Детские",Смайлик ТВ 
+#EXTINF:-1  tvg-logo="https://epgx.site/p/smaylik-tv.png" group-title="Детские",Смайлик ТВ 
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/923.png" group-title="Детские",Детский мир 
 http://stream01.vnet.am/CartoonNetwork/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QlncxbD.png" group-title="Детские",Рыжий 
 https://strm.yandex.ru/kal/ryzhii_sd_belarus/ryzhii_sd_belarus0.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/liova.png"  group-title="Детские",Лёва HD
+#EXTINF:-1 tvg-logo="https://epgx.site/p/liova.png" group-title="Детские",Лёва HD
 http://strm.yandex.ru/kal/leva/leva0.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/tiji.png"  group-title="Детские", TiJi
+#EXTINF:-1 channel id="tiji" tvg-logo="https://epgx.site/p/tiji.png" group-title="Детские", TiJi
 http://stream01.vnet.am/Tiji/mono.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/ducktv.png" group-title="Детские", Duck TV HD
+#EXTINF:-1 tvg-logo="https://epgx.site/p/ducktv.png" group-title="Детские", Duck TV HD
 https://strm.yandex.ru/kal/ducktv_belarus/ducktv_belarus0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/740.png" group-title="Детские",Карусель
 http://178.124.179.122:8088/karusel/index.m3u8
@@ -276,9 +276,9 @@ http://91.142.158.107:8092/play/25/index.m3u8
 https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
 #EXTINF:-1 tvg-logo="https://epgx.site/p/lubimoe-kino.png" group-title="Фильмы,сериалы",Любимое кино 
 http://88.135.128.20:7272/JS7lUbMstASMl0r
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/fox.png" group-title="Фильмы,сериалы",Fox
+#EXTINF:-1 tvg-logo="https://epgx.site/p/fox.png" group-title="Фильмы,сериалы",Fox
 http://stream01.vnet.am/Fox/mono.m3u8
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/foxlife.png"  group-title="Фильмы,сериалы",Fox Life
+#EXTINF:-1 tvg-logo="https://epgx.site/p/foxlife.png"  group-title="Фильмы,сериалы",Fox Life
 https://bkm.beetv.kz/btv/live/hls/000004471.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2181.png" tvg-id="filmbox-ru" group-title="Фильмы,сериалы",Filmbox 
 
