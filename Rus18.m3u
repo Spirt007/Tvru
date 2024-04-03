@@ -8,7 +8,7 @@ http://91.207.114.209:5000/c115
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 tvg-id="setanta-sports" audio-track="rus" tvg-logo="https://epgx.site/p/setanta-sports.png" group-title="Спортивные",Setanta Sports 1
 http://otv.wotom.net:4433/udp/238.1.1.162:1234
-#EXTINF:-1 tvg-id="setanta-sports-plus" audio-track="rus" tvg-logo="https://epgx.site/p/setanta-sports-plus.png" group-title="Спортивные",Setanta Sports 2
+#EXTINF:-1 tvg-id="setanta-sports-plus" audio-track="eng" tvg-logo="https://epgx.site/p/setanta-sports-plus.png" group-title="Спортивные",Setanta Sports 2
 http://otv.wotom.net:4433/udp/238.1.1.163:1234
 #EXTINF:-1 tvg-id="setanta-plus-ua" tvg-logo="https://epgx.site/p/setanta-plus-ua.png" group-title="Спортивные",Setanta Sports+ Ukraine
 http://146.59.85.40:89/setantaplus/mono.m3u8
