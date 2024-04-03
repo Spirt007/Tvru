@@ -4,12 +4,12 @@
  
 Плейлист IPTV Россия для плееров IPTV, KODI (рекомендую).
 
-Протестировано VLC плеер, Kodi Xbox series S, Kodi Retropie Raspberry Pi3B.
+Протестировано VLC плеер, Kodi Xbox series S, Retropie Raspberry Pi3B,ПК. Open IPTV
 
 229 тв канала 10 радио
 
 
-Для EPG используйте EPG Lite (без описаний, только название): https://iptvx.one/epg/epg_lite.xml.gz 
+Для EPG использутся http://epg.one/epg2.xml.gz, https://iptvx.one/epg/epg.xml.gz встроенно в лист.
 
 названия каналов были изменены для легкой загрузки.
 
