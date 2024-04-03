@@ -315,7 +315,7 @@ http://109.239.208.82:80/retro/index.m3u8
 
 #EXTINF:-1 tvg-id="bcu-sssr" tvg-logo="https://epgx.site/p/bcu-sssr-hd.png" group-title="Фильмы,сериалы",BCU СССР HD
 
-#EXTINF:-1 tvg-logo="https://epgx.site/p/russkaya-komedia.png" group-title="Фильмы,сериалы",Комедия
+#EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="https://epgx.site/p/russkaya-komedia.png" group-title="Фильмы,сериалы",Комедия
 http://91.142.158.107:8092/play/30/index.m3u8
 
 
