@@ -42,11 +42,11 @@ https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
 https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://epgx.site/p/eurosport1.png" group-title="Спортивные",Eurosport 1
 http://176.113.48.221:8986/63
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="http://epg.it999.ru/img2/4313.png" group-title="Спортивные",Eurosport 2
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://epgx.site/p/eurosport2.png" group-title="Спортивные",Eurosport 2
 http://193.201.98.10:5000/c154
-#EXTINF:-1 tvg-id="viasat-sport" tvg-logo="http://epg.it999.ru/img2/2055.png" group-title="Спортивные",Viju+ Sport
+#EXTINF:-1 tvg-id="viasat-sport"https://epgx.site/p/viasat-sport.png" group-title="Спортивные",Viasat Sport
 https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
-#EXTINF:-1 tvg-id="start" tvg-logo="http://epg.it999.ru/img2/2530.png" group-title="Спортивные",Старт
+#EXTINF:-1 tvg-id="start" tvg-logo="ttps://epgx.site/p/start.png" group-title="Спортивные",Старт
 http://188.113.190.15/127/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="start-triumf" tvg-logo="https://epgx.site/p/start-triumf.png" group-title="Спортивные",Старт Триумф
 https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/1080p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph/
@@ -62,7 +62,7 @@ https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="football-ru" tvg-logo="https://epgx.site/p/football-ru.png" group-title="Спортивные",Футбол
 http://flu.ttk.mx:9090/Futbol/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-id="footbolny" tvg-logo="http://epg.it999.ru/img2/4679.png" group-title="Спортивные",Футбольный HD
+#EXTINF:-1 tvg-id="footbolny" tvg-logo="https://epgx.site/p/footbolny.png" group-title="Спортивные",Футбольный HD
 http://62.231.191.65:8888/95
 
 
@@ -77,7 +77,7 @@ http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-logo="https://epgx.site/p/rentv.png" group-title="Общественные",Рен ТВ
 http://185.37.150.46:8092/RenTV_HD/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="tv3-ru" tvg-logo="http://epg.it999.ru/img2/698.png" group-title="Общественные",ТВ-3
+#EXTINF:-1 tvg-id="tv3-ru" tvg-logo="https://epgx.site/p/tv3-ru.png" group-title="Общественные",ТВ-3
 http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-logo="https://epgx.site/p/5kanal-ru.png" group-title="Общественные",Пятый канал 
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -86,18 +86,18 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="vremia" tvg-logo="https://epgx.site/p/vremia.png" group-title="Общественные",Время
 http://92.242.110.52:9835/udp/238.1.11.25:1234
-#EXTINF:-1 tvg-id="domashny" tvg-logo="http://epg.it999.ru/img2/304.png" group-title="Общественные",Домашний 
+#EXTINF:-1 tvg-id="domashny" tvg-logo="https://epgx.site/p/domashny.png" group-title="Общественные",Домашний 
 http://88.135.128.20:7272/CGGe9lr8Dx9PZy1
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="https://epgx.site/p/zvezda.png" group-title="Общественные",Звезда
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-id="ntv-style" tvg-logo="http://epg.it999.ru/img2/1755.png" group-title="Общественные",НТВ Стиль
+#EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://epgx.site/p/ntv-style.png" group-title="Общественные",НТВ Стиль
 https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
 #EXTINF:-1 tvg-id="otr" tvg-logo="https://epgx.site/p/otr.png" group-title="Общественные",ОТР
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
-#EXTINF:-1 tvg-id="kultura" tvg-logo="http://epg.it999.ru/img2/187.png" group-title="Общественные",Россия К
+#EXTINF:-1 tvg-id="kultura" tvg-logo="https://epgx.site/p/kultura.png" group-title="Общественные",Россия Культура
 http://91.142.158.107:8092/play/36/index.m3u8
-#EXTINF:-1 tvg-id="dozhd" tvg-logo="http://epg.it999.ru/img2/2399.png" group-title="Общественные",Дождь
+#EXTINF:-1 tvg-id="dozhd" tvg-logo="https://epgx.site/p/dozhd.png" group-title="Общественные",Дождь HD
 https://1527562093.rsc.cdn77.org/transcode/ngrp:ses_all/playlist.m3u8
 #EXTINF:-1 tvg-id="rtd-ru" tvg-logo="https://epgx.site/p/rt-doc.png" group-title="Общественные",RTД
 https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
