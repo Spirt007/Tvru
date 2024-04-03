@@ -442,6 +442,45 @@ http://otv.wotom.net:4433/udp/238.1.1.71:1234
 #EXTINF:-1 tvg-id="blokbaster-hd" tvg-logo="https://epgx.site/p/blokbaster.png" group-title="Премьеры,хиты",Блокбастер HD
 
 
+#EXTINF:-1 tvg-id="backustv-music" tvg-logo="https://epgx.site/p/backustv-music.png" group-title="Музыкальные",BackusTV Music 
+https://stream.backustv.ru/live/btv3/index.m3u8
+#EXTINF:-1 tvg-id="europa-plus-tv" tvg-logo="https://epgx.site/p/europa-plus-tv.png"" group-title="Музыкальные",Europa Plus TV
+http://45.15.43.12:80/europaplus/video.m3u8?token=test
+#EXTINF:-1 tvg-id="1hd" tvg-logo="https://epgx.site/p/1hd-music.png" group-title="Музыкальные",1HD
+http://91.247.68.229:8000/play/eee/index.m3u8
+#EXTINF:-1 tvg-id="bridge-tv" tvg-logo="https://epgx.site/p/bridge-tv.png" group-title="Музыкальные",Bridge
+https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-classic" tvg-logo="https://epgx.site/p/bridge-tv-classic.png" group-title="Музыкальные",Bridge TV Classic
+https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-logo="https://epgx.site/p/bridge-tv-ruxit.png group-title="Музыкальные",Bridge TV Русский хит
+https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-shlager" tvg-logo="https://epgx.site/p/bridge-tv-shlager.png" group-title="Музыкальные",Bridge TV Шлягер
+https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-rock" tvg-logo="https://epgx.site/p/bridge-tv-rock.png" group-title="Музыкальные",Bridge TV Rock
+https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
+#EXTINF:-1 tvg-id="bridge-hd" tvg-logo="https://epgx.site/p/bridge-hd.png" group-title="Музыкальные",Bridge TV Deluxe
+https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-dance" tvg-logo="https://epgx.site/p/bridge-tv-dance.png" group-title="Музыкальные",Bridge TV Hits
+https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
+#EXTINF:-1 tvg-id="ru-tv" tvg-logo="https://epgx.site/p/ru-tv.png" group-title="Музыкальные",RU.TV HD
+https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
+#EXTINF:-1 tvg-id="radio-strana-fm-tv" tvg-logo="https://epgx.site/p/radio-strana-fm-tv.png" group-title="Музыкальные",Страна FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="muztv" tvg-logo="https://epgx.site/p/muztv.png" group-title="Музыкальные",Муз ТВ
+http://stream01.vnet.am/MuzTv/mono.m3u8
+#EXTINF:-1 tvg-id="tnt-music" tvg-logo="https://epgx.site/p/tnt-music.png" group-title="Музыкальные",ТНТ Music HD
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-id="angel-tv" tvg-logo="https://epgx.site/p/angel-tv.png" group-title="Музыкальные",Angel TV
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7838.png" group-title="Музыкальные",MTV 00s
+https://bkm.beetv.kz/btv/live/hls/000000264.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6426.png" group-title="Музыкальные", MTV Classic
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/156.png" group-title="Музыкальные",MTV 80s
+http://45.5.119.155:8090/play/a0ge/index.m3u8
+#EXTINF:-1 tvg-id="mtv-hits" tvg-logo="https://epgx.site/p/mtv-hits.png" group-title="Музыкальные",MTV Hits 
+https://tr003.androidtvbox.co.hu/tr3_MTVHits_SD/index.m3u8?token=test
+
 
 
 #EXTINF:-1 tvg-id="retro-fm" tvg-logo="https://epgx.site/p/retro-fm.png" group-title="Радио" radio="true",Ретро FM
