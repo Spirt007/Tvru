@@ -224,6 +224,52 @@ https://edge60.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 https://edge60.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u
 
 
+#EXTINF:-1 tvg-id="smaylik-tv" tvg-logo="https://epgx.site/p/smaylik-tv.png" group-title="Детские",Смайлик ТВ 
+https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+#EXTINF:-1 tvg-id="detsky-mir" tvg-logo="https://epgx.site/p/detsky-mir.png" group-title="Детские",Детский мир 
+http://stream01.vnet.am/CartoonNetwork/mono.m3u8
+#EXTINF:-1 tvg-id="ryzhy" tvg-logo="https://epgx.site/p/ryzhy.png" group-title="Детские",Рыжий 
+https://strm.yandex.ru/kal/ryzhii_sd_belarus/ryzhii_sd_belarus0.m3u8
+#EXTINF:-1tvg-id="liova" tvg-logo="https://epgx.site/p/liova.png" group-title="Детские",Лёва HD
+http://strm.yandex.ru/kal/leva/leva0.m3u8
+#EXTINF:-1 channel id="tiji" tvg-logo="https://epgx.site/p/tiji.png" group-title="Детские", TiJi
+http://stream01.vnet.am/Tiji/mono.m3u8
+#EXTINF:-1 tvg-id="ducktv" tvg-logo="https://epgx.site/p/ducktv.png" group-title="Детские", Duck TV HD
+https://strm.yandex.ru/kal/ducktv_belarus/ducktv_belarus0.m3u8
+#EXTINF:-1 tvg-id="karusel" tvg-logo="https://epgx.site/p/karusel.png" group-title="Детские",Карусель
+http://178.124.179.122:8088/karusel/index.m3u8
+#EXTINF:-1 tvg-id="mult" tvg-logo="https://epgx.site/p/mult.png" group-title="Детские",Мульт
+https://strm.yandex.ru/kal/mult_belarus/mult_belarus0.m3u8
+#EXTINF:-1 tvg-id="cartoon-network" tvg-logo="https://epgx.site/p/cartoon-network.png" group-title="Детские",Cartoon Network
+https://bkm.beetv.kz/btv/live/hls/000000015.m3u8
+#EXTINF:-1 tvg-id="boomerang" tvg-logo="https://epgx.site/p/boomerang.png" group-title="Детские",Cartoonito
+https://bkm.beetv.kz/btv/live/hls/000000160.m3u8
+#EXTINF:-1 tvg-id="gulli-girl" tvg-logo="https://epgx.site/p/gulli-girl.png" group-title="Детские",Gulli Girl
+https://strm.yandex.ru/kal/gulli_girl_belarus/gulli_girl_belarus0.m3u8
+#EXTINF:-1 tvg-id="sts-kids-hd" tvg-logo="https://epgx.site/p/sts-kids-hd.png" group-title="Детские",СТС Kids
+http://45.159.74.13:80/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="nickelodeon-ru" tvg-logo="https://epgx.site/p/nickelodeon-ru.png"  group-title="Детские", Nickelodeon
+http://88.135.128.20:7272/DL3JGiEPHMCY4vy
+#EXTINF:-1 tvg-id="nick-jr" tvg-logo="https://epgx.site/p/nick-jr.png" group-title="Детские",Nick Jr
+http://88.135.128.20:7272/Jke5tdvCxp2Yhs6
+
+
+
+#EXTINF:-1 tvg-id="backustv" tvg-logo="https://epgx.site/p/backustv.png" group-title="Фильмы,сериалы",BackusTV Original
+http://stream.backustv.ru/live/btv/index.m3u8
+#EXTINF:-1 tvg-id="backustv-horror" tvg-logo="https://epgx.site/p/backustv-horror.png" group-title="Фильмы,сериалы",BackusTV Страшное
+http://stream.backustv.ru/live/btv2/index.m3u8
+#EXTINF:-1 tvg-id="paramount-comedy" tvg-logo="https://epgx.site/p/comedy-central-pl.png" group-title="Фильмы,сериалы",Comedy Central
+https://bkm.beetv.kz/btv/live/hls/000000452.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6005.png" group-title="Фильмы,сериалы",Видеокассета VHS
+
+#EXTINF:-1 tvg-id="ostrosiuzhetnoe" tvg-logo="https://epgx.site/p/ostrosiuzhetnoe.png" group-title="Фильмы,сериалы",Остросюжетное
+
+#EXTINF:-1 tvg-id="cinema-ru" tvg-logo="https://epgx.site/p/cinema.png" group-title="Фильмы,сериалы",Cinema HD
+https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="retro-fm" tvg-logo="https://epgx.site/p/retro-fm.png" group-title="Радио" radio="true",Ретро FM
 http://europaplus.hostingradio.ru:8014/retro320.mp3
