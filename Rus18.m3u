@@ -142,13 +142,13 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="kuban-24" tvg-logo="https://epgx.site/p/kuban-24.png" group-title="Региональные",Кубань 24
 
-#EXTINF:-1 tvg-id="sankt-peterburg" tvg-logo="http://epg.it999.ru/img2/690.png" group-title="Региональные",Санкт-Петербург
+#EXTINF:-1 tvg-id="sankt-peterburg" tvg-logo="https://epgx.site/p/sankt-peterburg.png" group-title="Региональные",Санкт-Петербург
 https://player.smotrim.ru/iframe/stream/live_id/62037
 #EXTINF:-1 tvg-id="don-24" tvg-logo="https://epgx.site/p/don-24.png" group-title="Региональные",Дон 24 
 https://donmedia.bonus-tv.ru/cdn/donmedia/playlist_sdmid.m3u8
 #EXTINF:-1 tvg-id="rostov-papa" tvg-logo="https://epgx.site/p/rostov-papa.png" group-title="Региональные",Ростов-папа 
 
-#EXTINF:-1 tvg-id="moskva-24" tvg-logo="http://epg.it999.ru/img2/334.png" group-title="Региональные",Москва 24
+#EXTINF:-1 tvg-id="moskva-24" tvg-logo="https://epgx.site/p/moskva-24.png" group-title="Региональные",Москва 24
 http://212.22.76.51:83/Moskva_24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sochi24" tvg-logo="https://epgx.site/p/sochi24.png" group-title="Региональные",Сочи 24
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
@@ -162,7 +162,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 #EXTINF:-1 tvg-id="volga" tvg-logo="https://epgx.site/p/volga.png" group-title="Региональные",Волга
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
-#EXTINF:-1 tvg-id="volgograd-24" tvg-id="Volgograd24.ru" tvg-logo="https://i.imgur.com/gFMnaU5.png" group-title="Региональные",Волгоград 24
+#EXTINF:-1 tvg-id="volgograd-24" tvg-logo="https://i.imgur.com/gFMnaU5.png" group-title="Региональные",Волгоград 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="gorodskoy-yaroslavl" tvg-logo="https://i.imgur.com/zMNJfoV.png" group-title="Региональные",Городской телеканал Ярославль
 https://www.gtk.tv/hls/gtyar.m3u8
@@ -178,7 +178,7 @@ https://player.smotrim.ru/iframe/stream/live_id/61125
 https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
 #EXTINF:-1 tvg-id="nts-sevastopol" tvg-logo="https://epgx.site/p/nts-sevastopol.png" group-title="Региональные",НТС Севастополь
 
-#EXTINF:-1 tvg-id="lot-47" tvg-logo="http://epg.it999.ru/img2/7701.png" group-title="Региональные",Лен ТВ 24
+#EXTINF:-1 tvg-id="lot-47" tvg-logo="https://epgx.site/p/lot-47.png" group-title="Региональные",Лен ТВ 24
 
 #EXTINF:-1 tvg-id="region29" tvg-logo="https://epgx.site/p/region29.png" group-title="Региональные",Регион 29
 http://live-atkmedia.cdnvideo.ru/atkmedia/atkmedia/playlist.m3u8
@@ -190,17 +190,17 @@ http://iptv.crimea.net:8787
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-id="360-news" tvg-logo="https://epgx.site/p/360-news.png" group-title="Новости",360° Новости
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
-#EXTINF:-1 tvg-id="euronews" tvg-logo="http://epg.it999.ru/img2/2266.png" group-title="Новости",Euronews
+#EXTINF:-1 tvg-id="euronews" tvg-logo="https://epgx.site/p/euronews.png" group-title="Новости",Euronews
 https://bkm.beetv.kz/btv/live/hls/000000025.m3u8
 #EXTINF:-1 tvg-id="mir-24" tvg-logo="https://epgx.site/p/mir24.png" group-title="Новости",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://epgx.site/p/rossia-24.png" group-title="Новости",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
-#EXTINF:-1 tvg-id="rbk" tvg-logo="http://epg.it999.ru/img2/743.png" group-title="Новости",РБК
+#EXTINF:-1 tvg-id="rbk" tvg-logo="https://epgx.site/p/rbk.png" group-title="Новости",РБК
 http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1 tvg-id="cnn" tvg-logo="https://epgx.site/p/cnn.png" group-title="Новости",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 ttvg-id="bbc" vg-logo="http://epg.it999.ru/img2/828.png" group-title="Новости",BBC World News
+#EXTINF:-1 ttvg-id="bbc" vg-logo="https://epgx.site/p/bbc.png" group-title="Новости",BBC World News
 https://bkm.beetv.kz/btv/live/hls/000000014.m3u8
 #EXTINF:-1 tvg-id="france-24" tvg-logo="https://epgx.site/p/france24.png" group-title="Новости",France 24
 
@@ -214,13 +214,13 @@ https://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
 
 #EXTINF:-1 tvg-id="belarus24" tvg-logo="https://i.imgur.com/BP7tY6F.png" group-title="Беларусь",Беларусь 24
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="tro" tvg-logo="http://epg.it999.ru/img2/2294.png" group-title="Беларусь",БелРос
+#EXTINF:-1 tvg-id="tro" tvg-logo="https://epgx.site/p/belros.png" group-title="Беларусь",БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:-1 tvg-id="belarus1" tvg-logo="http://epg.it999.ru/img2/2538.png" group-title="Беларусь",Беларусь 1 HD
+#EXTINF:-1 tvg-id="belarus1" tvg-logo="https://epgx.site/p/belarus1hd.png" group-title="Беларусь",Беларусь 1 HD
 https://edge60.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="belarus2" tvg-logo="http://epg.it999.ru/img2/2539.png" group-title="Беларусь",Беларусь 2 HD
+#EXTINF:-1 tvg-id="belarus2" tvg-logo="https://epgx.site/p/belarus2hd.png" group-title="Беларусь",Беларусь 2 HD
 https://edge60.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="belarus3" tvg-logo="http://epg.it999.ru/img2/2540.png" group-title="Беларусь",Беларусь 3 HD
+#EXTINF:-1 tvg-id="belarus3" tvg-logo="https://epgx.site/p/belarus3hd.png" group-title="Беларусь",Беларусь 3 HD
 https://edge60.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u
 
 
