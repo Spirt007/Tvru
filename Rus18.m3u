@@ -291,7 +291,7 @@ http://88.135.128.20:7272/JS7lUbMstASMl0r
 http://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 tvg-id="foxlife" tvg-logo="https://epgx.site/p/foxlife.png"  group-title="Фильмы,сериалы",Fox Life
 https://bkm.beetv.kz/btv/live/hls/000004471.m3u8
-#EXTINF:-1 tvg-id="filmbox-ru" tvg-logo="Filmbox"  group-title="Фильмы,сериалы",FilmBox Russia
+#EXTINF:-1 tvg-id="filmbox-ru" tvg-logo="https://epgx.site/p/filmbox-ru.png"  group-title="Фильмы,сериалы",FilmBox Russia
 
 #EXTINF:-1 tvg-id="filmzone" tvg-logo="https://epgx.site/p/filmzone.png" group-title="Фильмы,сериалы",FilmZone
 
@@ -435,7 +435,7 @@ http://92.242.110.52:9835/udp/238.1.3.7:1234
 
 #EXTINF:-1 tvg-id="kinoxit" tvg-logo="https://epgx.site/p/kinoxit.png" group-title="Премьеры,хиты",Кинохит
 https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8
-#EXTINF:-1 tvg-id="khit-hd" tvg-logo="https://epgx.site/p/khit.png" group-title="Фильмы,сериалы",Хит HD
+#EXTINF:-1 tvg-id="khit-hd" tvg-logo="https://epgx.site/p/khit.png" group-title="Премьеры,хиты",Хит HD
 
 #EXTINF:-1 tvg-id="amedia-hit" tvg-logo="https://epgx.site/p/amedia-hit.png" group-title="Премьеры,хиты",Amedia Hit HD
 http://otv.wotom.net:4433/udp/238.1.1.96:1234
