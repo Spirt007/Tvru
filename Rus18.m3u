@@ -6,7 +6,7 @@ http://194.143.148.28:8080/MatchFutbol1/mpegts
 http://91.207.114.209:5000/c115
 #EXTINF:-1 tvg-id="match-football3" tvg-logo="https://epgx.site/p/match-football3.png" group-title="Спортивные",Матч! Футбол 3 HD 
 http://185.57.68.33/110/mpegts
-#EXTINF:-1 tvg-id="setanta-sports" audio-track="rus,kaz" tvg-logo="https://epgx.site/p/setanta-sports.png" group-title="Спортивные",Setanta Sports 1
+#EXTINF:-1 tvg-id="setanta-sports" tvg-logo="https://epgx.site/p/setanta-sports.png" group-title="Спортивные",Setanta Sports 1
 http://otv.wotom.net:4433/udp/238.1.1.162:1234
 #EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="https://epgx.site/p/setanta-sports-plus.png" group-title="Спортивные",Setanta Sports 2
 http://otv.wotom.net:4433/udp/238.1.1.163:1234
