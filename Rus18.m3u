@@ -267,6 +267,40 @@ https://bkm.beetv.kz/btv/live/hls/000000452.m3u8
 
 #EXTINF:-1 tvg-id="cinema-ru" tvg-logo="https://epgx.site/p/cinema.png" group-title="Фильмы,сериалы",Cinema HD
 https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/cinema.png" group-title="Фильмы,сериалы",Cinema Classic
+https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
+#EXTINF:-1 tvg-id="kineko" tvg-logo="https://epgx.site/p/kineko.png" group-title="Фильмы,сериалы",Кинеко
+http://92.242.110.52:9835/udp/238.1.8.12:1234
+#EXTINF:-1 tvg-id="russky-bestseller" tvg-logo="https://epgx.site/p/russky-bestseller.png" group-title="Фильмы,сериалы",Русский бестселлер
+http://91.142.158.107:8092/play/26/index.m3u8
+#EXTINF:-1 tvg-id="russky-detektiv" tvg-logo="https://epgx.site/p/russky-detektiv.png" group-title="Фильмы,сериалы",Русский детектив
+http://91.142.158.107:8092/play/27/index.m3u8
+#EXTINF:-1 tvg-id="russky-illuzion" tvg-logo="https://epgx.site/p/russky-illuzion.png" group-title="Фильмы,сериалы",Русский иллюзион
+http://195.191.130.11:9000/play/a00u/index.m3u8
+#EXTINF:-1 tvg-id="russky-roman" tvg-logo="https://epgx.site/p/russky-illuzion.png" group-title="Фильмы,сериалы",Русский роман
+http://91.142.158.107:8092/play/25/index.m3u8
+#EXTINF:-1 tvg-id="rodnoe-kino"tvg-logo="https://epgx.site/p/rodnoe-kino.png" group-title="Фильмы,сериалы",Родное кино
+https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
+#EXTINF:-1 tvg-id="lubimoe-kino" tvg-logo="https://epgx.site/p/lubimoe-kino.png" group-title="Фильмы,сериалы",Любимое кино
+http://88.135.128.20:7272/JS7lUbMstASMl0r
+#EXTINF:-1 tvg-id="fox" tvg-logo="https://epgx.site/p/fox.png" group-title="Фильмы,сериалы",Fox
+http://stream01.vnet.am/Fox/mono.m3u8
+#EXTINF:-1 tvg-id="foxlife" tvg-logo="https://epgx.site/p/foxlife.png"  group-title="Фильмы,сериалы",Fox Life
+https://bkm.beetv.kz/btv/live/hls/000004471.m3u8
+#EXTINF:-1 tvg-id="filmbox-ru" tvg-logo="Filmbox"  group-title="Фильмы,сериалы",FilmBox Russia
+
+#EXTINF:-1 tvg-id="filmzone" tvg-logo="https://epgx.site/p/filmzone.png" group-title="Фильмы,сериалы",FilmZone
+
+#EXTINF:-1 tvg-id="shot-tv" tvg-logo="https://epgx.site/p/shot-tv.png" group-title="Фильмы,сериалы",Shot TV
+http://92.242.110.52:9835/udp/238.1.6.2:1234
+#EXTINF:-1 tvg-id="filmbox-arthouse" tvg-logo="https://epgx.site/p/filmbox-arthouse.png" group-title="Фильмы,сериалы",Filmbox Arthouse
+http://188.113.190.15/207/mono.m3u8
+#EXTINF:-1 tvg-id="kinoliving" tvg-logo="https://epgx.site/p/kinoliving.png" group-title="Фильмы,сериалы",Kinoliving
+http://92.242.110.52:9835/udp/238.1.8.1:1234
+#EXTINF:-1 tvg-id="tvxxi" tvg-logo="https://epgx.site/p/tvxxi.png" group-title="Фильмы,сериалы",TV XXI
+https://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
+#EXTINF:-1 tvg-id="illuzion-plus" tvg-logo="https://epgx.site/p/illuzion-plus.png" group-title="Фильмы,сериалы",Иллюзион+
+http://176.113.48.221:8986/73
 
 
 
