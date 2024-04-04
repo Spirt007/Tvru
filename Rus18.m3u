@@ -177,8 +177,7 @@ https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
 #EXTINF:-1 tvg-id="nts-sevastopol" tvg-logo="https://epgx.site/p/nts-sevastopol.png" group-title="Региональные",НТС Севастополь
 
 #EXTINF:-1 tvg-id="lot-47" tvg-logo="https://epgx.site/p/lot-47.png" group-title="Региональные",Лен ТВ 24
-#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
+
 #EXTINF:-1 tvg-id="region29" tvg-logo="https://epgx.site/p/region29.png" group-title="Региональные",Регион 29
 http://live-atkmedia.cdnvideo.ru/atkmedia/atkmedia/playlist.m3u8
 #EXTINF:-1 tvg-id="krym24" tvg-logo="https://epgx.site/p/krym24.png" group-title="Региональные",Крым 24
