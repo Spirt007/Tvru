@@ -552,8 +552,8 @@ https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
 
 #EXTINF:-1 tvg-id="retro-fm" tvg-logo="https://epgx.site/p/retro-fm.png" group-title="Радио" radio="true",Ретро FM
 http://europaplus.hostingradio.ru:8014/retro320.mp3
-#EXTINF:-1 tvg-id="radio-mayak" tvg-logo="https://epgx.site/p/radio-mayak.png" group-title="Радио" radio="true",Радио Маяк
-http://icecast.vgtrk.cdnvideo.ru/mayakf
+#EXTINF:-1 tvg-id="radio-mayak" tvg-logo="https://epgx.site/p/radio-mayak.png" group-title="Радио" radio="true",Радио Маяк Краснодар
+http://icecast-vgtrk.cdnvideo.ru/mayak_kuban
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-nashe-radio." group-title="Радио"radio="true",Наше радио
 http://nashe1.hostingradio.ru/nashespb128.mp3
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-rock-fm.png" group-title="Радио" radio="true",ROCK-FM 
