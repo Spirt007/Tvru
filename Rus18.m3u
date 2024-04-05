@@ -23,7 +23,7 @@ http://87.76.32.36:9106/udp/238.1.1.204:1234
 #EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://epgx.site/p/okko-sport.png" group-title="Спортивные",Okko.Спорт 
 
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://epgx.site/p/match-tv.png" group-title="Спортивные",Матч!
-http://91.142.158.107:8092/play/33/index.m3u
+http://otv.wotom.net:4433/udp/238.1.1.89:1234
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://epgx.site/p/match-premiere.png" group-title="Спортивные",Матч! Премьер
 http://91.207.114.209:5000/c105
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://epgx.site/p/match-premiere.png" group-title="Спортивные",Матч! Премьер HD
@@ -552,6 +552,8 @@ https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
 
 #EXTINF:-1 tvg-id="retro-fm" tvg-logo="https://epgx.site/p/retro-fm.png" group-title="Радио" radio="true",Ретро FM
 http://europaplus.hostingradio.ru:8014/retro320.mp3
+#EXTINF:-1 tvg-id="radio-mayak" tvg-logo="https://epgx.site/p/radio-mayak.png" group-title="Радио" radio="true",Радио Маяк
+http://icecast.vgtrk.cdnvideo.ru/mayakf
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-nashe-radio." group-title="Радио"radio="true",Наше радио
 http://nashe1.hostingradio.ru/nashespb128.mp3
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-rock-fm.png" group-title="Радио" radio="true",ROCK-FM 
