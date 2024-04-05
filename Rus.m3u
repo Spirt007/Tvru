@@ -44,9 +44,9 @@ https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
 http://176.113.48.221:8986/63
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://epgx.site/p/eurosport2.png" group-title="Спортивные",Eurosport 2
 http://193.201.98.10:5000/c154
-#EXTINF:-1 tvg-id="viasat-sport"https://epgx.site/p/viasat-sport.png" group-title="Спортивные",Viasat Sport
+#EXTINF:-1 tvg-id="viasat-sport" tvg-logo="https://epgx.site/p/viasat-sport.png" group-title="Спортивные",Viasat Sport
 https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
-#EXTINF:-1 tvg-id="start" tvg-logo="ttps://epgx.site/p/start.png" group-title="Спортивные",Старт
+#EXTINF:-1 tvg-id="start" tvg-logo="https://epgx.site/p/start.png" group-title="Спортивные",Старт
 http://188.113.190.15/127/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="start-triumf" tvg-logo="https://epgx.site/p/start-triumf.png" group-title="Спортивные",Старт Триумф
 https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/1080p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph/
