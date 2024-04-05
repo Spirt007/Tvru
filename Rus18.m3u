@@ -23,7 +23,7 @@ http://87.76.32.36:9106/udp/238.1.1.204:1234
 #EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://epgx.site/p/okko-sport.png" group-title="Спортивные",Okko.Спорт 
 
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://epgx.site/p/match-tv.png" group-title="Спортивные",Матч!
-http://otv.wotom.net:4433/udp/238.1.1.89:1234
+http://91.142.158.107:8092/play/33/index.m3u
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://epgx.site/p/match-premiere.png" group-title="Спортивные",Матч! Премьер
 http://91.207.114.209:5000/c105
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://epgx.site/p/match-premiere.png" group-title="Спортивные",Матч! Премьер HD
