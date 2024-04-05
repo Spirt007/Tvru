@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.one/epg2.xml.gz, https://iptvx.one/epg/epg.xml.gz"
+#EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz" abs="true"
 
 #EXTINF:-1 tvg-id="match-football1" tvg-logo="https://epgx.site/p/match-football1.png" group-title="Спортивные",Матч! Футбол 1 HD
 http://194.143.148.28:8080/MatchFutbol1/mpegts
@@ -564,7 +564,7 @@ http://hitfm.hostingradio.ru/hitfm96.aacp
 http://rusradio.hostingradio.ru/rusradio96.aacp
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-radio-maximum.jpg" group-title="Радио" radio="true",Maximum
 http://maximum.hostingradio.ru/maximum96.aacp
-#EXTINF:-1 tvg-logo="https://epgx.site/p/vesti-fm.png" group-title="Радио" radio="true",Вести FM
+#EXTINF:-1 tvg-id="vesti-fm" tvg-logo="https://epgx.site/p/vesti-fm.png" group-title="Радио" radio="true",Вести FM
 http://icecast.vgtrk.cdnvideo.ru/vestifm
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-europa-plus.png" group-title="Радио" radio="true",Радио Европа Плюс
 http://europaplus.hostingradio.ru:8014/europaplus320.mp3
