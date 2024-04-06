@@ -259,9 +259,9 @@ http://88.135.128.20:7272/Jke5tdvCxp2Yhs6
 
 
 
-#EXTINF:-1 tvg-id="backustv" tvg-logo="https://epgx.site/p/backustv.png" group-title="Фильмы,сериалы",BackusTV Original
+#EXTINF:-1 tvg-id="backustv" tvg-logo="https://epgx.site/p/backustv.png" group-title="Фильмы,сериалы",Backus TV Original HD
 http://stream.backustv.ru/live/btv/index.m3u8
-#EXTINF:-1 tvg-id="backustv-horror" tvg-logo="https://epgx.site/p/backustv-horror.png" group-title="Фильмы,сериалы",BackusTV Страшное
+#EXTINF:-1 tvg-id="backustv-horror" tvg-logo="https://epgx.site/p/backustv-horror.png" group-title="Фильмы,сериалы",Backus TV Dark HD
 http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 tvg-id="paramount-comedy" tvg-logo="http://epg.it999.ru/img2/920.png" group-title="Фильмы,сериалы",Comedy Central
 https://bkm.beetv.kz/btv/live/hls/000000452.m3u8
@@ -444,7 +444,7 @@ http://otv.wotom.net:4433/udp/238.1.1.71:1234
 #EXTINF:-1 tvg-id="blokbaster-hd" tvg-logo="https://epgx.site/p/blokbaster.png" group-title="Премьеры,хиты",Блокбастер HD
 
 
-#EXTINF:-1 tvg-id="backustv-music" tvg-logo="https://epgx.site/p/backustv-music.png" group-title="Музыкальные",BackusTV Music 
+#EXTINF:-1 tvg-id="backustv-music" tvg-logo="https://epgx.site/p/backustv-music.png" group-title="Музыкальные",Backus TV Music HD
 https://stream.backustv.ru/live/btv3/index.m3u8
 #EXTINF:-1 tvg-id="europa-plus-tv" tvg-logo="https://epgx.site/p/europa-plus-tv.png"" group-title="Музыкальные",Europa Plus TV
 http://45.15.43.12:80/europaplus/video.m3u8?token=test
