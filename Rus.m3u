@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.one/epg2.xml.gz, https://iptvx.one/epg/epg.xml.gz"
+#EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz" abs="true"
 
 #EXTINF:-1 tvg-id="match-football1" tvg-logo="https://epgx.site/p/match-football1.png" group-title="Спортивные",Матч! Футбол 1 HD
 http://194.143.148.28:8080/MatchFutbol1/mpegts
@@ -6,15 +6,15 @@ http://194.143.148.28:8080/MatchFutbol1/mpegts
 http://91.207.114.209:5000/c115
 #EXTINF:-1 tvg-id="match-football3" tvg-logo="https://epgx.site/p/match-football3.png" group-title="Спортивные",Матч! Футбол 3 HD 
 http://185.57.68.33/110/mpegts
-#EXTINF:-1 tvg-id="setanta-sports" tvg-logo="https://epgx.site/p/setanta-sports.png" group-title="Спортивные",Setanta Sports 1
+#EXTINF:-1 tvg-id="setanta-sports" tvg-logo="https://epgx.site/p/setanta-sports.png" group-title="Спортивные",Setanta Sports 1 HD
 http://otv.wotom.net:4433/udp/238.1.1.162:1234
 #EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="https://epgx.site/p/setanta-sports-plus.png" group-title="Спортивные",Setanta Sports 2
 http://otv.wotom.net:4433/udp/238.1.1.163:1234
-#EXTINF:-1 tvg-id="setanta-plus-ua" tvg-logo="https://epgx.site/p/setanta-plus-ua.png" group-title="Спортивные",Setanta Sports+ Ukraine
-
-#EXTINF:-1 tvg-id="setanta-ua" tvg-logo="https://epgx.site/p/setanta-ua.png" group-title="Спортивные",Setanta Sports Ukraine
-
-#EXTINF:-1 tvg-id="setanta-kz" tvg-logo="https://epgx.site/p/setanta-kz.png" group-title="Спортивные",Setanta Qazaqstan
+#EXTINF:-1 tvg-id="setanta-plus-ua" tvg-logo="https://epgx.site/p/setanta-plus-ua.png" group-title="Спортивные",Setanta Ukraine Plus HD
+http://146.59.85.40:89/setantaplus/mono.m3u8
+#EXTINF:-1 tvg-id="setanta-ua" tvg-logo="https://epgx.site/p/setanta-ua.png" group-title="Спортивные",Setanta Ukraine HD
+http://194.26.229.213/777_Setanta-Sports-Ukraine/index.m3u8
+#EXTINF:-1 tvg-id="setanta-kz" tvg-logo="https://epgx.site/p/setanta-kz.png" group-title="Спортивные",Setanta Qazaqstan HD
 https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
 #EXTINF:-1 tvg-id="sport-plus-kz" tvg-logo="https://epgx.site/p/sport-plus-kz.png" group-title="Спортивные",Sport+ Qazaqstan
 http://87.76.32.36:9106/udp/238.1.1.204:1234
@@ -28,21 +28,21 @@ http://otv.wotom.net:4433/udp/238.1.1.89:1234
 http://91.207.114.209:5000/c105
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://epgx.site/p/match-premiere.png" group-title="Спортивные",Матч! Премьер HD
 http://83.234.207.29:8004/play/a014/index.m3u8
-#EXTINF:-1 tvg-logo="https://epgx.site/p/qsport-kz.png" tvg-id="qsport-kz" group-title="Спортивные",QSport Казахстан
+#EXTINF:-1 tvg-logo="https://epgx.site/p/qsport-kz.png" tvg-id="qsport-kz" group-title="Спортивные",Q Sport HD
 http://88.135.128.20:7272/ipKJnd6cVw1Nu7a
-#EXTINF:-1 tvg-id="q-sport-ext" tvg-logo="https://epgx.site/p/q-sport-ext.png" group-title="Спортивные",Q League
+#EXTINF:-1 tvg-id="q-sport-ext" tvg-logo="https://epgx.site/p/q-sport-ext.png" group-title="Спортивные",Q Sport League HD
 http://109.248.236.21:4433/udp/238.1.1.143:1234
-#EXTINF:-1 tvg-id="qsport-kz" tvg-logo="https://epgx.site/p/qsport-kz.png" group-title="Спортивные",Q Arena
+#EXTINF:-1 tvg-id="qsport-kz" tvg-logo="https://epgx.site/p/qsport-kz.png" group-title="Спортивные",QSport Arena HD
 http://otv.wotom.net:4433/udp/238.1.1.142:1234 
-#EXTINF:-1 tvg-id="mir-basketbola" tvg-logo="https://epgx.site/p/mir-basketbola.png" group-title="Спортивные",Мир баскетбола
+#EXTINF:-1 tvg-id="mir-basketbola" tvg-logo="https://epgx.site/p/mir-basketbola.png" group-title="Спортивные",Мир Баскетбола
 http://92.242.110.52:9835/udp/238.1.1.17:1234
 #EXTINF:-1  tvg-id="kxl" tvg-logo="https://epgx.site/p/kxl.png" group-title="Спортивные",KHL
 https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
 #EXTINF:-1 tvg-id="kxl-hd" tvg-logo="https://epgx.site/p/kxl-hd.png" group-title="Спортивные" tvg-id="KHL Prime",KHL Prime
 https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://epgx.site/p/eurosport1.png" group-title="Спортивные",Eurosport 1
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://epgx.site/p/eurosport1.png" group-title="Спортивные",Eurosport 1 HD
 http://176.113.48.221:8986/63
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://epgx.site/p/eurosport2.png" group-title="Спортивные",Eurosport 2
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://epgx.site/p/eurosport2.png" group-title="Спортивные",Eurosport 2 HD
 http://193.201.98.10:5000/c154
 #EXTINF:-1 tvg-id="viasat-sport" tvg-logo="https://epgx.site/p/viasat-sport.png" group-title="Спортивные",Viasat Sport
 https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
@@ -58,16 +58,16 @@ http://193.201.98.10:5000/c106
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 tvg-id="match-planeta" tvg-logo="https://epgx.site/p/match-planeta.png" group-title="Спортивные",Матч! Планета
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
-#EXTINF:-1 tvg-id="belarus5" tvg-logo="https://epgx.site/p/belarus5hd.png" group-title="Спортивные",Беларусь 5
+#EXTINF:-1 tvg-id="belarus5" tvg-logo="https://epgx.site/p/belarus5hd.png" group-title="Спортивные",Беларусь 5 HD
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="football-ru" tvg-logo="https://epgx.site/p/football-ru.png" group-title="Спортивные",Футбол
+#EXTINF:-1 tvg-id="football-ru" tvg-logo="https://epgx.site/p/football-ru.png" group-title="Спортивные",Телеканал Футбол
 http://flu.ttk.mx:9090/Futbol/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-id="footbolny" tvg-logo="https://epgx.site/p/footbolny.png" group-title="Спортивные",Футбольный HD
 http://62.231.191.65:8888/95
 
 
 
-#EXTINF:-1 tvg-id="pervy" tvg-logo="https://epgx.site/p/pervy.png" group-title="Общественные",Первый
+#EXTINF:-1 tvg-id="pervy" tvg-logo="https://epgx.site/p/pervy.png" group-title="Общественные",Первый HD
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://epgx.site/p/rossia1.png" group-title="Общественные",Россия 1 
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia1-sd/index.m3u8
@@ -77,7 +77,7 @@ http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-logo="https://epgx.site/p/rentv.png" group-title="Общественные",Рен ТВ
 http://185.37.150.46:8092/RenTV_HD/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="tv3-ru" tvg-logo="https://epgx.site/p/tv3-ru.png" group-title="Общественные",ТВ-3
+#EXTINF:-1 tvg-id="tv3-ru" tvg-logo="https://epgx.site/p/tv3-ru.png" group-title="Общественные",ТВ3
 http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-logo="https://epgx.site/p/5kanal-ru.png" group-title="Общественные",Пятый канал 
 http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
@@ -93,11 +93,11 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
 #EXTINF:-1 tvg-id="otr" tvg-logo="https://epgx.site/p/otr.png" group-title="Общественные",ОТР
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
-#EXTINF:-1 tvg-id="kultura" tvg-logo="https://epgx.site/p/kultura.png" group-title="Общественные",Россия Культура
+#EXTINF:-1 id="kultura" tvg-logo="http://epg.it999.ru/img2/187.png" group-title="Общественные",Россия Культура
 http://91.142.158.107:8092/play/36/index.m3u8
 #EXTINF:-1 tvg-id="dozhd" tvg-logo="https://epgx.site/p/dozhd.png" group-title="Общественные",Дождь HD
 https://1527562093.rsc.cdn77.org/transcode/ngrp:ses_all/playlist.m3u8
-#EXTINF:-1 tvg-id="nastoyaschee-vremia" tvg-logo="https://epgx.site/p/nastoiaschee-vremia.png" group-title="Общественные",Настоящее Время
+#EXTINF:-1 tvg-id="nastoyaschee-vremia" tvg-logo="https://epgx.site/p/nastoiaschee-vremia.png" group-title="Общественные",Настоящее время
 http://81.94.196.204/tsstreamer/CurrentTime_HD.ts
 #EXTINF:-1 tvg-id="360-podmoskovie" tvg-logo="http://epg.one/img2/2265.png" group-title="Общественные",360°
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
@@ -108,7 +108,7 @@ https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="piatnica-int" tvg-logo="https://i.imgur.com/N2z3EZC.png" group-title="Развлекательные",Пятница International
 https://stream01.vnet.am/Pyatnica/mono.m3u8
-#EXTINF:-1 tvg-id="piatnica" tvg-logo="https://i.imgur.com/UfmlXxe.png" group-title="Развлекательные",Пятница
+#EXTINF:-1 tvg-id="piatnica" tvg-logo="https://i.imgur.com/UfmlXxe.png" group-title="Развлекательные",Пятница!
 http://streamer2.fokks.ru:10016/index.m3u8 
 #EXTINF:-1 tvg-id="super" tvg-logo="https://i.imgur.com/nsk8PpB.png" group-title="Развлекательные",Суббота
 http://195.26.83.96:7013/play/a00e/index.m3u8
@@ -122,17 +122,17 @@ http://92.242.110.52:9835/udp/238.1.4.4:1234
 http://91.205.199.3:80/tnt4/index.m3u8
 #EXTINF:-1 tvg-id="che" tvg-logo="https://epgx.site/p/che.png" group-title="Развлекательные",Че!
 http://178.212.71.253:8002/play/a00s/index.m3u8
-#EXTINF:-1 tvg-id="yu" tvg-logo="https://dvb.by/sources/logos/2678.png" group-title="Развлекательные",Ю
+#EXTINF:-1 tvg-id="yu" tvg-logo="https://dvb.by/sources/logos/2678.png" group-title="Развлекательные",Ю ТВ
 http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="2na2" tvg-logo="https://epgx.site/p/2na2.png" group-title="Развлекательные",2x2
 http://45.15.43.12:80/2x2/video.m3u8?token=test
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://epgx.site/p/kvn-tv.png" group-title="Развлекательные",КВН ТВ
 https://strm.yandex.ru/kal/kvn_tv_belarus/kvn_tv_belarus0.m3u8
-#EXTINF:-1 tvg-id="e-tv" tvg-logo="https://epgx.site/p/e-tv.png" group-title="Развлекательные",Телеканал Е HD
+#EXTINF:-1 tvg-id="e-tv" tvg-logo="https://epgx.site/p/e-tv.png" group-title="Развлекательные",E TV
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="perec-int" tvg-logo="https://epgx.site/p/perec.png" group-title="Развлекательные",Перец
+#EXTINF:-1 tvg-id="perec-int" tvg-logo="http://epg.one/img2/5651.png" group-title="Развлекательные",Перец Int
 http://178.124.179.122:8088/Peretz/index.m3u8
-#EXTINF:-1 tvg-id="zal-suda" tvg-logo="https://epgx.site/p/zal-suda.png" group-title="Развлекательные",Зал суда
+#EXTINF:-1 tvg-id="zal-suda" tvg-logo="https://epgx.site/p/zal-suda.png" group-title="Развлекательные",Зал суда HD
 http://95.156.76.230:33001/udp/230.4.34.6:1234
 #EXTINF:-1 tvg-id="telekafe" tvg-logo="https://epgx.site/p/telekafe.png" group-title="Развлекательные",Телекафе
 http://stream01.vnet.am/Telekafe/mono.m3u8
@@ -188,9 +188,9 @@ http://iptv.crimea.net:8787
 
 #EXTINF:-1 tvg-id="izvestia" tvg-logo="https://epgx.site/p/izvestia.png" group-title="Новости",Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 tvg-id="360-news" tvg-logo="https://epgx.site/p/360-news.png" group-title="Новости",360° Новости
+#EXTINF:-1 tvg-id="360-news" tvg-logo="https://epgx.site/p/360-news.png" group-title="Новости",360° Новости HD
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
-#EXTINF:-1 tvg-id="euronews" tvg-logo="https://epgx.site/p/euronews.png" group-title="Новости",Euronews
+#EXTINF:-1 tvg-id="euronews" tvg-logo="https://epgx.site/p/euronews.png" group-title="Новости",Euronews Россия
 https://bkm.beetv.kz/btv/live/hls/000000025.m3u8
 #EXTINF:-1 tvg-id="mir-24" tvg-logo="https://epgx.site/p/mir24.png" group-title="Новости",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
@@ -222,9 +222,9 @@ https://edge60.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 https://edge60.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="belarus3" tvg-logo="https://epgx.site/p/belarus3hd.png" group-title="Беларусь",Беларусь 3 HD
 https://edge60.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u
-#EXTINF:-1 tvg-id="ont-by" tvg-logo="https://i.imgur.com/LbHdHEk.png" group-title="Беларусь",ОНТ
+#EXTINF:-1 tvg-id="ont-by" tvg-logo="https://i.imgur.com/LbHdHEk.png" group-title="Беларусь",ОНТ HD
 https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
-#EXTINF:-1 tvg-id="stv-by" tvg-logo="https://epgx.site/p/stv-by.png" group-title="Беларусь",СТВ
+#EXTINF:-1 tvg-id="stv-by" tvg-logo="https://epgx.site/p/stv-by.png" group-title="Беларусь",СТВ HD
 http://80.94.225.126:8080/STV/mono.m3u8
 
 
@@ -263,10 +263,10 @@ http://88.135.128.20:7272/Jke5tdvCxp2Yhs6
 http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 tvg-id="backustv-horror" tvg-logo="https://epgx.site/p/backustv-horror.png" group-title="Фильмы,сериалы",BackusTV Страшное
 http://stream.backustv.ru/live/btv2/index.m3u8
-#EXTINF:-1 tvg-id="paramount-comedy" tvg-logo="https://epgx.site/p/comedy-central-pl.png" group-title="Фильмы,сериалы",Comedy Central
+#EXTINF:-1 tvg-id="paramount-comedy" tvg-logo="http://epg.it999.ru/img2/920.png" group-title="Фильмы,сериалы",Comedy Central
 https://bkm.beetv.kz/btv/live/hls/000000452.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6005.png" group-title="Фильмы,сериалы",Видеокассета VHS
-
+https://playlist.nuum.ru/live/4968/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ostrosiuzhetnoe" tvg-logo="https://epgx.site/p/ostrosiuzhetnoe.png" group-title="Фильмы,сериалы",Остросюжетное
 
 #EXTINF:-1 tvg-id="cinema-ru" tvg-logo="https://epgx.site/p/cinema.png" group-title="Фильмы,сериалы",Cinema HD
@@ -415,7 +415,7 @@ http://stream01.vnet.am/Fox/mono.m3u8
 http://146.158.0.56:80/Motosport/index.m3u8
 #EXTINF:-1 tvg-id="plan-b" tvg-logo="https://epgx.site/p/plan-b.png" group-title="Фильмы,сериалы",Plan B HD
 http://88.85.172.243:7012/play/a028
-#EXTINF:-1 group-title="Фильмы,сериалы",VHSка
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/2/22/VHS-_%D0%BA%D0%B0.png/revision/latest?cb=20240204170927&path-prefix=ru" group-title="Фильмы,сериалы",VHSка
 http://strm.yandex.ru/kal/vhs_ka/vhs_ka0.m3u8
 #EXTINF:-1 tvg-id="nst" tvg-logo="https://epgx.site/p/nst.png" group-title="Фильмы,сериалы",НСТ
 http://45.15.43.12:80/nst/video.m3u8?token=test
@@ -522,8 +522,6 @@ http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ocean-tv" tvg-id="ocean-tv" tvg-logo="https://epgx.site/p/ocean-tv.png" group-title="Познавательные",Ocean 
 http://camera.global-x.ru/OceanTV/index.m3u8
-
-
 
 
 #EXTINF:-1 tvg-id="retro-fm" tvg-logo="https://epgx.site/p/retro-fm.png" group-title="Радио" radio="true",Ретро FM
