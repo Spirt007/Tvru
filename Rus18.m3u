@@ -108,7 +108,7 @@ https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="piatnica-int" tvg-logo="https://i.imgur.com/N2z3EZC.png" group-title="Развлекательные",Пятница International
 https://stream01.vnet.am/Pyatnica/mono.m3u8
-#EXTINF:-1 tvg-id="piatnica" tvg-logo="https://i.imgur.com/UfmlXxe.png" group-title="Развлекательные",Пятница HD
+#EXTINF:-1 tvg-id="piatnica" tvg-logo="https://i.imgur.com/UfmlXxe.png" group-title="Развлекательные",Пятница!
 http://streamer2.fokks.ru:10016/index.m3u8 
 #EXTINF:-1 tvg-id="super" tvg-logo="https://i.imgur.com/nsk8PpB.png" group-title="Развлекательные",Суббота
 http://195.26.83.96:7013/play/a00e/index.m3u8
@@ -132,11 +132,11 @@ https://strm.yandex.ru/kal/kvn_tv_belarus/kvn_tv_belarus0.m3u8
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="perec-int" tvg-logo="https://epgx.site/p/perec.png" group-title="Развлекательные",Перец
 http://178.124.179.122:8088/Peretz/index.m3u8
-#EXTINF:-1 tvg-id="zal-suda" tvg-logo="https://epgx.site/p/zal-suda.png" group-title="Развлекательные",Зал суда
+#EXTINF:-1 tvg-id="zal-suda" tvg-logo="https://epgx.site/p/zal-suda.png" group-title="Развлекательные",Зал суда HD
 http://95.156.76.230:33001/udp/230.4.34.6:1234
 #EXTINF:-1 tvg-id="telekafe" tvg-logo="https://epgx.site/p/telekafe.png" group-title="Развлекательные",Телекафе
 http://stream01.vnet.am/Telekafe/mono.m3u8
-#EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-logo="https://epgx.site/p/tvoyo-tv-hd.png" group-title="Развлекательные",Твоё ТВ
+#EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-logo="https://epgx.site/p/tvoyo-tv-hd.png" group-title="Развлекательные",Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 
 
