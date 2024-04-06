@@ -122,7 +122,7 @@ http://92.242.110.52:9835/udp/238.1.4.4:1234
 http://91.205.199.3:80/tnt4/index.m3u8
 #EXTINF:-1 tvg-id="che" tvg-logo="https://epgx.site/p/che.png" group-title="Развлекательные",Че!
 http://178.212.71.253:8002/play/a00s/index.m3u8
-#EXTINF:-1 tvg-id="yu" tvg-logo="https://dvb.by/sources/logos/2678.png" group-title="Развлекательные",Ю HD
+#EXTINF:-1 tvg-id="yu" tvg-logo="https://dvb.by/sources/logos/2678.png" group-title="Развлекательные",Ю ТВ
 http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="2na2" tvg-logo="https://epgx.site/p/2na2.png" group-title="Развлекательные",2x2
 http://45.15.43.12:80/2x2/video.m3u8?token=test
