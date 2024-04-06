@@ -214,7 +214,7 @@ https://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
 
 #EXTINF:-1 tvg-id="belarus24" tvg-logo="https://i.imgur.com/BP7tY6F.png" group-title="Беларусь",Беларусь 24
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="tro" tvg-logo="https://epgx.site/p/belros.png" group-title="Беларусь",БелРос
+#EXTINF:-1 tvg-id="tro" tvg-logo="https://epgx.site/p/belros.png" group-title="Беларусь",БелРос HD
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1 tvg-id="belarus1" tvg-logo="https://epgx.site/p/belarus1hd.png" group-title="Беларусь",Беларусь 1 HD
 https://edge60.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
@@ -222,9 +222,9 @@ https://edge60.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 https://edge60.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="belarus3" tvg-logo="https://epgx.site/p/belarus3hd.png" group-title="Беларусь",Беларусь 3 HD
 https://edge60.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u
-#EXTINF:-1 tvg-id="ont-by" tvg-logo="https://i.imgur.com/LbHdHEk.png" group-title="Беларусь",ОНТ
+#EXTINF:-1 tvg-id="ont-by" tvg-logo="https://i.imgur.com/LbHdHEk.png" group-title="Беларусь",ОНТ Беларусь
 https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
-#EXTINF:-1 tvg-id="stv-by" tvg-logo="https://epgx.site/p/stv-by.png" group-title="Беларусь",СТВ
+#EXTINF:-1 tvg-id="stv-by" tvg-logo="https://epgx.site/p/stv-by.png" group-title="Беларусь",СТВ Беларусь
 http://80.94.225.126:8080/STV/mono.m3u8
 
 
