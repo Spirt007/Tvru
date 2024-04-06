@@ -42,7 +42,7 @@ https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
 https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://epgx.site/p/eurosport1.png" group-title="Спортивные",Eurosport 1 HD
 http://176.113.48.221:8986/63
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://epgx.site/p/eurosport2.png" group-title="Спортивные",Eurosport 2
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://epgx.site/p/eurosport2.png" group-title="Спортивные",EUROSPORT 2 HD
 http://193.201.98.10:5000/c154
 #EXTINF:-1 tvg-id="viasat-sport" tvg-logo="https://epgx.site/p/viasat-sport.png" group-title="Спортивные",Viasat Sport
 https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
