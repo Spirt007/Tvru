@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.one/epg2.xml.gz, https://iptvx.one/epg/epg.xml.gz" abs="true"
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml., gzhttp://epg.one/epg2.xml.gz" abs="true"
 
 #EXTINF:-1 tvg-id="match-football1" tvg-logo="https://epgx.site/p/match-football1.png" group-title="Спортивные",Матч! Футбол 1 HD
 http://194.143.148.28:8080/MatchFutbol1/mpegts
