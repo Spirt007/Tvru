@@ -34,7 +34,7 @@ http://88.135.128.20:7272/ipKJnd6cVw1Nu7a
 http://109.248.236.21:4433/udp/238.1.1.143:1234
 #EXTINF:-1 tvg-id="qsport-kz" tvg-logo="https://epgx.site/p/qsport-kz.png" group-title="Спортивные",Q Sport Arena HD
 http://otv.wotom.net:4433/udp/238.1.1.142:1234 
-#EXTINF:-1 tvg-id="mir-basketbola" tvg-logo="https://epgx.site/p/mir-basketbola.png" group-title="Спортивные",Мир баскетбола
+#EXTINF:-1 tvg-id="mir-basketbola" tvg-logo="https://epgx.site/p/mir-basketbola.png" group-title="Спортивные",Мир Баскетбола
 http://92.242.110.52:9835/udp/238.1.1.17:1234
 #EXTINF:-1  tvg-id="kxl" tvg-logo="https://epgx.site/p/kxl.png" group-title="Спортивные",KHL
 https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
@@ -58,7 +58,7 @@ http://193.201.98.10:5000/c106
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 tvg-id="match-planeta" tvg-logo="https://epgx.site/p/match-planeta.png" group-title="Спортивные",Матч! Планета
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
-#EXTINF:-1 tvg-id="belarus5" tvg-logo="https://epgx.site/p/belarus5hd.png" group-title="Спортивные",Беларусь 5
+#EXTINF:-1 tvg-id="belarus5" tvg-logo="https://epgx.site/p/belarus5hd.png" group-title="Спортивные",Беларусь 5 HD
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="football-ru" tvg-logo="https://epgx.site/p/football-ru.png" group-title="Спортивные",Футбол
 http://flu.ttk.mx:9090/Futbol/index.m3u8?token=orh6o
