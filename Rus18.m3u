@@ -415,7 +415,7 @@ http://stream01.vnet.am/Fox/mono.m3u8
 http://146.158.0.56:80/Motosport/index.m3u8
 #EXTINF:-1 tvg-id="plan-b" tvg-logo="https://epgx.site/p/plan-b.png" group-title="Фильмы,сериалы",Plan B HD
 http://88.85.172.243:7012/play/a028
-#EXTINF:-1 group-title="Фильмы,сериалы",VHSка
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/2/22/VHS-_%D0%BA%D0%B0.png/revision/latest?cb=20240204170927&path-prefix=ru" group-title="Фильмы,сериалы",VHSка
 http://strm.yandex.ru/kal/vhs_ka/vhs_ka0.m3u8
 #EXTINF:-1 tvg-id="nst" tvg-logo="https://epgx.site/p/nst.png" group-title="Фильмы,сериалы",НСТ
 http://45.15.43.12:80/nst/video.m3u8?token=test
