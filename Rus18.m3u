@@ -310,7 +310,7 @@ http://176.113.48.221:8986/73
 #EXTINF:-1 tvg-id="flixsnip" tvg-logo="https://epgx.site/p/flixsnip.png" group-title="Фильмы,сериалы",FlixSnip
 
 #EXTINF:-1 tvg-id="312-kino" tvg-logo="https://epgx.site/p/312-kino.png" group-title="Фильмы,сериалы",312 KINO KG
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
+
 #EXTINF:-1 tvg-id="kino-24" tvg-logo="https://epgx.site/p/kino-24.png" group-title="Фильмы,сериалы",Kino24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 tvg-id="retro-tv" tvg-logo="https://epgx.site/p/retro-tv.png" group-title="Фильмы,сериалы",Ретро
@@ -482,7 +482,7 @@ https://bkm.beetv.kz/btv/live/hls/000000264.m3u8
 https://tr003.androidtvbox.co.hu/tr3_MTVHits_SD/index.m3u8?token=test
 
 
-#EXTINF:-1 tvg-id="eureka-hd" tvg-logo="http://epg.it999.ru/img2/2310.png" group-title="Познавательные",Первый Космический
+#EXTINF:-1 tvg-id="eureka-hd" tvg-logo="http://epg.it999.ru/img2/2310.png" group-title="Познавательные",Первый космический HD
 http://stream01.vnet.am/Evrika/mono.m3u8
 #EXTINF:-1 tvg-id="Da Vinci" tvg-logo="http://epg.it999.ru/img2/410.png" group-title="Познавательные",Da Vinci
 http://92.242.110.52:9835/udp/238.1.8.45:1234
@@ -490,7 +490,7 @@ http://92.242.110.52:9835/udp/238.1.8.45:1234
 http://45.15.43.12:80/sovershennosekretno/video.m3u8?token=test
 #EXTINF:-1 tvg-id="istoria" tvg-logo="http://epg.it999.ru/img2/1036.png" group-title="Познавательные",История
 http://stream01.vnet.am/Istoria/mono.m3u8
-#EXTINF:-1 tvg-id="RTG" tvg-logo="http://epg.it999.ru/img2/648.png" tvg-id="RTG.ru" group-title="Познавательные",RTG 
+#EXTINF:-1 tvg-id="RTG" tvg-logo="http://epg.one/img2/2280.png" group-title="Познавательные",RTG TV
 http://176.113.48.221:8986/104
 #EXTINF:-1 tvg-id="nauka-20" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-nauka-2-0.jpg"  group-title="Познавательные",Наука 2.0
 http://188.113.190.15/96/tracks-v1a1/index.m3u8
@@ -514,7 +514,7 @@ http://31.131.136.4:8001/play/e006
 http://45.159.74.14:80/AnimalPlanet/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="big-planet" tvg-logo="https://epgx.site/p/big-planet.png" group-title="Познавательные",Big Planet
 http://92.242.110.52:9835/udp/238.1.8.20:1234
-#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://epgx.site/p/discovery-channel.png" group-title="Познавательные",Discovery
+#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://epgx.site/p/discovery-channel.png" group-title="Познавательные",Discovery Channel
 http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="galaxy-tv" tvg-logo="https://epgx.site/p/galaxy-tv.png" group-title="Познавательные",Galaxy TV
 http://146.158.0.56/Galaxy/mono.m3u8
@@ -522,7 +522,7 @@ http://146.158.0.56/Galaxy/mono.m3u8
 http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://epgx.site/p/nat-geo-wild.png" group-title="Познавательные",Nat Geo Wild
 http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ocean-tv" tvg-id="ocean-tv" tvg-logo="https://epgx.site/p/ocean-tv.png" group-title="Познавательные",Ocean 
+#EXTINF:-1 tvg-id="ocean-tv" tvg-id="ocean-tv" tvg-logo="https://epgx.site/p/ocean-tv.png" group-title="Познавательные",OCEAN-TV 
 http://camera.global-x.ru/OceanTV/index.m3u8
 
 
