@@ -454,21 +454,21 @@ http://45.15.43.12:80/europaplus/video.m3u8?token=test
 http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv" tvg-logo="https://epgx.site/p/bridge-tv.png" group-title="Музыкальные",Bridge
 https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
-#EXTINF:-1 tvg-id="bridge-tv-classic" tvg-logo="https://epgx.site/p/bridge-tv-classic.png" group-title="Музыкальные",Bridge TV Classic
+#EXTINF:-1 tvg-id="bridge-tv-classic" tvg-logo="https://epgx.site/p/bridge-tv-classic.png" group-title="Музыкальные",BRIDGE CLASSIC
 https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
-#EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-logo="https://epgx.site/p/bridge-tv-ruxit.png" group-title="Музыкальные",Bridge TV Русский хит
+#EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-logo="https://epgx.site/p/bridge-tv-ruxit.png" group-title="Музыкальные",BRIDGE TV Русский Хит
 https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-shlager" tvg-logo="https://epgx.site/p/bridge-tv-shlager.png" group-title="Музыкальные",Bridge TV Шлягер
 https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-rock" tvg-logo="https://epgx.site/p/bridge-tv-rock.png" group-title="Музыкальные",Bridge TV Rock
 https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
-#EXTINF:-1 tvg-id="bridge-hd" tvg-logo="https://epgx.site/p/bridge-hd.png" group-title="Музыкальные",Bridge TV Deluxe
+#EXTINF:-1 tvg-id="bridge-hd" tvg-logo="https://epgx.site/p/bridge-hd.png" group-title="Музыкальные",BRIDGE Delux
 https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-dance" tvg-logo="https://epgx.site/p/bridge-tv-dance.png" group-title="Музыкальные",Bridge TV Hits
 https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
-#EXTINF:-1 tvg-id="ru-tv" tvg-logo="https://epgx.site/p/ru-tv.png" group-title="Музыкальные",RU.TV HD
+#EXTINF:-1 tvg-id="ru-tv" tvg-logo="https://epgx.site/p/ru-tv.png" group-title="Музыкальные",RU TV
 https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
-#EXTINF:-1 tvg-id="radio-strana-fm-tv" tvg-logo="https://epgx.site/p/radio-strana-fm-tv.png" group-title="Музыкальные",Страна FM
+#EXTINF:-1 tvg-id="radio-strana-fm-tv" tvg-logo="https://epgx.site/p/radio-strana-fm-tv.png" group-title="Музыкальные",Страна FM HD
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="muztv" tvg-logo="https://epgx.site/p/muztv.png" group-title="Музыкальные",Муз ТВ
 http://stream01.vnet.am/MuzTv/mono.m3u8
