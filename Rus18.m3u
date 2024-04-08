@@ -147,7 +147,7 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="krasnodar" tvg-logo="https://epgx.site/p/krasnodar.png" group-title="Региональные",Краснодар
 http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="kuban-24" tvg-logo="https://epgx.site/p/kuban-24.png" group-title="Региональные",Кубань 24 орбита
-https://river-3-301.rutube.ru/stream/genetta-315.m9.rutube.ru/KpbSeSLEfxmyI9T-XN7uQQ/1713184550/cb2f1d99b88c9b4d38df05cd7fa0a6c2/360p_stream.m3u8
+https://river-3-301.rutube.ru/stream/genetta-315.m9.rutube.ru/KpbSeSLEfxmyI9T-XN7uQQ/1713184550/cb2f1d99b88c9b4d38df05cd7fa0a6c2/720p_stream.m3u8
 #EXTINF:-1 tvg-id="sankt-peterburg" tvg-logo="https://epgx.site/p/sankt-peterburg.png" group-title="Региональные",Санкт-Петербург
 https://player.smotrim.ru/iframe/stream/live_id/62037
 #EXTINF:-1 tvg-id="don-24" tvg-logo="https://epgx.site/p/don-24.png" group-title="Региональные",Дон 24 
