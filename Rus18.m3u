@@ -110,10 +110,6 @@ https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
 https://stream01.vnet.am/Pyatnica/mono.m3u8
 #EXTINF:-1 tvg-id="piatnica" tvg-logo="https://i.imgur.com/UfmlXxe.png" group-title="Развлекательные",Пятница!
 http://streamer2.fokks.ru:10016/index.m3u8
-#EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://epgx.site/p/ntv-style.png" group-title="Развлекательные",НТВ Стиль
-https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
-#EXTINF:-1 tvg-id="ntv-pravo" tvg-logo="http://epg.one/img2/1753.png" group-title="Развлекательные",НТВ Право
-https://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
 #EXTINF:-1 tvg-id="super" tvg-logo="https://i.imgur.com/nsk8PpB.png" group-title="Развлекательные",Суббота
 http://195.26.83.96:7013/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="sts" tvg-logo="https://epgx.site/p/sts.png" group-title="Развлекательные",СТС
@@ -189,6 +185,23 @@ http://live-atkmedia.cdnvideo.ru/atkmedia/atkmedia/playlist.m3u8
 #EXTINF:-1 tvg-id="krym24" tvg-logo="https://epgx.site/p/krym24.png" group-title="Региональные",КРЫМ 24
 http://iptv.crimea.net:8787
 
+
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://epgx.site/p/ntv.png" group-title="НТВ",НТВ
+http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://epgx.site/p/ntv-style.png" group-title="НТВ",НТВ Стиль
+https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
+#EXTINF:-1 tvg-id="ntv-pravo" tvg-logo="http://epg.one/img2/1753.png" group-title="НТВ",НТВ Право
+https://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
+#EXTINF:-1 tvg-id="ntv-serial" tvg-logo="https://epgx.site/p/ntv-serial.png" group-title="НТВ",НТВ Сериал
+http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ntv-xit" tvg-logo="https://epgx.site/p/ntv-xit.png" group-title="НТВ",НТВ Хит
+http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ntv-belarus" tvg-logo="http://epg.one/img2/6773.png" group-title="НТВ",НТВ Беларусь
+https://strm.yandex.ru/kal/ntv_belarus/ntv_belarus0.m3u8
+#EXTINF:-1 tvg-id=""ntv-amerika" tvg-logo="http://epg.one/img2/7258.png" group-title="НТВ",НТВ Америка
+http://4.59.210.197:8815/udp/127.0.0.1:6003
+#EXTINF:-1 tvg-id="ntv-mir" tvg-logo="https://epgx.site/p/ntv-mir.png" group-title="Общие" ,НТВ-Мир
+http://87.76.32.36:9106/udp/238.1.1.56:1234 
 
 #EXTINF:-1 tvg-id="izvestia" tvg-logo="https://epgx.site/p/izvestia.png" group-title="Новости",Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
@@ -401,10 +414,6 @@ http://217.25.80.15/nashe_hd/tracks-v1a1/mono.m3u8
 https://strm.yandex.ru/kal/nashe_novoe_kino_belarus/nashe_novoe_kino_belarus0.m3u8
 #EXTINF:-1 tvg-id="mir-seriala" tvg-logo="https://epgx.site/p/mir-seriala.png" group-title="Фильмы,сериалы",Мир Сериала
 http://109.248.236.21:4433/udp/238.1.1.136:1234
-#EXTINF:-1 tvg-id="ntv-serial" tvg-logo="https://epgx.site/p/ntv-serial.png" group-title="Фильмы,сериалы",НТВ Сериал
-http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ntv-xit" tvg-logo="https://epgx.site/p/ntv-xit.png" group-title="Фильмы,сериалы",НТВ Хит
-http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="feniks-plus-kino" tvg-logo="https://epgx.site/p/feniks-plus-kino.png" group-title="Фильмы,сериалы",Феникс+Кино
 http://188.113.190.15/24/mono.m3u8
 #EXTINF:-1 tvg-id="evrokino" tvg-logo="https://epgx.site/p/eurokino.png" group-title="Фильмы,сериалы",Еврокино
