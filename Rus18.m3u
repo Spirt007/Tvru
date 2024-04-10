@@ -536,6 +536,8 @@ http://146.59.54.163/353/index.m3u8
 https://cdn-main.lolokoko.tv/HUSTLER.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="private-tv" tvg-logo="https://epgx.site/p/private-tv.png" group-title="18+",Private HD
 https://cdn-main.lolokoko.tv/Private.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="3253" tvg-logo="http://epg.one/img2/3253.png" group-title="18+",Venus
+http://168.181.122.234:8000/play/a027/index.m3u8
 #EXTINF:-1 tvg-id="sholk" tvg-logo="https://epgx.site/p/sholk.png" group-title="18+",Шелк
 http://live-1.otcnet.ru/shelkhdmts/index.m3u8
 #EXTINF:-1 tvg-id="vivid-red" tvg-logo="https://epgx.site/p/vivid-red.png" group-title="18+",Vivid Red HD
