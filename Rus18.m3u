@@ -91,10 +91,6 @@ http://92.242.110.52:9835/udp/238.1.11.25:1234
 http://88.135.128.20:7272/CGGe9lr8Dx9PZy1
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="https://epgx.site/p/zvezda.png" group-title="Общественные",Звезда
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://epgx.site/p/ntv-style.png" group-title="Общественные",НТВ Стиль
-https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
-#EXTINF:-1 tvg-id="ntv-pravo" tvg-logo="http://epg.one/img2/1753.png" group-title="Общественные",НТВ Право 
-https://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
 #EXTINF:-1 tvg-id="otr" tvg-logo="https://epgx.site/p/otr.png" group-title="Общественные",ОТР
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
 #EXTINF:-1 id="kultura" tvg-logo="http://epg.it999.ru/img2/187.png" group-title="Общественные",Россия Культура
@@ -113,7 +109,11 @@ https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-id="piatnica-int" tvg-logo="https://i.imgur.com/N2z3EZC.png" group-title="Развлекательные",Пятница International
 https://stream01.vnet.am/Pyatnica/mono.m3u8
 #EXTINF:-1 tvg-id="piatnica" tvg-logo="https://i.imgur.com/UfmlXxe.png" group-title="Развлекательные",Пятница!
-http://streamer2.fokks.ru:10016/index.m3u8 
+http://streamer2.fokks.ru:10016/index.m3u8
+#EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://epgx.site/p/ntv-style.png" group-title="Развлекательные",НТВ Стиль
+https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
+#EXTINF:-1 tvg-id="ntv-pravo" tvg-logo="http://epg.one/img2/1753.png" group-title="Развлекательные",НТВ Право
+https://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u
 #EXTINF:-1 tvg-id="super" tvg-logo="https://i.imgur.com/nsk8PpB.png" group-title="Развлекательные",Суббота
 http://195.26.83.96:7013/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="sts" tvg-logo="https://epgx.site/p/sts.png" group-title="Развлекательные",СТС
