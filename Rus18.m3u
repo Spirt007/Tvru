@@ -550,7 +550,7 @@ http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="penthouse-hd" tvg-logo="https://epgx.site/p/penthouse-gold.png" group-title="18+",Penthouse Gold HD
 http://146.59.54.163/353/index.m3u8
 #EXTINF:-1 tvg-id="blue-hustler" tvg-logo="https://i.imgur.com/41Ej2io.png" group-title="18+",Hustler HD
-https://cdn-main.lolokoko.tv/HUSTLER.stream/chunks.m3u8
+http://146.59.54.163/348/index.m3u8
 #EXTINF:-1 tvg-id="private-tv" tvg-logo="https://epgx.site/p/private-tv.png" group-title="18+",Private HD
 https://cdn-main.lolokoko.tv/Private.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="3253" tvg-logo="http://epg.one/img2/3253.png" group-title="18+",Venus
@@ -560,9 +560,9 @@ http://live-1.otcnet.ru/shelkhdmts/index.m3u8
 #EXTINF:-1 tvg-id="vivid-red" tvg-logo="https://epgx.site/p/vivid-red.png" group-title="18+",Vivid Red HD
 http://146.59.54.163:80/361/mono.m3u8
 #EXTINF:-1 tvg-id="dorcel" tvg-logo="https://epgx.site/p/dorcel.png" group-title="18+",Dorcel TV 
-https://cdn-main.lolokoko.tv/DorcelTV.stream/playlist.m3u8
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="redlight-hd" tvg-logo="https://epgx.site/p/redlight-hd.png" group-title="18+",Redlight HD 
-https://cdn-main.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-id="o-la-la" tvg-logo="https://epgx.site/p/o-la-la.png" group-title="18+",O-la-la
 http://31.148.48.15/O-la-la/index.m3u8
 #EXTINF:-1 tvg-id="playboy-tv" tvg-logo="https://epgx.site/p/playboy-tv.png" group-title="18+",Playboy TV
@@ -570,7 +570,9 @@ http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="extasy4k" tvg-logo="https://epgx.site/p/extasytv.png" group-title="18+",Extasy HD
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="passionxxx" tvg-logo="https://epgx.site/p/passionxxx.png" group-title="18+",PassionXXX
-https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="eroxxxhd" tvg-logo="https://epgx.site/p/eroxxxhd.png" group-title="18+",Eroxxx HD
+http://88.135.128.20:7272/urYgd52Dcxp47Ge
 
 
 #EXTINF:-1 tvg-id="retro-fm" tvg-logo="https://epgx.site/p/retro-fm.png" group-title="Радио" radio="true",Ретро FM
