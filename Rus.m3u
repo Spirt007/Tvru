@@ -288,6 +288,8 @@ https://edge60.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u
 http://82.209.197.187:8080/udp/239.0.100.6:1234
 #EXTINF:-1 tvg-id="tv3-by" tvg-logo="https://epgx.site/p/tv3-by.png" group-title="Беларусь",ТВ3 Беларусь
 http://strm.yandex.ru/kal/tv3_belarus/tv3_belarus0.m3u8
+#EXTINF:-1 tvg-id="rtr-belarus" tvg-logo="https://epgx.site/p/rtr-belarus.png" group-title="Беларусь",РТР Беларусь
+https://player.smotrim.ru/iframe/stream/live_id/63253
 #EXTINF:-1 tvg-id="ont-by" tvg-logo="https://i.imgur.com/LbHdHEk.png" group-title="Беларусь",ОНТ HD
 https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
 #EXTINF:-1 tvg-id="stv-by" tvg-logo="https://epgx.site/p/stv-by.png" group-title="Беларусь",СТВ HD
