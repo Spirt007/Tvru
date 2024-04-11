@@ -246,7 +246,7 @@ https://edge60.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="belarus3" tvg-logo="https://epgx.site/p/belarus3hd.png" group-title="Беларусь",Беларусь 3 HD
 https://edge60.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u
 #EXTINF:-1 tvg-id="ntv-belarus" tvg-logo="http://epg.one/img2/6773.png" group-title="Беларусь",НТВ Беларусь
-https://strm.yandex.ru/kal/ntv_belarus/ntv_belarus0.m3u8
+http://82.209.197.187:8080/udp/239.0.100.6:1234
 #EXTINF:-1 tvg-id="tv3-by" tvg-logo="https://epgx.site/p/tv3-by.png" group-title="Беларусь",ТВ3 Беларусь
 http://strm.yandex.ru/kal/tv3_belarus/tv3_belarus0.m3u8
 #EXTINF:-1 tvg-id="ont-by" tvg-logo="https://i.imgur.com/LbHdHEk.png" group-title="Беларусь",ОНТ HD
