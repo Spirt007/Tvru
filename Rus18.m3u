@@ -207,7 +207,7 @@ http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-amerika" tvg-logo="https://epgx.site/p/ntv-amerika.png" group-title="НТВ",НТВ Америка
 http://4.59.210.197:8815/udp/127.0.0.1:6003
 #EXTINF:-1 tvg-id="ntv-mir" tvg-logo="https://epgx.site/p/ntv-mir.png" group-title="НТВ",НТВ-Мир
-http://87.76.32.36:9106/udp/238.1.1.56:1234 
+http://stream02.vnet.am/HTB/mono.m3u8
 
 #EXTINF:-1 tvg-id="izvestia" tvg-logo="https://epgx.site/p/izvestia.png" group-title="Новости",Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
