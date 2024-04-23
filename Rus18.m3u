@@ -16,6 +16,20 @@ http://146.59.85.40:89/setantaplus/mono.m3u8
 http://194.26.229.213/777_Setanta-Sports-Ukraine/index.m3u8
 #EXTINF:-1 tvg-id="setanta-kz" tvg-logo="https://epgx.site/p/setanta-kz.png" group-title="Спортивные",Setanta Qazaqstan HD
 https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
+#EXTINF:-1 tvg-id="sky-sports-action" tvg-logo="https://epgx.site/p/sky-sports-action.png" group-title="Спортивные",Sky Sports Action
+https://7pal.short.gy/ssportsat
+#EXTINF:-1 tvg-id="sky-sports-golf" tvg-logo="https://epgx.site/p/sky-sports-golf.png" group-title="Спортивные",Sky Sports Golf
+https://7pal.short.gy/ssportsgf
+#EXTINF:-1 tvg-id="sky-sports-apl" tvg-logo="https://epgx.site/p/sky-sports-apl.png" group-title="Спортивные",Sky Sports Premier League
+https://7pal.short.gy/ssportspl
+#EXTINF:-1 tvg-id="sky-sports-f1" tvg-logo="https://epgx.site/p/sky-sports-f1.png" group-title="Спортивные",Sky Sports F1
+https://7pal.short.gy/ssportsf1
+#EXTINF:-1tvg-id="sky-sports-football" tvg-logo="https://epgx.site/p/sky-sports-football.png"  group-title="Спортивные",Sky Sports Football
+https://7pal.short.gy/ssportsfb
+#EXTINF:-1 tvg-id="sky-sports-maine" tvg-logo="https://epgx.site/p/sky-sports-maine.png" group-title="Спортивные",Sky Sports Main Event
+https://7pal.short.gy/skspmaine
+#EXTINF:-1 tvg-id="sky-sports-news" tvg-logo="https://epgx.site/p/sky-sports-news.png" group-title="Спортивные",Sky Sports News
+https://7pal.short.gy/ssportsnw
 #EXTINF:-1 tvg-id="sport-plus-kz" tvg-logo="https://epgx.site/p/sport-plus-kz.png" group-title="Спортивные",Sport+ Qazaqstan
 http://87.76.32.36:9106/udp/238.1.1.204:1234
 #EXTINF:-1 tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/sport.png" group-title="Спортивные",Turkmenistan Sport 
