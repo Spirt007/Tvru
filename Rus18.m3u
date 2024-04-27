@@ -592,7 +592,7 @@ http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="extasy4k" tvg-logo="https://epgx.site/p/extasytv.png" group-title="18+",Extasy HD
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="passionxxx" tvg-logo="https://epgx.site/p/passionxxx.png" group-title="18+",PassionXXX
-
+http://31.131.136.4:8000/play/a00k
 #EXTINF:-1 tvg-id="eroxxxhd" tvg-logo="https://epgx.site/p/eroxxxhd.png" group-title="18+",Eroxxx HD
 http://88.135.128.20:7272/urYgd52Dcxp47Ge
 
