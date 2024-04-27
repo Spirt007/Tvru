@@ -567,8 +567,10 @@ http://camera.global-x.ru/OceanTV/index.m3u8
 
 #EXTINF:-1 tvg-id="brazzers-tv-europe" tvg-logo="https://epgx.site/p/brazzers.png" group-title="18+",Brazzers TV Europe
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="penthouse-hd" tvg-logo="https://epgx.site/p/penthouse-gold.png" group-title="18+",Penthouse Gold HD
+#EXTINF:-1 tvg-id="penthouse-gold" tvg-logo="https://epgx.site/p/penthouse-gold.png" group-title="18+",Penthouse Gold HD
 http://146.59.54.163/353/index.m3u8
+#EXTINF:-1 tvg-id="penthouse-hd" tvg-logo="https://epgx.site/p/penthouse-hd.pngg" group-title="18+",Penthouse Passion
+http://51.159.212.32:8081/live/LAURENT/22052023/12.m3u8
 #EXTINF:-1 tvg-id="blue-hustler" tvg-logo="https://i.imgur.com/41Ej2io.png" group-title="18+",Hustler HD
 http://146.59.54.163/348/index.m3u8
 #EXTINF:-1 tvg-id="private-tv" tvg-logo="https://epgx.site/p/private-tv.png" group-title="18+",Private HD
