@@ -16,7 +16,7 @@ http://146.59.85.40:89/setantaplus/mono.m3u8
 http://194.26.229.213/777_Setanta-Sports-Ukraine/index.m3u8
 #EXTINF:-1 tvg-id="setanta-kz" tvg-logo="https://epgx.site/p/setanta-kz.png" group-title="Спортивные",Setanta Qazaqstan HD
 https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
-#EXTINF:-1 group-title="Спортивные",Premier Sports 1
+#EXTINF:-1 tvg-id="3553" tvg-logo="http://epg.one/img2/3553.png" group-title="Спортивные",PREMIER SPORTS UK
 https://7pal.short.gy/prsport1
 #EXTINF:-1 group-title="Спортивные",Premier Sports 2
 https://7pal.short.gy/prsport2
