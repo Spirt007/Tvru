@@ -175,7 +175,7 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="rtvi" tvg-logo="https://epgx.site/p/rtvi.png" group-title="Развлекательные",RTVi
 https://bkm.beetv.kz/btv/live/hls/000000039.m3u8
 #EXTINF:-1 tvg-id="tlc" tvg-logo="https://epgx.site/p/tlc.png" group-title="Развлекательные",TLC HD
-https://bkm.beetv.kz/btv/live/hls/000001498.m3u8
+http://flussonic.beeonline.az:80/TLCRussiaHD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="centralnoye-tv" tvg-logo="https://epgx.site/p/centralnoye-tv.png" group-title="Развлекательные",ЦТВ
 http://188.113.190.15/228/tracks-v1a1/index.m3u8
 
@@ -324,7 +324,7 @@ http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 tvg-id="backustv-horror" tvg-logo="https://epgx.site/p/backustv-horror.png" group-title="Фильмы,сериалы",Backus TV Dark HD
 http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 tvg-id="paramount-comedy" tvg-logo="http://epg.it999.ru/img2/920.png" group-title="Фильмы,сериалы",Comedy Central HD
-https://bkm.beetv.kz/btv/live/hls/000000452.m3u8
+http://5.153.180.133:8001/play/a09c
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6005.png" group-title="Фильмы,сериалы",Видеокассета HD
 https://playlist.nuum.ru/live/4968/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ostrosiuzhetnoe" tvg-logo="https://epgx.site/p/ostrosiuzhetnoe.png" group-title="Фильмы,сериалы",Остросюжетное
@@ -343,7 +343,7 @@ http://195.191.130.11:9000/play/a00u/index.m3u8
 http://91.142.158.107:8092/play/25/index.m3u8
 #EXTINF:-1 tvg-id="rodnoe-kino"tvg-logo="https://epgx.site/p/rodnoe-kino.png" group-title="Фильмы,сериалы",РОДНОЕ КИНО
 https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
-#EXTINF:-1 tvg-id="retro-tv" tvg-logo="https://epgx.site/p/retro-tv.png" group-title="Кинозал",Ретро
+#EXTINF:-1 tvg-id="retro-tv" tvg-logo="https://epgx.site/p/retro-tv.png" group-title="Фильмы,сериалы",Ретро
 http://109.239.208.82:80/retro/index.m3u8
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-logo="https://epgx.site/p/lubimoe-kino.png" group-title="Фильмы,сериалы",Любимое Кино
 http://88.135.128.20:7272/JS7lUbMstASMl0r
