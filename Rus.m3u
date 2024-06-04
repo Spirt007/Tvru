@@ -210,7 +210,7 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="rtvi" tvg-logo="https://epgx.site/p/rtvi.png" group-title="Развлекательные",RTVi
 https://bkm.beetv.kz/btv/live/hls/000000039.m3u8
 #EXTINF:-1 tvg-id="tlc" tvg-logo="https://epgx.site/p/tlc.png" group-title="Развлекательные",TLC HD
-https://bkm.beetv.kz/btv/live/hls/000001498.m3u8 
+http://flussonic.beeonline.az:80/TLCRussiaHD/index.m3u8?token=test
 
 
 #EXTINF:-1 tvg-id="krasnodar" tvg-logo="https://epgx.site/p/krasnodar.png" group-title="Региональные",Краснодар
@@ -357,7 +357,7 @@ http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 tvg-id="backustv-horror" tvg-logo="https://epgx.site/p/backustv-horror.png" group-title="Фильмы,сериалы",Backus TV Dark HD
 http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 tvg-id="paramount-comedy" tvg-logo="http://epg.it999.ru/img2/920.png" group-title="Фильмы,сериалы",Comedy Central HD
-https://bkm.beetv.kz/btv/live/hls/000000452.m3u8
+http://5.153.180.133:8001/play/a09c
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6005.png" group-title="Фильмы,сериалы",Видеокассета HD
 https://playlist.nuum.ru/live/4968/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ostrosiuzhetnoe" tvg-logo="https://epgx.site/p/ostrosiuzhetnoe.png" group-title="Фильмы,сериалы",Остросюжетное
