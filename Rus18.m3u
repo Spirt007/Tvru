@@ -614,8 +614,8 @@ http://31.131.136.4:8000/play/a00k
 http://88.135.128.20:7272/urYgd52Dcxp47Ge
 
 
-#EXTINF:-1 tvg-id="retro-fm" tvg-logo="https://epgx.site/p/retro-fm.png" group-title="Радио" radio="true",Ретро FM
-http://europaplus.hostingradio.ru:8014/retro320.mp3
+#EXTINF:-1  tvg-id="retro-fm" tvg-logo="https://epgx.site/p/retro-fm.png" group-title="Радио",Ретро FM
+http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
 #EXTINF:-1 tvg-id="radio-mayak" tvg-logo="https://epgx.site/p/radio-mayak.png" group-title="Радио" radio="true",Радио Маяк Краснодар
 http://icecast-vgtrk.cdnvideo.ru/mayak_kuban
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-nashe-radio." group-title="Радио"radio="true",Наше радио
