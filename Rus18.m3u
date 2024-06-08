@@ -161,7 +161,7 @@ http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="2na2" tvg-logo="https://epgx.site/p/2na2.png" group-title="Развлекательные",2x2
 http://45.15.43.12:80/2x2/video.m3u8?token=test
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://epgx.site/p/kvn-tv.png" group-title="Развлекательные",КВН ТВ
-https://strm.yandex.ru/kal/kvn_tv_belarus/kvn_tv_belarus0.m3u8
+https://woobl.ru/hls987/KVN.m3u8
 #EXTINF:-1 tvg-id="e-tv" tvg-logo="https://epgx.site/p/e-tv.png" group-title="Развлекательные",E TV
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="perec-int" tvg-logo="http://epg.one/img2/5651.png" group-title="Развлекательные",Перец Int
