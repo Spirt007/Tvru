@@ -360,7 +360,7 @@ http://stream.backustv.ru/live/btv2/index.m3u8
 http://5.153.180.133:8001/play/a09c
 #EXTINF:-1 tvg-id="tv1000-cee" tvg-logo="https://epgx.site/p/tv1000-cee.png" group-title="Фильмы,сериалы",Viasat Kino
 http://81.7.108.21:9000/play/TV1000-DVBC322-sti4400017090089
-#EXTINF:-1 tvg-id="tv1000-action-cee" tvg-logo="https://epgx.site/p/tv1000-action-cee.png" group-title="Фильмы,сериалы" Viasat Kino Action
+#EXTINF:-1 tvg-id="tv1000-action-cee" tvg-logo="https://epgx.site/p/tv1000-action-cee.png" group-title="Фильмы,сериалы",Viasat Kino Action
 http://81.7.108.21:9000/play/TV1000Action-DVBC322-sti4400017090089
 #EXTINF:-1 tvg-id="tv1000-worldkino" tvg-logo="https://epgx.site/p/tv1000-worldkino.png" group-title="Фильмы,сериалы",Viasat Kino World
 http://81.7.108.21:9000/play/TV1000RusskojeKino-DVBC322-sti4400017090089
