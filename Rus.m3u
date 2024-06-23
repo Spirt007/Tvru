@@ -353,9 +353,9 @@ http://88.135.128.20:7272/Jke5tdvCxp2Yhs6
 
 
 #EXTINF:-1 tvg-id="backustv" tvg-logo="https://epgx.site/p/backustv.png" group-title="Фильмы,сериалы",Backus TV Original HD
-http://stream.backustv.ru/live/btv/index.m3u8
+
 #EXTINF:-1 tvg-id="backustv-horror" tvg-logo="https://epgx.site/p/backustv-horror.png" group-title="Фильмы,сериалы",Backus TV Dark HD
-http://stream.backustv.ru/live/btv2/index.m3u8
+
 #EXTINF:-1 tvg-id="paramount-comedy" tvg-logo="http://epg.it999.ru/img2/920.png" group-title="Фильмы,сериалы",Comedy Central HD
 http://5.153.180.133:8001/play/a09c
 #EXTINF:-1 tvg-id="tv1000-cee" tvg-logo="https://epgx.site/p/tv1000-cee.png" group-title="Фильмы,сериалы",Viasat Kino
@@ -365,7 +365,7 @@ http://81.7.108.21:9000/play/TV1000Action-DVBC322-sti4400017090089
 #EXTINF:-1 tvg-id="tv1000-worldkino" tvg-logo="https://epgx.site/p/tv1000-worldkino.png" group-title="Фильмы,сериалы",Viasat Kino World
 http://81.7.108.21:9000/play/TV1000RusskojeKino-DVBC322-sti4400017090089
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6005.png" group-title="Фильмы,сериалы",Видеокассета HD
-https://playlist.nuum.ru/live/4968/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="ostrosiuzhetnoe" tvg-logo="https://epgx.site/p/ostrosiuzhetnoe.png" group-title="Фильмы,сериалы",Остросюжетное
 
 #EXTINF:-1 tvg-id="cinema-ru" tvg-logo="https://epgx.site/p/cinema.png" group-title="Фильмы,сериалы",Cinema HD
