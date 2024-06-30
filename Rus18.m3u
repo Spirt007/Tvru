@@ -7,7 +7,7 @@ http://91.207.114.209:5000/c115
 #EXTINF:-1 tvg-id="match-football3" tvg-logo="https://epgx.site/p/match-football3.png" group-title="Спортивные",Матч! Футбол 3 HD 
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 tvg-id="setanta-sports" tvg-logo="https://epgx.site/p/setanta-sports.png" group-title="Спортивные",Setanta Sports 1 HD
-http://erlyvideo.beeonline.az/SetantaSports/index.m3u8?token=test
+http://45.93.46.27:8887/8565/video.m3u8
 #EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="https://epgx.site/p/setanta-sports-plus.png" group-title="Спортивные",Setanta Sports 2 HD
 http://erlyvideo.beeonline.az/SetantaSportPlus/index.m3u8?token=test
 #EXTINF:-1 tvg-id="setanta-plus-ua" tvg-logo="https://epgx.site/p/setanta-plus-ua.png" group-title="Спортивные",Setanta Ukraine Plus HD
@@ -606,6 +606,8 @@ http://live-1.otcnet.ru/shelkhdmts/index.m3u8
 http://146.59.54.163:80/361/mono.m3u8
 #EXTINF:-1 tvg-id="dorcel" tvg-logo="https://epgx.site/p/dorcel.png" group-title="18+",Dorcel TV 
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="dorcel-xxx" tvg-logo="https://epgx.site/p/dorcel.png" group-title="18+",Dorcel XXX
+http://31.131.136.4:8000/play/a00h
 #EXTINF:-1 tvg-id="redlight-hd" tvg-logo="https://epgx.site/p/redlight-hd.png" group-title="18+",Redlight HD 
 http://cdn-nvm-chicago.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="o-la-la" tvg-logo="https://epgx.site/p/o-la-la.png" group-title="18+",O-la-la
