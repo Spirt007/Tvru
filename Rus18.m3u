@@ -285,7 +285,7 @@ https://player.smotrim.ru/iframe/stream/live_id/63253
 #EXTINF:-1 tvg-id="ont-by" tvg-logo="https://i.imgur.com/LbHdHEk.png" group-title="Беларусь",ОНТ HD
 https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
 #EXTINF:-1 tvg-id="stv-by" tvg-logo="https://epgx.site/p/stv-by.png" group-title="Беларусь",СТВ HD
-http://80.94.225.126:8080/STV/mono.m3u8
+http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="smaylik-tv" tvg-logo="https://epgx.site/p/smaylik-tv.png" group-title="Детские",Смайлик ТВ 
