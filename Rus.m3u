@@ -7,13 +7,13 @@ http://91.207.114.209:5000/c115
 #EXTINF:-1 tvg-id="match-football3" tvg-logo="https://epgx.site/p/match-football3.png" group-title="Спортивные",Матч! Футбол 3 HD 
 http://erlyvideo.beeonline.az/MatchTVFootbol3HD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="setanta-sports" tvg-logo="https://epgx.site/p/setanta-sports.png" group-title="Спортивные",Setanta Sports 1 HD
-http://45.93.46.27:8887/8565/video.m3u8
+http://185.163.194.185:6987/150/mpegts
 #EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="https://epgx.site/p/setanta-sports-plus.png" group-title="Спортивные",Setanta Sports 2 HD
-
+http://185.163.194.185:6987/151/mpegts
 #EXTINF:-1 tvg-id="setanta-plus-ua" tvg-logo="https://epgx.site/p/setanta-plus-ua.png" group-title="Спортивные",Setanta Ukraine Plus HD
 
 #EXTINF:-1 tvg-id="setanta-ua" tvg-logo="https://epgx.site/p/setanta-ua.png" group-title="Спортивные",Setanta Ukraine HD
-
+http://185.163.194.185:6987/151/mpegts
 #EXTINF:-1 tvg-id="setanta-kz" tvg-logo="https://epgx.site/p/setanta-kz.png" group-title="Спортивные",Setanta Qazaqstan HD
 
 #EXTINF:-1 tvg-id="sport-plus-kz" tvg-logo="https://epgx.site/p/sport-plus-kz.png" group-title="Спортивные",Sport+ Qazaqstan
