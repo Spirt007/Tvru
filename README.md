@@ -6,7 +6,7 @@
 
 Протестировано VLC плеер, Kodi Xbox series S, Retropie Raspberry Pi3B,ПК. Open IPTV
 
-228 тв  10 радио
+261 тв  10 радио
 
 
 Для EPG использутся http://epg.one/epg2.xml.gz, https://iptvx.one/epg/epg.xml.gz встроенно в лист.
