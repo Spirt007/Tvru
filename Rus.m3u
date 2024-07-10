@@ -184,7 +184,7 @@ http://31.131.136.4:8001/play/e001
 #EXTINF:-1 tvg-id="sts-love" tvg-logo="https://epgx.site/p/sts-love.png" group-title="Развлекательные",СТС Love
 http://31.148.48.15:80/STS_Love/index.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://epgx.site/p/tnt.png" group-title="Развлекательные",ТНТ
-http://92.242.110.52:9835/udp/238.1.4.4:1234
+http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
 #EXTINF:-1 tvg-id="tnt-int-eu" tvg-logo="https://epgx.site/p/tnt-int-eu.png" group-title="Развлекательные",ТНТ-International
 https://strm.yandex.ru/kal/tnt_interneshnl_belarus/tnt_interneshnl_belarus0.m3u8
 #EXTINF:-1 tvg-id="tnt4" tvg-logo="https://epgx.site/p/tnt4.png" group-title="Развлекательные",ТНТ4
