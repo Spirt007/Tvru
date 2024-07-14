@@ -20,20 +20,12 @@ https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
 https://7pal.short.gy/prsport1
 #EXTINF:-1 group-title="Спортивные",Premier Sports 2
 https://7pal.short.gy/prsport2
-#EXTINF:-1 tvg-id="bt-sport1" tvg-logo="https://epgx.site/p/bt-sport1.png" group-title="Спортивные",TNT Sport 1 HD
-https://7pal.short.gy/tntspts1
-#EXTINF:-1 tvg-id="bt-sport2" tvg-logo="https://epgx.site/p/bt-sport2.png" group-title="Спортивные",TNT Sports 2 HD
-https://7pal.short.gy/tntspts2
-#EXTINF:-1 tvg-id="bt-sport3" tvg-logo="https://epgx.site/p/bt-sport3.png" group-title="Спортивные",TNT Sports 3 HD
-https://7pal.short.gy/tntspts3
-#EXTINF:-1 tvg-id="bt-sport4" tvg-logo="https://epgx.site/p/bt-sport4.png" group-title="Спортивные",TNT Sports 4 HD
-https://7pal.short.gy/tntspts4
 #EXTINF:-1 tvg-id="sky-sports-action" tvg-logo="https://epgx.site/p/sky-sports-action.png" group-title="Спортивные",Sky Sports Action
-https://7pal.short.gy/ssportsat
+
 #EXTINF:-1 tvg-id="sky-sports-golf" tvg-logo="https://epgx.site/p/sky-sports-golf.png" group-title="Спортивные",Sky Sports Golf
 https://7pal.short.gy/ssportsgf
 #EXTINF:-1 tvg-id="sky-sports-apl" tvg-logo="https://epgx.site/p/sky-sports-apl.png" group-title="Спортивные",Sky Sports Premier League
-https://7pal.short.gy/ssportspl
+
 #EXTINF:-1 tvg-id="sky-sports-f1" tvg-logo="https://epgx.site/p/sky-sports-f1.png" group-title="Спортивные",Sky Sports F1
 https://7pal.short.gy/ssportsf1
 #EXTINF:-1tvg-id="sky-sports-football" tvg-logo="https://epgx.site/p/sky-sports-football.png"  group-title="Спортивные",Sky Sports Football
