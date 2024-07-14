@@ -106,7 +106,7 @@ http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-logo="https://epg.one/img2/2487.png" group-title="Общественные",Рен ТВ
 http://92.242.110.52:9835/udp/238.1.11.43:1234
 #EXTINF:-1 tvg-id="rentv-int" tvg-logo="https://i.imgur.com/gBjk9oF.png" group-title="Общественные",РенТВ International
-https://woobl.ru/hls987/Rentv_international.m3u8
+http://45.159.74.14:80/RenTv/index.m3u8
 #EXTINF:-1 tvg-id="tv3-ru" tvg-logo="https://epgx.site/p/tv3-ru.png" group-title="Общественные",ТВ3
 http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-logo="https://epgx.site/p/5kanal-ru.png" group-title="Общественные",Пятый канал 
@@ -116,7 +116,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="vremia" tvg-logo="https://epgx.site/p/vremia.png" group-title="Общественные",Время
 http://92.242.110.52:9835/udp/238.1.11.25:1234
 #EXTINF:-1 tvg-id="domashny" tvg-logo="https://epgx.site/p/domashny.png" group-title="Общественные",Домашний 
-http://88.135.128.20:7272/CGGe9lr8Dx9PZy1
+https://livetv.mylifeisgood.net.ru/channels/domashnii.m3u8
 #EXTINF:-1 tvg-id="domashny-int" tvg-logo="https://epgx.site/p/domashny-int.png" group-title="Общественные",Домашний International
 http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="https://epgx.site/p/zvezda.png" group-title="Общественные",Звезда
@@ -159,9 +159,9 @@ http://178.212.71.253:8002/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="yu" tvg-logo="https://dvb.by/sources/logos/2678.png" group-title="Развлекательные",Ю ТВ
 http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="2na2" tvg-logo="https://epgx.site/p/2na2.png" group-title="Развлекательные",2x2
-http://45.15.43.12:80/2x2/video.m3u8?token=test
+http://185.112.140.28:80/2x2/index.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://epgx.site/p/kvn-tv.png" group-title="Развлекательные",КВН ТВ
-https://woobl.ru/hls987/KVN.m3u8
+http://31.210.208.171:8080/kvn/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="e-tv" tvg-logo="https://epgx.site/p/e-tv.png" group-title="Развлекательные",E TV
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="perec-int" tvg-logo="http://epg.one/img2/5651.png" group-title="Развлекательные",Перец Int
@@ -173,9 +173,9 @@ http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-logo="https://epgx.site/p/tvoyo-tv-hd.png" group-title="Развлекательные",Твоё ТВ
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="rtvi" tvg-logo="https://epgx.site/p/rtvi.png" group-title="Развлекательные",RTVi
-https://bkm.beetv.kz/btv/live/hls/000000039.m3u8
+http://81.7.108.21:9000/play/RTVi-DVBC314-sti4400019110542
 #EXTINF:-1 tvg-id="tlc" tvg-logo="https://epgx.site/p/tlc.png" group-title="Развлекательные",TLC HD
-http://flussonic.beeonline.az:80/TLCRussiaHD/index.m3u8?token=test
+http://81.7.108.21:9000/play/DiscoveryTLC-DVBC306-sti4400017090089
 #EXTINF:-1 tvg-id="centralnoye-tv" tvg-logo="https://epgx.site/p/centralnoye-tv.png" group-title="Развлекательные",ЦТВ
 http://188.113.190.15/228/tracks-v1a1/index.m3u8
 
