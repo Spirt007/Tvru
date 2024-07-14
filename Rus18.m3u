@@ -229,7 +229,7 @@ http://iptv.crimea.net:8787
 
 
 #EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://epgx.site/p/ntv-style.png" group-title="НТВ",НТВ Стиль
-https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
+http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-pravo" tvg-logo="http://epg.one/img2/1753.png" group-title="НТВ",НТВ Право
 https://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
 #EXTINF:-1 tvg-id="ntv-serial" tvg-logo="https://epgx.site/p/ntv-serial.png" group-title="НТВ",НТВ Сериал
@@ -237,7 +237,7 @@ http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-xit" tvg-logo="https://epgx.site/p/ntv-xit.png" group-title="НТВ",НТВ Хит
 http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-amerika" tvg-logo="https://epgx.site/p/ntv-amerika.png" group-title="НТВ",НТВ Америка
-http://4.59.210.197:8815/udp/127.0.0.1:6003
+
 #EXTINF:-1 tvg-id="ntv-mir" tvg-logo="https://epgx.site/p/ntv-mir.png" group-title="НТВ",НТВ-Мир
 http://stream02.vnet.am/HTB/mono.m3u8
 
@@ -272,11 +272,11 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="tro" tvg-logo="https://epgx.site/p/belros.png" group-title="Беларусь",БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1 tvg-id="belarus1" tvg-logo="https://epgx.site/p/belarus1hd.png" group-title="Беларусь",Беларусь 1 HD
-https://edge60.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
+http://194.158.222.36:6101
 #EXTINF:-1 tvg-id="belarus2" tvg-logo="https://epgx.site/p/belarus2hd.png" group-title="Беларусь",Беларусь 2 HD
-https://edge60.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
+http://194.158.222.36:6107
 #EXTINF:-1 tvg-id="belarus3" tvg-logo="https://epgx.site/p/belarus3hd.png" group-title="Беларусь",Беларусь 3 HD
-https://edge60.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u
+http://194.158.222.36:6108
 #EXTINF:-1 tvg-id="ntv-belarus" tvg-logo="http://epg.one/img2/6773.png" group-title="Беларусь",НТВ Беларусь
 http://82.209.197.187:8080/udp/239.0.100.6:1234
 #EXTINF:-1 tvg-id="tv3-by" tvg-logo="https://epgx.site/p/tv3-by.png" group-title="Беларусь",ТВ3 Беларусь
