@@ -7,15 +7,14 @@ http://188.113.190.15/176/video.m3u8
 #EXTINF:-1 tvg-id="match-football3" tvg-logo="https://epgx.site/p/match-football3.png" group-title="Спортивные",Матч! Футбол 3 HD 
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 tvg-id="setanta-sports" tvg-logo="https://epgx.site/p/setanta-sports.png" group-title="Спортивные",Setanta Sports 1 HD
-http://185.163.194.185:6987/150/mpegts
+http://45.93.46.27:8887/8565/video.m3u8
 #EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="https://epgx.site/p/setanta-sports-plus.png" group-title="Спортивные",Setanta Sports 2 HD
 http://185.163.194.185:6987/151/mpegts
 #EXTINF:-1 tvg-id="setanta-plus-ua" tvg-logo="https://epgx.site/p/setanta-plus-ua.png" group-title="Спортивные",Setanta Ukraine Plus HD
-http://146.59.85.40:89/setantaplus/mono.m3u8
+http://45.93.46.27:8887/8329/video.m3u8
 #EXTINF:-1 tvg-id="setanta-ua" tvg-logo="https://epgx.site/p/setanta-ua.png" group-title="Спортивные",Setanta Ukraine HD
-http://185.163.194.185:6987/149/mpegts
-#EXTINF:-1 tvg-id="setanta-kz" tvg-logo="https://epgx.site/p/setanta-kz.png" group-title="Спортивные",Setanta Qazaqstan HD
-https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
+http://stream.rutvportal.com:8085/SetantaSportsUAHD/video.m3u8
+#EXTINF:-1 tvg-id="setanta-kz" tvg-logo="https://epgx.site/p/setanta-kz.png" group-title="Спортивные",Setanta
 #EXTINF:-1 tvg-id="3553" tvg-logo="http://epg.one/img2/3553.png" group-title="Спортивные",PREMIER SPORTS UK
 https://7pal.short.gy/prsport1
 #EXTINF:-1 group-title="Спортивные",Premier Sports 2
