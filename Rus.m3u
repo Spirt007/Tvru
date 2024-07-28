@@ -47,7 +47,7 @@ http://91.142.158.107:8092/play/33/index.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://epgx.site/p/match-premiere.png" group-title="Спортивные",Матч! Премьер
 http://188.113.190.15/103/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://epgx.site/p/match-premiere.png" group-title="Спортивные",Матч! Премьер HD
-http://188.134.76.176:81/udp/235.10.10.182:1234
+http://194.26.229.213/TUDN_NashFutHD/index.m3u8?token=Panda
 #EXTINF:-1 tvg-logo="https://epgx.site/p/qsport-kz.png" tvg-id="qsport-kz" group-title="Спортивные",Q Sport HD
 
 #EXTINF:-1 tvg-id="q-sport-ext" tvg-logo="https://epgx.site/p/q-sport-ext.png" group-title="Спортивные",Q Sport League HD
