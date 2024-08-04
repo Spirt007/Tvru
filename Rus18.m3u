@@ -511,7 +511,7 @@ http://45.93.46.27:8887/8028/video.m3u8
 
 #EXTINF:-1 tvg-id="backustv-music" tvg-logo="https://epgx.site/p/backustv-music.png" group-title="Музыкальные",Backus TV Music HD
 
-#EXTINF:-1 tvg-id="europa-plus-tv" tvg-logo="https://epgx.site/p/europa-plus-tv.png"" group-title="Музыкальные",Europa Plus TV
+#EXTINF:-1 tvg-id="europa-plus-tv" tvg-logo="https://epgx.site/p/europa-plus-tv.png" group-title="Музыкальные",Europa Plus TV
 
 #EXTINF:-1 tvg-id="1hd" tvg-logo="https://epgx.site/p/1hd-music.png" group-title="Музыкальные",1HD
 http://91.247.68.229:8000/play/eee/index.m3u8
@@ -624,7 +624,7 @@ http://31.131.136.4:8000/play/a00k
 http://88.135.128.20:7272/urYgd52Dcxp47Ge
 
 
-#EXTINF:-1  tvg-id="retro-fm" tvg-logo="https://epgx.site/p/retro-fm.png" group-title="Радио",Ретро FM
+#EXTINF:-1  tvg-id="retro-fm" tvg-logo="https://epgx.site/p/retro-fm.png" group-title="Радио" radio="true",Ретро FM
 http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
 #EXTINF:-1 tvg-id="radio-mayak" tvg-logo="https://epgx.site/p/radio-mayak.png" group-title="Радио" radio="true",Радио Маяк Краснодар
 http://icecast-vgtrk.cdnvideo.ru/mayak_kuban
