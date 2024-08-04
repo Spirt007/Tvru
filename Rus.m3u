@@ -323,7 +323,7 @@ http://stream01.vnet.am/Channel_114/mono.m3u8
 #EXTINF:-1 tvg-id="paramount-comedy" tvg-logo="http://epg.it999.ru/img2/920.png" group-title="Фильмы,сериалы",Comedy Central HD
 http://195.211.27.149:8887/8171/index.m3u8?token=test
 #EXTINF:-1 vg-id="kinojam1" tvg-logo="https://epgx.site/p/kinojam1.png" group-title="Фильмы,сериалы",Kinojam 1
-http://135.181.115.81:8000/play/a027/index.m3u8?token=livetv
+http://178.16.151.67/kinojam1/index.m3u8
 #EXTINF:-1 vg-id="kinojam2" tvg-logo="https://epgx.site/p/kinojam2.png" group-title="Фильмы,сериалы",Kinojam 2
 http://178.16.151.67/kinojam2/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-cee" tvg-logo="https://epgx.site/p/tv1000-cee.png" group-title="Фильмы,сериалы",Viasat Kino
