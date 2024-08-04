@@ -22,9 +22,9 @@ http://91.142.158.107:8092/play/33/index.m3u8
 http://188.113.190.15/103/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://epgx.site/p/match-premiere.png" group-title="Спортивные",Матч! Премьер HD
 http://194.26.229.213/TUDN_NashFutHD/index.m3u8?token=Panda
-#EXTINF:-1 tvg-id="3553" tvg-logo="http://epg.one/img2/3553.png" group-title="Спортивные",Premier Sports UK
+#EXTINF:-1 tvg-id="3553" tvg-logo="http://epg.one/img2/3553.png" group-title="Спортивные",Premier Sports 1
 https://7pal.short.gy/prsport1
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Premier_Sports_2_II.svg/revision/latest/scale-to-width-down/150?cb=20230516195653"group-title="Спортивные",Premier Sports 2
+#EXTINF:-1 tvg-logo="" group-title="Спортивные",Premier Sports 2
 https://7pal.short.gy/prsport2
 #EXTINF:-1 tvg-id="sky-sports-action" tvg-logo="https://epgx.site/p/sky-sports-action.png" group-title="Спортивные",Sky Sports Action
 
@@ -391,9 +391,9 @@ http://91.142.158.107:8092/play/30/index.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-logo="https://epgx.site/p/muzhskoe-kino.png" group-title="Фильмы,сериалы",Мужское Кино HD
 http://45.159.74.14:80/MujskoeKino/index.m3u8
 #EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://epgx.site/p/sony-turbo.png" group-title="Фильмы,сериалы",.Black
-http://91.205.199.3/black/tracks-v1a1/mono.m3u8
+http://188.113.190.11/186/mono.m3u8
 #EXTINF:-1 tvg-id="sony-tv" tvg-logo="https://epgx.site/p/sony.png" group-title="Фильмы,сериалы",.Red
-http://91.205.199.3:80/red/index.m3u8
+http://188.113.190.15/149/mono.m3u8
 #EXTINF:-1 tvg-id="sony-scifi" tvg-logo="https://epgx.site/p/sony-scifi.png" group-title="Фильмы,сериалы",.Sci-Fi
 http://188.113.190.15/23/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="amedia1" tvg-logo="https://epgx.site/p/amedia1.png" group-title="Фильмы,сериалы",Amedia 1
