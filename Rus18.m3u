@@ -145,9 +145,9 @@ http://31.148.48.15:80/STS_Love/index.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://epgx.site/p/tnt.png" group-title="Развлекательные",ТНТ
 http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
 #EXTINF:-1 tvg-id="tnt-int-eu" tvg-logo="https://epgx.site/p/tnt-int-eu.png" group-title="Развлекательные",ТНТ-International
-https://strm.yandex.ru/kal/tnt_interneshnl_belarus/tnt_interneshnl_belarus0.m3u8
+http://85.187.13.40:18000/tntint8
 #EXTINF:-1 tvg-id="tnt4" tvg-logo="https://epgx.site/p/tnt4.png" group-title="Развлекательные",ТНТ4
-http://91.205.199.3:80/tnt4/index.m3u8
+http://edge02.odtv.az/o7/tnt4/playlist.m3u8
 #EXTINF:-1 tvg-id="che" tvg-logo="https://epgx.site/p/che.png" group-title="Развлекательные",Че!
 http://178.212.71.253:8002/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="yu" tvg-logo="https://dvb.by/sources/logos/2678.png" group-title="Развлекательные",Ю ТВ
@@ -550,7 +550,7 @@ http://45.15.43.12:80/sovershennosekretno/video.m3u8?token=test
 #EXTINF:-1 tvg-id="istoria" tvg-logo="http://epg.it999.ru/img2/1036.png" group-title="Познавательные",История
 http://stream01.vnet.am/Istoria/mono.m3u8
 #EXTINF:-1 tvg-id="RTG" tvg-logo="http://epg.one/img2/2280.png" group-title="Познавательные",RTG TV
-http://176.113.48.221:8986/104
+https://strm.yandex.ru/kal/rtg/rtg0.m3u8
 #EXTINF:-1 tvg-id="nauka-20" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-nauka-2-0.jpg"  group-title="Познавательные",Наука 2.0
 http://188.113.190.15/96/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="texno-24" tvg-logo="http://epg.it999.ru/img2/2762.png" group-title="Познавательные",24 Техно
