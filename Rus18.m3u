@@ -535,9 +535,9 @@ http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="angel-tv" tvg-logo="https://epgx.site/p/angel-tv.png" group-title="Музыкальные",Angel TV
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7838.png" group-title="Музыкальные",MTV 00s
-https://bkm.beetv.kz/btv/live/hls/000000264.m3u8
+http://170.82.37.21:8000/play/a01x/index.m3u
 #EXTINF:-1 tvg-id="mtv-hits" tvg-logo="https://epgx.site/p/mtv-hits.png" group-title="Музыкальные",MTV Hits 
-https://tr003.androidtvbox.co.hu/tr3_MTVHits_SD/index.m3u8?token=test
+http://81.7.108.21:9000/play/MTVHits-DVBC298-sti4400018450230
 
 
 #EXTINF:-1 tvg-id="eureka-hd" tvg-logo="http://epg.it999.ru/img2/2310.png" group-title="Познавательные",Первый космический HD
