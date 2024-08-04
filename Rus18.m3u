@@ -507,7 +507,7 @@ http://188.113.190.15/140/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="premialnoe-hd" tvg-logo="https://epgx.site/p/premialnoe-hd.png" group-title="Премьеры,хиты",Премиальное HD
 http://45.93.46.27:8887/8028/video.m3u8
 #EXTINF:-1 tvg-id="blokbaster-hd" tvg-logo="https://epgx.site/p/blokbaster.png" group-title="Премьеры,хиты",Блокбастер HD
-
+http://89.104.114.2:8080/blokbaster_hd/index.m3u8
 
 
 
