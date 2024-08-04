@@ -588,7 +588,7 @@ http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ocean-tv" tvg-id="ocean-tv" tvg-logo="https://epgx.site/p/ocean-tv.png" group-title="Познавательные",OCEAN-TV 
 http://camera.global-x.ru/OceanTV/index.m3u8
 
-#EXTINF:-1  tvg-id="retro-fm" tvg-logo="https://epgx.site/p/retro-fm.png" group-title="Радио",Ретро FM
+#EXTINF:-1  tvg-id="retro-fm" tvg-logo="https://epgx.site/p/retro-fm.png" group-title="Радио" radio="true",Ретро FM
 http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
 #EXTINF:-1 tvg-id="radio-mayak" tvg-logo="https://epgx.site/p/radio-mayak.png" group-title="Радио" radio="true",Радио Маяк Краснодар
 http://icecast-vgtrk.cdnvideo.ru/mayak_kuban
