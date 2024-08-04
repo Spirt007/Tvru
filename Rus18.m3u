@@ -59,11 +59,11 @@ http://tv.light-net.ru:8005/play/a03m
 #EXTINF:-1  tvg-id="khl" tvg-logo="https://epgx.site/p/kxl.png" group-title="Спортивные",KHL
 http://178.16.151.67/khl/index.m3u8
 #EXTINF:-1 tvg-id="kxl-hd" tvg-logo="https://epgx.site/p/kxl-hd.png" group-title="Спортивные",KHL Prime
-https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
+https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://epgx.site/p/eurosport1.png" group-title="Спортивные",Eurosport 1 HD
-http://45.159.74.14:80/Eurosport/tracks-v1a2/mono.m3u8
+https://stream2.cinerama.uz/1439/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://epgx.site/p/eurosport2.png" group-title="Спортивные",Eurosport 2 HD
-http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
+http://81.7.108.21:9000/play/Eurosport2HD-DVBC386-sti4400018360108
 #EXTINF:-1 tvg-id="viasat-sport" tvg-logo="https://epgx.site/p/viasat-sport.png" group-title="Спортивные",Viasat Sport
 http://edge02.odtv.az/o7/viasatsport/playlist.m3u8
 #EXTINF:-1 tvg-id="start" tvg-logo="https://epgx.site/p/start.png" group-title="Спортивные",Старт
