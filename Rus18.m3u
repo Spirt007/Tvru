@@ -365,23 +365,23 @@ http://81.7.108.21:9000/play/FilmBox-DVBC330-sti4400019110542
 #EXTINF:-1 tvg-id="filmzone" tvg-logo="https://epgx.site/p/filmzone.png" group-title="Фильмы,сериалы",FilmZone
 http://81.7.108.21:9000/play/Filmzone-DVBC298-sti4400018450230
 #EXTINF:-1 tvg-id="shot-tv" tvg-logo="https://epgx.site/p/shot-tv.png" group-title="Фильмы,сериалы",Shot TV
-http://92.242.110.52:9835/udp/238.1.6.2:1234
+http://188.113.190.15/166/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="filmbox-arthouse" tvg-logo="https://epgx.site/p/filmbox-arthouse.png" group-title="Фильмы,сериалы",Filmbox Arthouse
 http://188.113.190.15/207/mono.m3u8
 #EXTINF:-1 tvg-id="kinoliving" tvg-logo="https://epgx.site/p/kinoliving.png" group-title="Фильмы,сериалы",Kinoliving
-http://92.242.110.52:9835/udp/238.1.8.1:1234
+
 #EXTINF:-1 tvg-id="tvxxi" tvg-logo="https://epgx.site/p/tvxxi.png" group-title="Фильмы,сериалы",TV XXI
-https://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
+http://188.113.190.15/47/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="illuzion-plus" tvg-logo="https://epgx.site/p/illuzion-plus.png" group-title="Фильмы,сериалы",Иллюзион+
-http://176.113.48.221:8986/73
+http://188.113.190.15/45/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="flixsnip" tvg-logo="https://epgx.site/p/flixsnip.png" group-title="Фильмы,сериалы",FlixSnip
 http://sc.id-tv.kz/FlixSnip.m3u8
 #EXTINF:-1 tvg-id="312-kino" tvg-logo="https://epgx.site/p/312-kino.png" group-title="Фильмы,сериалы",312 KINO 
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 tvg-id="312TV.kg" tvg-logo="https://i.ibb.co/S6sZvqk/iLSGi6c.png" group-title="Фильмы,сериалы",312 ТВ
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 tvg-id="kino-24" tvg-logo="https://epgx.site/p/kino-24.png" group-title="Фильмы,сериалы",Kino24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:-1 tvg-id="retro-tv" tvg-logo="https://epgx.site/p/retro-tv.png" group-title="Фильмы,сериалы",Ретро
-http://109.239.208.82:80/retro/index.m3u8
 #EXTINF:-1 tvg-id="sovkino" tvg-logo="https://epgx.site/p/sovkino.png" group-title="Фильмы,сериалы",Советское кино
 
 #EXTINF:-1 tvg-id="bcu-sssr" tvg-logo="https://epgx.site/p/bcu-sssr-hd.png" group-title="Фильмы,сериалы",BCU СССР HD
@@ -389,7 +389,7 @@ http://109.239.208.82:80/retro/index.m3u8
 #EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="https://epgx.site/p/russkaya-komedia.png" group-title="Фильмы,сериалы",Комедия
 http://91.142.158.107:8092/play/30/index.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-logo="https://epgx.site/p/muzhskoe-kino.png" group-title="Фильмы,сериалы",Мужское Кино HD
-http://45.159.74.14:80/MujskoeKino/index.m3u8
+http://188.113.190.15/316/video.m3u8
 #EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://epgx.site/p/sony-turbo.png" group-title="Фильмы,сериалы",.Black
 http://188.113.190.11/186/mono.m3u8
 #EXTINF:-1 tvg-id="sony-tv" tvg-logo="https://epgx.site/p/sony.png" group-title="Фильмы,сериалы",.Red
@@ -397,9 +397,9 @@ http://188.113.190.15/149/mono.m3u8
 #EXTINF:-1 tvg-id="sony-scifi" tvg-logo="https://epgx.site/p/sony-scifi.png" group-title="Фильмы,сериалы",.Sci-Fi
 http://188.113.190.15/23/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="amedia1" tvg-logo="https://epgx.site/p/amedia1.png" group-title="Фильмы,сериалы",Amedia 1
-http://45.15.43.12:80/amedia1/video.m3u8?token=test
+http://188.113.190.11/79/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="amedia2" tvg-logo="https://epgx.site/p/amedia2.png" group-title="Фильмы,сериалы",Amedia 2 HD
-http://176.113.48.221:8986/128
+http://188.113.190.11/134/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="fanhd" tvg-logo="https://epgx.site/p/fanhd.png" group-title="Фильмы,сериалы",FAN
 http://178.16.151.67/fan/index.m3u8
 #EXTINF:-1 tvg-id="zee-tv" tvg-logo="https://epgx.site/p/zee-tv.png" group-title="Фильмы,сериалы",Индия
@@ -487,27 +487,27 @@ http://45.15.43.12:80/nst/video.m3u8?token=test
 
 
 #EXTINF:-1 tvg-id="kinopremiera-hd" tvg-logo="https://epgx.site/p/kinopremiera.png" group-title="Премьеры,хиты",Кинопремьера
-http://stream02.vnet.am/Kinopremera/mono.m3u8
+http://188.113.190.15/309/video.m3u8
 #EXTINF:-1 tvg-id="kinopremiera-hd" tvg-logo="https://epgx.site/p/kinopremiera.png" group-title="Премьеры,хиты",Кинопремьера HD
 
 #EXTINF:-1 tvg-id="vip-premiere" tvg-logo="https://epgx.site/p/vip-premiere.png" group-title="Премьеры,хиты",Viju+ Premiere HD
 http://188.113.190.15/201/mono.m3u8
 #EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://epgx.site/p/vip-megahit.png" group-title="Премьеры,хиты",Viju+ Megahit HD
-http://92.242.110.52:9835/udp/238.1.3.7:1234
+http://185.112.140.28/VIPMegahit/index.m3u8
 #EXTINF:-1 tvg-id="bcu-premiere" tvg-logo="https://epgx.site/p/bcu-premiere.png" group-title="Премьеры,хиты",BCU Premiere HD
 
 #EXTINF:-1 tvg-id="kinoxit" tvg-logo="https://epgx.site/p/kinoxit.png" group-title="Премьеры,хиты",Кинохит
-
+http://185.112.140.28:80/Kinohit/index.m3u8
 #EXTINF:-1 tvg-id="khit-hd" tvg-logo="https://epgx.site/p/khit.png" group-title="Премьеры,хиты",Хит HD
 
 #EXTINF:-1 tvg-id="amedia-hit" tvg-logo="https://epgx.site/p/amedia-hit.png" group-title="Премьеры,хиты",Amedia Hit HD
-http://178.163.99.10:4022/udp/234.0.0.169:2000
+
 #EXTINF:-1 tvg-id="amedia-premium" tvg-logo="https://epgx.site/p/amedia-premium.png" group-title="Премьеры,хиты",Amedia Premium HD
 http://188.113.190.15/140/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="premialnoe-hd" tvg-logo="https://epgx.site/p/premialnoe-hd.png" group-title="Премьеры,хиты",Премиальное HD
-http://45.93.46.27:8887/8028/video.m3u8
+rtmp://5.182.229.90//7222
 #EXTINF:-1 tvg-id="blokbaster-hd" tvg-logo="https://epgx.site/p/blokbaster.png" group-title="Премьеры,хиты",Блокбастер HD
-http://89.104.114.2:8080/blokbaster_hd/index.m3u8
+
 
 
 
