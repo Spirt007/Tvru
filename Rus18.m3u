@@ -366,7 +366,7 @@ http://81.7.108.21:9000/play/FOXLife-DVBC354-sti4400019110528
 http://81.7.108.21:9000/play/FilmBox-DVBC330-sti4400019110542
 #EXTINF:-1 tvg-id="filmzone" tvg-logo="https://epgx.site/p/filmzone.png" group-title="Фильмы,сериалы",FilmZone
 http://81.7.108.21:9000/play/Filmzone-DVBC298-sti4400018450230
-EXTINF:-1 tvg-id="" tvg-logo="https://epgx.site/p/filmzone-plus.png" group-title="Фильмы,сериалы",Filmzone Plus
+EXTINF:-1  tvg-logo="https://epgx.site/p/filmzone-plus.png" group-title="Фильмы,сериалы",Filmzone Plus
 http://81.7.108.21:9000/play/FilmzonePlusHD-DVBC354-sti4400019110528
 #EXTINF:-1 tvg-id="shot-tv" tvg-logo="https://epgx.site/p/shot-tv.png" group-title="Фильмы,сериалы",Shot TV
 http://188.113.190.15/166/tracks-v1a1/index.m3u8
