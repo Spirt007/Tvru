@@ -367,7 +367,7 @@ http://81.7.108.21:9000/play/FOXLife-DVBC354-sti4400019110528
 http://81.7.108.21:9000/play/FilmBox-DVBC330-sti4400019110542
 #EXTINF:-1 tvg-id="filmzone" tvg-logo="https://epgx.site/p/filmzone.png" group-title="Фильмы,сериалы",FilmZone
 http://81.7.108.21:9000/play/Filmzone-DVBC298-sti4400018450230
-EXTINF:-1 tvg-id="" tvg-logo="https://epgx.site/p/filmzone-plus.png" group-title="Фильмы,сериалы",Filmzone Plus
+#EXTINF:-1 tvg-id="" tvg-logo="https://epgx.site/p/filmzone-plus.png" group-title="Фильмы,сериалы",Filmzone Plus
 http://81.7.108.21:9000/play/FilmzonePlusHD-DVBC354-sti4400019110528
 #EXTINF:-1 tvg-id="shot-tv" tvg-logo="https://epgx.site/p/shot-tv.png" group-title="Фильмы,сериалы",Shot TV
 http://188.113.190.15/166/tracks-v1a1/index.m3u8
@@ -555,6 +555,8 @@ http://stream01.vnet.am/MuzTv/mono.m3u8
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="angel-tv" tvg-logo="https://epgx.site/p/angel-tv.png" group-title="Музыкальные",Angel TV
 
+#EXTINF:-1 tvg-id="mtv-live-hd" tvg-logo="https://epgx.site/p/mtv-live-hd.png" group-title="Музыкальные",MTV Live HD
+http://81.7.108.21:9000/play/MTVLiveHD-DVBC306-sti4400017090089
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7838.png" group-title="Музыкальные",MTV 00s
 http://170.82.37.21:8000/play/a01x/index.m3u
 #EXTINF:-1 tvg-id="mtv-hits" tvg-logo="https://epgx.site/p/mtv-hits.png" group-title="Музыкальные",MTV Hits 
