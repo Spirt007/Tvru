@@ -90,8 +90,6 @@ https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
 http://31.210.208.171:8080/football/index.m3u8?token=+W2MSE
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://epgx.site/p/pervy.png" group-title="Общественные",Первый HD
-https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-XTINF:-1 tvg-id="pervy" tvg-logo="https://epgx.site/p/pervy.png" group-title="Общественные",Первый FHD
 http://188.190.222.48:8765/1_kanal_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://epgx.site/p/rossia1.png" group-title="Общественные",Россия 1 
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
@@ -648,7 +646,7 @@ http://88.212.7.10/live/test_basbes_hd_hevc/playlist.m3u8
 http://wellsee.gdn/live.m3u8
 #EXTINF:-1 group-title="18+",Leo TV
 http://88.212.7.10/live/test_leo_hd_hevc/playlist.m3u8
-EXTINF:-1 group-title="18+",Porn Classic
+#EXTINF:-1 group-title="18+",Porn Classic
 http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://wow-model.com/wp-content/uploads/2017/09/visit-x-tv.jpg" group-title="18+",Visit-X 
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
