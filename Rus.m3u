@@ -57,7 +57,7 @@ http://194.26.229.213/TUDN_NashFutHD/index.m3u8?token=Panda
 #EXTINF:-1 tvg-id="mir-basketbola" tvg-logo="https://epgx.site/p/mir-basketbola.png" group-title="Спортивные",Мир Баскетбола
 http://tv.light-net.ru:8005/play/a03m
 #EXTINF:-1  tvg-id="khl" tvg-logo="https://epgx.site/p/kxl.png" group-title="Спортивные",KHL
-http://178.16.151.67/khl/index.m3u8
+https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
 #EXTINF:-1 tvg-id="kxl-hd" tvg-logo="https://epgx.site/p/kxl-hd.png" group-title="Спортивные",KHL Prime
 https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://epgx.site/p/eurosport1.png" group-title="Спортивные",Eurosport 1 HD
@@ -92,7 +92,7 @@ http://31.210.208.171:8080/football/index.m3u8?token=+W2MSER
 
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://epgx.site/p/pervy.png" group-title="Общественные",Первый HD
-https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+http://188.190.222.48:8765/1_kanal_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://epgx.site/p/rossia1.png" group-title="Общественные",Россия 1 
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://epgx.site/p/ntv.png" group-title="Общественные",НТВ
