@@ -129,6 +129,8 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/play
 https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-id="dumatv" tvg-logo="https://epgx.site/p/dumatv.png" group-title="Общественные",Дума ТВ
 https://dumatv.iptv2022.com/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="tcb" tvg-logo="https://epgx.site/p/tcb.png" group-title="Общественные",ТСВ Приднестровье
+http://iptv-hls.idc.md:8200/hls/2/live1.m3u8
 
 
 
@@ -154,6 +156,8 @@ http://edge02.odtv.az/o7/tnt4/playlist.m3u8
 http://178.212.71.253:8002/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="yu" tvg-logo="https://epgx.site/p/yu.png" group-title="Развлекательные",Ю ТВ
 http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="teatr" tvg-logo="https://epgx.site/p/teledom.png" group-title="Развлекательные",Театр
+http://188.113.190.15/180/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="2na2" tvg-logo="https://epgx.site/p/2na2.png" group-title="Развлекательные",2x2
 http://185.112.140.28:80/2x2/index.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://epgx.site/p/kvn-tv.png" group-title="Развлекательные",КВН ТВ
@@ -568,8 +572,7 @@ http://stream01.vnet.am/Evrika/mono.m3u8
 #EXTINF:-1 tvg-id="Da Vinci" tvg-logo="http://epg.it999.ru/img2/410.png" group-title="Познавательные",Da Vinci
 http://188.113.190.15/161/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="sovsek" tvg-logo="http://epg.it999.ru/img2/275.png" group-title="Познавательные",Совершенно Секретно
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://edge02.odtv.az/o1/sovershennosekretno/playlist.m3u8
+http://edge02.odtv.az/o1/sovershennosekretno/playlist.m3u8
 #EXTINF:-1 tvg-id="istoria" tvg-logo="http://epg.it999.ru/img2/1036.png" group-title="Познавательные",История
 http://stream01.vnet.am/Istoria/mono.m3u8
 #EXTINF:-1 tvg-id="RTG" tvg-logo="http://epg.one/img2/2280.png" group-title="Познавательные",RTG TV
@@ -577,25 +580,27 @@ https://strm.yandex.ru/kal/rtg/rtg0.m3u8
 #EXTINF:-1 tvg-id="nauka-20" tvg-logo="https://epgx.site/p/nauka-20.png" group-title="Познавательные",Наука 2.0
 https://stream2.cinerama.uz/1248/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="texno-24" tvg-logo="http://epg.it999.ru/img2/2762.png" group-title="Познавательные",24 Техно
-http://178.16.151.67/t24/index.m3u8
+
 #EXTINF:-1 tvg-id="neizvestnaya-rosia" tvg-logo="https://epgx.site/p/neizvestnaya-rosia.png" group-title="Познавательные",Неизвестная Россия HD
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="h2" tvg-logo="https://epgx.site/p/h2.png" group-title="Познавательные",H2
-https://bkm.beetv.kz/btv/live/hls/000002722.m3u8
+
 #EXTINF:-1 tvg-id="365-dnej" tvg-logo="https://epgx.site/p/365-dnej.png" group-title="Познавательные",365 Дней ТВ 
 http://146.158.0.56:80/365dney/index.m3u8
 #EXTINF:-1 tvg-id="hd-life" tvg-logo="https://i.imgur.com/tKgmhxh.png" group-title="Познавательные",HD Life
-https://strm.yandex.ru/kal/hd_life_belarus/hd_life_belarus0.m3u8
+http://94.232.104.237:8011/hdlife/index.m3u8
+#EXTINF:-1 tvg-id="viasat-explore" tvg-logo="https://epgx.site/p/viasat-explore.png" group-title="Познавательные",Viju Explore
+http://188.113.190.11/32/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://epgx.site/p/viasat-history.png" group-title="Познавательные",Viju History 
-http://31.131.136.4:8001/play/e002
+http://edge02.odtv.az/o5/viasathistory/playlist.m3u8
 #EXTINF:-1 tvg-id="viasat-nature" tvg-logo="https://epgx.site/p/viasat-nature.png" group-title="Познавательные",Viju Nature
 http://91.205.199.3:80/viasatnature/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-logo="http://epg.it999.ru/img2/2012.png" group-title="Познавательные",Viju+ Planet
-http://31.131.136.4:8001/play/e006
+http://91.218.160.212:8015/play/a04f/index.m3u8
 #EXTINF:-1 tvg-id="animal-planet-eu" tvg-logo="https://epgx.site/p/animal-planet-eu.png" group-title="Познавательные",Animal Planet
-http://45.159.74.14:80/AnimalPlanet/tracks-v1a2/mono.m3u8
+http://edge02.odtv.az/o5/animalplanet/playlist.m3u8
 #EXTINF:-1 tvg-id="big-planet" tvg-logo="https://epgx.site/p/big-planet.png" group-title="Познавательные",Big Planet
-http://92.242.110.52:9835/udp/238.1.8.20:1234
+
 #EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://epgx.site/p/discovery-channel.png" group-title="Познавательные",Discovery Channel
 http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="galaxy-tv" tvg-logo="https://epgx.site/p/galaxy-tv.png" group-title="Познавательные",Galaxy TV
