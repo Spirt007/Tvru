@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz" abs="true"
+#EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz, http://epg.one/epg2.xml.gz" abs="true"
 
 #EXTINF:-1 tvg-id="match-football1" tvg-logo="https://epgx.site/p/match-football1.png" group-title="Спортивные",Матч! Футбол 1 HD
 http://194.143.148.28:8080/MatchFutbol1/mpegts
@@ -651,7 +651,7 @@ http://188.42.198.244:9230/XXX_EXTASY_4K/index.m3u8?token=s1fkzaoxq7
 
 #EXTINF:-1 group-title="18+",Porn Classic
 http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
-#EXTINF:-1 group-title="18+",Venus
+#EXTINF:-1 tvg-id="3253" tvg-logo="http://epg.one/img2/3253.png" group-title="18+",Venus
 http://168.181.122.234:8000/play/a027/index.m3u8
 
 #EXTINF:-1  tvg-id="retro-fm" tvg-logo="https://epgx.site/p/retro-fm.png" group-title="Радио" radio="true",Ретро FM
