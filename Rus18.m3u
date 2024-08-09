@@ -56,7 +56,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
  
 #EXTINF:-1 tvg-id="mir-basketbola" tvg-logo="https://epgx.site/p/mir-basketbola.png" group-title="Спортивные",Мир Баскетбола
 
-#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://i.imgur.com/UNZ8bef.png" group-title="Спортивные",NHL
+#EXTINF:-1 tvg-id="4562" tvg-logo="http://epg.one/img2/4562.png" group-title="Спортивные",NHL Network US
 https://lnc-nhl.tubi.video/playlist.m3u8
 #EXTINF:-1  tvg-id="khl" tvg-logo="https://epgx.site/p/kxl.png" group-title="Спортивные",KHL
 https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
