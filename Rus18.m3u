@@ -616,11 +616,11 @@ http://camera.global-x.ru/OceanTV/index.m3u8
 #EXTINF:-1 tvg-id="brazzers-tv-europe" tvg-logo="https://epgx.site/p/brazzers.png" group-title="18+",Brazzers TV Europe
 
 #EXTINF:-1 tvg-id="penthouse-gold" tvg-logo="https://epgx.site/p/penthouse-gold.png" group-title="18+",Penthouse Gold HD
-http://146.59.54.163/353/index.m3u8
+
 #EXTINF:-1 tvg-id="penthouse-hd" tvg-logo="https://epgx.site/p/penthouse-hd.pngg" group-title="18+",Penthouse Reality TV
-http://78.130.250.2:8023/play/a006/index.m3u8
+
 #EXTINF:-1 tvg-id="blue-hustler" tvg-logo="https://i.imgur.com/41Ej2io.png" group-title="18+",Hustler HD
-http://146.59.54.163/348/index.m3u8
+
 #EXTINF:-1 tvg-id="private-tv" tvg-logo="https://epgx.site/p/private-tv.png" group-title="18+",Private HD
 
 #EXTINF:-1 tvg-id="3253" tvg-logo="http://epg.one/img2/3253.png" group-title="18+",Venus
@@ -628,7 +628,7 @@ http://168.181.122.234:8000/play/a027/index.m3u8
 #EXTINF:-1 tvg-id="sholk" tvg-logo="https://epgx.site/p/sholk.png" group-title="18+",Шелк
 
 #EXTINF:-1 tvg-id="vivid-red" tvg-logo="https://epgx.site/p/vivid-red.png" group-title="18+",Vivid Red HD
-http://146.59.54.163:80/361/mono.m3u8
+
 #EXTINF:-1 tvg-id="dorcel" tvg-logo="https://epgx.site/p/dorcel.png" group-title="18+",Dorcel TV 
 
 #EXTINF:-1 tvg-id="dorcel-xxx" tvg-logo="https://epgx.site/p/dorcel.png" group-title="18+",Dorcel XXX
@@ -640,21 +640,15 @@ http://31.148.48.15/O-la-la/index.m3u8
 #EXTINF:-1 tvg-id="playboy-tv" tvg-logo="https://epgx.site/p/playboy-tv.png" group-title="18+",Playboy TV
 http://168.181.122.234:8000/play/a03u/index.m3u8
 #EXTINF:-1 tvg-id="extasy4k" tvg-logo="https://epgx.site/p/extasytv.png" group-title="18+",Extasy HD
-http://88.212.7.10/live/test_extasy_hd_hevc/playlist.m3u8
+http://188.42.198.244:9230/XXX_EXTASY_4K/index.m3u8?token=s1fkzaoxq7
 #EXTINF:-1 tvg-id="passionxxx" tvg-logo="https://epgx.site/p/passionxxx.png" group-title="18+",PassionXXX
 
 #EXTINF:-1 tvg-id="eroxxxhd" tvg-logo="https://epgx.site/p/eroxxxhd.png" group-title="18+",Eroxxx HD
-http://88.212.7.10/live/test_eroxxx_hd_hevc/playlist.m3u8
+
 #EXTINF:-1 tvg-id="babes-tv" tvg-logo="https://epgx.site/p/babes-tv.png" group-title="18+",Babes TV
-http://88.212.7.10/live/test_basbes_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://loganet.ru/images/channels/FUUU-TV.png" group-title="18+",FUUU TV 
-http://wellsee.gdn/live.m3u8
-#EXTINF:-1 group-title="18+",Leo TV
-http://88.212.7.10/live/test_leo_hd_hevc/playlist.m3u8
+
 #EXTINF:-1 group-title="18+",Porn Classic
 http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://wow-model.com/wp-content/uploads/2017/09/visit-x-tv.jpg" group-title="18+",Visit-X 
-http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:-1 group-title="18+",Venus
 http://168.181.122.234:8000/play/a027/index.m3u8
 
