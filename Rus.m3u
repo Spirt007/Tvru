@@ -20,6 +20,8 @@ http://194.26.229.213/TUDN_Setanta-Qazaqstan/index.m3u8?token=Panda
 https://7pal.short.gy/prsport1
 #EXTINF:-1 group-title="Спортивные",Premier Sports 2
 https://7pal.short.gy/prsport2
+#EXTINF:-1 tvg-id="4562" tvg-logo="http://epg.one/img2/4562.png" group-title="Спортивные",NHL Network US
+https://lnc-nhl.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="sky-sports-action" tvg-logo="https://epgx.site/p/sky-sports-action.png" group-title="Спортивные",Sky Sports Action
 
 #EXTINF:-1 tvg-id="sky-sports-golf" tvg-logo="https://epgx.site/p/sky-sports-golf.png" group-title="Спортивные",Sky Sports Golf
