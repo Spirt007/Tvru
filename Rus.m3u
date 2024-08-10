@@ -238,7 +238,7 @@ http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://epgx.site/p/ntv-style.png" group-title="НТВ",НТВ Стиль
 http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-pravo" tvg-logo="http://epg.one/img2/1753.png" group-title="НТВ",НТВ Право
-https://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
+http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-serial" tvg-logo="https://epgx.site/p/ntv-serial.png" group-title="НТВ",НТВ Сериал
 http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-xit" tvg-logo="https://epgx.site/p/ntv-xit.png" group-title="НТВ",НТВ Хит
@@ -261,7 +261,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
 #EXTINF:-1 tvg-id="rbk" tvg-logo="https://epgx.site/p/rbk.png" group-title="Новости",РБК
 http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1 tvg-id="cnn" tvg-logo="https://epgx.site/p/cnn.png" group-title="Новости",CNN
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8
 #EXTINF:-1 ttvg-id="bbc" tvg-logo="https://epgx.site/p/bbc.png" group-title="Новости",BBC World News
 
 #EXTINF:-1 tvg-id="france-24" tvg-logo="https://epgx.site/p/france24.png" group-title="Новости",France 24
@@ -326,7 +326,8 @@ http://stream01.vnet.am/Channel_114/mono.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="pobeda" tvg-logo="http://epg.it999.ru/img2/2447.png" group-title="Фильмы,сериалы",Победа
+http://188.113.190.15/85/tracks-v1a1/index.m3u
 #EXTINF:-1 tvg-id="paramount-comedy" tvg-logo="http://epg.it999.ru/img2/920.png" group-title="Фильмы,сериалы",Comedy Central HD
 http://195.211.27.149:8887/8171/index.m3u8?token=test
 #EXTINF:-1 vg-id="kinojam1" tvg-logo="https://epgx.site/p/kinojam1.png" group-title="Фильмы,сериалы",Kinojam 1
