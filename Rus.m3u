@@ -115,6 +115,8 @@ https://livetv.mylifeisgood.net.ru/channels/domashnii.m3u8
 http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="https://epgx.site/p/zvezda.png" group-title="Общественные",Звезда
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-id="zvezda-plus" tvg-logo="https://epgx.site/p/zvezda-plus.png" group-title="Общественные",Звезда Плюс
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="otr" tvg-logo="https://epgx.site/p/otr.png" group-title="Общественные",ОТР
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
 #EXTINF:-1 id="kultura" tvg-logo="https://epgx.site/p/kultura.png" group-title="Общественные",Россия Культура
@@ -267,6 +269,8 @@ http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="france-24" tvg-logo="https://epgx.site/p/france24.png" group-title="Новости",France 24
 http://185.19.190.1:8090/FRANCE24/index.m3u8
+#EXTINF:-1 tvg-id="deutsche-welle-de" tvg-logo="https://epgx.site/p/deutsche-welle-de.png" group-title="Новости",Deutsche Welle
+http://sc.id-tv.kz/DW.m3u8
 #EXTINF:-1 tvg-id="6470" tvg-logo="http://epg.one/img2/6470.png" group-title="Новости",Rai News 24 HD
 
 #EXTINF:-1 tvg-id="2860" tvg-logo="http://epg.one/img2/2860.png" group-title="Новости",Sky News UK
