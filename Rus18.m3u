@@ -260,18 +260,11 @@ http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1 tvg-id="cnn" tvg-logo="https://epgx.site/p/cnn.png" group-title="Новости",CNN
 http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8
 #EXTINF:-1 ttvg-id="bbc" tvg-logo="https://epgx.site/p/bbc.png" group-title="Новости",BBC World News
-
-#EXTINF:-1 tvg-id="BBCNewsEurope.uk" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="Новости" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",BBC World News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s24/index.m3u8
-
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-id="france-24" tvg-logo="https://epgx.site/p/france24.png" group-title="Новости",France 24
 http://185.19.190.1:8090/FRANCE24/index.m3u8
 #EXTINF:-1 tvg-id="deutsche-welle-de" tvg-logo="https://epgx.site/p/deutsche-welle-de.png" group-title="Новости",Deutsche Welle
-http://sc.id-tv.kz/DW.m3u8
-#EXTINF:-1 tvg-id="deutsche-welle-de" tvg-logo="https://epgx.site/p/deutsche-welle-de.png" group-title="Новости" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Deutsche Welle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s26/index.m3u8
+
 #EXTINF:-1 tvg-id="6470" tvg-logo="http://epg.one/img2/6470.png" group-title="Новости",Rai News 24 HD
 
 #EXTINF:-1 tvg-id="2860" tvg-logo="http://epg.one/img2/2860.png" group-title="Новости",Sky News UK
