@@ -180,8 +180,13 @@ http://188.113.190.15/228/tracks-v1a1/index.m3u8
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="kluch" tvg-logo="https://epgx.site/p/kluch.png" group-title="Развлекательные",Ключ
 http://91.218.160.212:8015/play/a05w/index.m3u8
+#EXTINF:-1 tvg-id="poexali" tvg-logo="https://epgx.site/p/poexali.png" group-title="Развлекательные",Поехали!
+http://31.148.48.15/Poehali/index.m3u8
 
 
+
+#EXTINF:-1 tvg-id="arxyz24" tvg-logo="https://epgx.site/p/arxyz24.png" group-title="Региональные",Архыз 24
+https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
 #EXTINF:-1 tvg-id="arxyz24" tvg-logo="https://epgx.site/p/arxyz24.png" group-title="Региональные",Архыз 24
 https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
 #EXTINF:-1 tvg-id="astraxan24" tvg-logo="https://epgx.site/p/astraxan24.png" group-title="Региональные",Астрахань 24
