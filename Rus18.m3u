@@ -357,7 +357,7 @@ http://195.211.27.149:8887/8184/index.m3u8?token=test
 #EXTINF:-1 tvg-id="cinema-ru" tvg-logo="https://epgx.site/p/cinema.png" group-title="Фильмы,сериалы",Cinema HD
 http://188.190.222.48:8765/Cinema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kineko" tvg-logo="https://epgx.site/p/kineko.png" group-title="Фильмы,сериалы",Кинеко
-http://188.113.190.15/156/mono.m3u8
+http://95.156.76.230:33001/udp/230.4.34.85:1234
 #EXTINF:-1 tvg-id="russky-bestseller" tvg-logo="https://epgx.site/p/russky-bestseller.png" group-title="Фильмы,сериалы",Русский бестселлер
 http://91.142.158.107:8092/play/26/index.m3u8
 #EXTINF:-1 tvg-id="russky-detektiv" tvg-logo="https://epgx.site/p/russky-detektiv.png" group-title="Фильмы,сериалы",Русский детектив
@@ -379,11 +379,11 @@ http://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 tvg-id="foxlife" tvg-logo="https://epgx.site/p/foxlife.png"  group-title="Фильмы,сериалы",Fox Life
 http://81.7.108.21:9000/play/FOXLife-DVBC354-sti4400019110528
 #EXTINF:-1 tvg-id="filmbox-ru" tvg-logo="https://epgx.site/p/filmbox-ru.png"  group-title="Фильмы,сериалы",FilmBox Russia
-http://81.7.108.21:9000/play/FilmBox-DVBC330-sti4400019110542
+
 #EXTINF:-1 tvg-id="filmzone" tvg-logo="https://epgx.site/p/filmzone.png" group-title="Фильмы,сериалы",FilmZone
-http://81.7.108.21:9000/play/Filmzone-DVBC298-sti4400018450230
+
 #EXTINF:-1  tvg-logo="https://epgx.site/p/filmzone-plus.png" group-title="Фильмы,сериалы",Filmzone Plus
-http://81.7.108.21:9000/play/FilmzonePlusHD-DVBC354-sti4400019110528
+
 #EXTINF:-1 tvg-id="shot-tv" tvg-logo="https://epgx.site/p/shot-tv.png" group-title="Фильмы,сериалы",Shot TV
 http://188.113.190.15/166/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="filmbox-arthouse" tvg-logo="https://epgx.site/p/filmbox-arthouse.png" group-title="Фильмы,сериалы",Filmbox Arthouse
@@ -471,7 +471,7 @@ http://188.113.190.15/182/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="domkino" tvg-logo="https://epgx.site/p/domkino.png" group-title="Фильмы,сериалы",Дом Кино
 http://185.112.140.28/DomKino/index.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://epgx.site/p/domkino-premium.png" group-title="Фильмы,сериалы",Дом Кино Премиум HD
-http://188.113.190.15/91/tracks-v1a1/index.m3u8
+http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://epgx.site/p/mosfilm.png" group-title="Фильмы,сериалы",Мосфильм. Золотая коллекция
 http://94.232.104.237:8011/mosfilm/index.m3u8
 #EXTINF:-1 tvg-id="nashehd" tvg-logo="https://epgx.site/p/nashehd.png" group-title="Фильмы,сериалы",Наше HD
