@@ -136,9 +136,7 @@ http://iptv-hls.idc.md:8200/hls/2/live1.m3u8
 
 
 #EXTINF:-1 tvg-id="piatnica" tvg-logo="https://epgx.site/p/piatnica.png" group-title="Развлекательные",Пятница!
-http://streamer2.fokks.ru:10016/index.m3u8
-#EXTINF:-1 tvg-id="piatnica-int" tvg-logo="https://epgx.site/p/piatnica-int.png" group-title="Развлекательные",Пятница International
-https://stream01.vnet.am/Pyatnica/mono.m3u8
+http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
 #EXTINF:-1 tvg-id="super" tvg-logo="https://epgx.site/p/subbota.png" group-title="Развлекательные",Суббота
 http://195.26.83.96:7013/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="sts" tvg-logo="https://epgx.site/p/sts.png" group-title="Развлекательные",СТС
@@ -178,7 +176,7 @@ http://de.zigfreed.ru:8080/tvoetv_humor/video.m3u8?token=tvoetv
 #EXTINF:-1 tvg-id="rtvi" tvg-logo="https://epgx.site/p/rtvi.png" group-title="Развлекательные",RTVi
 http://81.7.108.21:9000/play/RTVi-DVBC314-sti4400019110542
 #EXTINF:-1 tvg-id="tlc" tvg-logo="https://epgx.site/p/tlc.png" group-title="Развлекательные",TLC HD
-http://81.7.108.21:9000/play/DiscoveryTLC-DVBC306-sti4400017090089
+
 #EXTINF:-1 tvg-id="centralnoye-tv" tvg-logo="https://epgx.site/p/centralnoye-tv.png" group-title="Развлекательные",ЦТВ
 http://188.113.190.15/228/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="tv1-kg-hd" tvg-logo="https://epgx.site/p/tv1-kg-hd.png" group-title="Развлекательные",TV1 KG
@@ -187,7 +185,12 @@ http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 http://91.218.160.212:8015/play/a05w/index.m3u8
 
 
-
+#EXTINF:-1 tvg-id="arxyz24" tvg-logo="https://epgx.site/p/arxyz24.png" group-title="Региональные",Архыз 24
+https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
+#EXTINF:-1 tvg-id="astraxan24" tvg-logo="https://epgx.site/p/astraxan24.png" group-title="Региональные",Астрахань 24
+https://astrakhan24.bonus-tv.ru/cdn/astrakhan24/playlist.m3u8
+#EXTINF:-1 tvg-id="bashkortostan24" tvg-logo="https://epgx.site/p/bashkortostan24.png" group-title="Региональные",Башкортостан 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="krasnodar" tvg-logo="https://epgx.site/p/krasnodar.png" group-title="Региональные",Краснодар
 http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="kuban-24" tvg-logo="https://epgx.site/p/kuban-24.png" group-title="Региональные",Кубань 24 орбита
