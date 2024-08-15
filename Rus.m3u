@@ -187,7 +187,7 @@ http://91.218.160.212:8015/play/a05w/index.m3u8
 http://31.148.48.15/Poehali/index.m3u8
 #EXTINF:-1 tvg-id="teleputeshestvia" tvg-logo="https://epgx.site/p/teleputeshestvia.png" group-title="Развлекательные",Телепутешествия 
 http://94.232.104.237:8011/teleputeshestviya/index.m3u8
-#EXTINF:-1 tvg-id="narod-vsio-vidit tvg-logo="https://epgx.site/p/narod-vsio-vidit.png" group-title="Развлекательные",Народ Всë Видит
+#EXTINF:-1 tvg-id="narod-vsio-vidit" tvg-logo="https://epgx.site/p/narod-vsio-vidit.png" group-title="Развлекательные",Народ Всë Видит
 http://91.218.160.212:8015/play/a00j/index.m3u8
 
 
