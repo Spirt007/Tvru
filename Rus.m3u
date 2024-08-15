@@ -311,6 +311,8 @@ http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="kinomult" tvg-logo="https://epgx.site/p/kinomult.png" group-title="Детские",Киномульт
+http://195.158.222.115:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-logo="https://epgx.site/p/v-gostiax-u-skazki.png" group-title="Детские",В гостях у сказки
 http://195.158.222.115:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="smaylik-tv" tvg-logo="https://epgx.site/p/smaylik-tv.png" group-title="Детские",Смайлик ТВ 
