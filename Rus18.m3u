@@ -184,7 +184,7 @@ http://91.218.160.212:8015/play/a05w/index.m3u8
 http://31.148.48.15/Poehali/index.m3u8
 #EXTINF:-1 tvg-id="teleputeshestvia" tvg-logo="https://epgx.site/p/teleputeshestvia.png" group-title="Развлекательные",Телепутешествия 
 http://94.232.104.237:8011/teleputeshestviya/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",Народ Всë Видит
+#EXTINF:-1 tvg-id="narod-vsio-vidit tvg-logo="https://epgx.site/p/narod-vsio-vidit.png" group-title="Развлекательные",Народ Всë Видит
 http://91.218.160.212:8015/play/a00j/index.m3u8
 
 
@@ -309,6 +309,9 @@ https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
 #EXTINF:-1 tvg-id="stv-by" tvg-logo="https://epgx.site/p/stv-by.png" group-title="Беларусь",СТВ HD
 http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="kinomult" tvg-logo="https://epgx.site/p/kinomult.png" group-title="Детские",Киномульт
+http://195.158.222.115:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-logo="https://epgx.site/p/v-gostiax-u-skazki.png" group-title="Детские",В гостях у сказки
 http://195.158.222.115:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="smaylik-tv" tvg-logo="https://epgx.site/p/smaylik-tv.png" group-title="Детские",Смайлик ТВ 
