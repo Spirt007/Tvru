@@ -236,7 +236,7 @@ http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
 #EXTINF:-1  tvg-id="enisey-region" tvg-logo="https://epgx.site/p/enisey-region.png" group-title="Региональные",Енисей регион
 https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1  tvg-id="lipeckoe-vremia" tvg-logo="https://i.imgur.com/a42jk7b.png" group-title="Региональные",Липецкое время
-
+http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
 #EXTINF:-1 tvg-id="doverie" tvg-logo="https://epgx.site/p/doverie.png" group-title="Региональные",Москва Доверие
 https://player.smotrim.ru/iframe/stream/live_id/61125
 #EXTINF:-1 tvg-id="nn-24" tvg-logo="https://i.imgur.com/ZWgPVIC.png" group-title="Региональные",Нижний Новгород 24
