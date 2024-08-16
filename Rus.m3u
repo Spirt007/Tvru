@@ -131,8 +131,15 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/play
 https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-id="dumatv" tvg-logo="https://epgx.site/p/dumatv.png" group-title="Общественные",Дума ТВ
 https://dumatv.iptv2022.com/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-logo="https://epgx.site/p/rtr-planeta.png" group-title="Общественные",РТР-Планета Европа
+https://player.smotrim.ru/iframe/stream/live_id/4941
 #EXTINF:-1 tvg-id="tcb" tvg-logo="https://epgx.site/p/tcb.png" group-title="Общественные",ТСВ
 http://iptv-hls.idc.md:8200/hls/2/live1.m3u8
+#EXTINF:-1 tvg-id="ZaTV.ru" tvg-logo="https://kartina-tv.site/wp-content/uploads/2020/12/logo_new.png" group-title="Общественные",За!ТВ
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.skynetconnect.online/live/25.m3u8
+#EXTINF:-1 tvg-id="6TVGorlovka.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/TV_6_HD_%E2%80%93_logo.png" group-title="Общественные",6 ТВ Горловка
+http://91.237.3.3:4022/udp/224.2.2.4:10000
 
 
 #EXTINF:-1 tvg-id="piatnica" tvg-logo="https://epgx.site/p/piatnica.png" group-title="Развлекательные",Пятница!
@@ -245,6 +252,9 @@ http://live-atkmedia.cdnvideo.ru/atkmedia/atkmedia/playlist.m3u8
 http://iptv.crimea.net:8787
 #EXTINF:-1 tvg-id="12-omsk" tvg-logo="http://epg.it999.ru/img2/5841.png" group-title="Региональные",12 Канал
 http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-id="Lugansk24.ua" tvg-logo="https://i.imgur.com/AihoVc0.png" group-title="Региональные",Луганск 24
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.skynetconnect.online/live/29.m3u8
 
 
 #EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://epgx.site/p/ntv-style.png" group-title="НТВ",НТВ Стиль
