@@ -127,6 +127,10 @@ https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
 https://dumatv.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tcb" tvg-logo="https://epgx.site/p/tcb.png" group-title="Общественные",ТСВ Приднестровье
 http://iptv-hls.idc.md:8200/hls/2/live1.m3u8
+#EXTINF:-1 tvg-id="ZaTV.ru" tvg-logo="https://kartina-tv.site/wp-content/uploads/2020/12/logo_new.png" group-title="Общественные",За!ТВ
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+#EXTINF:-1 tvg-id="6TVGorlovka.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/TV_6_HD_%E2%80%93_logo.png" group-title="Общественные",6 ТВ Горловка
+http://91.237.3.3:4022/udp/224.2.2.4:10000
 
 
 
