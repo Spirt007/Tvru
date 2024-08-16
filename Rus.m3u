@@ -138,8 +138,6 @@ http://iptv-hls.idc.md:8200/hls/2/live1.m3u8
 #EXTINF:-1 tvg-id="ZaTV.ru" tvg-logo="" group-title="Общественные",За!ТВ
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.skynetconnect.online/live/25.m3u8
-#EXTINF:-1 tvg-id="6TVGorlovka.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/TV_6_HD_%E2%80%93_logo.png" group-title="Общественные",6 ТВ Горловка
-http://91.237.3.3:4022/udp/224.2.2.4:10000
 
 
 #EXTINF:-1 tvg-id="piatnica" tvg-logo="https://epgx.site/p/piatnica.png" group-title="Развлекательные",Пятница!
@@ -255,6 +253,8 @@ http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="Lugansk24.ua" tvg-logo="https://i.imgur.com/AihoVc0.png" group-title="Региональные",Луганск 24
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.skynetconnect.online/live/29.m3u8
+#EXTINF:-1 tvg-id="6TVGorlovka.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/TV_6_HD_%E2%80%93_logo.png" group-title="Региональные",6 ТВ Горловка
+http://91.237.3.3:4022/udp/224.2.2.4:10000
 
 
 #EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://epgx.site/p/ntv-style.png" group-title="НТВ",НТВ Стиль
