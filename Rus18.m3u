@@ -129,7 +129,7 @@ https://dumatv.iptv2022.com/tracks-v1a1/mono.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/4941
 #EXTINF:-1 tvg-id="tcb" tvg-logo="https://epgx.site/p/tcb.png" group-title="Общественные",ТСВ Приднестровье
 http://iptv-hls.idc.md:8200/hls/2/live1.m3u8
-#EXTINF:-1 tvg-id="ZaTV.ru" tvg-logo="https://kartina-tv.site/wp-content/uploads/2020/12/logo_new.png" group-title="Общественные",За!ТВ
+#EXTINF:-1 tvg-id="ZaTV.ru" tvg-logo="" group-title="Общественные",За!ТВ
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.skynetconnect.online/live/25.m3u8
 #EXTINF:-1 tvg-id="6TVGorlovka.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/TV_6_HD_%E2%80%93_logo.png" group-title="Общественные",6 ТВ Горловка
