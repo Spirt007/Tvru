@@ -182,7 +182,7 @@ http://81.7.108.21:9000/play/RTVi-DVBC314-sti4400019110542
 #EXTINF:-1 tvg-id="kaleydoskop-tv" tvg-logo="https://epgx.site/p/kaleydoskop.png" group-title="Развлекательные",Калейдоскоп ТВ
 https://cdn-01.bonus-tv.ru/Kaleidoskop_edge/playlist.m3u8
 #EXTINF:-1 tvg-id="centralnoye-tv" tvg-logo="https://epgx.site/p/centralnoye-tv.png" group-title="Развлекательные",ЦТВ
-http://188.113.190.15/228/tracks-v1a1/index.m3u8
+http://195.158.222.115:8001/play/a083/index.m3u8
 #EXTINF:-1 tvg-id="tv1-kg-hd" tvg-logo="https://epgx.site/p/tv1-kg-hd.png" group-title="Развлекательные",TV1 KG
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="kluch" tvg-logo="https://epgx.site/p/kluch.png" group-title="Развлекательные",Ключ
