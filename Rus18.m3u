@@ -420,11 +420,11 @@ http://91.142.158.107:8092/play/30/index.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-logo="https://epgx.site/p/muzhskoe-kino.png" group-title="Фильмы,сериалы",Мужское Кино HD
 http://188.113.190.15/316/video.m3u8
 #EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://epgx.site/p/sony-turbo.png" group-title="Фильмы,сериалы",.Black
-http://188.113.190.11/186/mono.m3u8
+http://hls.seversk.ru:8080/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="sony-tv" tvg-logo="https://epgx.site/p/sony.png" group-title="Фильмы,сериалы",.Red
-http://31.210.208.171:8080/set/index.m3u8?token=+W2MSER
+http://91.205.199.3/redhd/index.m3u8
 #EXTINF:-1 tvg-id="sony-scifi" tvg-logo="https://epgx.site/p/sony-scifi.png" group-title="Фильмы,сериалы",.Sci-Fi
-http://188.113.190.15/23/mono.m3u8
+http://178.124.179.122:8088/Sci-Fi/index.m3u8
 #EXTINF:-1 tvg-id="amedia1" tvg-logo="https://epgx.site/p/amedia1.png" group-title="Фильмы,сериалы",Amedia 1
 http://188.113.190.11/79/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="amedia2" tvg-logo="https://epgx.site/p/amedia2.png" group-title="Фильмы,сериалы",Amedia 2 HD
