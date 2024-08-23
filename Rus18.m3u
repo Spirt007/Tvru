@@ -194,7 +194,7 @@ http://94.232.104.237:8011/teleputeshestviya/index.m3u8
 http://91.218.160.212:8015/play/a00j/index.m3u8
 
 
-#EXTINF:-1 group-title="Региональные",Восток 24
+#EXTINF:-1 tvg-id="vostok-24" tvg-logo="https://epgx.site/p/vostok-24.png" group-title="Региональные",Восток 24
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
 #EXTINF:-1 tvg-id="arxyz24" tvg-logo="https://epgx.site/p/arxyz24.png" group-title="Региональные",Архыз 24
