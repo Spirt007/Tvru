@@ -192,8 +192,6 @@ http://31.148.48.15/Poehali/index.m3u8
 http://94.232.104.237:8011/teleputeshestviya/index.m3u8
 #EXTINF:-1 tvg-id="narod-vsio-vidit" tvg-logo="https://epgx.site/p/narod-vsio-vidit.png" group-title="Развлекательные",Народ Всë Видит
 http://91.218.160.212:8015/play/a00j/index.m3u8
-#EXTINF:-1 tvg-id="uspex" tvg-logo="https://epgx.site/p/uspex.png" group-title="Развлекательные",Успех 
-http://camera.global-x.ru/Uspeh/index.m3u8
 #EXTINF:-1 tvg-id="tochka-tv" tvg-logo="https://epgx.site/p/tochka-tv.png" group-title="Развлекательные",Точка ТВ 
 https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/playlist.m3u8
 
@@ -621,6 +619,8 @@ http://edge02.odtv.az/o1/sovershennosekretno/playlist.m3u8
 http://stream01.vnet.am/Istoria/mono.m3u8
 #EXTINF:-1 tvg-id="RTG" tvg-logo="http://epg.one/img2/2280.png" group-title="Познавательные",RTG TV
 https://strm.yandex.ru/kal/rtg/rtg0.m3u8
+#EXTINF:-1 tvg-id="uspex" tvg-logo="https://epgx.site/p/uspex.png" group-title="Познавательные",Успех 
+http://camera.global-x.ru/Uspeh/index.m3u8
 #EXTINF:-1 tvg-id="nauka-20" tvg-logo="https://epgx.site/p/nauka-20.png" group-title="Познавательные",Наука 2.0
 https://stream2.cinerama.uz/1248/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="texno-24" tvg-logo="http://epg.it999.ru/img2/2762.png" group-title="Познавательные",24 Техно
