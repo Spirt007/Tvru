@@ -193,6 +193,9 @@ http://31.148.48.15/Poehali/index.m3u8
 http://94.232.104.237:8011/teleputeshestviya/index.m3u8
 #EXTINF:-1 tvg-id="narod-vsio-vidit" tvg-logo="https://epgx.site/p/narod-vsio-vidit.png" group-title="Развлекательные",Народ Всë Видит
 http://91.218.160.212:8015/play/a00j/index.m3u8
+#EXTINF:-1 tvg-id="tochka-tv" tvg-logo="https://epgx.site/p/tochka-tv.png" group-title="Развлекательные",Точка ТВ 
+https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="vostok-24" tvg-logo="https://epgx.site/p/vostok-24.png" group-title="Региональные",Восток 24
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -361,6 +364,8 @@ http://94.232.104.237:8011/pobeda/index.m3u8
 http://195.211.27.149:8887/8171/index.m3u8?token=test
 #EXTINF:-1 vg-id="kinojam1" tvg-logo="https://epgx.site/p/kinojam1.png" group-title="Фильмы,сериалы",Kinojam 1
 http://135.181.115.81:8000/play/a027/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="kinojam2" tvg-logo="https://epgx.site/p/kinojam2.png" group-title="Фильмы,сериалы",Kinojam 2
+rtmp://5.182.229.90//7261
 #EXTINF:-1 tvg-id="tv1000-cee" tvg-logo="https://epgx.site/p/tv1000-cee.png" group-title="Фильмы,сериалы",Viasat Kino
 
 #EXTINF:-1 tvg-id="tv1000-action-cee" tvg-logo="https://epgx.site/p/tv1000-action-cee.png" group-title="Фильмы,сериалы",Viasat Kino Action
@@ -396,7 +401,7 @@ http://188.190.222.48:8765/Dushevnoe_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="fox" tvg-logo="https://epgx.site/p/fox.png" group-title="Фильмы,сериалы",Fox
 http://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 tvg-id="foxlife" tvg-logo="https://epgx.site/p/foxlife.png"  group-title="Фильмы,сериалы",Fox Life
-http://81.7.108.21:9000/play/FOXLife-DVBC354-sti4400019110528
+http://hls.seversk.ru:8080/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="filmbox-ru" tvg-logo="https://epgx.site/p/filmbox-ru.png"  group-title="Фильмы,сериалы",FilmBox Russia
 
 #EXTINF:-1 tvg-id="filmzone" tvg-logo="https://epgx.site/p/filmzone.png" group-title="Фильмы,сериалы",FilmZone
@@ -615,6 +620,8 @@ http://edge02.odtv.az/o1/sovershennosekretno/playlist.m3u8
 http://stream01.vnet.am/Istoria/mono.m3u8
 #EXTINF:-1 tvg-id="RTG" tvg-logo="http://epg.one/img2/2280.png" group-title="Познавательные",RTG TV
 https://strm.yandex.ru/kal/rtg/rtg0.m3u8
+#EXTINF:-1 tvg-id="uspex" tvg-logo="https://epgx.site/p/uspex.png" group-title="Познавательные",Успех 
+http://camera.global-x.ru/Uspeh/index.m3u8
 #EXTINF:-1 tvg-id="nauka-20" tvg-logo="https://epgx.site/p/nauka-20.png" group-title="Познавательные",Наука 2.0
 https://stream2.cinerama.uz/1248/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="texno-24" tvg-logo="http://epg.it999.ru/img2/2762.png" group-title="Познавательные",24 Техно
