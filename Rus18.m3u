@@ -571,51 +571,51 @@ rtmp://5.182.229.90//7222
 #EXTINF:-1 tvg-id="blokbaster-hd" tvg-logo="https://epgx.site/p/blokbaster.png" group-title="Премьеры,хиты",Блокбастер HD
 
 
-#EXTINF:-1 tvg-id="avto24" tvg-logo="http://epg.it999.ru/img2/2008.png" group-title="После работы",АВТО 24
+#EXTINF:-1 tvg-id="avto24" tvg-logo="http://epg.it999.ru/img2/2008.png" group-title="Досуг",АВТО 24
 http://91.205.199.3:80/avto24/index.m3u8
-#EXTINF:-1 tvg-id="bobior" tvg-logo="https://epgx.site/p/bober.png" group-title="После работы",Бобер
+#EXTINF:-1 tvg-id="bobior" tvg-logo="https://epgx.site/p/bober.png" group-title="Досуг",Бобер
 http://178.212.71.253:8002/play/a00m/index.m3u8
-#EXTINF:-1 tvg-id="doktor" tvg-logo="https://epgx.site/p/doktor.png" group-title="После работы",Доктор
+#EXTINF:-1 tvg-id="doktor" tvg-logo="https://epgx.site/p/doktor.png" group-title="Досуг",Доктор
 http://88.85.172.243:7004/play/a01l
-#EXTINF:-1 tvg-id="domashnie-zhivotnye" tvg-logo="http://epg.it999.ru/img2/520.png" group-title="После работы",Домашние Животные
+#EXTINF:-1 tvg-id="domashnie-zhivotnye" tvg-logo="http://epg.it999.ru/img2/520.png" group-title="Досуг",Домашние Животные
 http://iptv.mega.net.ru:8888/Domasnie_givotnie/mono.m3u8
-#EXTINF:-1 tvg-id="dikaya-oxota-hd" tvg-logo="http://epg.it999.ru/img2/2483.png" group-title="После работы",Дикая Охота
+#EXTINF:-1 tvg-id="dikaya-oxota-hd" tvg-logo="http://epg.it999.ru/img2/2483.png" group-title="Досуг",Дикая Охота
 http://stream01.vnet.am/Channel_127/mono.m3u8
-#EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-logo="http://epg.it999.ru/img2/2484.png" group-title="После работы",Дикая Рыбалка)
+#EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-logo="http://epg.it999.ru/img2/2484.png" group-title="Досуг",Дикая Рыбалка)
 http://stream01.vnet.am/Channel_126/mono.m3u8
-#EXTINF:-1 tvg-id="dikiy" tvg-logo="http://epg.it999.ru/img2/2283.png" group-title="После работы",Дикий
+#EXTINF:-1 tvg-id="dikiy" tvg-logo="http://epg.it999.ru/img2/2283.png" group-title="Досуг",Дикий
 http://95.156.76.230:33001/udp/230.4.34.78:1234
-#EXTINF:-1 tvg-id="eda" tvg-logo="https://epgx.site/p/eda.png" group-title="После работы",Еда
+#EXTINF:-1 tvg-id="eda" tvg-logo="https://epgx.site/p/eda.png" group-title="Досуг",Еда
 http://188.134.76.176:81/udp/235.10.10.240:1234
-#EXTINF:-1 tvg-id="zhivi-aktivno" tvg-logo="http://epg.it999.ru/img2/5881.png" group-title="После работы",Живи Активно
+#EXTINF:-1 tvg-id="zhivi-aktivno" tvg-logo="http://epg.it999.ru/img2/5881.png" group-title="Досуг",Живи Активно
 https://livetv.mylifeisgood.net.ru/channels/jiviactivno.m3u8
-#EXTINF:-1 tvg-id="zagorodny" tvg-logo="http://epg.it999.ru/img2/2463.png" group-title="После работы",Загородный
+#EXTINF:-1 tvg-id="zagorodny" tvg-logo="http://epg.it999.ru/img2/2463.png" group-title="Досуг",Загородный
 http://ott-cdn.ucom.am/s31/04.m3u8
-#EXTINF:-1 tvg-id="zagorodnaya-zhizn" tvg-logo="https://epgx.site/p/zagorodnaya-zhizn.png" group-title="После работы",Загородная Жизнь
+#EXTINF:-1 tvg-id="zagorodnaya-zhizn" tvg-logo="https://epgx.site/p/zagorodnaya-zhizn.png" group-title="Досуг",Загородная Жизнь
 http://146.158.0.56/ZagorodnayaJizn/mono.m3u8
-#EXTINF:-1 tvg-id="zdorovoe-tv" tvg-logo="https://epgx.site/p/zdorovoe-tv.png" group-title="После работы",Здоровое ТВ
+#EXTINF:-1 tvg-id="zdorovoe-tv" tvg-logo="https://epgx.site/p/zdorovoe-tv.png" group-title="Досуг",Здоровое ТВ
 http://178.124.179.122:8088/ZdorovoeTV/index.m3u8
-#EXTINF:-1 tvg-id="lapki-live" tvg-logo="https://epgx.site/p/lapki-live.png" group-title="После работы",Лапки Live
+#EXTINF:-1 tvg-id="lapki-live" tvg-logo="https://epgx.site/p/lapki-live.png" group-title="Досуг",Лапки Live
 http://91.247.68.229:8000/play/Lapki/index.m3u8
-#EXTINF:-1 tvg-id="muzhskoy" tvg-logo="http://epg.it999.ru/img2/2444.png" group-title="После работы",Мужской
+#EXTINF:-1 tvg-id="muzhskoy" tvg-logo="http://epg.it999.ru/img2/2444.png" group-title="Досуг",Мужской
 http://195.26.83.96:7007/play/11/index.m3u8
-#EXTINF:-1 tvg-id="nasha-tema" tvg-logo="http://epg.it999.ru/img2/2433.png" group-title="После работы",Наша Тема
+#EXTINF:-1 tvg-id="nasha-tema" tvg-logo="http://epg.it999.ru/img2/2433.png" group-title="Досуг",Наша Тема
 http://91.207.114.220:9001/play/a07i/index.m3u8
-#EXTINF:-1 tvg-id="ntv-style" tvg-logo="http://epg.it999.ru/img2/1755.png" group-title="После работы",НТВ Стиль
+#EXTINF:-1 tvg-id="ntv-style" tvg-logo="http://epg.it999.ru/img2/1755.png" group-title="Досуг",НТВ Стиль
 http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="otkryty-mir" tvg-logo="https://epgx.site/p/otkryty-mir.png" group-title="После работы",Открытый мир
+#EXTINF:-1 tvg-id="otkryty-mir" tvg-logo="https://epgx.site/p/otkryty-mir.png" group-title="Досуг",Открытый мир
 http://146.158.0.56:80/OtkritiyMir/index.m3u8
-#EXTINF:-1 tvg-id="oxota-i-rybalka" tvg-logo="http://epg.it999.ru/img2/2419.png" group-title="После работы",ОХОТА И РЫБАЛКА
+#EXTINF:-1 tvg-id="oxota-i-rybalka" tvg-logo="http://epg.it999.ru/img2/2419.png" group-title="Досуг",ОХОТА И РЫБАЛКА
 http://iptv.mega.net.ru:8888/Ohota_i_Ribalka/mono.m3u8
-#EXTINF:-1 tvg-id="prikluchenia-hd" tvg-logo="http://epg.it999.ru/img2/2311.png" group-title="После работы",Приключения
+#EXTINF:-1 tvg-id="prikluchenia-hd" tvg-logo="http://epg.it999.ru/img2/2311.png" group-title="Досуг",Приключения
 http://ott-cdn.ucom.am/s99/04.m3u8
-#EXTINF:-1 tvg-id="svetloe-tv" tvg-logo="https://epgx.site/p/svetloe-tv.png" group-title="После работы",Светлое ТВ
+#EXTINF:-1 tvg-id="svetloe-tv" tvg-logo="https://epgx.site/p/svetloe-tv.png" group-title="Досуг",Светлое ТВ
 http://176.107.219.20:9000/play/a009/index.m3u8
-#EXTINF:-1 tvg-id="tonus-tv" tvg-logo="https://epgx.site/p/tonus-tv.png" group-title="После работы",Тонус
+#EXTINF:-1 tvg-id="tonus-tv" tvg-logo="https://epgx.site/p/tonus-tv.png" group-title="Досуг",Тонус
 http://stream01.vnet.am/ZooTv/mono.m3u8
-#EXTINF:-1 tvg-id="tochka-otryva" tvg-logo="http://epg.it999.ru/img2/617.png" group-title="После работы",Точка Отрыва
+#EXTINF:-1 tvg-id="tochka-otryva" tvg-logo="http://epg.it999.ru/img2/617.png" group-title="Досуг",Точка Отрыва
 https://stream2.cinerama.uz/1031/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="usadba" tvg-logo="https://epgx.site/p/usadba.png" group-title="После работы",Усадьба
+#EXTINF:-1 tvg-id="usadba" tvg-logo="https://epgx.site/p/usadba.png" group-title="Досуг",Усадьба
 http://178.68.212.227:81/play/a02b
 
 #EXTINF:-1 tvg-id="backustv-music" tvg-logo="https://epgx.site/p/backustv-music.png" group-title="Музыкальные",Backus TV Music HD
