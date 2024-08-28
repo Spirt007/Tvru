@@ -356,6 +356,8 @@ http://45.159.74.13:80/DisneyChannel/tracks-v1a1/mono.m3u8
 http://stream01.vnet.am/Channel_114/mono.m3u8
 #EXTINF:-1 tvg-id="nick-jr" tvg-logo="https://epgx.site/p/nick-jr.png" group-title="Детские",Nick Jr
 http://80.90.184.111/nickjr/index.m3u8
+#EXTINF:-1 tvg-id="konny-mir" tvg-logo="https://epgx.site/p/konny-mir.png" group-title="Детские",Мама
+http://stv.mediacdn.ru/live/cdn/mama/playlist_sdhigher.m3u8
 
 
 #EXTINF:-1 tvg-id="pobeda" tvg-logo="http://epg.it999.ru/img2/2447.png" group-title="Фильмы,сериалы",Победа
@@ -603,6 +605,8 @@ http://91.207.114.220:9001/play/a07i/index.m3u8
 http://146.158.0.56:80/OtkritiyMir/index.m3u8
 #EXTINF:-1 tvg-id="oxota-i-rybalka" tvg-logo="http://epg.it999.ru/img2/2419.png" group-title="Досуг",ОХОТА И РЫБАЛКА
 http://iptv.mega.net.ru:8888/Ohota_i_Ribalka/mono.m3u8
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-logo="https://epgx.site/p/oxotnik-i-rybolov.png" group-title="Досуг",Охотник и рыболов
+https://stream2.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="prikluchenia-hd" tvg-logo="http://epg.it999.ru/img2/2311.png" group-title="Досуг",Приключения
 http://135.181.115.81:8000/play/a00k/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="svetloe-tv" tvg-logo="https://epgx.site/p/svetloe-tv.png" group-title="Досуг",Светлое ТВ
@@ -613,28 +617,15 @@ http://stream01.vnet.am/ZooTv/mono.m3u8
 https://stream2.cinerama.uz/1031/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="usadba" tvg-logo="https://epgx.site/p/usadba.png" group-title="Досуг",Усадьба
 http://178.68.212.227:81/play/a02b
-#EXTINF:-1 group-title="Досуг",Драйв
-http://188.113.190.15/68/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Досуг",Конный мир 
-http://188.113.190.15/76/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Досуг",КтоКуда
+#EXTINF:-1 tvg-id="konny-mir" tvg-logo="https://epgx.site/p/konny-mir.png" group-title="Досуг",Конный мир 
+
+#EXTINF:-1 tvg-id="mir-uvlecheniy" tvg-logo="https://epgx.site/p/mir-uvlecheniy.png" group-title="Досуг",КтоКуда
 http://camera.global-x.ru/MirUvlecheniy/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Досуг",Кухня ТВ
-http://188.113.190.15/314/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Досуг",Мама
-http://stv.mediacdn.ru/live/cdn/mama/playlist_sdhigher.m3u8
-#EXTINF:-1 group-title="Досуг",Оружие
-http://188.113.190.15/155/mono.m3u8
-#EXTINF:-1 group-title="Досуг",Охота и рыбалка 
-http://188.113.190.15/69/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Досуг",Охотник и рыболов
-https://stream2.cinerama.uz/1413/tracks-v1a1/mono.m3u8
-http://188.113.190.15/71/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Досуг",Fashion TV HD
-http://188.113.190.15/194/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Досуг",FashionBox
+#EXTINF:-1 tvg-id="kuxnia-tv" tvg-logo="https://epgx.site/p/kuxnia-tv.png" group-title="Досуг",Кухня ТВ
+
+#EXTINF:-1 tvg-id="fashionbox-hd" tvg-logo="https://epgx.site/p/fashionbox-hd.png" group-title="Досуг",FashionBox
 http://camera.global-x.ru/FashionBox/index.m3u8
-#EXTINF:-1 group-title="Досуг",World Fashion Channel
+#EXTINF:-1 tvg-id="world-fashion-channel" tvg-logo="https://epgx.site/p/world-fashion-channel.png" group-title="Досуг",World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 
 
