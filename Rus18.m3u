@@ -403,7 +403,7 @@ http://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 tvg-id="foxlife" tvg-logo="https://epgx.site/p/foxlife.png"  group-title="Фильмы,сериалы",Fox Life
 http://hls.seversk.ru:8080/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="filmbox-ru" tvg-logo="https://epgx.site/p/filmbox-ru.png"  group-title="Фильмы,сериалы",FilmBox Russia
-
+http://iptv.mega.net.ru:8888/FilmBOX/mono.m3u8
 #EXTINF:-1 tvg-id="filmzone" tvg-logo="https://epgx.site/p/filmzone.png" group-title="Фильмы,сериалы",FilmZone
 
 #EXTINF:-1  tvg-logo="https://epgx.site/p/filmzone-plus.png" group-title="Фильмы,сериалы",Filmzone Plus
@@ -441,7 +441,7 @@ http://188.113.190.11/79/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="amedia2" tvg-logo="https://epgx.site/p/amedia2.png" group-title="Фильмы,сериалы",Amedia 2 HD
 http://188.113.190.11/134/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="fanhd" tvg-logo="https://epgx.site/p/fanhd.png" group-title="Фильмы,сериалы",FAN
-
+http://94.232.104.237:8011/fan/index.m3u8
 #EXTINF:-1 tvg-id="kino-bez-granic" tvg-logo="https://epgx.site/p/kino-bez-granic.png" group-title="Фильмы,сериалы",Кино без границ
 http://195.158.222.115:8001/play/a0au/index.m3u8
 #EXTINF:-1 tvg-id="bollywood-hd" tvg-logo="https://epgx.site/p/bollywood-hd.png" group-title="Фильмы,сериалы",Bollywood
