@@ -612,7 +612,7 @@ http://178.68.212.227:81/play/a02b
 #EXTINF:-1 tvg-id="mir-uvlecheniy" tvg-logo="https://epgx.site/p/mir-uvlecheniy.png" group-title="Досуг",КтоКуда
 http://camera.global-x.ru/MirUvlecheniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kuxnia-tv" tvg-logo="https://epgx.site/p/kuxnia-tv.png" group-title="Досуг",Кухня ТВ
-
+http://stream01.vnet.am/KukhnyaTv/mono.m3u8
 #EXTINF:-1 tvg-id="fashionbox-hd" tvg-logo="https://epgx.site/p/fashionbox-hd.png" group-title="Досуг",FashionBox
 http://camera.global-x.ru/FashionBox/index.m3u8
 #EXTINF:-1 tvg-id="world-fashion-channel" tvg-logo="https://epgx.site/p/world-fashion-channel.png" group-title="Досуг",World Fashion Channel
