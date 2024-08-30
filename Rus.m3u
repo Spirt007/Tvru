@@ -390,7 +390,7 @@ http://91.142.158.107:8092/play/25/index.m3u8
 http://185.112.140.28:80/Rodnoe_Kino/index.m3u8
 #EXTINF:-1 tvg-id="retro-tv" tvg-logo="https://epgx.site/p/retro-tv.png" group-title="Фильмы,сериалы",Ретро
 http://178.124.179.122:8088/Retro/index.m3u8
-#EXTINF:-1 tvg-id="sovkino" tvg-logo="https://epgx.site/p/sovkino.png" group-title="Фильмы,сериалы",Советское кино
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Фильмы,сериалы",Советское родное
 http://91.207.115.228:9001/play/a0aq/index.m3u8
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-logo="https://epgx.site/p/lubimoe-kino.png" group-title="Фильмы,сериалы",Любимое Кино
 http://91.205.199.3/lubimoekino/index.m3u8
