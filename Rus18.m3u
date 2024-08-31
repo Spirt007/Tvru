@@ -325,18 +325,18 @@ http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="kinomult" tvg-logo="https://epgx.site/p/kinomult.png" group-title="Детские",Киномульт
-http://195.158.222.115:8000/play/a00b/index.m3u8
+
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-logo="https://epgx.site/p/v-gostiax-u-skazki.png" group-title="Детские",В гостях у сказки
-http://195.158.222.115:8000/play/a00r/index.m3u8
+
 #EXTINF:-1 tvg-id="smaylik-tv" tvg-logo="https://epgx.site/p/smaylik-tv.png" group-title="Детские",Смайлик ТВ 
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 tvg-id="detsky-mir" tvg-logo="https://epgx.site/p/detsky-mir.png" group-title="Детские",Детский мир 
-http://81.198.190.9:7878/detski_mir/video.m3u8
+http://stream01.vnet.am/CartoonNetwork/mono.m3u8
 #EXTINF:-1 tvg-id="ryzhy" tvg-logo="https://epgx.site/p/ryzhy.png" group-title="Детские",Рыжий 
-https://strm.yandex.ru/kal/ryzhii_sd_belarus/ryzhii_sd_belarus0.m3u8
+https://stream2.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 #EXTINF:-1tvg-id="liova" tvg-logo="https://epgx.site/p/liova.png" group-title="Детские",Лёва HD
 http://91.205.199.3/planb/index.m3u8
-#EXTINF:-1 channel id="tiji" tvg-logo="https://epgx.site/p/tiji.png" group-title="Детские",Tiji TV
+#EXTINF:-1 channel id="tiji" tvg-logo="https://epgx.site/p/tiji.png" group-title="Детские",TiJi
 http://stream01.vnet.am/Tiji/mono.m3u8
 #EXTINF:-1 tvg-id="ducktv" tvg-logo="https://epgx.site/p/ducktv.png" group-title="Детские",Duck TV
 https://stream2.cinerama.uz/1271/tracks-v1a1/mono.m3u8
@@ -355,9 +355,13 @@ http://45.159.74.13:80/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="nickelodeon-ru" tvg-logo="https://epgx.site/p/nickelodeon-ru.png"  group-title="Детские",Nickelodeon
 http://stream01.vnet.am/Channel_114/mono.m3u8
 #EXTINF:-1 tvg-id="nick-jr" tvg-logo="https://epgx.site/p/nick-jr.png" group-title="Детские",Nick Jr
-http://80.90.184.111/nickjr/index.m3u8
-#EXTINF:-1 tvg-id="konny-mir" tvg-logo="https://epgx.site/p/konny-mir.png" group-title="Детские",Мама
+
+#EXTINF:-1 tvg-id="mama" tvg-logo="https://epgx.site/p/mama.png" group-title="Детские",Мама
 http://stv.mediacdn.ru/live/cdn/mama/playlist_sdhigher.m3u8
+#EXTINF:-1 tvg-id="detkinoint-tviksel" tvg-logo="https://epgx.site/p/detkinoint-tviksel.png" group-title="Детские",Детское кино Int
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 tvg-id="multimania" tvg-logo="https://epgx.site/p/multimania.png" group-title="Детские",Мультиландия
+http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
 
 
 #EXTINF:-1 tvg-id="pobeda" tvg-logo="http://epg.it999.ru/img2/2447.png" group-title="Фильмы,сериалы",Победа
