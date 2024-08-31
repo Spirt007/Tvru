@@ -688,7 +688,7 @@ http://185.112.140.28/24_Tehno/index.m3u8
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="h2" tvg-logo="https://epgx.site/p/h2.png" group-title="Познавательные",H2
 
-#EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" tvg-logo=""https://epgx.site/p/v-mire-zhivotnyx.png" group-title="Познавательные",В мире животных HD
+#EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" tvg-logo="https://epgx.site/p/v-mire-zhivotnyx.png" group-title="Познавательные",В мире животных HD
 https://stream2.cinerama.uz/1404/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="arsenaltv" tvg-logo="http://epg.it999.ru/img2/2768.png" group-title="Познавательные",Арсенал
 http://45.143.108.104/arsenal/index.m3u8
