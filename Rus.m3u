@@ -380,7 +380,7 @@ http://135.181.115.81:8000/play/a027/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="kinojam2" tvg-logo="https://epgx.site/p/kinojam2.png" group-title="Фильмы,сериалы",Kinojam 2
 rtmp://5.182.229.90//7261
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6005.png" group-title="Фильмы,сериалы",Видеокассета HD
-https://v2.catcast.tv/content/37925/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/2/22/VHS-_%D0%BA%D0%B0.png/revision/latest?cb=20240204170927&path-prefix=ru" group-title="Фильмы,сериалы",VHSка
 http://88.218.242.237:8000/play/a00x
 #EXTINF:-1 tvg-id="ostrosiuzhetnoe" tvg-logo="https://epgx.site/p/ostrosiuzhetnoe.png" group-title="Фильмы,сериалы",Остросюжетное
