@@ -197,6 +197,8 @@ http://94.232.104.237:8011/teleputeshestviya/index.m3u8
 http://91.218.160.212:8015/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="tochka-tv" tvg-logo="https://epgx.site/p/tochka-tv.png" group-title="Развлекательные",Точка ТВ 
 https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="nostalgia" tvg-logo="https://epgx.site/p/nostalgia.png" group-title="Развлекательные",Ностальгия
+http://91.205.199.3/nostalgia/index.m3u8
 
 
 #EXTINF:-1 tvg-id="vostok-24" tvg-logo="https://epgx.site/p/vostok-24.png" group-title="Региональные",Восток 24
@@ -401,8 +403,6 @@ http://185.112.140.28:80/Rodnoe_Kino/index.m3u8
 http://178.124.179.122:8088/Retro/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Фильмы,сериалы",Советское родное
 http://91.207.115.228:9001/play/a0aq/index.m3u8
-#EXTINF:-1 tvg-id="nostalgia" tvg-logo="https://epgx.site/p/nostalgia.png" group-title="Фильмы,сериалы",Ностальгия
-http://91.205.199.3/nostalgia/index.m3u8
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-logo="https://epgx.site/p/lubimoe-kino.png" group-title="Фильмы,сериалы",Любимое Кино
 http://91.205.199.3/lubimoekino/index.m3u8
 #EXTINF:-1 tvg-id="dushevnoe" tvg-logo="https://epgx.site/p/dushevnoe.png" group-title="Фильмы,сериалы",Душевное
