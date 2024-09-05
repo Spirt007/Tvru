@@ -372,9 +372,9 @@ http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
 
 
 #EXTINF:-1 tvg-id="pobeda" tvg-logo="http://epg.it999.ru/img2/2447.png" group-title="Фильмы,сериалы",Победа
-http://94.232.104.237:8011/pobeda/index.m3u8
+http://91.205.199.3/pobeda/index.m3u8
 #EXTINF:-1 tvg-id="paramount-comedy" tvg-logo="http://epg.it999.ru/img2/920.png" group-title="Фильмы,сериалы",Comedy Central HD
-http://195.211.27.149:8887/8171/index.m3u8?token=test
+
 #EXTINF:-1 tvg-id="kinojam1" tvg-logo="https://epgx.site/p/kinojam1.png" group-title="Фильмы,сериалы",Kinojam 1
 http://135.181.115.81:8000/play/a027/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="kinojam2" tvg-logo="https://epgx.site/p/kinojam2.png" group-title="Фильмы,сериалы",Kinojam 2
