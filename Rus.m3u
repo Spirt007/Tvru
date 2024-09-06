@@ -476,7 +476,7 @@ http://135.181.115.81:8000/play/a00h/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-logo="https://epgx.site/p/viju-tv1000-novella.png" group-title="Фильмы,сериалы",Viju TV1000 Новелла
 http://91.218.160.212:8015/play/a03e/index.m3u8
 #EXTINF:-1 tvg-id="vip-comedy" tvg-logo="https://epgx.site/p/vip-comedy.png" group-title="Фильмы,сериалы",Viju+ Comedy HD
-http://185.112.140.28/VIPComedy/index.m3u8
+http://91.207.115.228:12000/play/a03v
 #EXTINF:-1 tvg-id="vip-serial" tvg-logo="https://epgx.site/p/vip-serial.png" group-title="Фильмы,сериалы",Viju+ Serial HD
 http://91.205.199.3:80/vipserialhd/index.m3u8
 #EXTINF:-1 tvg-id="start-world" tvg-logo="http://epg.it999.ru/img2/6240.png" group-title="Фильмы,сериалы",Start World
@@ -557,18 +557,16 @@ http://hls127.homeiptv.org:8880/Trash_HD/video.m3u8
 
 #EXTINF:-1 tvg-id="kinopremiera-hd" tvg-logo="https://epgx.site/p/kinopremiera.png" group-title="Премьеры,хиты",Кинопремьера
 http://91.205.199.3/kinopremerahd/index.m3u8
-#EXTINF:-1 tvg-id="kinopremiera-hd" tvg-logo="https://epgx.site/p/kinopremiera.png" group-title="Премьеры,хиты",Кинопремьера HD
-https://stream2.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vip-premiere" tvg-logo="https://epgx.site/p/vip-premiere.png" group-title="Премьеры,хиты",Viju+ Premiere HD
-http://94.232.104.237:8011/natgeowild/index.m3u8
+http://91.207.115.228:12000/play/a03x
 #EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://epgx.site/p/vip-megahit.png" group-title="Премьеры,хиты",Viju+ Megahit HD
-http://185.112.140.28/VIPMegahit/index.m3u8
+http://91.207.115.228:12000/play/a03w
 #EXTINF:-1 tvg-id="kinoxit" tvg-logo="https://epgx.site/p/kinoxit.png" group-title="Премьеры,хиты",Кинохит
 http://91.205.199.3/kinoxithd/index.m3u8
 #EXTINF:-1 tvg-id="khit-hd" tvg-logo="https://epgx.site/p/khit.png" group-title="Премьеры,хиты",Хит HD
 http://iptv.mega.net.ru:8888/hit_hd/mono.m3u8
 #EXTINF:-1 tvg-id="amedia-hit" tvg-logo="https://epgx.site/p/amedia-hit.png" group-title="Премьеры,хиты",Amedia Hit HD
-http://94.232.104.237:8011/amediahithd/index.m3u8
+http://stream01.vnet.am/Nauka/mono.m3u8
 #EXTINF:-1 tvg-id="amedia-premium" tvg-logo="https://epgx.site/p/amedia-premium.png" group-title="Премьеры,хиты",Amedia Premium HD
 http://78.62.135.122:8082/amediapremiumhd/index.m3u8
 #EXTINF:-1 tvg-id="premialnoe-hd" tvg-logo="https://epgx.site/p/premialnoe-hd.png" group-title="Премьеры,хиты",Премиальное HD
