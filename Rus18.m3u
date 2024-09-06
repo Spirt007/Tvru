@@ -530,7 +530,7 @@ http://78.140.39.3/play/a010/index.m3u8
 #EXTINF:-1 tvg-id="evrokino" tvg-logo="https://epgx.site/p/eurokino.png" group-title="Фильмы,сериалы",Еврокино
 http://91.205.199.3/eurokino/index.m3u8
 #EXTINF:-1 tvg-id="kino1int-tviksel" tvg-logo="https://epgx.site/p/kino1int-tviksel.png" group-title="Фильмы,сериалы",Кино 1 International
-
+http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="komedijnoe" tvg-logo="https://epgx.site/p/komedijnoe-hd.png" group-title="Фильмы,сериалы",Комедийное HD
 http://135.181.115.81:8000/play/a00j/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="kinokomedia" tvg-logo="https://epgx.site/p/kinokomedia.png" group-title="Фильмы,сериалы",Кинокомедия
