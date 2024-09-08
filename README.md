@@ -9,7 +9,7 @@
 310-320 тв  11 радио
 
 
-Для EPG использутся http://epg.one/epg2.xml.gz, https://iptvx.one/epg/epg.xml.gz встроенно в лист.
+Для EPG использутся http://epg.it999.ru/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz встроенно в лист,дополнительно пишу https://iptvx.one/epg/epg_lite.xml.gz
 
 названия каналов были изменены для легкой загрузки.
 
