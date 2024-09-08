@@ -7,7 +7,7 @@ http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:-1 tvg-id="match-football3" tvg-logo="https://epgx.site/p/match-football3.png" group-title="Спортивные",Матч! Футбол 3 HD 
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 tvg-id="setanta-sports" tvg-logo="https://epgx.site/p/setanta-sports.png" group-title="Спортивные",Setanta Sports 1 HD
-https://stream2.cinerama.uz/1263/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="https://epgx.site/p/setanta-sports-plus.png" group-title="Спортивные",Setanta Sports 2 HD
 https://stream2.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="setanta-plus-ua" tvg-logo="https://epgx.site/p/setanta-plus-ua.png" group-title="Спортивные",Setanta Ukraine Plus HD
@@ -43,7 +43,7 @@ https://7pal.short.gy/skspmaine
 #EXTINF:-1 tvg-id="sky-sports-news" tvg-logo="https://epgx.site/p/sky-sports-news.png" group-title="Спортивные",Sky Sports News
 https://7pal.short.gy/ssportsnw
 #EXTINF:-1 tvg-id="sport-plus-kz" tvg-logo="https://epgx.site/p/sport-plus-kz.png" group-title="Спортивные",Sport+ Qazaqstan
-
+https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv_720/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Turkmenistan_Sport.png/revision/latest?cb=20211225160814" group-title="Спортивные",Turkmenistan Sport 
 https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://epgx.site/p/okko-sport.png" group-title="Спортивные",Okko.Спорт
