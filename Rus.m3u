@@ -139,7 +139,7 @@ https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/play
 https://player.smotrim.ru/iframe/stream/live_id/4941
 #EXTINF:-1 tvg-id="rtr-planeta-azia" tvg-logo="https://epgx.site/p/rtr-planeta-azia.png" group-title="Общественные",РТР Планета Азия
 https://player.smotrim.ru/iframe/stream/live_id/63254
-#EXTINF:-1 tvg-id="RTRPlanetaCIS.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png" group-title="Общественные",РТР Планета СНГ
+#EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png" group-title="Общественные",РТР Планета СНГ
 https://player.smotrim.ru/iframe/stream/live_id/63253
 
 #EXTINF:-1 tvg-id="piatnica" tvg-logo="https://epgx.site/p/piatnica.png" group-title="Развлекательные",Пятница!
@@ -269,7 +269,7 @@ http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 https://air.tvk6.ru/tvk24/playlist.m3u8
 #EXTINF:-1 tvg-id="mtv-volgograd" tvg-logo="https://epgx.site/p/mtv-volgograd.png" group-title="Региональные",МТВ Волгоград
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="MirBelogorya.ru" tvg-logo="https://mirbelogorya.ru/images/logo/Logo_Mir_Belogorya_purple_gradient.png" group-title="Региональные",Мир Белагорья
+#EXTINF:-1 tvg-logo="http://epg.one/img2/5830.png" group-title="Региональные",Мир Белогорья
 http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
 
 #EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://epgx.site/p/ntv-style.png" group-title="НТВ",НТВ Стиль
@@ -287,8 +287,7 @@ https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5
 
 
 
-#EXTINF:-1 tvg-id="OSN.ru" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/ee/%D0%9E%D0%A1%D0%9D_%D0%A2%D0%92_2022.jpg/revision/latest/scale-to-width-down/512/" group-title="Новости",ОСН
-http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
+
 #EXTINF:-1 tvg-id="krik-tv" tvg-logo="https://epgx.site/p/krik-tv.png" group-title="Новости",Крик ТВ 
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 #EXTINF:-1 tvg-id="izvestia" tvg-logo="https://epgx.site/p/izvestia.png" group-title="Новости",Известия
@@ -317,7 +316,8 @@ http://185.19.190.1:8090/FRANCE24/index.m3u8
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8 
 #EXTINF:-1 tvg-id="solovjinypomiot" tvg-id="solovjinypomiot" tvg-logo="https://epgx.site/p/solovjinypomiot.png" group-title="Новости",Соловьев Live
 https://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
-
+#EXTINF:-1 tvg-id="OSN.ru" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/ee/%D0%9E%D0%A1%D0%9D_%D0%A2%D0%92_2022.jpg/revision/latest/scale-to-width-down/512/" group-title="Новости",ОСН
+http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 
 #EXTINF:-1 tvg-id="belarus24" tvg-logo="https://i.imgur.com/BP7tY6F.png" group-title="Беларусь",Беларусь 24
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
