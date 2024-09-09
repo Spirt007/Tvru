@@ -156,7 +156,7 @@ http://31.148.48.15:80/STS_Love/index.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
 #EXTINF:-1 tvg-id="tnt-int-eu" tvg-logo="https://epgx.site/p/tnt-int-eu.png" group-title="Развлекательные",ТНТ-International
 http://85.187.13.40:18000/tntint
-#EXTINF:-1 tvg-id="tnt-kz" tvg-logo="https://epgx.site/p/tnt-kz.png" group-title="Развлекательные",ТНТ KZ
+#EXTINF:-1 tvg-id="tnt-kz" tvg-logo="https://epgx.site/p/tnt-kz.png" group-title="Развлекательные",ТНТ Kазахстан
 http://sc.id-tv.kz/tntComedy.m3u8
 #EXTINF:-1 tvg-id="tnt4" tvg-logo="https://epgx.site/p/tnt4.png" group-title="Развлекательные",ТНТ4
 http://edge02.odtv.az/o7/tnt4/playlist.m3u8
