@@ -805,3 +805,5 @@ http://europaplus.hostingradio.ru:8014/europaplus320.mp3
 http://nashe1.hostingradio.ru/ultra-64.mp3
 #EXTINF:-1 tvg-id="yumor-fm" tvg-logo="https://epgx.site/p/yumor-fm.png" group-title="Радио" radio="true",Юмор FM
 https://pub0301.101.ru:8443/stream/air/mp3/256/102
+#EXTINF:-1 tvg-id="avtoradio" tvg-logo="https://epgx.site/p/avtoradio.png" group-title="Радио",Авторадио
+http://ic7.101.ru:8000/v3_1
