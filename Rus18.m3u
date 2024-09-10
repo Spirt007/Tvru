@@ -489,13 +489,13 @@ http://iptv.mega.net.ru:8888/TV1000_HD/mono.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://epgx.site/p/tv1000-action.png" group-title="Фильмы,сериалы",Viju TV1000 Action HD
 http://185.50.148.2:7703/TV1000Action/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-logo="https://epgx.site/p/tv1000-russkoe-kino.png" group-title="Фильмы,сериалы",TV 1000 Русское кино
-http://135.181.115.81:8000/play/a00h/index.m3u8?token=livetv
+http://iptv4.mega.net.ru:8888/TVRU1/tv1000_russkoe_kino_hd/index.m3u8
 #EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-logo="https://epgx.site/p/viju-tv1000-novella.png" group-title="Фильмы,сериалы",Viju TV1000 Новелла
 http://91.218.160.212:8015/play/a03e/index.m3u8
 #EXTINF:-1 tvg-id="vip-comedy" tvg-logo="https://epgx.site/p/vip-comedy.png" group-title="Фильмы,сериалы",Viju+ Comedy HD
 http://91.207.115.228:12000/play/a03v
 #EXTINF:-1 tvg-id="vip-serial" tvg-logo="https://epgx.site/p/vip-serial.png" group-title="Фильмы,сериалы",Viju+ Serial HD
-http://91.205.199.3:80/vipserialhd/index.m3u8
+http://iptv3.mega.net.ru:8888/TVRU1/VIP_Serial/index.m3u8
 #EXTINF:-1 tvg-id="start-world" tvg-logo="http://epg.it999.ru/img2/6240.png" group-title="Фильмы,сериалы",Start World
 http://188.190.222.48:8765/Start_World/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="star-cinema" tvg-logo="https://epgx.site/p/star-cinema.png" group-title="Фильмы,сериалы",Star Cinema
