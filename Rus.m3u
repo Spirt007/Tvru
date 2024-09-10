@@ -42,7 +42,7 @@ https://7pal.short.gy/ssportsfb
 https://7pal.short.gy/skspmaine
 #EXTINF:-1 tvg-id="sky-sports-news" tvg-logo="https://epgx.site/p/sky-sports-news.png" group-title="Спортивные",Sky Sports News
 https://7pal.short.gy/ssportsnw
-#EXTINF:-1 tvg-id="sport-plus-kz" tvg-logo="https://epgx.site/p/sport-plus-kz.png" group-title="Спортивные",Sport+ Qazaqstan
+#EXTINF:-1 tvg-id="kazsport" tvg-logo="https://epgx.site/p/kazsport.png" group-title="Спортивные",QazSport
 https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv_720/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Turkmenistan_Sport.png/revision/latest?cb=20211225160814" group-title="Спортивные",Turkmenistan Sport 
 https://alpha.tv.online.tm/hls/ch004.m3u8
@@ -730,7 +730,7 @@ http://91.218.160.212:8015/play/a04f/index.m3u8
 #EXTINF:-1 tvg-id="animal-planet-eu" tvg-logo="https://epgx.site/p/animal-planet-eu.png" group-title="Познавательные",Animal Planet
 http://edge02.odtv.az/o5/animalplanet/playlist.m3u8
 #EXTINF:-1 tvg-id="big-planet" tvg-logo="https://epgx.site/p/big-planet.png" group-title="Познавательные",Big Planet
-
+http://91.207.114.220:9001/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://epgx.site/p/discovery-channel.png" group-title="Познавательные",Discovery Channel
 http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="galaxy-tv" tvg-logo="https://epgx.site/p/galaxy-tv.png" group-title="Познавательные",Galaxy TV
@@ -747,8 +747,8 @@ http://tv.streams.baikal-telecom.net:8080/NanoTV/index.m3u8
 
 #EXTINF:-1  tvg-id="retro-fm" tvg-logo="https://epgx.site/p/retro-fm.png" group-title="Радио" radio="true",Ретро FM
 http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
-#EXTINF:-1 tvg-id="radio-mayak" tvg-logo="https://epgx.site/p/radio-mayak.png" group-title="Радио" radio="true",Радио Маяк Краснодар
-http://icecast-vgtrk.cdnvideo.ru/mayak_kuban
+#EXTINF:-1 tvg-id="radio-mayak" tvg-logo="https://epgx.site/p/radio-mayak.png" group-title="Радио" radio="true",Радио Маяк
+http://icecast.vgtrk.cdnvideo.ru/mayakfm
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-nashe-radio." group-title="Радио"radio="true",Наше радио
 http://nashe1.hostingradio.ru/nashespb128.mp3
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-rock-fm.png" group-title="Радио" radio="true",ROCK-FM 
@@ -767,3 +767,5 @@ http://europaplus.hostingradio.ru:8014/europaplus320.mp3
 http://nashe1.hostingradio.ru/ultra-64.mp3
 #EXTINF:-1 tvg-id="yumor-fm" tvg-logo="https://epgx.site/p/yumor-fm.png" group-title="Радио" radio="true",Юмор FM
 https://pub0301.101.ru:8443/stream/air/mp3/256/102
+#EXTINF:-1 tvg-id="avtoradio" tvg-logo="https://epgx.site/p/avtoradio.png" group-title="Радио" radio="true,Авторадио
+http://ic7.101.ru:8000/v3_1
