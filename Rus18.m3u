@@ -133,6 +133,12 @@ https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
 https://dumatv.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vmeste-rf" tvg-logo="https://epgx.site/p/vmeste-rf.png" group-title="Общественные",Вместе РФ
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="bolshaya-azia" tvg-logo="https://epgx.site/p/bolshaya-azia.png" group-title="Общественные",Большая Азия
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="krasnaya-linia" tvg-logo="https://epgx.site/p/krasnaya-linia.png" group-title="Общественные",Красная линия
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="prnk-tv" tvg-logo="https://epgx.site/p/prnk-tv.png" group-title="Общественные",ПРНК
+http://dmi3y-tv.ru/hls/CH_1RNKHD720.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-logo="https://epgx.site/p/rtr-planeta.png" group-title="Общественные",РТР-Планета Европа
 https://player.smotrim.ru/iframe/stream/live_id/4941
 #EXTINF:-1 tvg-id="rtr-planeta-azia" tvg-logo="https://epgx.site/p/rtr-planeta-azia.png" group-title="Общественные",РТР-Планета Азия
@@ -164,8 +170,8 @@ http://edge02.odtv.az/o7/tnt4/playlist.m3u8
 http://178.212.71.253:8002/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="yu" tvg-logo="https://epgx.site/p/yu.png" group-title="Развлекательные",Ю ТВ
 http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="teatr" tvg-logo="https://epgx.site/p/teledom.png" group-title="Развлекательные",Теледом HD
-http://188.113.190.15/180/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="teatr" tvg-logo="https://epgx.site/p/teatr.png" group-title="Развлекательные",Театр
+http://188.190.222.48:8765/Teatr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="strk" tvg-logo="https://epgx.site/p/strk.png" group-title="Развлекательные",СТРК 
 http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="2na2" tvg-logo="https://epgx.site/p/2na2.png" group-title="Развлекательные",2x2
