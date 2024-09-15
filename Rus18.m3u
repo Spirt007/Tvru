@@ -356,6 +356,8 @@ http://178.124.179.122:8088/BelMuzTV/index.m3u8
 
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-logo="https://epgx.site/p/v-gostiax-u-skazki.png" group-title="Детские",В гостях у сказки
 https://free-tv.me/iptv/src/s/secret_token/gosti-skazka-hd.m3u8
+#EXTINF:-1 tvg-id="solnce" tvg-logo="https://epgx.site/p/solnce.png" group-title="Детские",Солнце
+http://tv.mediacdn.ru/live/disney/playlist.m3u8
 #EXTINF:-1 tvg-id="smaylik-tv" tvg-logo="https://epgx.site/p/smaylik-tv.png" group-title="Детские",Смайлик ТВ 
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 tvg-id="detsky-mir" tvg-logo="https://epgx.site/p/detsky-mir.png" group-title="Детские",Детский мир 
