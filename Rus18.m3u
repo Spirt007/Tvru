@@ -29,7 +29,7 @@ https://7pal.short.gy/prsport1
 #EXTINF:-1 tvg-logo="" group-title="Спортивные",Premier Sports 2
 https://7pal.short.gy/prsport2
 #EXTINF:-1 tvg-id="sky-sports-action" tvg-logo="https://epgx.site/p/sky-sports-action.png" group-title="Спортивные",Sky Sports Action
-
+https://7pal.short.gy/ssportsat
 #EXTINF:-1 tvg-id="sky-sports-golf" tvg-logo="https://epgx.site/p/sky-sports-golf.png" group-title="Спортивные",Sky Sports Golf
 https://7pal.short.gy/ssportsgf
 #EXTINF:-1 tvg-id="sky-sports-apl" tvg-logo="https://epgx.site/p/sky-sports-apl.png" group-title="Спортивные",Sky Sports Premier League
@@ -42,8 +42,24 @@ https://7pal.short.gy/ssportsfb
 https://7pal.short.gy/skspmaine
 #EXTINF:-1 tvg-id="sky-sports-news" tvg-logo="https://epgx.site/p/sky-sports-news.png" group-title="Спортивные",Sky Sports News
 https://7pal.short.gy/ssportsnw
+#EXTINF:-1 group-title="Спортивные",Sky Sports 1 NZ
+https://7pal.short.gy/skyspt1nz
+#EXTINF:-1 group-title="Спортивные",Sky Sports 2 NZ 
+https://7pal.short.gy/skyspt2nz
+#EXTINF:-1 group-title="Спортивные",Sky Sports 3 NZ
+https://7pal.short.gy/skyspt3nz
+#EXTINF:-1 group-title="Спортивные",Sky Sports 4 NZ
+https://7pal.short.gy/skyspt4nz
 #EXTINF:-1 tvg-id="kazsport" tvg-logo="https://epgx.site/p/kazsport.png" group-title="Спортивные",QazSport
-
+https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv_720/playlist.m3u8
+#EXTINF:-1 tvg-id="bt-sport1" tvg-logo="https://epgx.site/p/bt-sport1.png" group-title="Спортивные",TNT Sport 1
+https://7pal.short.gy/tntspts1
+#EXTINF:-1 tvg-id="bt-sport2" tvg-logo="https://epgx.site/p/bt-sport2.png" group-title="Спортивные",TNT Sport 2
+https://7pal.short.gy/tntspts2
+#EXTINF:-1 tvg-id="bt-sport3" tvg-logo="https://epgx.site/p/bt-sport3.png" group-title="Спортивные",TNT Sport 3
+https://7pal.short.gy/tntspts3
+#EXTINF:-1 tvg-id="bt-sport4" tvg-logo="https://epgx.site/p/bt-sport4.png" group-title="Спортивные",TNT Sport 4
+https://7pal.short.gy/tntspts4
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Turkmenistan_Sport.png/revision/latest?cb=20211225160814" group-title="Спортивные",Turkmenistan Sport 
 https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://epgx.site/p/okko-sport.png" group-title="Спортивные",Okko.Спорт
@@ -279,7 +295,7 @@ http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 https://air.tvk6.ru/tvk24/playlist.m3u8
 #EXTINF:-1 tvg-id="mtv-volgograd" tvg-logo="https://epgx.site/p/mtv-volgograd.png" group-title="Региональные",МТВ Волгоград
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/5830.png" group-title="Региональные",Мир Белагорья
+#EXTINF:-1 tvg-logo="http://epg.one/img2/5830.png" group-title="Региональные",Мир Белогорья
 http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
 
 
