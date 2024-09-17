@@ -22,18 +22,18 @@ http://91.142.158.107:8092/play/33/index.m3u8
 http://78.62.135.122:8082/MatchPremierHD/index.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://epgx.site/p/match-premiere.png" group-title="Спортивные",Матч! Премьер HD
 http://194.26.229.213/TUDN_NashFutHD/index.m3u8?token=Panda
-#EXTINF:-1 tvg-id="3553" tvg-logo="http://epg.one/img2/3553.png" group-title="Спортивные",PREMIER SPORTS UK
+#EXTINF:-1 tvg-id="mir-basketbola" tvg-logo="https://epgx.site/p/mir-basketbola.png" group-title="Спортивные",Мир Баскетбола
+http://iptv.mega.net.ru:8888/RTD/mono.m3u8
+#EXTINF:-1 tvg-id="3553" tvg-logo="http://epg.one/img2/3553.png" group-title="Спортивные",Premier Sports 1
 https://7pal.short.gy/prsport1
-#EXTINF:-1 group-title="Спортивные",Premier Sports 2
+#EXTINF:-1 tvg-logo="" group-title="Спортивные",Premier Sports 2
 https://7pal.short.gy/prsport2
-#EXTINF:-1 tvg-id="4562" tvg-logo="http://epg.one/img2/4562.png" group-title="Спортивные",NHL Network US
-https://lnc-nhl.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="sky-sports-action" tvg-logo="https://epgx.site/p/sky-sports-action.png" group-title="Спортивные",Sky Sports Action
-
+https://7pal.short.gy/ssportsat
 #EXTINF:-1 tvg-id="sky-sports-golf" tvg-logo="https://epgx.site/p/sky-sports-golf.png" group-title="Спортивные",Sky Sports Golf
 https://7pal.short.gy/ssportsgf
 #EXTINF:-1 tvg-id="sky-sports-apl" tvg-logo="https://epgx.site/p/sky-sports-apl.png" group-title="Спортивные",Sky Sports Premier League
-
+https://7pal.short.gy/ssportspl
 #EXTINF:-1 tvg-id="sky-sports-f1" tvg-logo="https://epgx.site/p/sky-sports-f1.png" group-title="Спортивные",Sky Sports F1
 https://7pal.short.gy/ssportsf1
 #EXTINF:-1tvg-id="sky-sports-football" tvg-logo="https://epgx.site/p/sky-sports-football.png"  group-title="Спортивные",Sky Sports Football
@@ -43,15 +43,21 @@ https://7pal.short.gy/skspmaine
 #EXTINF:-1 tvg-id="sky-sports-news" tvg-logo="https://epgx.site/p/sky-sports-news.png" group-title="Спортивные",Sky Sports News
 https://7pal.short.gy/ssportsnw
 #EXTINF:-1 tvg-id="kazsport" tvg-logo="https://epgx.site/p/kazsport.png" group-title="Спортивные",QazSport
-
+https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv_720/playlist.m3u8
+#EXTINF:-1 tvg-id="bt-sport1" tvg-logo="https://epgx.site/p/bt-sport1.png" group-title="Спортивные",TNT Sport 1
+https://7pal.short.gy/tntspts1
+#EXTINF:-1 tvg-id="bt-sport2" tvg-logo="https://epgx.site/p/bt-sport2.png" group-title="Спортивные",TNT Sport 2
+https://7pal.short.gy/tntspts2
+#EXTINF:-1 tvg-id="bt-sport3" tvg-logo="https://epgx.site/p/bt-sport3.png" group-title="Спортивные",TNT Sport 3
+https://7pal.short.gy/tntspts3
+#EXTINF:-1 tvg-id="bt-sport4" tvg-logo="https://epgx.site/p/bt-sport4.png" group-title="Спортивные",TNT Sport 4
+https://7pal.short.gy/tntspts4
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Turkmenistan_Sport.png/revision/latest?cb=20211225160814" group-title="Спортивные",Turkmenistan Sport 
 https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://epgx.site/p/okko-sport.png" group-title="Спортивные",Okko.Спорт
 
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Спортивные",Real Madrid
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
-#EXTINF:-1 tvg-id="mir-basketbola" tvg-logo="https://epgx.site/p/mir-basketbola.png" group-title="Спортивные",Мир Баскетбола
-http://iptv.mega.net.ru:8888/RTD/mono.m3u8
 #EXTINF:-1 tvg-id="4562" tvg-logo="http://epg.one/img2/4562.png" group-title="Спортивные",NHL Network US
 https://lnc-nhl.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="khl" tvg-logo="https://epgx.site/p/kxl.png" group-title="Спортивные",KHL
@@ -87,11 +93,9 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 #EXTINF:-1 tvg-id="football-ru" tvg-logo="https://epgx.site/p/football-ru.png" group-title="Спортивные",Телеканал Футбол
 https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
 #EXTINF:-1 tvg-id="footbolny" tvg-logo="https://epgx.site/p/footbolny.png" group-title="Спортивные",Футбольный HD
-http://31.210.208.171:8080/football/index.m3u8?token=+W2MSER
+http://31.210.208.171:8080/football/index.m3u8?token=+W2MSE
 #EXTINF:-1 tvg-id="xokkejny" tvg-logo="https://epgx.site/p/xokkejny.png" group-title="Спортивные",Хоккейный
 http://31.211.77.158:8000/play/a135/index.m3u8
-
-
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://epgx.site/p/pervy.png" group-title="Общественные",Первый HD
 http://188.190.222.48:8765/1_kanal_HD/tracks-v1a1/mono.m3u8
