@@ -197,9 +197,9 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="tvoetv-humor" tvg-logo="https://epgx.site/p/tvoetv-humor.png" group-title="Развлекательные",Твоё ТВ Юмор
 http://de.zigfreed.ru:8080/tvoetv_humor/video.m3u8?token=tvoetv
 #EXTINF:-1 tvg-id="rtvi" tvg-logo="https://epgx.site/p/rtvi.png" group-title="Развлекательные",RTVi
-https://free-tv.me/iptv/src/s/secret_token/rtvi.m3u8
+http://45.143.108.110:2203/RTVi
 #EXTINF:-1 tvg-id="tlc" tvg-logo="https://epgx.site/p/tlc.png" group-title="Развлекательные",TLC HD
-https://free-tv.me/iptv/src/s/secret_token/tlc-hd-orig.m3u8
+http://edge02.odtv.az/o5/tlc/playlist.m3u8
 #EXTINF:-1 tvg-id="kaleydoskop-tv" tvg-logo="https://epgx.site/p/kaleydoskop.png" group-title="Развлекательные",Калейдоскоп ТВ
 https://cdn-01.bonus-tv.ru/Kaleidoskop_edge/playlist.m3u8
 #EXTINF:-1 tvg-id="centralnoye-tv" tvg-logo="https://epgx.site/p/centralnoye-tv.png" group-title="Развлекательные",ЦТВ
@@ -360,7 +360,7 @@ http://178.124.179.122:8088/BelMuzTV/index.m3u8
 #EXTINF:-1 tvg-id="kinomult" tvg-logo="https://epgx.site/p/kinomult.png" group-title="Детские",Киномульт
 
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-logo="https://epgx.site/p/v-gostiax-u-skazki.png" group-title="Детские",В гостях у сказки
-https://free-tv.me/iptv/src/s/secret_token/gosti-skazka-hd.m3u8
+
 #EXTINF:-1 tvg-id="solnce" tvg-logo="https://epgx.site/p/solnce.png" group-title="Детские",Солнце
 http://tv.mediacdn.ru/live/disney/playlist.m3u8
 #EXTINF:-1 tvg-id="smaylik-tv" tvg-logo="https://epgx.site/p/smaylik-tv.png" group-title="Детские",Смайлик ТВ 
@@ -411,9 +411,9 @@ http://135.181.115.81:8000/play/a027/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="kinojam2" tvg-logo="https://epgx.site/p/kinojam2.png" group-title="Фильмы,сериалы",Kinojam 2
 rtmp://5.182.229.90//7261
 #EXTINF:-1 audio-track="ru" tvg-id="tv1000-cee" tvg-logo="https://epgx.site/p/tv1000-cee.png" group-title="Фильмы,сериалы",Viasat Kino
-https://free-tv.me/iptv/src/s/secret_token/viasat-kino-lt-hd.m3u8
+
 #EXTINF:-1 tvg-id="tv1000-worldkino" tvg-logo="https://epgx.site/p/tv1000-worldkino.png" group-title="Фильмы,сериалы",Viasat Kino World
-https://free-tv.me/iptv/src/s/secret_token/tv1000-world-kino-hd.m3u8
+
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6005.png" group-title="Фильмы,сериалы",Видеокассета HD
 https://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:-1 tvg-id="vhs-ka" tvg-logo="https://epgx.site/p/vhs-ka.png" group-title="Фильмы,сериалы",VHS-ка
@@ -507,7 +507,7 @@ http://185.50.148.2:7703/TV1000Action/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-logo="https://epgx.site/p/tv1000-russkoe-kino.png" group-title="Фильмы,сериалы",TV 1000 Русское кино
 http://iptv4.mega.net.ru:8888/TVRU1/tv1000_russkoe_kino_hd/index.m3u8
 #EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-logo="https://epgx.site/p/viju-tv1000-novella.png" group-title="Фильмы,сериалы",Viju TV1000 Новелла
-https://free-tv.me/iptv/src/s/secret_token/viju-tv1000-nowella-hd.m3u8
+
 #EXTINF:-1 tvg-id="vip-comedy" tvg-logo="https://epgx.site/p/vip-comedy.png" group-title="Фильмы,сериалы",Viju+ Comedy HD
 http://91.207.115.228:12000/play/a03v
 #EXTINF:-1 tvg-id="vip-serial" tvg-logo="https://epgx.site/p/vip-serial.png" group-title="Фильмы,сериалы",Viju+ Serial HD
@@ -569,7 +569,7 @@ http://135.181.115.81:8000/play/a00j/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="kinokomedia" tvg-logo="https://epgx.site/p/kinokomedia.png" group-title="Фильмы,сериалы",Кинокомедия
 http://94.232.104.237:8011/komediyatv/index.m3u8
 #EXTINF:-1 tvg-id="romance" tvg-logo="https://epgx.site/p/romance.png" group-title="Фильмы,сериалы",Romance
-https://free-tv.me/iptv/src/s/secret_token/romance-hd.m3u8
+
 #EXTINF:-1 tvg-id="plan-b" tvg-logo="https://epgx.site/p/plan-b.png" group-title="Фильмы,сериалы",Plan B HD
 http://iptv.mega.net.ru:8888/plan_b_hd/mono.m3u8
 #EXTINF:-1 tvg-id="nst" tvg-logo="https://epgx.site/p/nst.png" group-title="Фильмы,сериалы",НСТ
