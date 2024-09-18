@@ -357,6 +357,35 @@ http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 http://178.124.179.122:8088/BelMuzTV/index.m3u8
 
 
+#EXTINF:-1 tvg-id="ontustik" tvg-logo="https://epgx.site/p/ontustik.png" group-title="Казахстан",Ontustik
+https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8
+#EXTINF:-1 tvg-id="qazaqstan-int" tvg-logo="https://epgx.site/p/qazaqstan-int.png" group-title="Казахстан",Qazaqstan TV International
+https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
+#EXTINF:-1 tvg-id="kazsport" tvg-logo="https://epgx.site/p/kazsport.png" group-title="Казахстан",QazSport
+https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
+#EXTINF:-1 tvg-id="qostanai-kz" tvg-logo="https://epgx.site/p/qostanai-kz.png" group-title="Казахстан",Qostanai
+https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8
+#EXTINF:-1 tvg-id="qyzyljar" tvg-logo="https://epgx.site/p/qyzyljar.png" group-title="Казахстан",Qyzyljar
+https://stream.kaztrk.kz/regional/petropavltv/index.m3u8
+#EXTINF:-1 tvg-id="qyzylorda-kz" tvg-logo="https://epgx.site/p/qyzylorda-kz.png" group-title="Казахстан",Qyzylorda
+https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8
+#EXTINF:-1 tvg-id="Ssaryarqa" tvg-logo="https://epgx.site/p/saryarqa.png" group-title="Казахстан",Saryarqa
+https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
+#EXTINF:-1 tvg-id="semei" tvg-logo="https://epgx.site/p/semei.png" group-title="Казахстан",Semeı
+https://stream.kaztrk.kz/regional/semeytv/index.m3u8
+#EXTINF:-1 tvg-id="abaitv" tvg-logo="https://epgx.site/p/abaitv.png" group-title="Казахстан",Abai TV
+https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
+#EXTINF:-1 tvg-id="alautv" tvg-logo="https://epgx.site/p/alautv.png" group-title="Казахстан",Алау ТВ
+https://otv.wotom.net/alau/stream.m3u8
+#EXTINF:-1 tvg-id="aqjaiyq" tvg-logo="https://epgx.site/p/aqjaiyq.png" group-title="Казахстан",AQJAIYQ
+https://stream.kaztrk.kz/regional/oraltv/index.m3u8
+#EXTINF:-1 tvg-id="aqtobe" tvg-logo="https://epgx.site/p/aqtobe.png" group-title="Казахстан",AQTOBE
+https://stream.kaztrk.kz/regional/aktobetv/index.m3u8
+#EXTINF:-1 tvg-id="novoe-televidenie" tvg-logo="https://epgx.site/p/novoe-televidenie.png" group-title="Казахстан",Новое телевидение
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="kinomult" tvg-logo="https://epgx.site/p/kinomult.png" group-title="Детские",Киномульт
 
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-logo="https://epgx.site/p/v-gostiax-u-skazki.png" group-title="Детские",В гостях у сказки
