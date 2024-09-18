@@ -201,7 +201,7 @@ http://de.zigfreed.ru:8080/tvoetv_humor/video.m3u8?token=tvoetv
 #EXTINF:-1 tvg-id="rtvi" tvg-logo="https://epgx.site/p/rtvi.png" group-title="Развлекательные",RTVi
 https://free-tv.me/iptv/src/s/secret_token/rtvi.m3u8
 #EXTINF:-1 tvg-id="tlc" tvg-logo="https://epgx.site/p/tlc.png" group-title="Развлекательные",TLC HD
-https://free-tv.me/iptv/src/s/secret_token/tlc-hd-orig.m3u8
+http://edge02.odtv.az/o5/tlc/playlist.m3u8
 #EXTINF:-1 tvg-id="kaleydoskop-tv" tvg-logo="https://epgx.site/p/kaleydoskop.png" group-title="Развлекательные",Калейдоскоп ТВ
 https://cdn-01.bonus-tv.ru/Kaleidoskop_edge/playlist.m3u8
 #EXTINF:-1 tvg-id="centralnoye-tv" tvg-logo="https://epgx.site/p/centralnoye-tv.png" group-title="Развлекательные",ЦТВ
