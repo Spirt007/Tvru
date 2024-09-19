@@ -361,7 +361,7 @@ http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 http://178.124.179.122:8088/BelMuzTV/index.m3u8
 
 
-#EXTINF:-1 tvg-id="ontustik" tvg-logo="https://epgx.site/p/ontustik.png" group-title="Казахстан",Ontustik
+#EXTINF:-1 tvg-id="ontustik" tvg-logo="https://iptvx.one/picons/ontustik.png" group-title="Казахстан",Ontustik
 https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8
 #EXTINF:-1 tvg-id="qazaqstan-int" tvg-logo="https://epgx.site/p/qazaqstan-int.png" group-title="Казахстан",Qazaqstan TV International
 https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
@@ -393,7 +393,7 @@ http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-logo="https://epgx.site/p/v-gostiax-u-skazki.png" group-title="Детские",В гостях у сказки
 
-#EXTINF:-1 tvg-id="solnce" tvg-logo="https://epgx.site/p/solnce.png" group-title="Детские",Солнце
+#EXTINF:-1 tvg-id="solnce" tvg-logo="https://iptvx.one/picons/solnce.png" group-title="Детские",Солнце
 http://tv.mediacdn.ru/live/disney/playlist.m3u8
 #EXTINF:-1 tvg-id="smaylik-tv" tvg-logo="https://epgx.site/p/smaylik-tv.png" group-title="Детские",Смайлик ТВ 
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
