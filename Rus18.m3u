@@ -337,6 +337,9 @@ https://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
 #EXTINF:-1 tvg-id="OSN.ru" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/ee/%D0%9E%D0%A1%D0%9D_%D0%A2%D0%92_2022.jpg/revision/latest?cb=20230511102442&path-prefix=ru" group-title="Новости",ОСН
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="belsat" tvg-logo="https://iptvx.one/picons/belsat.png" group-title="Беларусь",Belsat TV
+https://irylek.ct8.pl/stream/belsat
 #EXTINF:-1 tvg-id="belarus24" tvg-logo="https://i.imgur.com/BP7tY6F.png" group-title="Беларусь",Беларусь 24
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="tro" tvg-logo="https://epgx.site/p/belros.png" group-title="Беларусь",БелРос
