@@ -799,9 +799,9 @@ http://tv.streams.baikal-telecom.net:8080/NanoTV/index.m3u8
 #EXTINF:-1 tvg-id="brazzers-tv-europe" tvg-logo="https://iptvx.one/picons/brazzers.png" group-title="18+",Brazzers TV Europe
 
 #EXTINF:-1 tvg-id="penthouse-gold" tvg-logo="https://iptvx.one/picons/penthouse-gold.png" group-title="18+",Penthouse Gold HD
-http://78.130.250.2:8023/play/a005/index.m3u8
+
 #EXTINF:-1 tvg-id="penthouse-hd" tvg-logo="https://iptvx.one/picons/penthouse-hd.png" group-title="18+",Penthouse Reality TV
-http://78.130.250.2:8023/play/a006/index.m3u8
+
 #EXTINF:-1 tvg-id="blue-hustler" tvg-logo="https://iptvx.one/picons/hustler-hd.png" group-title="18+",Hustler HD
 http://31.131.136.4:8000/play/a00g
 #EXTINF:-1 tvg-id="private-tv" tvg-logo="https://iptvx.one/picons/private-tv.png" group-title="18+",Private HD
@@ -817,7 +817,7 @@ http://31.131.136.4:8000/play/a00l
 #EXTINF:-1 tvg-id="dorcel" tvg-logo="https://iptvx.one/picons/dorcel.png" group-title="18+",Dorcel TV HD
 
 #EXTINF:-1 tvg-id="dorcel-xxx" tvg-logo="https://iptvx.one/picons/dorcel-xxx.png" group-title="18+",Dorcel XXX HD
-http://31.131.136.4:8000/play/a00h
+
 #EXTINF:-1 tvg-id="redlight-hd" tvg-logo="https://iptvx.one/picons/redlight-hd.pngg" group-title="18+",Redlight HD 
 http://31.131.136.4:8000/play/a004
 #EXTINF:-1 tvg-id="o-la-la" tvg-logo="https://epgx.site/p/o-la-la.png" group-title="18+",Exxxxotica
@@ -833,9 +833,8 @@ http://31.131.136.4:8000/play/a00k
 #EXTINF:-1 tvg-id="babes-tv" tvg-logo="https://iptvx.one/picons/babes-tv.png" group-title="18+",Babes TV HD
 
 #EXTINF:-1 group-title="18+",Porn Classic
-http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
-#EXTINF:-1 tvg-id="3253" tvg-logo="http://epg.one/img2/3253.png" group-title="18+",Venus
-http://168.181.122.234:8000/play/a027/index.m3u8
+
+
 
 #EXTINF:-1  tvg-id="retro-fm" tvg-logo="https://epgx.site/p/retro-fm.png" group-title="Радио" radio="true",Ретро FM
 http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
