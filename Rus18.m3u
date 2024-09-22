@@ -6,15 +6,15 @@ http://194.143.148.28:8080/MatchFutbol1/mpegts
 http://91.196.37.133:4000/play/a02a
 #EXTINF:-1 tvg-id="match-football3" tvg-logo="https://iptvx.one/picons/match-football3.png" group-title="Спортивные",Матч! Футбол 3 HD 
 http://185.57.68.33/110/mpegts
-#EXTINF:-1 tvg-id="setanta-sports" tvg-logo="https://epgx.site/p/setanta-sports.png" group-title="Спортивные",Setanta Sports 1 HD
+#EXTINF:-1 tvg-id="setanta-sports" tvg-logo="https://iptvx.one/picons/setanta-sports.png" group-title="Спортивные",Setanta Sports 1 HD
 https://stream1.cinerama.uz/1263/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="https://epgx.site/p/setanta-sports-plus.png" group-title="Спортивные",Setanta Sports 2 HD
+#EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="https://iptvx.one/picons/setanta-sports-plus.png" group-title="Спортивные",Setanta Sports 2 HD
 https://stream1.cinerama.uz/1264/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="setanta-plus-ua" tvg-logo="https://epgx.site/p/setanta-plus-ua.png" group-title="Спортивные",Setanta Ukraine Plus HD
+#EXTINF:-1 tvg-id="setanta-plus-ua" tvg-logo="https://iptvx.one/picons/setanta-plus-ua.png" group-title="Спортивные",Setanta+ Украина
 
-#EXTINF:-1 tvg-id="setanta-ua" tvg-logo="https://epgx.site/p/setanta-ua.png" group-title="Спортивные",Setanta Ukraine HD
+#EXTINF:-1 tvg-id="setanta-ua" tvg-logo="https://iptvx.one/picons/setanta-ua.png" group-title="Спортивные",Setanta Украина
 
-#EXTINF:-1 tvg-id="setanta-kz" tvg-logo="https://epgx.site/p/setanta-kz.png" group-title="Спортивные",Setanta Qazaqstan HD
+#EXTINF:-1 tvg-id="setanta-kz" tvg-logo="https://iptvx.one/picons/setanta-kz.png" group-title="Спортивные",Setanta Казахстан
 http://194.26.229.213/TUDN_Setanta-Qazaqstan/index.m3u8?token=Panda
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спортивные",Матч!
 http://91.142.158.107:8092/play/33/index.m3u8
