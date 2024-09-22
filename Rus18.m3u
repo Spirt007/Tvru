@@ -752,85 +752,85 @@ http://edge02.odtv.az/o1/sovershennosekretno/playlist.m3u8
 http://stream01.vnet.am/Istoria/mono.m3u8
 #EXTINF:-1 tvg-id="RTG" tvg-logo="http://epg.one/img2/2280.png" group-title="Познавательные",RTG TV
 http://92.53.64.197:5050/rtg_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 tvg-id="uspex" tvg-logo="https://epgx.site/p/uspex.png" group-title="Познавательные",Успех 
+#EXTINF:-1 tvg-id="uspex" tvg-logo="https://iptvx.one/picons/uspex.png" group-title="Познавательные",Успех ТВ
 http://camera.global-x.ru/Uspeh/index.m3u8
-#EXTINF:-1 tvg-id="nauka-20" tvg-logo="https://epgx.site/p/nauka-20.png" group-title="Познавательные",Наука 2.0
+#EXTINF:-1 tvg-id="nauka-20" tvg-logo="https://iptvx.one/picons/nauka-20.png" group-title="Познавательные",Наука 2.0 HD
 https://stream2.cinerama.uz/1248/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="texno-24" tvg-logo="http://epg.it999.ru/img2/2762.png" group-title="Познавательные",24 Техно
+#EXTINF:-1 tvg-id="texno-24" tvg-logo="https://iptvx.one/picons/texno-24.png" group-title="Познавательные",Техно 24
 http://185.112.140.28/24_Tehno/index.m3u8
-#EXTINF:-1 tvg-id="neizvestnaya-rosia" tvg-logo="https://epgx.site/p/neizvestnaya-rosia.png" group-title="Познавательные",Неизвестная Россия HD
+#EXTINF:-1 tvg-id="neizvestnaya-rosia" tvg-logo="https://iptvx.one/picons/neizvestnaya-rosia.png" group-title="Познавательные",Неизвестная Россия HD
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="h2" tvg-logo="https://epgx.site/p/h2.png" group-title="Познавательные",H2
+#EXTINF:-1 tvg-id="h2" tvg-logo="https://iptvx.one/picons/h2.png" group-title="Познавательные",H2
 
-#EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" tvg-logo="https://epgx.site/p/v-mire-zhivotnyx.png" group-title="Познавательные",В мире животных HD
+#EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" tvg-logo="https://iptvx.one/picons/v-mire-zhivotnyx.png" group-title="Познавательные",В мире животных HD
 https://stream2.cinerama.uz/1404/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="arsenaltv" tvg-logo="http://epg.it999.ru/img2/2768.png" group-title="Познавательные",Арсенал
+#EXTINF:-1 tvg-id="arsenaltv" tvg-logo="https://iptvx.one/picons/arsenaltv.png" group-title="Познавательные",Арсенал Рв
 http://45.143.108.104/arsenal/index.m3u8
-#EXTINF:-1 tvg-id="365-dnej" tvg-logo="https://epgx.site/p/365-dnej.png" group-title="Познавательные",365 Дней ТВ 
+#EXTINF:-1 tvg-id="365-dnej" tvg-logo="https://iptvx.one/picons/365-dnej.png" group-title="Познавательные",365 Дней ТВ 
 http://146.158.0.56:80/365dney/index.m3u8
-#EXTINF:-1 tvg-id="hd-life" tvg-logo="https://i.imgur.com/tKgmhxh.png" group-title="Познавательные",HD Life
+#EXTINF:-1 tvg-id="hd-life" tvg-logo="https://iptvx.one/picons/hdl.png" group-title="Познавательные",HD Life
 http://31.130.63.173:1011/hdl/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="viasat-explore" tvg-logo="https://epgx.site/p/viasat-explore.png" group-title="Познавательные",Viju Explore
+#EXTINF:-1 tvg-id="viasat-explore" tvg-logo="https://iptvx.one/picons/viasat-explore.png" group-title="Познавательные",Viasat Explore HD
 http://188.113.190.11/32/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://epgx.site/p/viasat-history.png" group-title="Познавательные",Viju History 
+#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://iptvx.one/picons/viasat-history.png" group-title="Познавательные",Viasat History HD
 http://edge02.odtv.az/o5/viasathistory/playlist.m3u8
-#EXTINF:-1 tvg-id="viasat-nature" tvg-logo="https://epgx.site/p/viasat-nature.png" group-title="Познавательные",Viju Nature
+#EXTINF:-1 tvg-id="viasat-nature" tvg-logo="https://iptvx.one/picons/viasat-nature.png" group-title="Познавательные",Viasat Nature HD
 http://91.205.199.3:80/viasatnature/index.m3u8
-#EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-logo="http://epg.it999.ru/img2/2012.png" group-title="Познавательные",Viju+ Planet
+#EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-logo="http://epg.it999.ru/img2/2012.png" group-title="Познавательные",Viasat Planet HD
 http://91.218.160.212:8015/play/a04f/index.m3u8
-#EXTINF:-1 tvg-id="animal-planet-eu" tvg-logo="https://epgx.site/p/animal-planet-eu.png" group-title="Познавательные",Animal Planet
+#EXTINF:-1 tvg-id="animal-planet-eu" tvg-logo="https://iptvx.one/picons/animal-planet-eu.png" group-title="Познавательные",Animal Planet HD
 http://edge02.odtv.az/o5/animalplanet/playlist.m3u8
-#EXTINF:-1 tvg-id="big-planet" tvg-logo="https://epgx.site/p/big-planet.png" group-title="Познавательные",Big Planet
+#EXTINF:-1 tvg-id="big-planet" tvg-logo="https://iptvx.one/picons/big-planet.png" group-title="Познавательные",Big Planet HD
 http://91.207.114.220:9001/play/a02e/index.m3u8
-#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://epgx.site/p/discovery-channel.png" group-title="Познавательные",Discovery Channel
+#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://iptvx.one/picons/discovery-channel.png" group-title="Познавательные",Discovery Channel HD
 http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-id="galaxy-tv" tvg-logo="https://epgx.site/p/galaxy-tv.png" group-title="Познавательные",Galaxy TV
+#EXTINF:-1 tvg-id="galaxy-tv" tvg-logo="https://iptvx.one/picons/galaxy-tv.png" group-title="Познавательные",Тайны Галактики
 http://146.158.0.56/Galaxy/mono.m3u8
-#EXTINF:-1 tvg-id="id-xtra-eu" tvg-logo="https://epgx.site/p/idxtra.png" group-title="Познавательные",ID Xtra
+#EXTINF:-1 tvg-id="id-xtra-eu" tvg-logo="https://iptvx.one/picons/idxtra.png" group-title="Познавательные",ID Xtra Европа
 http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://epgx.site/p/nat-geo-wild.png" group-title="Познавательные",Nat Geo Wild
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://iptvx.one/picons/nat-geo-wild.png" group-title="Познавательные",Nat Geo Wild HD
 http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ocean-tv" tvg-id="ocean-tv" tvg-logo="https://epgx.site/p/ocean-tv.png" group-title="Познавательные",OCEAN-TV 
+#EXTINF:-1 tvg-id="ocean-tv" tvg-logo="https://iptvx.one/picons/ocean-tv.png" group-title="Познавательные",Ocean TV
 http://camera.global-x.ru/OceanTV/index.m3u8
-#EXTINF:-1 tvg-id="nano-tv" tvg-id="ocean-tv" tvg-logo="https://epgx.site/p/nano-tv.png" group-title="Познавательные",Нано
+#EXTINF:-1 tvg-id="	nano-hd" tvg-logo="https://iptvx.one/picons/nano-hd.png" group-title="Познавательные",Нано HD
 http://tv.streams.baikal-telecom.net:8080/NanoTV/index.m3u8
 
 
-#EXTINF:-1 tvg-id="brazzers-tv-europe" tvg-logo="https://epgx.site/p/brazzers.png" group-title="18+",Brazzers TV Europe
+#EXTINF:-1 tvg-id="brazzers-tv-europe" tvg-logo="https://iptvx.one/picons/brazzers.png" group-title="18+",Brazzers TV Europe
 
-#EXTINF:-1 tvg-id="penthouse-gold" tvg-logo="https://epgx.site/p/penthouse-gold.png" group-title="18+",Penthouse Gold HD
+#EXTINF:-1 tvg-id="penthouse-gold" tvg-logo="https://iptvx.one/picons/penthouse-gold.png" group-title="18+",Penthouse Gold HD
 http://78.130.250.2:8023/play/a005/index.m3u8
-#EXTINF:-1 tvg-id="penthouse-hd" tvg-logo="https://epgx.site/p/penthouse-hd.pngg" group-title="18+",Penthouse Reality TV
+#EXTINF:-1 tvg-id="penthouse-hd" tvg-logo="https://iptvx.one/picons/penthouse-hd.png" group-title="18+",Penthouse Reality TV
 http://78.130.250.2:8023/play/a006/index.m3u8
-#EXTINF:-1 tvg-id="blue-hustler" tvg-logo="https://i.imgur.com/41Ej2io.png" group-title="18+",Hustler HD
+#EXTINF:-1 tvg-id="blue-hustler" tvg-logo="https://iptvx.one/picons/hustler-hd.png" group-title="18+",Hustler HD
 http://31.131.136.4:8000/play/a00g
-#EXTINF:-1 tvg-id="private-tv" tvg-logo="https://epgx.site/p/private-tv.png" group-title="18+",Private HD
+#EXTINF:-1 tvg-id="private-tv" tvg-logo="https://iptvx.one/picons/private-tv.png" group-title="18+",Private HD
 
 #EXTINF:-1 tvg-id="3253" tvg-logo="http://epg.one/img2/3253.png" group-title="18+",Venus
 http://168.181.122.234:8000/play/a027/index.m3u8
-#EXTINF:-1 tvg-id="sholk" tvg-logo="https://epgx.site/p/sholk.png" group-title="18+",Шелк
+#EXTINF:-1 tvg-id="sholk" tvg-logo="https://iptvx.one/picons/sholk.png" group-title="18+",Шелк
 
-#EXTINF:-1 tvg-id="vivid-red" tvg-logo="https://epgx.site/p/vivid-red.png" group-title="18+",Vivid Red HD
+#EXTINF:-1 tvg-id="vivid-red" tvg-logo="hhttps://iptvx.one/picons/vivid-red.png" group-title="18+",Vivid Red HD
 
 #EXTINF:-1 group-title="18+",Vivid TV Europe
 http://31.131.136.4:8000/play/a00l
-#EXTINF:-1 tvg-id="dorcel" tvg-logo="https://epgx.site/p/dorcel.png" group-title="18+",Dorcel TV 
+#EXTINF:-1 tvg-id="dorcel" tvg-logo="https://iptvx.one/picons/dorcel.png" group-title="18+",Dorcel TV HD
 
-#EXTINF:-1 tvg-id="dorcel-xxx" tvg-logo="https://epgx.site/p/dorcel.png" group-title="18+",Dorcel XXX
+#EXTINF:-1 tvg-id="dorcel-xxx" tvg-logo="https://iptvx.one/picons/dorcel-xxx.png" group-title="18+",Dorcel XXX HD
 http://31.131.136.4:8000/play/a00h
-#EXTINF:-1 tvg-id="redlight-hd" tvg-logo="https://epgx.site/p/redlight-hd.png" group-title="18+",Redlight HD 
+#EXTINF:-1 tvg-id="redlight-hd" tvg-logo="https://iptvx.one/picons/redlight-hd.pngg" group-title="18+",Redlight HD 
 http://31.131.136.4:8000/play/a004
 #EXTINF:-1 tvg-id="o-la-la" tvg-logo="https://epgx.site/p/o-la-la.png" group-title="18+",Exxxxotica
 http://31.148.48.15:80/O-la-la/index.m3u8
-#EXTINF:-1 tvg-id="playboy-tv" tvg-logo="https://epgx.site/p/playboy-tv.png" group-title="18+",Playboy TV
+#EXTINF:-1 tvg-id="playboy-tv" tvg-logo="https://iptvx.one/picons/playboy-tv.png" group-title="18+",Playboy TV
 http://168.181.122.234:8000/play/a03u/index.m3u8
 #EXTINF:-1 tvg-id="extasy4k" tvg-logo="https://epgx.site/p/extasytv.png" group-title="18+",Extasy HD
 
-#EXTINF:-1 tvg-id="passionxxx" tvg-logo="https://epgx.site/p/passionxxx.png" group-title="18+",PassionXXX
+#EXTINF:-1 tvg-id="passionxxx" tvg-logo="https://iptvx.one/picons/passionxxx.png" group-title="18+",PassionXXX HD
 http://31.131.136.4:8000/play/a00k
-#EXTINF:-1 tvg-id="eroxxxhd" tvg-logo="https://epgx.site/p/eroxxxhd.png" group-title="18+",Eroxxx HD
+#EXTINF:-1 tvg-id="eroxxxhd" tvg-logo="https://iptvx.one/picons/eroxxxhd.png" group-title="18+",Eroxxx HD
 
-#EXTINF:-1 tvg-id="babes-tv" tvg-logo="https://epgx.site/p/babes-tv.png" group-title="18+",Babes TV
+#EXTINF:-1 tvg-id="babes-tv" tvg-logo="https://iptvx.one/picons/babes-tv.png" group-title="18+",Babes TV HD
 
 #EXTINF:-1 group-title="18+",Porn Classic
 http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
