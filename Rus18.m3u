@@ -123,7 +123,7 @@ https://livetv.mylifeisgood.net.ru/channels/domashnii.m3u8
 http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="https://iptvx.one/picons/zvezda.png" group-title="Общественные",Звезда
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-id="zvezda-plus" tvg-logo="https://epgx.site/p/zvezda-plus.png" group-title="Общественные",Звезда Плюс
+#EXTINF:-1 tvg-id="zvezda-plus" tvg-logo="https://iptvx.one/picons/zvezda-plus.png" group-title="Общественные",Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="otr" tvg-logo="https://iptvx.one/picons/otr.png" group-title="Общественные",ОТР
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
@@ -663,8 +663,8 @@ http://95.156.76.230:33001/udp/230.4.34.78:1234
 http://195.211.27.149:8887/8140/index.m3u8?token=test
 #EXTINF:-1 tvg-id="zhivi-aktivno" tvg-logo="http://epg.it999.ru/img2/5881.png" group-title="Досуг",Живи Активно
 https://livetv.mylifeisgood.net.ru/channels/jiviactivno.m3u8
-#EXTINF:-1 tvg-id="zagorodnaya-zhizn" tvg-logo="hhttps://iptvx.one/picons/zagorodnaya-zhizn.png" group-title="Досуг",Загородная Жизнь
-http://146.158.0.56/ZagorodnayaJizn/mono.m3u8
+#EXTINF:-1 tvg-id="zagorodnaya-zhizn" tvg-logo="https://iptvx.one/picons/zagorodnaya-zhizn.png" group-title="Досуг",Загородная Жизнь
+http://188.113.190.15/123/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="zagorodny" tvg-logo="http://epg.it999.ru/img2/2463.png" group-title="Досуг",Загородный HD
 http://stream01.vnet.am/DTX/mono.m3u8
 #EXTINF:-1 tvg-id="zdorovoe-tv" tvg-logo="https://iptvx.one/picons/zdorovoe-tv.png" group-title="Досуг",Здоровое ТВ
