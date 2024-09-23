@@ -60,9 +60,9 @@ https://alpha.tv.online.tm/hls/ch004.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 #EXTINF:-1 tvg-id="4562" tvg-logo="http://epg.one/img2/4562.png" group-title="Спортивные",NHL Network US
 https://lnc-nhl.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="khl" tvg-logo="https://iptvx.one/picons/kxl.png" group-title="Спортивные",KHL
+#EXTINF:-1 tvg-id="khl" tvg-logo="https://iptvx.one/picons/kxl.png" group-title="Спортивные",КХЛ
 https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
-#EXTINF:-1 tvg-id="kxl-hd" tvg-logo="https://iptvx.one/picons/kxl-hd.png" group-title="Спортивные",KHL Prime
+#EXTINF:-1 tvg-id="kxl-hd" tvg-logo="https://iptvx.one/picons/kxl-hd.png" group-title="Спортивные",КХЛ HD
 https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://iptvx.one/picons/eurosport1.png" group-title="Спортивные",Eurosport 1 HD
 http://45.132.87.69:8080/eurosport1/mono.m3u8
