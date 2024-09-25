@@ -579,7 +579,7 @@ http://31.210.208.171:8080/kinopokaz/index.m3u8?token=+W2MSER
 
 #EXTINF:-1 tvg-id="kinosat" tvg-logo="https://iptvx.one/picons/kinosat.png" group-title="Фильмы,сериалы",Киносат HD
 http://188.190.222.48:8765/Kinosat/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="pro100" tvg-logo="https://iptvx.one/picons/pro100.pngg" group-title="Фильмы,сериалы",Pro100
+#EXTINF:-1 tvg-id="pro100" tvg-logo="https://iptvx.one/picons/pro100.png" group-title="Фильмы,сериалы",Pro100
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 tvg-id="sapfir" tvg-logo="https://iptvx.one/picons/sapfir.png" group-title="Фильмы,сериалы",Сапфир HD
 http://188.190.222.48:8765/Sapfir_HD/tracks-v1a1/mono.m3u8
@@ -591,7 +591,7 @@ https://stream01.vnet.am/DomKino/mono.m3u8
 http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="Фильмы,сериалы",Мосфильм. Золотая коллекция
 http://hls127.homeiptv.org:8880/Mosfilm/video.m3u8
-#EXTINF:-1 tvg-id="nashehd" tvg-logo="https://iptvx.one/picons/nashehd.pngg" group-title="Фильмы,сериалы",Наше HD
+#EXTINF:-1 tvg-id="nashehd" tvg-logo="https://iptvx.one/picons/nashehd.png" group-title="Фильмы,сериалы",Наше HD
 http://188.190.222.48:8765/Nashe_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-logo="https://iptvx.one/picons/nashe-novoe-kino.png" group-title="Фильмы,сериалы",Наше новое кино HD
 http://135.181.115.81:8000/play/a01b/index.m3u8?token=livetv
