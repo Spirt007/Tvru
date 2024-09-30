@@ -592,7 +592,7 @@ http://188.190.222.48:8765/Sapfir_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="domkino" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="Фильмы,сериалы",Дом Кино
 https://stream01.vnet.am/DomKino/mono.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://iptvx.one/picons/domkino-premium.png" group-title="Фильмы,сериалы",Дом Кино Премиум HD
-http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
+http://193.242.204.28:10081/81
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="Фильмы,сериалы",Мосфильм. Золотая коллекция
 rtmp://5.182.229.90//7347
 #EXTINF:-1 tvg-id="nashehd" tvg-logo="https://iptvx.one/picons/nashehd.png" group-title="Фильмы,сериалы",Наше HD
