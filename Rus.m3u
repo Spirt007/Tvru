@@ -131,7 +131,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
 #EXTINF:-1 tvg-id="kultura" tvg-logo="https://iptvx.one/picons/kultura.png" group-title="Общественные",Россия Культура
 http://91.142.158.107:8092/play/36/index.m3u8
 #EXTINF:-1 tvg-id="dozhd" tvg-logo="https://iptvx.one/picons/dozhd.png" group-title="Общественные",Дождь HD
-https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
+
 #EXTINF:-1 tvg-id="nastoyaschee-vremia" tvg-logo="https://iptvx.one/picons/nastoiaschee-vremia.png" group-title="Общественные",Настоящее время
 http://81.94.196.204/tsstreamer/CurrentTime_HD.ts
 #EXTINF:-1 tvg-id="360-podmoskovie" tvg-logo="http://epg.one/img2/2265.png" group-title="Общественные",360°
