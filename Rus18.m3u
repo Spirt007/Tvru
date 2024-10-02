@@ -30,6 +30,8 @@ https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
 https://7pal.short.gy/prsport1
 #EXTINF:-1 tvg-logo="" group-title="Спортивные",Premier Sports 2
 https://7pal.short.gy/prsport2
+#EXTINF:-1 tvg-id="Futbol.tj" tvg-logo="https://i.imgur.com/RngmCDn.png" group-title="Спортивные",Futbol
+https://live.teleradiocom.tj/8/3m.m3u8
 #EXTINF:-1 tvg-id="sky-sports-action" tvg-logo="https://iptvx.one/picons/sky-sports-action.png" group-title="Спортивные",Sky Sports Action
 https://7pal.short.gy/ssportsat
 #EXTINF:-1 tvg-id="sky-sports-golf" tvg-logo="https://iptvx.one/picons/sky-sports-golf.png" group-title="Спортивные",Sky Sports Golf
@@ -101,6 +103,8 @@ http://31.211.77.158:8000/play/a135/index.m3u8
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Общественные",Россия 1 
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.one/img2/2547.png" group-title="Общественные",Россия РТР
+https://streaming.televizor-24-tochka.ru/live/211.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Общественные",НТВ
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="Общественные",ТВЦ
