@@ -33,15 +33,15 @@ https://7pal.short.gy/prsport2
 #EXTINF:-1 tvg-id="sky-sports-action" tvg-logo="https://iptvx.one/picons/sky-sports-action.png" group-title="Спортивные",Sky Sports Action
 https://7pal.short.gy/ssportsat
 #EXTINF:-1 tvg-id="sky-sports-golf" tvg-logo="https://iptvx.one/picons/sky-sports-golf.png" group-title="Спортивные",Sky Sports Golf
-https://7pal.short.gy/ssportsgf
+
 #EXTINF:-1 tvg-id="sky-sports-apl" tvg-logo="https://iptvx.one/picons/sky-sports-apl.png" group-title="Спортивные",Sky Sports Premier League
 https://7pal.short.gy/ssportspl
 #EXTINF:-1 tvg-id="sky-sports-f1" tvg-logo="https://iptvx.one/picons/sky-sports-f1.png" group-title="Спортивные",Sky Sports F1
 https://7pal.short.gy/ssportsf1
 #EXTINF:-1tvg-id="sky-sports-football" tvg-logo="https://iptvx.one/picons/sky-sports-football.png"  group-title="Спортивные",Sky Sports Football
-https://7pal.short.gy/ssportsfb
+
 #EXTINF:-1 tvg-id="sky-sports-maine" tvg-logo="https://iptvx.one/picons/sky-sports-maine.png" group-title="Спортивные",Sky Sports Main Event
-https://7pal.short.gy/skspmaine
+
 #EXTINF:-1 tvg-id="sky-sports-news" tvg-logo="https://iptvx.one/picons/sky-sports-news.png" group-title="Спортивные",Sky Sports News
 https://7pal.short.gy/ssportsnw
 #EXTINF:-1 tvg-id="bt-sport1" tvg-logo="https://iptvx.one/picons/bt-sport1.png" group-title="Спортивные",TNT Sport 1
@@ -56,7 +56,7 @@ https://7pal.short.gy/tntspts4
 https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://epgx.site/p/okko-sport.png" group-title="Спортивные",Okko.Спорт
 
-#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Спортивные",Real Madrid
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Спортивные",Real Madrid
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 #EXTINF:-1 tvg-id="4562" tvg-logo="http://epg.one/img2/4562.png" group-title="Спортивные",NHL Network US
 https://lnc-nhl.tubi.video/playlist.m3u8
