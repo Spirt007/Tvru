@@ -35,9 +35,9 @@ https://7pal.short.gy/ssportsat
 #EXTINF:-1 tvg-id="sky-sports-golf" tvg-logo="https://iptvx.one/picons/sky-sports-golf.png" group-title="Спортивные",Sky Sports Golf
 
 #EXTINF:-1 tvg-id="sky-sports-apl" tvg-logo="https://iptvx.one/picons/sky-sports-apl.png" group-title="Спортивные",Sky Sports Premier League
-https://7pal.short.gy/ssportspl
+
 #EXTINF:-1 tvg-id="sky-sports-f1" tvg-logo="https://iptvx.one/picons/sky-sports-f1.png" group-title="Спортивные",Sky Sports F1
-https://7pal.short.gy/ssportsf1
+https://7pal.short.gy/SSF1uhd
 #EXTINF:-1tvg-id="sky-sports-football" tvg-logo="https://iptvx.one/picons/sky-sports-football.png"  group-title="Спортивные",Sky Sports Football
 
 #EXTINF:-1 tvg-id="sky-sports-maine" tvg-logo="https://iptvx.one/picons/sky-sports-maine.png" group-title="Спортивные",Sky Sports Main Event
@@ -59,7 +59,7 @@ https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Спортивные",Real Madrid
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 #EXTINF:-1 tvg-id="4562" tvg-logo="http://epg.one/img2/4562.png" group-title="Спортивные",NHL Network US
-https://lnc-nhl.tubi.video/playlist.m3u8
+
 #EXTINF:-1 tvg-id="khl" tvg-logo="https://iptvx.one/picons/kxl.png" group-title="Спортивные",КХЛ
 https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
 #EXTINF:-1 tvg-id="kxl-hd" tvg-logo="https://iptvx.one/picons/kxl-hd.png" group-title="Спортивные",КХЛ HD
@@ -81,7 +81,7 @@ http://88.218.242.237:8000/play/a00d
 #EXTINF:-1 tvg-id="match-igra" tvg-logo="https://iptvx.one/picons/match-igra.png" group-title="Спортивные",Матч! Игра
 http://31.210.208.171:8080/match_igra/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-logo="https://iptvx.one/picons/match-strana.png" group-title="Спортивные",Матч! Страна
-http://78.140.39.3/play/a00r/index.m3u8 
+
 #EXTINF:-1 tvg-id="match-arena" tvg-logo="https://iptvx.one/picons/match-arena.png" group-title="Спортивные",Матч! Арена
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 tvg-id="match-planeta" tvg-logo="https://iptvx.one/picons/match-planeta.png" group-title="Спортивные",Матч! Планета
@@ -95,7 +95,7 @@ https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
 #EXTINF:-1 tvg-id="footbolny" tvg-logo="https://iptvx.one/picons/footbolny.png" group-title="Спортивные",Футбольный HD
 http://31.210.208.171:8080/football/index.m3u8?token=+W2MSE
 #EXTINF:-1 tvg-id="xokkejny" tvg-logo="https://iptvx.one/picons/xokkejny.png" group-title="Спортивные",Хоккейный HD
-http://31.211.77.158:8000/play/a135/index.m3u8
+
 #EXTINF:-1 tvg-id="konny-mir" tvg-logo="https://iptvx.one/picons/konny-mir.png" group-title="Спортивные",Конный мир HD
 http://141.95.55.143/CH577/tracks-v1a1/mono.m3u8
 
@@ -420,7 +420,7 @@ http://stream01.vnet.am/Tiji/mono.m3u8
 https://stream2.cinerama.uz/1271/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="karusel" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Детские",Карусель
 http://91.142.158.107:8092/play/8/index.m3u8
-#EXTINF:-1 tvg-id="karusel-int" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Kids",Карусель Int
+#EXTINF:-1 tvg-id="karusel-int" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Детские",Карусель Int
 http://stream02.vnet.am/Karusel/mono.m3u8
 #EXTINF:-1 tvg-id="mult" tvg-logo="https://iptvx.one/picons/mult.png" group-title="Детские",Мульт
 http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
