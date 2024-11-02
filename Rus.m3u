@@ -111,7 +111,7 @@ http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-logo="https://iptvx.one/picons/rentv.png" group-title="Общественные",Рен ТВ
 http://185.23.80.28:8080/REN/index.m3u8?token=test
 #EXTINF:-1 tvg-id="rentv-int" tvg-logo="https://iptvx.one/picons/rentv-int.png" group-title="Общественные",РенТВ International
-http://cdn1.skygo.mn/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
+http://45.159.74.14:80/RenTv/index.m3u8
 #EXTINF:-1 tvg-id="tv3-ru" tvg-logo="https://iptvx.one/picons/tv3-ru.png" group-title="Общественные",ТВ3
 http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-logo="https://iptvx.one/picons/5kanal-ru.png" group-title="Общественные",Пятый канал 
@@ -123,7 +123,7 @@ http://77.235.1.17/vremya/index.m3u8
 #EXTINF:-1 tvg-id="domashny" tvg-logo="https://iptvx.one/picons/domashny.png" group-title="Общественные",Домашний 
 https://livetv.mylifeisgood.net.ru/channels/domashnii.m3u8
 #EXTINF:-1 tvg-id="domashny-int" tvg-logo="https://iptvx.one/picons/domashny-int.png" group-title="Общественные",Домашний International
-http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="https://iptvx.one/picons/zvezda.png" group-title="Общественные",Звезда
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="zvezda-plus" tvg-logo="https://iptvx.one/picons/zvezda-plus.png" group-title="Общественные",Звезда Плюс
@@ -131,7 +131,7 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="otr" tvg-logo="https://iptvx.one/picons/otr.png" group-title="Общественные",ОТР
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
 #EXTINF:-1 tvg-id="kultura" tvg-logo="https://iptvx.one/picons/kultura.png" group-title="Общественные",Россия Культура
-http://91.142.158.107:8092/play/36/index.m3u8
+https://player.smotrim.ru/iframe/stream/live_id/19201
 #EXTINF:-1 tvg-id="dozhd" tvg-logo="https://iptvx.one/picons/dozhd.png" group-title="Общественные",Дождь HD
 
 #EXTINF:-1 tvg-id="nastoyaschee-vremia" tvg-logo="https://iptvx.one/picons/nastoiaschee-vremia.png" group-title="Общественные",Настоящее время
