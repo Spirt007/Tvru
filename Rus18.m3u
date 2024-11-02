@@ -159,7 +159,7 @@ https://streaming.televizor-24-tochka.ru/live/211.m3u8
 
 
 #EXTINF:-1 tvg-id="piatnica" tvg-logo="https://iptvx.one/picons/piatnica.png" group-title="Развлекательные",Пятница!
-http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
+https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
 #EXTINF:-1 tvg-id="piatnica-int" tvg-logo="https://iptvx.one/picons/piatnica-int.png" group-title="Развлекательные",Пятница International
 https://stream01.vnet.am/Pyatnica/mono.m3u8
 #EXTINF:-1 tvg-id="super" tvg-logo="https://iptvx.one/picons/subbota.png" group-title="Развлекательные",Суббота
@@ -169,15 +169,15 @@ http://s18209.cdn.ngenix.net/hls/CH_R02_STS/playlist.m3u8
 #EXTINF:-1 tvg-id="sts-int" tvg-logo="https://iptvx.one/picons/sts-int.png" group-title="Развлекательные",СТС International
 https://cdn1.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:-1 tvg-id="sts-love" tvg-logo="https://iptvx.one/picons/sts-love.png" group-title="Развлекательные",СТС Love
-http://31.148.48.15:80/STS_Love/index.m3u8
+http://31.148.48.15/STS_Love/index.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="Развлекательные",ТНТ
 http://31.210.208.171:8080/tnt/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="tnt-int-eu" tvg-logo="https://iptvx.one/picons/tnt-int-eu.png" group-title="Развлекательные",ТНТ-International
-http://85.187.13.40:18000/tntint
+
 #EXTINF:-1 tvg-id="tnt-kz" tvg-logo="https://iptvx.one/picons/tnt-kz.png" group-title="Развлекательные",ТНТ Kазахстан
 
 #EXTINF:-1 tvg-id="tnt4" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="Развлекательные",ТНТ4
-http://edge02.odtv.az/o7/tnt4/playlist.m3u8
+https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 tvg-id="che" tvg-logo="https://iptvx.one/picons/che.png" group-title="Развлекательные",Че!
 http://178.212.71.253:8002/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="yu" tvg-logo="https://iptvx.one/picons/yu.png" group-title="Развлекательные",Ю ТВ
@@ -187,9 +187,9 @@ http://195.26.83.96:7005/play/16/index.m3u8
 #EXTINF:-1 tvg-id="strk" tvg-logo="https://iptvx.one/picons/strk.png" group-title="Развлекательные",СТРК 
 http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="2na2" tvg-logo="https://iptvx.one/picons/2na2.png" group-title="Развлекательные",2x2
-http://185.112.140.28:80/2x2/index.m3u8
+https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://iptvx.one/picons/kvn-tv.png" group-title="Развлекательные",КВН ТВ
-http://31.210.208.171:8080/kvn/index.m3u8?token=+W2MSER
+http://65.21.85.175:8000/play/a013/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="e-tv" tvg-logo="https://iptvx.one/picons/e-tv.png" group-title="Развлекательные",E TV
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="perec-int" tvg-logo="https://iptvx.one/picons/perec.png" group-title="Развлекательные",Перец Int
@@ -201,7 +201,7 @@ http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-logo="https://iptvx.one/picons/tvoyo-tv-hd.png" group-title="Развлекательные",Твоё ТВ
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="tvoetv-humor" tvg-logo="https://iptvx.one/picons/tvoetv-humor.png" group-title="Развлекательные",Твоё ТВ Юмор
-http://de.zigfreed.ru:8080/tvoetv_humor/video.m3u8?token=tvoetv
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-id="rtvi" tvg-logo="https://iptvx.one/picons/rtvi.png" group-title="Развлекательные",RTVI
 http://45.143.108.110:2203/RTVi
 #EXTINF:-1 tvg-id="tlc" tvg-logo="https://iptvx.one/picons/tlc.png" group-title="Развлекательные",TLC HD
@@ -213,18 +213,17 @@ http://88.218.242.237:8000/play/a00t
 #EXTINF:-1 tvg-id="tv1-kg-hd" tvg-logo="https://iptvx.one/picons/tv1-kg-hd.png" group-title="Развлекательные",TV1 KG
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="kluch" tvg-logo="https://iptvx.one/picons/kluch.png" group-title="Развлекательные",Ключ
-http://91.218.160.212:8015/play/a05w/index.m3u8
+http://193.242.204.28:10184/184
 #EXTINF:-1 tvg-id="poexali" tvg-logo="https://iptvx.one/picons/poexali.png" group-title="Развлекательные",Поехали!
-http://31.148.48.15/Poehali/index.m3u8
+http://91.247.68.229:8000/play/Poehali/index.m3u8
 #EXTINF:-1 tvg-id="teleputeshestvia" tvg-logo="https://iptvx.one/picons/teleputeshestvia.png" group-title="Развлекательные",Телепутешествия 
-http://91.207.115.228:12000/play/a02h
+http://91.194.191.241:8081/chid433/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="narod-vsio-vidit" tvg-logo="https://iptvx.one/picons/narod-vsio-vidit.png" group-title="Развлекательные",Народ Всë Видит
-http://91.218.160.212:8015/play/a00j/index.m3u8
+
 #EXTINF:-1 tvg-id="tochka-tv" tvg-logo="https://iptvx.one/picons/tochka-tv.png" group-title="Развлекательные",Точка ТВ 
 https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="nostalgia" tvg-logo="https://iptvx.one/picons/nostalgia.png" group-title="Развлекательные",Ностальгия
-http://91.207.115.228:9001/play/a0d2/index.m3u8
-
+http://91.205.199.3/nostalgia/index.m3u8
 
 #EXTINF:-1 tvg-id="vostok-24" tvg-logo="https://iptvx.one/picons/vostok-24.png" group-title="Региональные",Восток 24
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
