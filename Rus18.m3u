@@ -336,12 +336,11 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-id="france-24" tvg-logo="https://iptvx.one/picons/france24.png" group-title="Новости",France 24
 
 #EXTINF:-1 tvg-id="deutsche-welle-de" tvg-logo="https://iptvx.one/picons/deutsche-welle-de.png" group-title="Новости",Deutsche Welle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s26/index.m3u8
+
 #EXTINF:-1 tvg-id="6470" tvg-logo="http://epg.one/img2/6470.png" group-title="Новости",Rai News 24
 
 #EXTINF:-1 tvg-id="2860" tvg-logo="http://epg.one/img2/2860.png" group-title="Новости",Sky News UK
- 
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8
 #EXTINF:-1 tvg-id="solovjinypomiot" tvg-id="solovjinypomiot" tvg-logo="https://epgx.site/p/solovjinypomiot.png" group-title="Новости",Соловьев Live
 https://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
 #EXTINF:-1 tvg-id="OSN.ru" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/ee/%D0%9E%D0%A1%D0%9D_%D0%A2%D0%92_2022.jpg/revision/latest?cb=20230511102442&path-prefix=ru" group-title="Новости",ОСН
@@ -357,21 +356,21 @@ http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1 tvg-id="belarus1" tvg-logo="https://iptvx.one/picons/belarus1hd.png" group-title="Беларусь",Беларусь 1 HD
 http://194.158.222.36:6101
 #EXTINF:-1 tvg-id="belarus2" tvg-logo="https://iptvx.one/picons/belarus2hd.png" group-title="Беларусь",Беларусь 2 HD
-http://194.158.222.36:6107
+http://93.189.224.246:52900/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="belarus3" tvg-logo="https://iptvx.one/picons/belarus3hd.png" group-title="Беларусь",Беларусь 3 HD
 http://194.158.222.36:6108
 #EXTINF:-1 tvg-id="ntv-belarus" tvg-logo="https://iptvx.one/picons/ntv-belarus.png" group-title="Беларусь",НТВ Беларусь
-http://194.158.222.36:6106/
+http://93.189.224.246:52900/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="tv3-by" tvg-logo="https://iptvx.one/picons/tv3-by.png" group-title="Беларусь",ТВ3 Беларусь
-http://strm.yandex.ru/kal/tv3_belarus/tv3_belarus0.m3u8
+
 #EXTINF:-1 tvg-id="rtr-belarus" tvg-logo="https://iptvx.one/picons/rtr-belarus.png" group-title="Беларусь",РТР Беларусь
-https://player.smotrim.ru/iframe/stream/live_id/63253
+http://194.158.222.36:6106/
 #EXTINF:-1 tvg-id="ont-by" tvg-logo="https://iptvx.one/picons/ont-by.png" group-title="Беларусь",ОНТ Беларусь
-https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
+http://194.158.222.36:6102
 #EXTINF:-1 tvg-id="stv-by" tvg-logo="https://iptvx.one/picons/stv-by.png" group-title="Беларусь",СТВ Беларусь
 http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="belmuztv" tvg-logo="https://iptvx.one/picons/belmuztv.png" group-title="Беларусь",БелМузТВ
-http://178.124.179.122:8088/BelMuzTV/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="ontustik" tvg-logo="https://iptvx.one/picons/ontustik.png" group-title="Казахстан",Ontustik
