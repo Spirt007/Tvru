@@ -330,17 +330,18 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
 #EXTINF:-1 tvg-id="rbk" tvg-logo="https://iptvx.one/picons/rbk.png" group-title="Новости",РБК
 http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1 tvg-id="cnn" tvg-logo="https://iptvx.one/picons/cnn.png" group-title="Новости",CNN
-http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8
+
 #EXTINF:-1 ttvg-id="bbc" tvg-logo="https://iptvx.one/picons/bbc.png" group-title="Новости",BBC World News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-id="france-24" tvg-logo="https://iptvx.one/picons/france24.png" group-title="Новости",France 24
-http://185.19.190.1:8090/FRANCE24/index.m3u8
-#EXTINF:-1 tvg-id="deutsche-welle-de" tvg-logo="https://iptvx.one/picons/deutsche-welle-de.png" group-title="Новости",Deutsche Welle
 
+#EXTINF:-1 tvg-id="deutsche-welle-de" tvg-logo="https://iptvx.one/picons/deutsche-welle-de.png" group-title="Новости",Deutsche Welle
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s26/index.m3u8
 #EXTINF:-1 tvg-id="6470" tvg-logo="http://epg.one/img2/6470.png" group-title="Новости",Rai News 24
 
 #EXTINF:-1 tvg-id="2860" tvg-logo="http://epg.one/img2/2860.png" group-title="Новости",Sky News UK
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8 
+ 
 #EXTINF:-1 tvg-id="solovjinypomiot" tvg-id="solovjinypomiot" tvg-logo="https://epgx.site/p/solovjinypomiot.png" group-title="Новости",Соловьев Live
 https://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
 #EXTINF:-1 tvg-id="OSN.ru" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/ee/%D0%9E%D0%A1%D0%9D_%D0%A2%D0%92_2022.jpg/revision/latest?cb=20230511102442&path-prefix=ru" group-title="Новости",ОСН
