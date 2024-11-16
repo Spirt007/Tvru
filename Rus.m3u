@@ -174,7 +174,8 @@ http://31.210.208.171:8080/tnt/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="tnt-int-eu" tvg-logo="https://iptvx.one/picons/tnt-int-eu.png" group-title="Развлекательные",ТНТ-International
 http://85.187.13.40:18000/tntint
 #EXTINF:-1 tvg-id="tnt-kz" tvg-logo="https://iptvx.one/picons/tnt-kz.png" group-title="Развлекательные",ТНТ Kазахстан
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.69
+http://sc.id-tv.kz/tntComedy.m3u8
 #EXTINF:-1 tvg-id="tnt4" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="Развлекательные",ТНТ4
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 tvg-id="che" tvg-logo="https://iptvx.one/picons/che.png" group-title="Развлекательные",Че!
@@ -436,7 +437,7 @@ http://stream01.vnet.am/Channel_114/mono.m3u8
 
 #EXTINF:-1 tvg-id="mama" tvg-logo="https://iptvx.one/picons/mama.png" group-title="Детские",Мама
 http://stv.mediacdn.ru/live/cdn/mama/playlist_sdhigher.m3u8
-#EXTINF:-1 tvg-id="detkinoint-tviksel" tvg-logo="https://iptvx.one/picons/detkinoint-tviksel.png" group-title="Детские",Детское кино Int
+#EXTINF:-1 tvghttp://93.189.224.246:52900/play/a010/index.m3u-id="detkinoint-tviksel" tvg-logo="https://iptvx.one/picons/detkinoint-tviksel.png" group-title="Детские",Детское кино Int
 https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 tvg-id="multimania" tvg-logo="https://iptvx.one/picons/multimania.png" group-title="Детские",Мультиландия
 http://185.50.148.2:7706/Multimania/index.m3u8
@@ -664,7 +665,7 @@ rtmp://5.182.229.90//7222
 
 
 #EXTINF:-1 tvg-id="avto24" tvg-logo="http://epg.it999.ru/img2/2008.png" group-title="Досуг",АВТО 24
-
+http://82.215.111.227/1430/index.m3u8
 #EXTINF:-1 tvg-id="avto-plus" tvg-logo="https://iptvx.one/picons/avto-plus.png" group-title="Досуг,Авто Плюс
 http://91.207.115.228:12000/play/a02y
 #EXTINF:-1 tvg-id="bobior" tvg-logo="https://iptvx.one/picons/bober.png" group-title="Досуг",Бобер HD
