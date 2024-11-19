@@ -466,7 +466,7 @@ https://wowza5.leisertv.com/live/vipcomedyhd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="tv1000-worldkino" tvg-logo="https://iptvx.one/picons/tv1000-worldkino.png" group-title="Фильмы,сериалы",Viasat Kino World
 https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6005.png" group-title="Фильмы,сериалы",Видеокассета HD
-https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8http://82.215.111.227/1430/index.m3u8
+https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 #EXTINF:-1 tvg-id="vhs-ka" tvg-logo="https://iptvx.one/picons/vhs-ka.png" group-title="Фильмы,сериалы",VHS-ка
 http://88.218.242.237:8000/play/a00x
 #EXTINF:-1 tvg-id="ostrosiuzhetnoe" tvg-logo="https://iptvx.one/picons/ostrosiuzhetnoe-hd.png" group-title="Фильмы,сериалы",Остросюжетное
