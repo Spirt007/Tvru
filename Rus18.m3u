@@ -462,7 +462,7 @@ rtmp://5.182.229.90//7261
 #EXTINF:-1 audio-track="ru" tvg-id="tv1000-cee" tvg-logo="https://iptvx.one/picons/tv1000-cee.png" group-title="Фильмы,сериалы",Viasat Kino
 
 #EXTINF:-1tvg-id="vip-comedy-cee" tvg-logo="https://iptvx.one/picons/vip-comedy-cee.png" group-title="Фильмы,сериалы",Viasat Kino Comedy
-
+https://wowza5.leisertv.com/live/vipcomedyhd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="tv1000-worldkino" tvg-logo="https://iptvx.one/picons/tv1000-worldkino.png" group-title="Фильмы,сериалы",Viasat Kino World
 https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6005.png" group-title="Фильмы,сериалы",Видеокассета HD
