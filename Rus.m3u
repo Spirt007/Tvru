@@ -196,7 +196,7 @@ http://65.21.85.175:8000/play/a013/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="e-tv" tvg-logo="https://iptvx.one/picons/e-tv.png" group-title="Развлекательные",E TV
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="perec-int" tvg-logo="https://iptvx.one/picons/perec.png" group-title="Развлекательные",Перец Int
-rtmp://212.0.213.132//Teledom
+http://stream01.vnet.am/Perec/mono.m3u8
 #EXTINF:-1 tvg-id="zal-suda" tvg-logo="https://iptvx.one/picons/zal-suda.png" group-title="Развлекательные",Зал суда HD
 http://95.156.76.230:33001/udp/230.4.34.6:1234
 #EXTINF:-1 tvg-id="telekafe" tvg-logo="https://iptvx.one/picons/telekafe.png" group-title="Развлекательные",Телекафе
@@ -740,7 +740,7 @@ http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="1hd" tvg-logo="https://iptvx.one/picons/1hd-music.png" group-title="Музыкальные",1HD
 http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv" tvg-logo="https://iptvx.one/picons/bridge-tv.png" group-title="Музыкальные",Bridge
-
+http://31.148.48.15/Bridge_TV/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-classic" tvg-logo="https://iptvx.one/picons/bridge-tv-classic.png" group-title="Музыкальные",BRIDGE CLASSIC
 
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-logo="https://iptvx.one/picons/bridge-tv-ruxit.png" group-title="Музыкальные",BRIDGE TV Русский Хит
