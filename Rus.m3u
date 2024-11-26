@@ -217,7 +217,7 @@ http://88.218.242.237:8000/play/a00t
 #EXTINF:-1 tvg-id="tv1-kg-hd" tvg-logo="https://iptvx.one/picons/tv1-kg-hd.png" group-title="Развлекательные",TV1 KG
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="kluch" tvg-logo="https://iptvx.one/picons/kluch.png" group-title="Развлекательные",Ключ
-
+http://185.23.80.28:8080/Klyuch/index.m3u8?token=test
 #EXTINF:-1 tvg-id="poexali" tvg-logo="https://iptvx.one/picons/poexali.png" group-title="Развлекательные",Поехали!
 http://91.247.68.229:8000/play/Poehali/index.m3u8
 #EXTINF:-1 tvg-id="teleputeshestvia" tvg-logo="https://iptvx.one/picons/teleputeshestvia.png" group-title="Развлекательные",Телепутешествия 
