@@ -344,7 +344,7 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-id="360-news" tvg-logo="https://iptvx.one/picons/360-news.png" group-title="Новости",360° Новости
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
 #EXTINF:-1 tvg-id="euronews" tvg-logo="https://iptvx.one/picons/euronews.png" group-title="Новости",Euronews Россия
-
+http://stream2.cinerama.uz/1024/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mir-24" tvg-logo="https://iptvx.one/picons/mir24.png" group-title="Новости",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="Новости",Россия 24
