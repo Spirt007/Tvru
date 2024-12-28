@@ -223,11 +223,11 @@ http://185.23.80.28:8080/Klyuch/index.m3u8?token=test
 #EXTINF:-1 tvg-id="poexali" tvg-logo="https://iptvx.one/picons/poexali.png" group-title="Развлекательные",Поехали!
 http://91.247.68.229:8000/play/Poehali/index.m3u8
 #EXTINF:-1 tvg-id="teleputeshestvia" tvg-logo="https://iptvx.one/picons/teleputeshestvia.png" group-title="Развлекательные",Телепутешествия 
-http://91.194.191.241:8081/chid433/tracks-v1a1/mono.m3u8
+http://185.23.80.28:8080/Teleputeshestviya/index.m3u8?token=test
 #EXTINF:-1 tvg-id="narod-vsio-vidit" tvg-logo="https://iptvx.one/picons/narod-vsio-vidit.png" group-title="Развлекательные",Народ Всë Видит
 
 #EXTINF:-1 tvg-id="tochka-tv" tvg-logo="https://iptvx.one/picons/tochka-tv.png" group-title="Развлекательные",Точка ТВ 
-https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/playlist.m3u8
+http://94.230.128.105:8080/TochkaTV/mono.m3u8
 #EXTINF:-1 tvg-id="nostalgia" tvg-logo="https://iptvx.one/picons/nostalgia.png" group-title="Развлекательные",Ностальгия
 http://178.124.152.238:8088/nostalgia
 #EXTINF:-1 tvg-id="deviatka" tvg-logo="https://iptvx.one/picons/deviatka.png" group-title="Развлекательные",Девятка
@@ -516,14 +516,14 @@ http://65.21.85.175:8000/play/a00y/index.m3u8?token=livetv
 http://185.50.148.2:7711/RodnoeKino/index.m3u8
 #EXTINF:-1 tvg-id="retro-tv" tvg-logo="https://iptvx.one/picons/retro-tv.png" group-title="Фильмы,сериалы",Ретро
 https://wowza4.leisertv.com/live/retrotv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Фильмы,сериалы",Советское родное
-
+#EXTINF:-1 tvg-id="sovkino" tvg-logo="https://iptvx.one/picons/sovkino.png" group-title="Фильмы,сериалы",Советское кино
+rtmp://5.182.229.90//6545
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-logo="https://iptvx.one/picons/lubimoe-kino.png" group-title="Фильмы,сериалы",Любимое Кино HD
 http://130.193.73.10:8937/play/a037
 #EXTINF:-1 tvg-id="dushevnoe" tvg-logo="https://iptvx.one/picons/dushevnoe-hd.png" group-title="Фильмы,сериалы",Душевное HD
 http://77.235.1.17/nash_kinoroman_hd/index.m3u8
 #EXTINF:-1 tvg-id="pro-lyubov" tvg-logo="https://iptvx.one/picons/pro-lyubov.png" group-title="Фильмы,сериалы",Про Любовь HD
-
+http://185.23.80.28:8080/ProLyubov/index.m3u8?token=test
 #EXTINF:-1 tvg-id="fox" tvg-logo="https://iptvx.one/picons/fox.png" group-title="Фильмы,сериалы",Fox
 http://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 tvg-id="foxlife" tvg-logo="https://iptvx.one/picons/foxlife.png" group-title="Фильмы,сериалы",Fox Life
@@ -677,13 +677,13 @@ https://stream2.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vip-premiere" tvg-logo="https://iptvx.one/picons/vip-premiere.png" group-title="Премьеры,хиты",Viju+ Premiere HD
 http://135.181.115.81:8000/play/a01a/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://iptvx.one/picons/vip-megahit.png" group-title="Премьеры,хиты",Viju+ Megahit HD
-http://77.235.1.17/vip_megahit/index.m3u8
+http://193.242.190.6:8099/201/index.m3u8
 #EXTINF:-1 tvg-id="kinoxit" tvg-logo="https://iptvx.one/picons/kinoxit.png" group-title="Премьеры,хиты",Кинохит
 http://185.50.148.2:7711/Kinohit/index.m3u8
 #EXTINF:-1 tvg-id="khit-hd" tvg-logo="https://iptvx.one/picons/khit.png" group-title="Премьеры,хиты",Хит HD
-http://77.235.1.17/hit/index.m3u8
+http://185.23.80.28:8080/Xit/index.m3u8?token=test
 #EXTINF:-1 tvg-id="amedia-hit" tvg-logo="https://iptvx.one/picons/amedia-hit.png" group-title="Премьеры,хиты",Amedia Hit HD
-http://77.235.1.17/amedia_hit/index.m3u8
+http://stream01.vnet.am/Nauka/index.m3u8
 #EXTINF:-1 tvg-id="amedia-premium" tvg-logo="https://iptvx.one/picons/amedia-premium.png" group-title="Премьеры,хиты",Amedia Premium HD
 http://195.18.23.20:8000/play/3/index.m3u8
 #EXTINF:-1 tvg-id="premialnoe-hd" tvg-logo="https://iptvx.one/picons/premialnoe-hd.png" group-title="Премьеры,хиты",Премиальное HD
