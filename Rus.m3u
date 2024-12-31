@@ -377,8 +377,8 @@ http://cdn-01.bonus-tv.ru:80/RussiaToday/index.m3u8
 
 #EXTINF:-1 tvg-id="2860" tvg-logo="http://epg.one/img2/2860.png" group-title="Новости",Sky News UK
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8 
-#EXTINF:-1 tvg-id="solovjinypomiot" tvg-id="solovjinypomiot" tvg-logo="https://epgx.site/p/solovjinypomiot.png" group-title="Новости",Соловьев Live
-https://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
+#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://epgx.site/p/solovjinypomiot.png" group-title="Новости",Соловьев Live
+https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 tvg-id="OSN.ru" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/ee/%D0%9E%D0%A1%D0%9D_%D0%A2%D0%92_2022.jpg/revision/latest?cb=20230511102442&path-prefix=ru" group-title="Новости",ОСН
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 
@@ -599,13 +599,13 @@ http://135.181.115.81:8000/play/a019/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="vip-serial" tvg-logo="https://iptvx.one/picons/vip-serial.png" group-title="Фильмы,сериалы",Viju+ Serial HD
 http://193.242.190.6:8099/204/index.m3u8
 #EXTINF:-1 tvg-id="start-world" tvg-logo="http://epg.it999.ru/img2/6240.png" group-title="Фильмы,сериалы",Start World
-
+http://live.admuspeh.my/8402/index.m3u8?token=test
 #EXTINF:-1 tvg-id="star-cinema" tvg-logo="https://iptvx.one/picons/star-cinema.png" group-title="Фильмы,сериалы",Star Cinema
 http://s7.merlive.am/starsinema/index.m3u8
 #EXTINF:-1 tvg-id="star-family" tvg-logo="https://iptvx.one/picons/star-family.png" group-title="Фильмы,сериалы",Star Family
 http://185.23.80.28:8080/StarFamily/index.m3u8?token=iptv50na50
 #EXTINF:-1 tvg-id="start-air" tvg-logo="https://iptvx.one/picons/start-air.png" group-title="Фильмы,сериалы",Start Air 
-
+http://live.admuspeh.my/8398/index.m3u8?token=test
 #EXTINF:-1 tvg-id="dorama" tvg-logo="https://iptvx.one/picons/dorama.png" group-title="Фильмы,сериалы",Дорама HD
 https://stream1.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinomiks" tvg-logo="https://iptvx.one/picons/kinomiks.png" group-title="Фильмы,сериалы",Киномикс HD
@@ -642,8 +642,8 @@ https://stream01.vnet.am/DomKino/mono.m3u8
 http://213.226.137.140:81/tl/l75/index.m3u8
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="Фильмы,сериалы",Мосфильм. Золотая коллекция
 rtmp://5.182.229.90//7347
-#EXTINF:-1 tvg-id="nashehd" tvg-logo="https://iptvx.one/picons/nashehd.png" group-title="Фильмы,сериалы",Наше HD
-http://77.235.1.17/nashe_krutoe/index.m3u8
+#EXTINF:-1 tvg-id="nashe-muzhskoe-hd" tvg-logo="https://iptvx.one/picons/nashe-muzhskoe-hd.png" group-title="Фильмы,сериалы",Наше Мужское HD
+http://185.23.80.28:8080/NasheMuzhskoe/index.m3u8?token=test
 #EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-logo="https://iptvx.one/picons/nashe-novoe-kino.png" group-title="Фильмы,сериалы",Наше новое кино HD
 http://178.212.71.253:8002/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="nash-kinopokaz-hd" tvg-logo="https://iptvx.one/picons/nash-kinopokaz.png" group-title="Фильмы,сериалы",Наш кинопоказ HD
@@ -659,7 +659,7 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="komedijnoe-hd" tvg-logo="https://iptvx.one/picons/komedijnoe-hd.png" group-title="Фильмы,сериалы",Комедийное HD
 
 #EXTINF:-1 tvg-id="kinokomedia" tvg-logo="https://iptvx.one/picons/kinokomedia.png" group-title="Фильмы,сериалы",Кинокомедия HD
-http://94.230.128.105:8080/Kinokomedia_TV/index.m3u8
+rtmp://5.182.229.90//7248
 #EXTINF:-1 tvg-id="romance" tvg-logo="https://iptvx.one/picons/romance.png" group-title="Фильмы,сериалы",Romance
 http://88.218.242.237:8000/play/a004
 #EXTINF:-1 tvg-id="plan-b" tvg-logo="https://iptvx.one/picons/plan-b.png" group-title="Фильмы,сериалы",Plan B
