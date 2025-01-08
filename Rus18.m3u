@@ -611,7 +611,7 @@ http://65.21.85.175:8000/play/a01c/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="kinosemiya" tvg-logo="https://iptvx.one/picons/kinosemia.png" group-title="Фильмы,сериалы",Киносемья HD
 https://stream2.cinerama.uz/1234/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinosvidanie" tvg-logo="https://iptvx.one/picons/kinosvidanie.png" group-title="Фильмы,сериалы",Киносвидание HD
-http://185.50.148.2:7711/Kinosvidanie/index.m3u8
+https://flussonic.salomtv.uz/Kinosvidanie/video.m3u8
 #EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="Фильмы,сериалы",Кино ТВ HD
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinopokaz" tvg-logo="https://iptvx.one/picons/kinopokaz.png" group-title="Фильмы,сериалы",Кинопоказ HD
