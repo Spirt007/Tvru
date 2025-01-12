@@ -17,13 +17,13 @@ https://stream1.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="setanta-kz" tvg-logo="https://iptvx.one/picons/setanta-kz.png" group-title="Спортивные",Setanta Казахстан
 http://194.26.229.213/TUDN_Setanta-Qazaqstan/index.m3u8?token=Panda
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спортивные",Матч!
-http://130.193.73.10:8937/play/a048
+http://213.226.137.140:81/tl/l320/mpegts
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://iptvx.one/picons/match-premiere.png" group-title="Спортивные",Матч! Премьер
-http://91.224.169.250:5000/c169
+
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://iptvx.one/picons/match-premiere.png" group-title="Спортивные",Матч! Премьер HD
 http://194.26.229.213/TUDN_NashFutHD/index.m3u8?token=Panda
 #EXTINF:-1 tvg-id="mir-basketbola" tvg-logo="https://iptvx.one/picons/mir-basketbola.png" group-title="Спортивные",Мир Баскетбола
-http://88.218.242.237:8000/play/a00e
+http://65.21.85.175:8000/play/a00c/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="kazsport" tvg-logo="https://iptvx.one/picons/kazsport.png" group-title="Спортивные",QazSport
 https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
 #EXTINF:-1 tvg-id="3553" tvg-logo="http://epg.one/img2/3553.png" group-title="Спортивные",Premier Sports 1
@@ -53,11 +53,23 @@ https://7pal.short.gy/tntspts2
 #EXTINF:-1 tvg-id="bt-sport3" tvg-logo="https://iptvx.one/picons/bt-sport3.png" group-title="Спортивные",TNT Sport 3
 https://7pal.short.gy/tntspts3
 #EXTINF:-1 tvg-id="bt-sport4" tvg-logo="https://iptvx.one/picons/bt-sport4.png" group-title="Спортивные",TNT Sport 4
-https://7pal.short.gy/tntspts4
+https://7pal.short.gy/tntspts46
+#EXTINF:-1 group-title="Спортивные",Polsat Sport 1 HD 
+http://178.219.128.68:64889/POLSSPORHD
+#EXTINF:-1 group-title="Спортивные",Polsat Sport 2 HD 🔇
+rtmp://5.182.229.90//7310
+#EXTINF:-1 group-title="Спортивные",Polsat Sport 3 HD 
+http://178.219.128.68:64889/POLSSPORNEWSHD
+#EXTINF:-1 group-title="Спортивные",Polsat Sport Fight 🔇
+rtmp://5.182.229.90//7311
+#EXTINF:-1 group-title="Спортивные",Polsat Sport Premium 1 Super HD
+rtmp://5.182.229.90//7304
+#EXTINF:-1 group-title="Спортивные",Polsat Sport Premium 2 Super HD
+rtmp://5.182.229.90//7305
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Turkmenistan_Sport.png/revision/latest?cb=20211225160814" group-title="Спортивные",Turkmenistan Sport 
 https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://epgx.site/p/okko-sport.png" group-title="Спортивные",Okko.Спорт
-rtmp://5.182.229.90//6554
+
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Спортивные",Real Madrid
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 #EXTINF:-1 tvg-id="4562" tvg-logo="http://epg.one/img2/4562.png" group-title="Спортивные",NHL Network US
