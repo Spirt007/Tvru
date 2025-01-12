@@ -18,7 +18,7 @@ https://stream1.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="setanta-kz" tvg-logo="https://iptvx.one/picons/setanta-kz.png" group-title="Спортивные",Setanta Казахстан
 http://194.26.229.213/TUDN_Setanta-Qazaqstan/index.m3u8?token=Panda
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спортивные",Матч!
-http://130.193.73.10:8937/play/a048
+http://213.226.137.140:81/tl/l320/mpegts
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://iptvx.one/picons/match-premiere.png" group-title="Спортивные",Матч! Премьер
 http://91.224.169.250:5000/c169
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://iptvx.one/picons/match-premiere.png" group-title="Спортивные",Матч! Премьер HD
