@@ -158,7 +158,7 @@ https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="krasnaya-linia" tvg-logo="https://iptvx.one/picons/krasnaya-linia.png" group-title="Общественные",Красная линия
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="prnk-tv" tvg-logo="https://iptvx.one/picons/prnk-tv.png" group-title="Общественные",ПРНК
-http://dmi3y-tv.ru/hls/CH_1RNKHD720.m3u8
+http://185.23.80.28:8080/Rezonans/index.m3u8?token=test
 #EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-logo="https://iptvx.one/picons/rtr-planeta.png" group-title="Общественные",РТР-Планета Европа
 https://player.smotrim.ru/iframe/stream/live_id/4941
 #EXTINF:-1 tvg-id="rtr-planeta-azia" tvg-logo="https://iptvx.one/picons/rtr-planeta-azia.png" group-title="Общественные",РТР-Планета Азия
@@ -341,10 +341,10 @@ http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-xit" tvg-logo="https://iptvx.one/picons/ntv-xit.png" group-title="НТВ",НТВ Хит
 http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-amerika" tvg-logo="https://iptvx.one/picons/ntv-amerika.png" group-title="НТВ",НТВ Америка
-
+http://4.59.210.197:8815/udp/127.0.0.1:6003
 #EXTINF:-1 tvg-id="ntv-mir" tvg-logo="https://iptvx.one/picons/ntv-mir.png" group-title="НТВ",НТВ-Мир
 https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8
-
+http://stream02.vnet.am/HTB/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="pervy-info-by" tvg-logo="https://iptvx.one/picons/pervy-info-by.png" group-title="Новости",Первый информационный
