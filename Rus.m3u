@@ -3,25 +3,25 @@
 #EXTINF:-1 tvg-id="match-football1" tvg-logo="https://iptvx.one/picons/match-football1.png" group-title="Спортивные",Матч! Футбол 1 HD
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:-1 tvg-id="match-football2" tvg-logo="https://iptvx.one/picons/match-football2.png" group-title="Спортивные",Матч! Футбол 2 HD
-http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
+http://141.95.55.143/CH3839/index.m3u8
 #EXTINF:-1 tvg-id="match-football3" tvg-logo="https://iptvx.one/picons/match-football3.png" group-title="Спортивные",Матч! Футбол 3 HD 
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 tvg-id="setanta-sports" tvg-logo="https://iptvx.one/picons/setanta-sports.png" group-title="Спортивные",Setanta Sports 1 HD
-https://stream1.cinerama.uz/1263/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="https://iptvx.one/picons/setanta-sports-plus.png" group-title="Спортивные",Setanta Sports 2 HD
-https://stream1.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="setanta-plus-ua" tvg-logo="https://iptvx.one/picons/setanta-plus-ua.png" group-title="Спортивные",Setanta+ Украина
 
 #EXTINF:-1 tvg-id="setanta-ua" tvg-logo="https://iptvx.one/picons/setanta-ua.png" group-title="Спортивные",Setanta Украина
 
 #EXTINF:-1 tvg-id="setanta-kz" tvg-logo="https://iptvx.one/picons/setanta-kz.png" group-title="Спортивные",Setanta Казахстан
-http://194.26.229.213/TUDN_Setanta-Qazaqstan/index.m3u8?token=Panda
+
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спортивные",Матч!
 http://213.226.137.140:81/tl/l320/mpegts
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://iptvx.one/picons/match-premiere.png" group-title="Спортивные",Матч! Премьер
 http://s1.merlive.am/matchpremier/index.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://iptvx.one/picons/match-premiere.png" group-title="Спортивные",Матч! Премьер HD
-http://194.26.229.213/TUDN_NashFutHD/index.m3u8?token=Panda
+http://live.admuspeh.my/8023/index.m3u8?token=iptv50na50
 #EXTINF:-1 tvg-id="mir-basketbola" tvg-logo="https://iptvx.one/picons/mir-basketbola.png" group-title="Спортивные",Мир Баскетбола
 http://65.21.85.175:8000/play/a00c/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="kazsport" tvg-logo="https://iptvx.one/picons/kazsport.png" group-title="Спортивные",QazSport
@@ -56,12 +56,18 @@ https://7pal.short.gy/tntspts3
 https://7pal.short.gy/tntspts46
 #EXTINF:-1 tvg-id="polsat-sport" tvg-logo="https://iptvx.one/picons/polsat-sport.png" group-title="Спортивные",Polsat Sport 1 HD 
 http://178.219.128.68:64889/POLSSPORHD
+#EXTINF:-1 gtvg-id="polsat-sport-extra" tvg-logo="https://epg.iptvx.one/picons/polsat-sport-extra.png" group-title="Спортивные",Polsat Sport 2
+http://185.236.229.62:9981/play/a07q
 #EXTINF:-1 tvg-id="polsat-sport-news" tvg-logo="https://iptvx.one/picons/polsat-sport-news.png" group-title="Спортивные",Polsat Sport 3 HD 
 http://178.219.128.68:64889/POLSSPORNEWSHD
+#EXTINF:-1 tvg-id="polsat-sport-pr1" tvg-logo="https://epg.iptvx.one/picons/polsat-sport-pr1.png" group-title="Спортивные",Polsat Sport Premium 1
+https://cdn-nvm-chicago3.lolokoko.tv/polsatsportp1.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="polsat-sport-pr2" tvg-logo="https://epg.iptvx.one/picons/polsat-sport-pr2.png" group-title="Спортивные",Polsat Sport Premium 2
+https://cdn-nvm-chicago3.lolokoko.tv/polsatsportp2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Turkmenistan_Sport.png/revision/latest?cb=20211225160814" group-title="Спортивные",Turkmenistan Sport 
 https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://epgx.site/p/okko-sport.png" group-title="Спортивные",Okko.Спорт
-http://103.241.66.27/okko-sport/video.m3u8?token=dY1LxEeVSf9SU1
+
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Спортивные",Real Madrid
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 #EXTINF:-1 tvg-id="4562" tvg-logo="http://epg.one/img2/4562.png" group-title="Спортивные",NHL Network US
@@ -75,13 +81,13 @@ http://45.159.74.14:80/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://iptvx.one/picons/eurosport2.png" group-title="Спортивные",Eurosport 2 HD
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 #EXTINF:-1 tvg-id="viasat-sport" tvg-logo="https://iptvx.one/picons/viasat-sport.png" group-title="Спортивные",Viasat Sport
-http://edge02.odtv.az/o7/viasatsport/playlist.m3u8
+http://213.226.137.140:81/tl/l97/mpegts
 #EXTINF:-1 tvg-id="extreme-sports" tvg-logo="https://iptvx.one/picons/extreme-sports.png" group-title="Спортивные",Extreme Sports
-http://edge02.odtv.az/o4/extremesport/playlist.m3u8
+http://109.200.130.123:7537/play/a02p
 #EXTINF:-1 tvg-id="start" tvg-logo="https://iptvx.one/picons/start.png" group-title="Спортивные",Старт
 http://185.23.80.28:8080/START/index.m3u8?token=test
 #EXTINF:-1 tvg-id="start-triumf" tvg-logo="https://iptvx.one/picons/start-triumf.png" group-title="Спортивные",Старт Триумф
-http://88.218.242.237:8000/play/a00d
+
 #EXTINF:-1 tvg-id="start-turan" tvg-logo="https://iptvx.one/picons/start-turan.png" group-title="Спортивные", Старт Туран
 
 #EXTINF:-1 tvg-id="match-igra" tvg-logo="https://iptvx.one/picons/match-igra.png" group-title="Спортивные",Матч! Игра
@@ -103,12 +109,12 @@ http://31.210.208.171:8080/football/index.m3u8?token=+W2MSE
 #EXTINF:-1 tvg-id="xokkejny" tvg-logo="https://iptvx.one/picons/xokkejny.png" group-title="Спортивные",Хоккейный HD
 
 #EXTINF:-1 tvg-id="konny-mir" tvg-logo="https://iptvx.one/picons/konny-mir.png" group-title="Спортивные",Конный мир HD
-http://141.95.55.143/CH577/tracks-v1a1/mono.m3u8
+
 
 
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные",Первый HD
-http://tv.streams.baikal-telecom.net:8080/PerviyHD/index.m3u8
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Общественные",Россия 1 
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Общественные",НТВ
@@ -507,7 +513,7 @@ https://wowza5.leisertv.com/live/vipcomedyhd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="tv1000-worldkino" tvg-logo="https://iptvx.one/picons/tv1000-worldkino.png" group-title="Фильмы,сериалы",Viasat Kino World
 https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6005.png" group-title="Фильмы,сериалы",Видеокассета HD
-https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
+https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
 #EXTINF:-1 tvg-id="vhs-ka" tvg-logo="https://iptvx.one/picons/vhs-ka.png" group-title="Фильмы,сериалы",VHS-ка
 http://88.218.242.237:8000/play/a00x
 #EXTINF:-1 tvg-id="ostrosiuzhetnoe" tvg-logo="https://iptvx.one/picons/ostrosiuzhetnoe-hd.png" group-title="Фильмы,сериалы",Остросюжетное
@@ -529,7 +535,7 @@ http://185.50.148.2:7711/RodnoeKino/index.m3u8
 #EXTINF:-1 tvg-id="retro-tv" tvg-logo="https://iptvx.one/picons/retro-tv.png" group-title="Фильмы,сериалы",Ретро
 https://wowza4.leisertv.com/live/retrotv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="sovkino" tvg-logo="https://iptvx.one/picons/sovkino.png" group-title="Фильмы,сериалы",Советское кино
-rtmp://5.182.229.90//6545
+
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-logo="https://iptvx.one/picons/lubimoe-kino.png" group-title="Фильмы,сериалы",Любимое Кино HD
 http://130.193.73.10:8937/play/a037
 #EXTINF:-1 tvg-id="dushevnoe" tvg-logo="https://iptvx.one/picons/dushevnoe-hd.png" group-title="Фильмы,сериалы",Душевное HD
@@ -821,6 +827,10 @@ https://stream2.cinerama.uz/1231/tracks-v1a1/mono.m3u8
 http://edge02.odtv.az/o1/sovershennosekretno/playlist.m3u8
 #EXTINF:-1 tvg-id="istoria" tvg-logo="http://epg.it999.ru/img2/1036.png" group-title="Познавательные",История
 http://stream01.vnet.am/Istoria/mono.m3u8
+#EXTINF:-1 tvg-id="history" tvg-logo="https://epg.iptvx.one/picons/history.png" group-title="Познавательные",History
+http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="h2" tvg-logo="https://epg.iptvx.one/picons/h2.png" group-title="Познавательные",History2
+https://woobl.ru/stream/2033.m3u8
 #EXTINF:-1 tvg-id="RTG" tvg-logo="http://epg.one/img2/2280.png" group-title="Познавательные",RTG TV
 http://195.26.83.96:7007/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="moya-planeta" tvg-logo="https://iptvx.one/picons/moya-planeta.png" group-title="Познавательные",Моя Планета
