@@ -69,7 +69,7 @@ https://cdn-nvm-chicago3.lolokoko.tv/polsatsportp2.stream/chunks.m3u8
 https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://epgx.site/p/okko-sport.png" group-title="Спортивные",Okko.Спорт
 
-#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Спортивные",Real Madrid
+#EXTINF:-1 tvg-id="real-madrid-tv" tvg-logo="https://epg.iptvx.one/picons/real-madrid-tv.png" group-title="Спортивные",Real Madrid
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 #EXTINF:-1 tvg-id="4562" tvg-logo="http://epg.one/img2/4562.png" group-title="Спортивные",NHL Network US
 
