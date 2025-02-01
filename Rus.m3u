@@ -696,9 +696,9 @@ http://185.23.80.28:8080/TRASH/index.m3u8?token=test
 
 
 #EXTINF:-1 tvg-id="kinopremiera-hd" tvg-logo="https://iptvx.one/picons/kinopremiera.png" group-title="Премьеры,хиты",Кинопремьера
-https://stream2.cinerama.uz/1207/tracks-v1a1/mono.m3u8
+http://193.242.190.6:8099/35/index.m3u8
 #EXTINF:-1 tvg-id="vip-premiere" tvg-logo="https://iptvx.one/picons/vip-premiere.png" group-title="Премьеры,хиты",Viju+ Premiere HD
-http://135.181.115.81:8000/play/a01a/index.m3u8?token=livetv
+http://213.226.137.140:81/tl/l319/mpegts
 #EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://iptvx.one/picons/vip-megahit.png" group-title="Премьеры,хиты",Viju+ Megahit HD
 http://193.242.190.6:8099/201/index.m3u8
 #EXTINF:-1 tvg-id="kinoxit" tvg-logo="https://iptvx.one/picons/kinoxit.png" group-title="Премьеры,хиты",Кинохит
@@ -710,9 +710,9 @@ http://stream01.vnet.am/Nauka/index.m3u8
 #EXTINF:-1 tvg-id="amedia-premium" tvg-logo="https://iptvx.one/picons/amedia-premium.png" group-title="Премьеры,хиты",Amedia Premium HD
 http://195.18.23.20:8000/play/3/index.m3u8
 #EXTINF:-1 tvg-id="premialnoe-hd" tvg-logo="https://iptvx.one/picons/premialnoe-hd.png" group-title="Премьеры,хиты",Премиальное HD
-rtmp://5.182.229.90//7222
+http://live.admuspeh.my/8028/video.m3u8?token=test
 #EXTINF:-1 tvg-id="blokbaster-hd" tvg-logo="https://iptvx.one/picons/blokbaster.png" group-title="Премьеры,хиты",Блокбастер HD
-
+http://live.admuspeh.my/8939/index.m3u8?token=test
 
 
 
