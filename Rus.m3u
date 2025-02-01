@@ -604,6 +604,9 @@ http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv
 https://stream1.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-logo="https://iptvx.one/picons/viju-tv1000-novella.png" group-title="Фильмы,сериалы",Viju TV1000 Новелла
 
+
+#EXTINF:-1 tvg-id="viju-tv1000-romantica" tvg-logo="https://epg.iptvx.one/picons/viju-tv1000-romantica.png" group-title="Фильмы,сериалы",Viju TV1000 romantica
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=SROk_Ce-mN89NVb3Xx61Gw&e=1738467565&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad
 #EXTINF:-1 tvg-id="vip-comedy" tvg-logo="https://iptvx.one/picons/vip-comedy.png" group-title="Фильмы,сериалы",Viju+ Comedy HD
 http://135.181.115.81:8000/play/a019/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="vip-serial" tvg-logo="https://iptvx.one/picons/vip-serial.png" group-title="Фильмы,сериалы",Viju+ Serial HD
