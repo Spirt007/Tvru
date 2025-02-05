@@ -894,7 +894,7 @@ http://tv.streams.baikal-telecom.net:8080/NanoTV/index.m3u8
 #EXTINF:-1 tvg-id="penthouse-hd" tvg-logo="https://iptvx.one/picons/penthouse-hd.png" group-title="18+",Penthouse Reality TV
 
 #EXTINF:-1 tvg-id="blue-hustler" tvg-logo="https://iptvx.one/picons/hustler-hd.png" group-title="18+",Hustler HD
-
+https://89.187.167.247/hustler.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="private-tv" tvg-logo="https://iptvx.one/picons/private-tv.png" group-title="18+",Private HD
 
 #EXTINF:-1 tvg-id="3253" tvg-logo="http://epg.one/img2/3253.png" group-title="18+",Venus
