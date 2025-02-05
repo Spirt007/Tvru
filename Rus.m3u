@@ -822,13 +822,13 @@ http://stream01.vnet.am/Channel_117/mono.m3u8
 
 #EXTINF:-1 tvg-id="mtv-hits" tvg-logo="https://iptvx.one/picons/mtv-hits.png" group-title="Музыкальные",MTV Hits 
 
-#EXTINF:-1 tvg-id="mtv-80s-uk" tvg-logo="https://epg.iptvx.one/picons/mtv-80s-uk.png" group-title="Музыка",MTV 80's
+#EXTINF:-1 tvg-id="mtv-80s-uk" tvg-logo="https://epg.iptvx.one/picons/mtv-80s-uk.png" group-title="Музыкальные",MTV 80's
 http://213.226.137.140:81/tl/l108/mpegts
 #EXTINF:-1 tvg-id="mtv90s-uk" tvg-logo="https://epg.iptvx.one/picons/mtv90s-uk.png" group-title="Музыкальные",MTV 90's
 http://45.88.92.3:80/tr3_MTVRocks_SD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="retro-music-cz" tvg-logo="https://iptvx.one/picons/retro-music-cz.png" group-title="Музыкальные",Retro Music TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-id="muzyka-pervogo" tvg-logo="https://iptvx.one/picons/muzyka-pervogo.png" group-title="Музыкальные,Музыка Первого 
+#EXTINF:-1 tvg-id="muzyka-pervogo" tvg-logo="https://iptvx.one/picons/muzyka-pervogo.png" group-title="Музыкальные",Музыка Первого 
 http://185.50.148.2:7707/MuzikaPervogo/index.m3u8
 #EXTINF:-1 tvg-id="onemuz" tvg-logo="https://iptvx.one/picons/1muz.png" group-title="Музыкальные,Первый музыкальный HD
 http://hz1.teleport.cc/HLS/HD.m3u8
