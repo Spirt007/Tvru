@@ -555,7 +555,7 @@ http://185.23.80.28:8080/ProLyubov/index.m3u8?token=test
 #EXTINF:-1 tvg-id="fox" tvg-logo="https://iptvx.one/picons/fox.png" group-title="Фильмы,сериалы",Fox
 http://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 tvg-id="foxlife" tvg-logo="https://iptvx.one/picons/foxlife.png" group-title="Фильмы,сериалы",Fox Life
-http://stream01.vnet.am/KXLTV/mono.m3u8
+http://dmi3y-tv.ru/hls/CH_FOXLIFE.m3u8
 #EXTINF:-1 tvg-id="filmbox-ru" tvg-logo="https://iptvx.one/picons/filmbox-ru.png" group-title="Фильмы,сериалы",FilmBox HD Russia
 http://88.85.172.243:7013/play/a017 
 #EXTINF:-1 tvg-id="filmzone" tvg-logo="https://iptvx.one/picons/filmzone.png" group-title="Фильмы,сериалы",FilmZone
