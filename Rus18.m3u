@@ -250,7 +250,7 @@ http://dmi3y-tv.ru/hls/zabava/region/KIROV/CH_9TVHD.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
 #EXTINF:-1 tvg-id="zapad-24" tvg-logo="https://iptvx.one/picons/zapad-24.png" group-title="Региональные",Запад 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
 #EXTINF:-1 tvg-id="arxyz24" tvg-logo="https://iptvx.one/picons/arxyz24.png" group-title="Региональные",Архыз 24
 https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
 #EXTINF:-1 tvg-id="bashkortostan24" tvg-logo="https://iptvx.one/picons/bashkortostan24.png" group-title="Региональные",Башкортостан 24
