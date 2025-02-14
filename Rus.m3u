@@ -1,15 +1,15 @@
 #EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="match-football1" tvg-logo="https://iptvx.one/picons/match-football1.png" group-title="Спортивные",Матч! Футбол 1 HD
-http://91.207.115.228:5000/c114
+http://cdn.admuspeh.my/8021/index.m3u8?token=test
 #EXTINF:-1 tvg-id="match-football2" tvg-logo="https://iptvx.one/picons/match-football2.png" group-title="Спортивные",Матч! Футбол 2 HD
-http://141.95.55.143/CH3839/index.m3u8
+http://194.26.203.25/8022/index.m3u8?token=test
 #EXTINF:-1 tvg-id="match-football3" tvg-logo="https://iptvx.one/picons/match-football3.png" group-title="Спортивные",Матч! Футбол 3 HD 
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 tvg-id="setanta-sports" tvg-logo="https://iptvx.one/picons/setanta-sports.png" group-title="Спортивные",Setanta Sports 1 HD
-
+http://cdn.admuspeh.my/8379/video.m3u8?token=test
 #EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="https://iptvx.one/picons/setanta-sports-plus.png" group-title="Спортивные",Setanta Sports 2 HD
-
+http://cdn.admuspeh.my/8676/index.m3u8?token=test
 #EXTINF:-1 tvg-id="setanta-plus-ua" tvg-logo="https://iptvx.one/picons/setanta-plus-ua.png" group-title="Спортивные",Setanta+ Украина
 
 #EXTINF:-1 tvg-id="setanta-ua" tvg-logo="https://iptvx.one/picons/setanta-ua.png" group-title="Спортивные",Setanta Украина
@@ -19,13 +19,13 @@ http://185.57.68.33/110/mpegts
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спортивные",Матч!
 http://213.226.137.140:81/tl/l320/mpegts
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://iptvx.one/picons/match-premiere.png" group-title="Спортивные",Матч! Премьер
-http://s1.merlive.am/matchpremier/index.m3u8
+
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://iptvx.one/picons/match-premiere.png" group-title="Спортивные",Матч! Премьер HD
-http://live.admuspeh.my/8023/index.m3u8?token=iptv50na50
+http://185.37.150.46:8092/Nash_futbol_HD/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="mir-basketbola" tvg-logo="https://iptvx.one/picons/mir-basketbola.png" group-title="Спортивные",Мир Баскетбола
 http://65.21.85.175:8000/play/a00c/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="kazsport" tvg-logo="https://iptvx.one/picons/kazsport.png" group-title="Спортивные",QazSport
-https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
+http://87.76.32.36:9100/udp/238.1.0.30:2000
 #EXTINF:-1 tvg-id="3553" tvg-logo="http://epg.one/img2/3553.png" group-title="Спортивные",Premier Sports 1
 https://7pal.short.gy/prsport1
 #EXTINF:-1 tvg-logo="" group-title="Спортивные",Premier Sports 2
@@ -33,19 +33,27 @@ https://7pal.short.gy/prsport2
 #EXTINF:-1 tvg-id="Futbol.tj" tvg-logo="https://i.imgur.com/RngmCDn.png" group-title="Спортивные",Futbol
 https://live.teleradiocom.tj/8/3m.m3u8
 #EXTINF:-1 tvg-id="sky-sports-action" tvg-logo="https://iptvx.one/picons/sky-sports-action.png" group-title="Спортивные",Sky Sports Action
-
+https://7pal.short.gy/ssportsat
 #EXTINF:-1 tvg-id="sky-sports-golf" tvg-logo="https://iptvx.one/picons/sky-sports-golf.png" group-title="Спортивные",Sky Sports Golf
-
+https://7pal.short.gy/ssportsgf
 #EXTINF:-1 tvg-id="sky-sports-apl" tvg-logo="https://iptvx.one/picons/sky-sports-apl.png" group-title="Спортивные",Sky Sports Premier League
-
+https://7pal.short.gy/ssportspl
 #EXTINF:-1 tvg-id="sky-sports-f1" tvg-logo="https://iptvx.one/picons/sky-sports-f1.png" group-title="Спортивные",Sky Sports F1
 https://7pal.short.gy/SSF1uhd
 #EXTINF:-1tvg-id="sky-sports-football" tvg-logo="https://iptvx.one/picons/sky-sports-football.png"  group-title="Спортивные",Sky Sports Football
 https://7pal.short.gy/ssportsfb
 #EXTINF:-1 tvg-id="sky-sports-maine" tvg-logo="https://iptvx.one/picons/sky-sports-maine.png" group-title="Спортивные",Sky Sports Main Event
-
+https://7pal.short.gy/skspmaine
 #EXTINF:-1 tvg-id="sky-sports-news" tvg-logo="https://iptvx.one/picons/sky-sports-news.png" group-title="Спортивные",Sky Sports News
 https://7pal.short.gy/ssportsnw
+#EXTINF:-1 tvg-id="sky-sport-hd1" tvg-logo="https://epg.iptvx.one/picons/sky-sport-hd1.png" group-title="Спортивные",Sky Sports 1
+https://7pal.short.gy/skyspt1nz
+#EXTINF:-1 tvg-id="sky-sport-hd2" tvg-logo="https://epg.iptvx.one/picons/sky-sport-hd2.png" group-title="Спортивные",Sky Sports 2 
+https://7pal.short.gy/skyspt2nz
+#EXTINF:-1 tvg-id="sky-sport-hd3" tvg-logo="https://epg.iptvx.one/picons/sky-sport-hd3.png" group-title="Спортивные",Sky Sports 3
+https://7pal.short.gy/skyspt3nz
+#EXTINF:-1 tvg-id="sky-sport-hd4" tvg-logo="https://epg.iptvx.one/picons/sky-sport-hd4.png" group-title="Спортивные",Sky Sports 4
+https://7pal.short.gy/skyspt4nz
 #EXTINF:-1 tvg-id="bt-sport1" tvg-logo="https://iptvx.one/picons/bt-sport1.png" group-title="Спортивные",TNT Sport 1
 https://7pal.short.gy/tntspts1
 #EXTINF:-1 tvg-id="bt-sport2" tvg-logo="https://iptvx.one/picons/bt-sport2.png" group-title="Спортивные",TNT Sport 2
