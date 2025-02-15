@@ -247,7 +247,7 @@ http://185.23.80.28:8080/Klyuch/index.m3u8?token=test
 #EXTINF:-1 tvg-id="narod-vsio-vidit" tvg-logo="https://iptvx.one/picons/narod-vsio-vidit.png" group-title="Развлекательные",Народ Всë Видит
 
 #EXTINF:-1 tvg-id="tochka-tv" tvg-logo="https://iptvx.one/picons/tochka-tv.png" group-title="Развлекательные",Точка ТВ 
-http://94.230.128.105:8080/TochkaTV/mono.m3u8
+http://31.148.48.15/Tochka_TV/index.m3u8
 #EXTINF:-1 tvg-id="nostalgia" tvg-logo="https://iptvx.one/picons/nostalgia.png" group-title="Развлекательные",Ностальгия
 
 #EXTINF:-1 tvg-id="deviatka" tvg-logo="https://iptvx.one/picons/deviatka.png" group-title="Развлекательные",Девятка
