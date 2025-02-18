@@ -519,7 +519,7 @@ http://hls.goodgame.ru:8080/hls/204708.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Фильмы,сериалы",2FILMAX Комедия
 http://hls.goodgame.ru:8080/hls/204717.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://online-tv.live/images/filmax-melodrama.png" group-title="Фильмы,сериалы",3FILMAX Мелодрама
-https://tvcdnpotok.com/KjeJtQP4J92_uGIgt3SGvA/142/1739899671/index.m3u8
+
 #EXTINF:-1 tvg-id="suspense" tvg-logo="https://epg.iptvx.one/picons/suspense.png" group-title="Фильмы,сериалы",Suspense
 
 #EXTINF:-1 tvg-id="kion-xit" tvg-logo="https://epg.iptvx.one/picons/kion-xit.png" group-title="Фильмы,сериалы",KION Хит
