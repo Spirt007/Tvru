@@ -514,10 +514,12 @@ http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
 
 #EXTINF:-1 group-title="Фильмы,сериалы",Sunset Fantastic
 https://stream.sunset-media.ru:443/AfBrazXsUK/J9hGT3vYuv/8.m3u8
-#EXTINF:-1 group-title="Фильмы,сериалы",1FILMAX
+#EXTINF:-1 tvg-logo="https://online-tv.live/images/filmax-fantastika.png" group-title="Фильмы,сериалы",1FILMAX Фантастика
 http://hls.goodgame.ru:8080/hls/204708.m3u8
-#EXTINF:-1 group-title="Фильмы,сериалы",2FILMAX
+#EXTINF:-1 tvg-logo="" group-title="Фильмы,сериалы",2FILMAX Комедия
 http://hls.goodgame.ru:8080/hls/204717.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://online-tv.live/images/filmax-melodrama.png" group-title="Фильмы,сериалы",3FILMAX Мелодрама
+https://tvcdnpotok.com/KjeJtQP4J92_uGIgt3SGvA/142/1739899671/index.m3u8
 #EXTINF:-1 tvg-id="suspense" tvg-logo="https://epg.iptvx.one/picons/suspense.png" group-title="Фильмы,сериалы",Suspense
 
 #EXTINF:-1 tvg-id="kion-xit" tvg-logo="https://epg.iptvx.one/picons/kion-xit.png" group-title="Фильмы,сериалы",KION Хит
@@ -714,7 +716,7 @@ http://194.158.222.36:6086
 
 #EXTINF:-1 tvg-id="scream" tvg-logo="https://epg.iptvx.one/picons/scream.png" group-title="Фильмы,сериалы",Scream
 http://185.23.80.28:8080/Scream/index.m3u8?token=test
-#EXTINF:-1 group-title="Фильмы,сериалы",Кошмар
+#EXTINF:-1 tvg-logo="https://online-tv.live/images/koshmar-hd.png" group-title="Фильмы,сериалы",Кошмар
 http://hls.goodgame.ru:8080/hls/204709.m3u8
 #EXTINF:-1 tvg-id="strashnoe-hd" tvg-logo="https://epg.iptvx.one/picons/strashnoe-hd.png" group-title="Фильмы,сериалы",Страшное HD
 
