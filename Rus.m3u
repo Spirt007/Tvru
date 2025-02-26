@@ -669,9 +669,9 @@ http://193.242.190.6:8099/202/index.m3u8
 #EXTINF:-1 tvg-id="start-world" tvg-logo="http://epg.it999.ru/img2/6240.png" group-title="Фильмы,сериалы",Start World
 http://95.156.76.230:33001/udp/230.4.34.66:1234
 #EXTINF:-1 tvg-id="star-cinema" tvg-logo="https://iptvx.one/picons/star-cinema.png" group-title="Фильмы,сериалы",Star Cinema
-http://185.23.80.28:8080/StarCinema/index.m3u8?token=tva.in.ua
+http://87.99.87.203:2020/channel/30f8846c/index.m3u8?q=c155fd146caa671acca6c6873fe5c176
 #EXTINF:-1 tvg-id="star-family" tvg-logo="https://iptvx.one/picons/star-family.png" group-title="Фильмы,сериалы",Star Family
-http://185.23.80.28:8080/StarFamily/index.m3u8?token=tva.in.ua
+http://87.99.87.203:2020/channel/n7f599ce7/index.m3u8?q=c155fd146caa671acca6c6873fe5c176
 #EXTINF:-1 tvg-id="start-air" tvg-logo="https://iptvx.one/picons/start-air.png" group-title="Фильмы,сериалы",Start Air 
 
 #EXTINF:-1 tvg-id="dorama" tvg-logo="https://iptvx.one/picons/dorama.png" group-title="Фильмы,сериалы",Дорама HD
