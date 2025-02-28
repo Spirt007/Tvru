@@ -549,7 +549,9 @@ http://hls.goodgame.ru:8080/hls/204717.m3u8
 #EXTINF:-1 tvg-id="kion-xit" tvg-logo="https://epg.iptvx.one/picons/kion-xit.png" group-title="Фильмы,сериалы",KION Хит
 
 #EXTINF:-1 tvg-id="pobeda" tvg-logo="https://iptvx.one/picons/pobeda.png" group-title="Фильмы,сериалы",Победа
-http://185.50.148.2:7707/Pobeda/index.m3u8
+
+EXTVLCOPT:http-referrer=https://pobeda.tv/
+https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b5128000_slru.m3u8
 #EXTINF:-1  tvg-id="denpobedy" tvg-logo="https://iptvx.one/picons/denpobedy.png" group-title="Фильмы,сериалы",День Победы HD
 
 #EXTINF:-1 tvg-id="paramount-comedy" tvg-logo="https://iptvx.one/picons/paramount-comedy.png" group-title="Фильмы,сериалы",Comedy Central HD
@@ -563,7 +565,7 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist
 #EXTINF:-1 audio-track="ru" tvg-id="tv1000-cee" tvg-logo="https://iptvx.one/picons/tv1000-cee.png" group-title="Фильмы,сериалы",Viasat Kino
 
 #EXTINF:-1tvg-id="vip-comedy-cee" tvg-logo="https://iptvx.one/picons/vip-comedy-cee.png" group-title="Фильмы,сериалы",Viasat Kino Comedy
-http://213.226.137.140:81/tl/l1243/mpegts
+
 #EXTINF:-1 tvg-id="tv1000-worldkino" tvg-logo="https://iptvx.one/picons/tv1000-worldkino.png" group-title="Фильмы,сериалы",Viasat Kino World
 https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6005.png" group-title="Фильмы,сериалы",Видеокассета HD
