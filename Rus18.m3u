@@ -544,14 +544,12 @@ https://stream.sunset-media.ru:443/AfBrazXsUK/J9hGT3vYuv/8.m3u8
 http://hls.goodgame.ru:8080/hls/204708.m3u8
 #EXTINF:-1 tvg-logo="https://online-tv.live/images/2filmax.png" group-title="Фильмы,сериалы",2FILMAX Комедия
 http://hls.goodgame.ru:8080/hls/204717.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://online-tv.live/images/filmax-melodrama.png" group-title="Фильмы,сериалы",3FILMAX Мелодрама
-
 #EXTINF:-1 tvg-id="suspense" tvg-logo="https://epg.iptvx.one/picons/suspense.png" group-title="Фильмы,сериалы",Suspense
 
 #EXTINF:-1 tvg-id="kion-xit" tvg-logo="https://epg.iptvx.one/picons/kion-xit.png" group-title="Фильмы,сериалы",KION Хит
 
 #EXTINF:-1 tvg-id="pobeda" tvg-logo="https://iptvx.one/picons/pobeda.png" group-title="Фильмы,сериалы",Победа
-
+https://streaming101.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1  tvg-id="denpobedy" tvg-logo="https://iptvx.one/picons/denpobedy.png" group-title="Фильмы,сериалы",День Победы HD
 
 #EXTINF:-1 tvg-id="paramount-comedy" tvg-logo="https://iptvx.one/picons/paramount-comedy.png" group-title="Фильмы,сериалы",Comedy Central HD
@@ -587,9 +585,9 @@ http://130.193.73.10:8937/play/a03o
 #EXTINF:-1 tvg-id="russky-illuzion" tvg-logo="https://iptvx.one/picons/russky-illuzion.png" group-title="Фильмы,сериалы",Русский Иллюзион
 http://195.26.83.96:7006/play/a00y/index.m3u8
 #EXTINF:-1 tvg-id="russky-roman" tvg-logo="https://iptvx.one/picons/russky-roman.png" group-title="Фильмы,сериалы",Русский роман
-http://193.242.190.6:8099/39/index.m3u8
+http://178.57.121.38:8080/rusrom/index.m3u8?token=test
 #EXTINF:-1 tvg-id="rodnoe-kino"tvg-logo="https://iptvx.one/picons/rodnoe-kino.png" group-title="Фильмы,сериалы",Родное кино
-http://185.50.148.2:7711/RodnoeKino/index.m3u8
+http://31.148.48.15/Rodnoe_kino/index.m3u8
 #EXTINF:-1 tvg-id="retro-tv" tvg-logo="https://iptvx.one/picons/retro-tv.png" group-title="Фильмы,сериалы",Ретро
 
 #EXTINF:-1 tvg-id="sovkino" tvg-logo="https://iptvx.one/picons/sovkino.png" group-title="Фильмы,сериалы",Советское кино
@@ -599,7 +597,7 @@ http://130.193.73.10:8937/play/a037
 #EXTINF:-1 tvg-id="dushevnoe" tvg-logo="https://iptvx.one/picons/dushevnoe-hd.png" group-title="Фильмы,сериалы",Душевное HD
 http://193.242.190.6:8099/37/index.m3u8
 #EXTINF:-1 tvg-id="pro-lyubov" tvg-logo="https://iptvx.one/picons/pro-lyubov.png" group-title="Фильмы,сериалы",Про Любовь HD
-http://185.23.80.28:8080/ProLyubov/index.m3u8?token=test
+http://185.23.80.29:8080/ProLyubov/index.m3u8?token=test
 #EXTINF:-1 tvg-id="lavstori-hd" tvg-logo="https://epg.iptvx.one/picons/lavstori-hd.png" group-title="Фильмы,сериалы",Лавстори HD
 
 #EXTINF:-1 tvg-id="fox" tvg-logo="https://iptvx.one/picons/fox.png" group-title="Фильмы,сериалы",Fox
@@ -607,7 +605,7 @@ http://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 tvg-id="foxlife" tvg-logo="https://iptvx.one/picons/foxlife.png" group-title="Фильмы,сериалы",Fox Life
 http://dmi3y-tv.ru/hls/CH_FOXLIFE.m3u8
 #EXTINF:-1 tvg-id="filmbox-ru" tvg-logo="https://iptvx.one/picons/filmbox-ru.png" group-title="Фильмы,сериалы",FilmBox HD
-http://130.193.73.10:8937/play/a03s 
+http://130.193.73.10:8937/play/a03s  
 #EXTINF:-1 tvg-id="filmzone" tvg-logo="https://iptvx.one/picons/filmzone.png" group-title="Фильмы,сериалы",FilmZone
 
 #EXTINF:-1 tvg-id="shot-tv" tvg-logo="https://iptvx.one/picons/shot-tv.png" group-title="Фильмы,сериалы",Shot TV
@@ -619,7 +617,7 @@ http://109.200.130.123:7537/play/a02k
 #EXTINF:-1 tvg-id="tvxxi" tvg-logo="https://iptvx.one/picons/tvxxi.png" group-title="Фильмы,сериалы",TV XXI
 http://31.210.208.171:8080/xxi/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="illuzion-plus" tvg-logo="https://iptvx.one/picons/illuzion-plus.png" group-title="Фильмы,сериалы",Иллюзион+ HD
-http://185.23.80.28:8080/Illyuzion+/index.m3u8?token=test
+http://185.23.80.29:8080/Illyuzion+/index.m3u8?token=test
 #EXTINF:-1 tvg-id="flixsnip" tvg-logo="https://iptvx.one/picons/flixsnip.png" group-title="Фильмы,сериалы",FlixSnip
 http://130.193.73.10:8937/play/a02r
 #EXTINF:-1 tvg-id="312-kino" tvg-logo="https://iptvx.one/picons/312-kino.png" group-title="Фильмы,сериалы",312 Кино HD
@@ -630,8 +628,6 @@ http://176.126.166.43:1935/live/312musik/playlist.m3u8
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="https://iptvx.one/picons/russkaya-komedia.png" group-title="Фильмы,сериалы",Русская комедия
 http://130.193.73.10:8937/play/a03k
-#EXTINF:-1 tvg-id="muzhskoe-kino" tvg-logo="https://iptvx.one/picons/muzhskoe-kino.png" group-title="Фильмы,сериалы",Мужское Кино HD
-http://213.226.137.140:81/tl/l111/mpegts
 #EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://iptvx.one/picons/sony-turbo.png" group-title="Фильмы,сериалы",.Black HD
 http://109.200.130.123:7537/play/a02s
 #EXTINF:-1 tvg-id="sony-tv" tvg-logo="https://iptvx.one/picons/sony.png" group-title="Фильмы,сериалы",.Red HD
@@ -687,18 +683,17 @@ http://193.242.190.6:8099/85/index.m3u8
 #EXTINF:-1 tvg-id="kinosvidanie" tvg-logo="https://iptvx.one/picons/kinosvidanie.png" group-title="Фильмы,сериалы",Киносвидание HD
 https://flussonic.salomtv.uz/Kinosvidanie/video.m3u8
 #EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="Фильмы,сериалы",Кино ТВ HD
-http://193.242.190.6:8099/88/index.m3u8
+
 #EXTINF:-1 tvg-id="kinopokaz" tvg-logo="https://iptvx.one/picons/kinopokaz.png" group-title="Фильмы,сериалы",Кинопоказ HD
 http://185.23.80.28:8080/Kinopokaz/index.m3u8?token=test
 #EXTINF:-1 tvg-id="kinosezon" tvg-logo="https://iptvx.one/picons/kinosezon.png" group-title="Фильмы,сериалы",КиноСезон
 
-
 #EXTINF:-1 tvg-id="kinoseria" tvg-logo="https://iptvx.one/picons/kinoseria.png" group-title="Фильмы,сериалы",Киносерия HD
 http://31.210.208.171:8080/kinoseriya/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="kinosemiya" tvg-logo="https://iptvx.one/picons/kinosemia.png" group-title="Фильмы,сериалы",Киносемья HD
-http://193.242.190.6:8099/85/index.m3u8
+http://178.212.71.253:8000/play/127/index.m3u8
 #EXTINF:-1 tvg-id="kinosvidanie" tvg-logo="https://iptvx.one/picons/kinosvidanie.png" group-title="Фильмы,сериалы",Киносвидание HD
-http://77.239.125.42:8070/@Dimonovich1982_kinodatehd/index.m3u8
+http://178.212.71.253:8000/play/122/index.m3u8
 #EXTINF:-1 tvg-id="kinosat" tvg-logo="https://iptvx.one/picons/kinosat.png" group-title="Фильмы,сериалы",Киносат HD
 http://185.23.80.28:8080/KinoSat/index.m3u8?token=test
 #EXTINF:-1 tvg-id="pro100" tvg-logo="https://iptvx.one/picons/pro100.png" group-title="Фильмы,сериалы",Pro100
@@ -710,29 +705,29 @@ http://130.193.73.10:8937/play/a01e
 #EXTINF:-1 tvg-id="domkino" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="Фильмы,сериалы",Дом Кино
 https://stream01.vnet.am/DomKino/mono.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://iptvx.one/picons/domkino-premium.png" group-title="Фильмы,сериалы",Дом Кино Премиум HD
-http://213.226.137.140:81/tl/l75/index.m3u8
+http://185.23.80.29:8080/DomKinoPremium/index.m3u8?token=test
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="Фильмы,сериалы",Мосфильм. Золотая коллекция
 http://185.50.148.2:7706/Mosfilm/index.m3u8
-#EXTINF:-1 tvg-id="nashehd" tvg-logo="https://iptvx.one/picons/nashehd.png" group-title="Фильмы,сериалы",Наше HD
-
+#EXTINF:-1 tvg-id="muzhskoe-kino" tvg-logo="https://iptvx.one/picons/muzhskoe-kino.png" group-title="Фильмы,сериалы",Мужское Кино HD
+http://31.210.208.171:8080/muzhskoekino/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="nashe-muzhskoe-hd" tvg-logo="https://iptvx.one/picons/nashe-muzhskoe-hd.png" group-title="Фильмы,сериалы",Наше Мужское HD
-http://185.23.80.28:8080/NasheMuzhskoe/index.m3u8?token=test
+http://185.23.80.29:8080/NasheMuzhskoe/index.m3u8?token=test
 #EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-logo="https://iptvx.one/picons/nashe-novoe-kino.png" group-title="Фильмы,сериалы",Наше новое кино HD
-http://178.212.71.253:8002/play/a00i/index.m3u8
+http://178.57.121.38:8080/kinohit/index.m3u8?token=test
 #EXTINF:-1 tvg-id="nash-kinopokaz-hd" tvg-logo="https://iptvx.one/picons/nash-kinopokaz.png" group-title="Фильмы,сериалы",Наш кинопоказ HD
-http://185.23.80.28:8080/NashKinopokaz/index.m3u8?token=tes
+http://185.23.80.29:8080/NashKinopokaz/index.m3u8?token=test
 #EXTINF:-1 tvg-id="mir-seriala" tvg-logo="https://iptvx.one/picons/mir-seriala.png" group-title="Фильмы,сериалы",Мир Сериала
-http://185.23.80.28:8080/MirSeriala/index.m3u8?token=test
+http://185.23.80.29:8080/MirSeriala/index.m3u8?token=test
 #EXTINF:-1 tvg-id="feniks-plus-kino" tvg-logo="https://iptvx.one/picons/feniks-plus-kino.png" group-title="Фильмы,сериалы",Феникс+Кино
 http://31.210.208.171:8080/fenixkino/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="evrokino" tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="Фильмы,сериалы",Еврокино HD
-http://213.226.137.140:81/tl/l407/mpegts
+http://31.210.208.171:8080/evrokino/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="kino1int-tviksel" tvg-logo="https://iptvx.one/picons/kino1int-tviksel.png" group-title="Фильмы,сериалы",Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="komedijnoe-hd" tvg-logo="https://iptvx.one/picons/komedijnoe-hd.png" group-title="Фильмы,сериалы",Комедийное HD
 http://141.95.55.143/CH231/index.m3u8
 #EXTINF:-1 tvg-id="kinokomedia" tvg-logo="https://iptvx.one/picons/kinokomedia.png" group-title="Фильмы,сериалы",Кинокомедия HD
-http://213.226.137.140:81/tl/l52/mpegts
+http://65.21.85.175:8000/play/a01g/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="romance" tvg-logo="https://iptvx.one/picons/romance.png" group-title="Фильмы,сериалы",Romance
 http://130.193.73.10:8937/play/a01o
 #EXTINF:-1 tvg-id="plan-b" tvg-logo="https://iptvx.one/picons/plan-b.png" group-title="Фильмы,сериалы",Plan B
@@ -745,7 +740,7 @@ http://194.158.222.36:6086
 
 #EXTINF:-1 tvg-id="scream" tvg-logo="https://epg.iptvx.one/picons/scream.png" group-title="Фильмы,сериалы",Scream
 
-#EXTINF:-1 group-title="Фильмы,сериалы",Кошмар
+#EXTINF:-1 tvg-logo="https://online-tv.live/images/koshmar-hd.png" group-title="Фильмы,сериалы",Кошмар
 http://hls.goodgame.ru:8080/hls/204709.m3u8
 #EXTINF:-1 tvg-id="strashnoe-hd" tvg-logo="https://epg.iptvx.one/picons/strashnoe-hd.png" group-title="Фильмы,сериалы",Страшное HD
 
@@ -754,7 +749,6 @@ http://141.95.55.143/CH229/index.m3u8
 #EXTINF:-1 tvg-id="kinouzhas" tvg-logo="https://iptvx.one/picons/kinouzhas.png" group-title="Фильмы,сериалы",Киноужас HD
 http://109.200.130.123:7537/play/a021
 
-
 #EXTINF:-1 tvg-id="kinopremiera-hd" tvg-logo="https://iptvx.one/picons/kinopremiera.png" group-title="Премьеры,хиты",Кинопремьера
 http://stream02.vnet.am/Kinopremera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vip-premiere" tvg-logo="https://iptvx.one/picons/vip-premiere.png" group-title="Премьеры,хиты",Viju+ Premiere HD
@@ -762,9 +756,9 @@ http://213.226.137.140:81/tl/l319/mpegts
 #EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://iptvx.one/picons/vip-megahit.png" group-title="Премьеры,хиты",Viju+ Megahit HD
 http://193.242.190.6:8099/201/index.m3u8
 #EXTINF:-1 tvg-id="kinoxit" tvg-logo="https://iptvx.one/picons/kinoxit.png" group-title="Премьеры,хиты",Кинохит
-http://185.50.148.2:7711/Kinohit/index.m3u8
+http://178.212.71.253:8000/play/123/index.m3u8
 #EXTINF:-1 tvg-id="khit-hd" tvg-logo="https://iptvx.one/picons/khit.png" group-title="Премьеры,хиты",Хит HD
-http://185.23.80.28:8080/Xit/index.m3u8?token=test
+http://185.23.80.29:8080/Xit/index.m3u8?token=test
 #EXTINF:-1 tvg-id="amedia-hit" tvg-logo="https://iptvx.one/picons/amedia-hit.png" group-title="Премьеры,хиты",Amedia Hit HD
 http://stream01.vnet.am/Nauka/index.m3u8
 #EXTINF:-1 tvg-id="amedia-premium" tvg-logo="https://iptvx.one/picons/amedia-premium.png" group-title="Премьеры,хиты",Amedia Premium HD
@@ -772,7 +766,8 @@ http://195.18.23.20:8000/play/3/index.m3u8
 #EXTINF:-1 tvg-id="premialnoe-hd" tvg-logo="https://iptvx.one/picons/premialnoe-hd.png" group-title="Премьеры,хиты",Премиальное HD
 http://141.95.55.143/CH545/index.m3u8
 #EXTINF:-1 tvg-id="blokbaster-hd" tvg-logo="https://iptvx.one/picons/blokbaster.png" group-title="Премьеры,хиты",Блокбастер HD
-http://185.23.80.28:8080/Blockbaster/index.m3u8?token=test
+http://185.23.80.29:8080/Blockbaster/index.m3u8?token=test
+
 
 
 #EXTINF:-1 tvg-id="avto24" tvg-logo="http://epg.it999.ru/img2/2008.png" group-title="Досуг",АВТО 24
