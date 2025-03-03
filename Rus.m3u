@@ -653,11 +653,11 @@ http://109.200.130.123:7537/play/a02g
 #EXTINF:-1 tvg-id="tv1000" tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="Фильмы,сериалы",Viju TV1000 HD
 http://65.21.85.175:8000/play/a011/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://iptvx.one/picons/tv1000-action.png" group-title="Фильмы,сериалы",Viju TV1000 Action 
-http://185.50.148.2:7703/TV1000Action/index.m3u8
+http://flu.ttk.mx:90/TV1000_Action/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://iptvx.one/picons/tv1000-action.png" group-title="Фильмы,сериалы",Viju TV1000 Action HD
 http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png" group-title="Фильмы,сериалы",TV 1000 Русское кино
-
+https://livetv.mylifeisgood.net.ru/channels/viju-tv1000russkoe.m3u8
 #EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-logo="https://iptvx.one/picons/viju-tv1000-novella.png" group-title="Фильмы,сериалы",Viju TV1000 Новелла
 
 #EXTINF:-1 tvg-id="viju-tv1000-romantica" tvg-logo="https://epg.iptvx.one/picons/viju-tv1000-romantica.png" group-title="Фильмы,сериалы",Viju TV1000 romantica
@@ -673,7 +673,7 @@ http://87.99.87.203:2020/channel/30f8846c/index.m3u8?q=c155fd146caa671acca6c6873
 #EXTINF:-1 tvg-id="star-family" tvg-logo="https://iptvx.one/picons/star-family.png" group-title="Фильмы,сериалы",Star Family
 http://87.99.87.203:2020/channel/n7f599ce7/index.m3u8?q=c155fd146caa671acca6c6873fe5c176
 #EXTINF:-1 tvg-id="start-air" tvg-logo="https://iptvx.one/picons/start-air.png" group-title="Фильмы,сериалы",Start Air 
-
+https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:-1 tvg-id="dorama" tvg-logo="https://iptvx.one/picons/dorama.png" group-title="Фильмы,сериалы",Дорама HD
 https://jekalich.github.io/smtk/channels/dorama.m3u8
 #EXTINF:-1 tvg-id="kinomiks" tvg-logo="https://iptvx.one/picons/kinomiks.png" group-title="Фильмы,сериалы",Киномикс HD
@@ -737,9 +737,9 @@ http://130.193.73.10:8937/play/a03c
 #EXTINF:-1 tvg-id="timeless-dizi" tvg-logo="https://iptvx.one/picons/timeless-dizi.png" group-title="Фильмы,сериалы",Timeless Dizi Channel HD
 http://194.158.222.36:6086
 #EXTINF:-1 tvg-id="trashtv" tvg-logo="https://iptvx.one/picons/trashtv.png" group-title="Фильмы,сериалы",Trash TV
-
+http://185.23.80.29:8080/TRASH/index.m3u8?token=test
 #EXTINF:-1 tvg-id="scream" tvg-logo="https://epg.iptvx.one/picons/scream.png" group-title="Фильмы,сериалы",Scream
-
+http://185.23.80.29:8080/Scream/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://online-tv.live/images/koshmar-hd.png" group-title="Фильмы,сериалы",Кошмар
 http://hls.goodgame.ru:8080/hls/204709.m3u8
 #EXTINF:-1 tvg-id="strashnoe-hd" tvg-logo="https://epg.iptvx.one/picons/strashnoe-hd.png" group-title="Фильмы,сериалы",Страшное HD
@@ -752,9 +752,9 @@ http://109.200.130.123:7537/play/a021
 #EXTINF:-1 tvg-id="kinopremiera-hd" tvg-logo="https://iptvx.one/picons/kinopremiera.png" group-title="Премьеры,хиты",Кинопремьера
 http://stream02.vnet.am/Kinopremera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vip-premiere" tvg-logo="https://iptvx.one/picons/vip-premiere.png" group-title="Премьеры,хиты",Viju+ Premiere HD
-http://213.226.137.140:81/tl/l319/mpegts
+https://livetv.mylifeisgood.net.ru/channels/viju-premiere.m3u8
 #EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://iptvx.one/picons/vip-megahit.png" group-title="Премьеры,хиты",Viju+ Megahit HD
-http://193.242.190.6:8099/201/index.m3u8
+https://livetv.mylifeisgood.net.ru/channels/viju-megahit.m3u8
 #EXTINF:-1 tvg-id="kinoxit" tvg-logo="https://iptvx.one/picons/kinoxit.png" group-title="Премьеры,хиты",Кинохит
 http://178.212.71.253:8000/play/123/index.m3u8
 #EXTINF:-1 tvg-id="khit-hd" tvg-logo="https://iptvx.one/picons/khit.png" group-title="Премьеры,хиты",Хит HD
@@ -767,8 +767,6 @@ http://195.18.23.20:8000/play/3/index.m3u8
 http://141.95.55.143/CH545/index.m3u8
 #EXTINF:-1 tvg-id="blokbaster-hd" tvg-logo="https://iptvx.one/picons/blokbaster.png" group-title="Премьеры,хиты",Блокбастер HD
 http://185.23.80.29:8080/Blockbaster/index.m3u8?token=test
-
-
 
 #EXTINF:-1 tvg-id="avto24" tvg-logo="http://epg.it999.ru/img2/2008.png" group-title="Досуг",АВТО 24
 http://178.124.152.238:8088/auto24
