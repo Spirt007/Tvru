@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="match-football1" tvg-logo="https://iptvx.one/picons/match-football1.png" group-title="Спортивные",Матч! Футбол 1 HD
 http://109.200.130.124:7005/play/a00h
 #EXTINF:-1 tvg-id="match-football2" tvg-logo="https://iptvx.one/picons/match-football2.png" group-title="Спортивные",Матч! Футбол 2 HD
-http://flu.ttk.mx:90/Football_2HD/mono.m3u8?token=hs06e
+http://tv.ttk.mx:9115
 #EXTINF:-1 tvg-id="match-football3" tvg-logo="https://iptvx.one/picons/match-football3.png" group-title="Спортивные",Матч! Футбол 3 HD 
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 tvg-id="setanta-sports" tvg-logo="https://iptvx.one/picons/setanta-sports.png" group-title="Спортивные",Setanta Sports 1 HD
@@ -19,7 +19,7 @@ http://185.57.68.33/110/mpegts
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спортивные",Матч!
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://iptvx.one/picons/match-premiere.png" group-title="Спортивные",Матч! Премьер
-https://tv.movielab.pro/250/video.m3u8?token=a523b88136fdd03d873f3ffebe1219605214765f-4326e5727fb1abb7dc2d14568cd9364c-1741513417-1741427017
+http://195.18.23.20:8000/play/88/index.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://iptvx.one/picons/match-premiere.png" group-title="Спортивные",Матч! Премьер HD
 
 #EXTINF:-1 tvg-id="mir-basketbola" tvg-logo="https://iptvx.one/picons/mir-basketbola.png" group-title="Спортивные",Мир Баскетбола
