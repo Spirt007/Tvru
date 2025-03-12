@@ -540,9 +540,9 @@ http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
 #EXTINF:-1 tvg-id="saga-tv" tvg-logo="https://epg.iptvx.one/picons/saga-tv.png" group-title="Фильмы,сериалы",Saga TV
 http://178.212.71.253:8001/play/144/index.m3u8
 #EXTINF:-1 tvg-id="kamedi" tvg-logo="https://epg.iptvx.one/picons/kamedi.png" group-title="Фильмы,сериалы",Камеди
-http://185.23.80.29:8080/Camedi/index.m3u8?token=test
+
 #EXTINF:-1 group-title="Фильмы,сериалы",Sunset Fantastic
-https://stream.sunset-media.ru:443/AfBrazXsUK/J9hGT3vYuv/8.m3u8
+
 #EXTINF:-1 tvg-logo="https://online-tv.live/images/1filmax.png" group-title="Фильмы,сериалы",1FILMAX Фантастика
 http://hls.goodgame.ru:8080/hls/204708.m3u8
 #EXTINF:-1 tvg-logo="https://online-tv.live/images/2filmax.png" group-title="Фильмы,сериалы",2FILMAX Комедия
@@ -636,7 +636,7 @@ http://130.193.73.10:8937/play/a03k
 #EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://iptvx.one/picons/sony-turbo.png" group-title="Фильмы,сериалы",.Black HD
 http://109.200.130.123:7537/play/a02s
 #EXTINF:-1 tvg-id="sony-tv" tvg-logo="https://iptvx.one/picons/sony.png" group-title="Фильмы,сериалы",.Red HD
-http://31.210.208.171:8080/set/index.m3u8?token=+W2MSER
+
 #EXTINF:-1 tvg-id="sony-scifi" tvg-logo="https://iptvx.one/picons/sony-scifi.png" group-title="Фильмы,сериалы",.Sci-Fi HD
 http://130.193.73.10:8937/play/a02q
 #EXTINF:-1 tvg-id="amedia1" tvg-logo="https://iptvx.one/picons/amedia1.png" group-title="Фильмы,сериалы",Amedia 1 HD
