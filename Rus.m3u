@@ -257,7 +257,7 @@ rtmp://212.0.213.132//TLC
 #EXTINF:-1 tvg-id="kaleydoskop-tv" tvg-logo="https://iptvx.one/picons/kaleydoskop.png" group-title="Развлекательные",Калейдоскоп ТВ
 https://cdn-01.bonus-tv.ru/Kaleidoskop_edge/playlist.m3u8
 #EXTINF:-1 tvg-id="centralnoye-tv" tvg-logo="https://iptvx.one/picons/centralnoye-tv.png" group-title="Развлекательные",ЦТВ
-http://stream01.vnet.am/Channel_129/mono.m3u8
+
 #EXTINF:-1 tvg-id="tv1-kg-hd" tvg-logo="https://iptvx.one/picons/tv1-kg-hd.png" group-title="Развлекательные",TV1 KG HD (Кыргызстан)
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="kluch" tvg-logo="https://iptvx.one/picons/kluch.png" group-title="Развлекательные",Ключ
@@ -594,9 +594,9 @@ http://130.193.73.10:8937/play/a03n
 #EXTINF:-1 tvg-id="rodnoe-kino"tvg-logo="https://iptvx.one/picons/rodnoe-kino.png" group-title="Фильмы,сериалы",Родное кино
 http://31.148.48.15/Rodnoe_kino/index.m3u8
 #EXTINF:-1 tvg-id="retro-tv" tvg-logo="https://iptvx.one/picons/retro-tv.png" group-title="Фильмы,сериалы",Ретро
-
+http://194.158.218.123:8880/Retrotv/index.m3u8
 #EXTINF:-1 tvg-id="sovkino" tvg-logo="https://iptvx.one/picons/sovkino.png" group-title="Фильмы,сериалы",Советское кино
-
+https://s17.federal.tv:8082/fed/sovkinotv.stream/chunks.m3u8?nimblesessionid=348973834&wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDg6MzA6MDQgUE0maGFzaF92YWx1ZT1KQ2w3VGxFRVl0aGE1cmUxK0lVdHpRPT0mdmFsaWRtaW51dGVzPTIwMA==
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-logo="https://iptvx.one/picons/lubimoe-kino.png" group-title="Фильмы,сериалы",Любимое Кино HD
 http://130.193.73.10:8937/play/a037
 #EXTINF:-1 tvg-id="dushevnoe" tvg-logo="https://iptvx.one/picons/dushevnoe-hd.png" group-title="Фильмы,сериалы",Душевное HD
@@ -636,7 +636,7 @@ http://130.193.73.10:8937/play/a03k
 #EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://iptvx.one/picons/sony-turbo.png" group-title="Фильмы,сериалы",.Black HD
 http://109.200.130.123:7537/play/a02s
 #EXTINF:-1 tvg-id="sony-tv" tvg-logo="https://iptvx.one/picons/sony.png" group-title="Фильмы,сериалы",.Red HD
-
+http://178.124.152.238:8088/sony
 #EXTINF:-1 tvg-id="sony-scifi" tvg-logo="https://iptvx.one/picons/sony-scifi.png" group-title="Фильмы,сериалы",.Sci-Fi HD
 http://130.193.73.10:8937/play/a02q
 #EXTINF:-1 tvg-id="amedia1" tvg-logo="https://iptvx.one/picons/amedia1.png" group-title="Фильмы,сериалы",Amedia 1 HD
