@@ -596,7 +596,7 @@ http://31.148.48.15/Rodnoe_kino/index.m3u8
 #EXTINF:-1 tvg-id="retro-tv" tvg-logo="https://iptvx.one/picons/retro-tv.png" group-title="Фильмы,сериалы",Ретро
 http://194.158.218.123:8880/Retrotv/index.m3u8
 #EXTINF:-1 tvg-id="sovkino" tvg-logo="https://iptvx.one/picons/sovkino.png" group-title="Фильмы,сериалы",Советское кино
-https://s17.federal.tv:8082/fed/sovkinotv.stream/chunks.m3u8?nimblesessionid=348973834&wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDg6MzA6MDQgUE0maGFzaF92YWx1ZT1KQ2w3VGxFRVl0aGE1cmUxK0lVdHpRPT0mdmFsaWRtaW51dGVzPTIwMA==
+
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-logo="https://iptvx.one/picons/lubimoe-kino.png" group-title="Фильмы,сериалы",Любимое Кино HD
 http://130.193.73.10:8937/play/a037
 #EXTINF:-1 tvg-id="dushevnoe" tvg-logo="https://iptvx.one/picons/dushevnoe-hd.png" group-title="Фильмы,сериалы",Душевное HD
