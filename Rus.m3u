@@ -18,10 +18,12 @@ http://185.57.68.33/110/mpegts
 
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спортивные",Матч!
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спортивные",Матч! HD
+http://s3.merlive.am/matchtvhd/index.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://iptvx.one/picons/match-premiere.png" group-title="Спортивные",Матч! Премьер
 http://195.18.23.20:8000/play/88/index.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://iptvx.one/picons/match-premiere.png" group-title="Спортивные",Матч! Премьер HD
-
+http://178.212.71.253:8000/play/57/index.m3u8
 #EXTINF:-1 tvg-id="mir-basketbola" tvg-logo="https://iptvx.one/picons/mir-basketbola.png" group-title="Спортивные",Мир Баскетбола
 http://65.21.85.175:8000/play/a00c/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="kazsport" tvg-logo="https://iptvx.one/picons/kazsport.png" group-title="Спортивные",QazSport
@@ -757,7 +759,7 @@ http://109.200.130.123:7537/play/a021
 #EXTINF:-1 tvg-id="kinopremiera-hd" tvg-logo="https://iptvx.one/picons/kinopremiera.png" group-title="Премьеры,хиты",Кинопремьера
 http://stream02.vnet.am/Kinopremera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vip-premiere" tvg-logo="https://iptvx.one/picons/vip-premiere.png" group-title="Премьеры,хиты",Viju+ Premiere HD
-https://livetv.mylifeisgood.net.ru/channels/viju-premiere.m3u8
+http://135.181.115.81:8000/play/a04b/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://iptvx.one/picons/vip-megahit.png" group-title="Премьеры,хиты",Viju+ Megahit HD
 https://livetv.mylifeisgood.net.ru/channels/viju-megahit.m3u8
 #EXTINF:-1 tvg-id="kinoxit" tvg-logo="https://iptvx.one/picons/kinoxit.png" group-title="Премьеры,хиты",Кинохит
