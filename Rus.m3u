@@ -166,7 +166,7 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="zvezda-plus" tvg-logo="https://iptvx.one/picons/zvezda-plus.png" group-title="Общественные",Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="otr" tvg-logo="https://iptvx.one/picons/otr.png" group-title="Общественные",ОТР
-https://bl.webcaster.pro/media/playlist/free_fb2fe05dd220c42d012335c7ac104196/5_2972636396/720p/f6a9332b6e2d0da4a2718b885ac8fd6b/1743285255.m3u8?sr=65&seek=1743238200&uid=854K72K2-DAI6-C8K3-TRE2-EDGUC3MKGIUT&ref=https%3A%2F%2Fotr-online.ru%2F
+http://130.193.73.10:8937/play/a00e
 #EXTINF:-1 tvg-id="kultura" tvg-logo="https://iptvx.one/picons/kultura.png" group-title="Общественные",Россия Культура
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-id="dozhd" tvg-logo="https://iptvx.one/picons/dozhd.png" group-title="Общественные",Дождь HD
