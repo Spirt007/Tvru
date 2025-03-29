@@ -165,9 +165,8 @@ http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="zvezda-plus" tvg-logo="https://iptvx.one/picons/zvezda-plus.png" group-title="Общественные",Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
-#EXTINF:-1  catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="otr" tvg-logo="https://iptvx.one/picons/otr.png" group-title="Общественные",ОТР
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
+#EXTINF:-1 tvg-id="otr" tvg-logo="https://iptvx.one/picons/otr.png" group-title="Общественные",ОТР
+https://bl.webcaster.pro/media/playlist/free_fb2fe05dd220c42d012335c7ac104196/5_2972636396/720p/f6a9332b6e2d0da4a2718b885ac8fd6b/1743285255.m3u8?sr=65&seek=1743238200&uid=854K72K2-DAI6-C8K3-TRE2-EDGUC3MKGIUT&ref=https%3A%2F%2Fotr-online.ru%2F
 #EXTINF:-1 tvg-id="kultura" tvg-logo="https://iptvx.one/picons/kultura.png" group-title="Общественные",Россия Культура
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-id="dozhd" tvg-logo="https://iptvx.one/picons/dozhd.png" group-title="Общественные",Дождь HD
@@ -219,7 +218,7 @@ https://cdn2.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:-1 tvg-id="sts-love" tvg-logo="https://iptvx.one/picons/sts-love.png" group-title="Развлекательные",СТС Love
 http://31.148.48.15/STS_Love/index.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="Развлекательные",ТНТ
-https://salam-krd-31.rutube.ru/dive/river-3-321.rutube.ru/jX4WLewSxya-SPQWt8sxUw/stream/genetta-323.m9.rutube.ru/kKhIL49nRCJVaJw1fAyLig/1743160031/546602986e6a424d74d594876ddb3f04/720p_stream.m3u8
+https://salam-krd-1031.rutube.ru/dive/river-3-321.rutube.ru/jMJEdvRqV2ywxke_Gko_bA/stream/genetta-323.m9.rutube.ru/Hu2bqhW5WH5T8IAO6b-lNQ/1743847088/546602986e6a424d74d594876ddb3f04/720p_stream.m3u8
 #EXTINF:-1 tvg-id="tnt-int-eu" tvg-logo="https://iptvx.one/picons/tnt-int-eu.png" group-title="Развлекательные",ТНТ-International
 http://85.187.13.40:18000/tntint
 #EXTINF:-1 tvg-id="tnt-kz" tvg-logo="https://iptvx.one/picons/tnt-kz.png" group-title="Развлекательные",ТНТ Kазахстан
