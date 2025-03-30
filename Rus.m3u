@@ -139,7 +139,7 @@ https://streaming.thestream.cyou/live/210.m3u8
 #EXTINF:-1 tvg-id="pervy-kanal-csi" tvg-logo="https://epg.iptvx.one/picons/pervy-kanal-csi.png" group-title="Общественные",Первый канал СНГ
 http://stream02.vnet.am/PerviyKanal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Общественные",Россия 1 
-https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Общественные",НТВ
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="Общественные",ТВЦ
