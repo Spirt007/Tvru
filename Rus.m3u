@@ -13,7 +13,7 @@ http://185.57.68.33/110/mpegts
 #EXTINF:-1 tvg-id="match-football3" tvg-logo="https://iptvx.one/picons/match-football3.png" group-title="Спортивные",Матч! Футбол 3 HD* 
 
 #EXTINF:-1 tvg-id="setanta-sports" tvg-logo="https://iptvx.one/picons/setanta-sports.png" group-title="Спортивные",Setanta Sports 1 HD
-http://iptv-hls.idc.md:8200/hls/888/live1.m3u8
+
 #EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="https://iptvx.one/picons/setanta-sports-plus.png" group-title="Спортивные",Setanta Sports 2 HD
 
 #EXTINF:-1 tvg-id="setanta-plus-ua" tvg-logo="https://iptvx.one/picons/setanta-plus-ua.png" group-title="Спортивные",Setanta+ Украина
@@ -192,7 +192,7 @@ https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/play
 #EXTINF:-1 tvg-id="bolshaya-azia" tvg-logo="https://iptvx.one/picons/bolshaya-azia.png" group-title="Общественные",Большая Азия
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tcb" tvg-logo="https://iptvx.one/picons/tcb.png" group-title="Общественные",ТСВ 
-http://iptv-hls.idc.md:8200/hls/2/live1.m3u8
+
 #EXTINF:-1 tvg-id="ktk-kz" tvg-logo="https://epg.iptvx.one/picons/ktk-kz.png" group-title="Общественные",КТК
 https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="cgtn" tvg-logo="https://epg.iptvx.one/picons/cgtn.png" group-title="Общественные",CGTN
