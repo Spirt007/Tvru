@@ -29,7 +29,7 @@ http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://iptvx.one/picons/match-premiere.png" group-title="Спортивные",Матч! Премьер
 http://178.212.71.253:8000/play/57/index.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://iptvx.one/picons/match-premiere.png" group-title="Спортивные",Матч! Премьер HD
-http://195.18.23.20:8000/play/88/index.m3u8
+
 #EXTINF:-1 tvg-id="mir-basketbola" tvg-logo="https://iptvx.one/picons/mir-basketbola.png" group-title="Спортивные",Мир Баскетбола
 http://130.193.73.10:8937/play/a04m
 #EXTINF:-1 tvg-id="kazsport" tvg-logo="https://iptvx.one/picons/kazsport.png" group-title="Спортивные",QazSport
@@ -139,7 +139,7 @@ http://109.200.130.123:7537/play/a02l
 
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://epg.iptvx.one/picons/pervy.png" group-title="Общественные",Первый HD
-http://89.23.180.212:4022/udp/239.1.9.36:1234
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="pervy-kanal-eurasia-kz" tvg-logo="https://epg.iptvx.one/picons/pervy-kanal-eurasia-kz.png" group-title="Общественные",Первый канал Евразия
 http://sc.id-tv.kz/1KanalEvraziya_34_35.m3u8
 #EXTINF:-1 tvg-id="pervy-kanal-eu" tvg-logo="https://epg.iptvx.one/picons/pervy-kanal-eu.png" group-title="Общественные",Первый канал Европа
