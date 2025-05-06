@@ -144,8 +144,8 @@ https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 http://sc.id-tv.kz/1KanalEvraziya_34_35.m3u8
 #EXTINF:-1 tvg-id="pervy-kanal-eu" tvg-logo="https://epg.iptvx.one/picons/pervy-kanal-eu.png" group-title="Общественные",Первый канал Европа
 https://streaming.thestream.cyou/live/210.m3u8
-#EXTINF:-1 tvg-id="pervy-kanal-csi" tvg-logo="https://epg.iptvx.one/picons/pervy-kanal-csi.png" group-title="Общественные",Первый канал СНГ
-
+#EXTINF:-1 tvg-id="pervy-kanal-csi" tvg-logo="https://epg.iptvx.one/picons/pervy-kanal-csi.png" group-title="Общественные",Первый канал FHD
+http://130.193.73.10:8937/play/a00g
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Общественные",Россия 1 
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Общественные",НТВ
