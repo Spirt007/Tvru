@@ -263,7 +263,7 @@ https://tvoetv.space/tvoetv_humor/video.m3u8
 #EXTINF:-1 tvg-id="rtvi" tvg-logo="https://iptvx.one/picons/rtvi.png" group-title="Развлекательные",RTVI
 http://45.143.108.110:2203/RTVi
 #EXTINF:-1 tvg-id="tlc" tvg-logo="https://iptvx.one/picons/tlc.png" group-title="Развлекательные",TLC HD
-rtmp://212.0.213.132//TLC
+
 #EXTINF:-1 tvg-id="kaleydoskop-tv" tvg-logo="https://iptvx.one/picons/kaleydoskop.png" group-title="Развлекательные",Калейдоскоп ТВ
 https://cdn-01.bonus-tv.ru/Kaleidoskop_edge/playlist.m3u8
 #EXTINF:-1 tvg-id="centralnoye-tv" tvg-logo="https://iptvx.one/picons/centralnoye-tv.png" group-title="Развлекательные",ЦТВ
@@ -271,7 +271,7 @@ https://cdn-01.bonus-tv.ru/Kaleidoskop_edge/playlist.m3u8
 #EXTINF:-1 tvg-id="tv1-kg-hd" tvg-logo="https://iptvx.one/picons/tv1-kg-hd.png" group-title="Развлекательные",TV1 KG HD (Кыргызстан)
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="kluch" tvg-logo="https://iptvx.one/picons/kluch.png" group-title="Развлекательные",Ключ
-http://185.23.80.28:8080/Klyuch/index.m3u8?token=test
+
 #EXTINF:-1 tvg-id="narod-vsio-vidit" tvg-logo="https://iptvx.one/picons/narod-vsio-vidit.png" group-title="Развлекательные",Народ Всë Видит
 
 #EXTINF:-1 tvg-id="tochka-tv" tvg-logo="https://iptvx.one/picons/tochka-tv.png" group-title="Развлекательные",Точка ТВ 
@@ -910,59 +910,59 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 
 
 #EXTINF:-1 tvg-id="rzhd-tv" tvg-logo="https://epg.iptvx.one/picons/rzhd-tv.png" group-title="Познавательные",РЖД HD 
-http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="eureka-hd" tvg-logo="http://epg.it999.ru/img2/2310.png" group-title="Познавательные",Первый космический HD
-http://stream01.vnet.am/Evrika/mono.m3u8
+
 #EXTINF:-1 tvg-id="Da Vinci" tvg-logo="http://epg.it999.ru/img2/410.png" group-title="Познавательные",Da Vinci
-https://stream2.cinerama.uz/1231/tracks-v1a1/mono.m3u8
+http://130.193.73.10:8937/play/a014
 #EXTINF:-1 tvg-id="sovsek" tvg-logo="http://epg.it999.ru/img2/275.png" group-title="Познавательные",Совершенно Секретно
-http://edge02.odtv.az/o1/sovershennosekretno/playlist.m3u8
+http://178.124.152.238:8088/sovsec
 #EXTINF:-1 tvg-id="istoria" tvg-logo="http://epg.it999.ru/img2/1036.png" group-title="Познавательные",История
-http://stream01.vnet.am/Istoria/mono.m3u8
+http://109.200.130.123:7537/play/a025
 #EXTINF:-1 tvg-id="history" tvg-logo="https://epg.iptvx.one/picons/history.png" group-title="Познавательные",History
 http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="h2" tvg-logo="https://epg.iptvx.one/picons/h2.png" group-title="Познавательные",History2
-https://woobl.ru/stream/2033.m3u8
+
 #EXTINF:-1 tvg-id="RTG" tvg-logo="http://epg.one/img2/2280.png" group-title="Познавательные",RTG TV
-http://195.26.83.96:7007/play/a00n/index.m3u8
+http://195.26.83.96:7007/play/a00n/index.m3u8 
 #EXTINF:-1 tvg-id="moya-planeta" tvg-logo="https://iptvx.one/picons/moya-planeta.png" group-title="Познавательные",Моя Планета
 http://194.143.148.28:8080/Nauka20/mpegts
 #EXTINF:-1 tvg-id="nauka-20" tvg-logo="https://iptvx.one/picons/nauka-20.png" group-title="Познавательные",Наука 2.0 HD
-https://stream2.cinerama.uz/1248/tracks-v1a1/mono.m3u8
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nauka_HD 
 #EXTINF:-1 tvg-id="texno-24" tvg-logo="https://iptvx.one/picons/texno-24.png" group-title="Познавательные",Техно 24
-http://flu.ttk.mx:90/T-24/mono.m3u8?token=hs06e
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Tehno24 
 #EXTINF:-1 tvg-id="neizvestnaya-rosia" tvg-logo="https://iptvx.one/picons/neizvestnaya-rosia.png" group-title="Познавательные",Неизвестная Россия HD
-https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8 
 #EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" tvg-logo="https://iptvx.one/picons/v-mire-zhivotnyx.png" group-title="Познавательные",В мире животных HD
-https://stream2.cinerama.uz/1404/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="arsenaltv" tvg-logo="https://iptvx.one/picons/arsenaltv.png" group-title="Познавательные",Арсенал Рв
-http://45.143.108.104/arsenal/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Anim_Fam 
+#EXTINF:-1 tvg-id="arsenaltv" tvg-logo="https://iptvx.one/picons/arsenaltv.png" group-title="Познавательные",Арсенал
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Arsenal_HD 
 #EXTINF:-1 tvg-id="365-dnej" tvg-logo="https://iptvx.one/picons/365-dnej.png" group-title="Познавательные",365 Дней ТВ 
-http://91.194.191.241:8081/chid425/tracks-v1a1/mono.m3u8
+http://178.212.71.253:8000/play/67/index.m3u8 
 #EXTINF:-1 tvg-id="hd-life" tvg-logo="https://iptvx.one/picons/hdl.png" group-title="Познавательные",HD Life
-http://77.235.1.17/hd_life/index.m3u8
+
 #EXTINF:-1 tvg-id="viasat-explore" tvg-logo="https://iptvx.one/picons/viasat-explore.png" group-title="Познавательные",Viasat Explore HD
-http://213.226.137.140:81/tl/l94/mpegts
+
 #EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://iptvx.one/picons/viasat-history.png" group-title="Познавательные",Viasat History HD
-http://edge02.odtv.az/o5/viasathistory/playlist.m3u8
+
 #EXTINF:-1 tvg-id="viasat-nature" tvg-logo="https://iptvx.one/picons/viasat-nature.png" group-title="Познавательные",Viasat Nature HD
-http://135.181.115.81:8000/play/a01j/index.m3u8?token=livetv
+http://130.193.73.10:8937/play/a01k
 #EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-logo="http://epg.it999.ru/img2/2012.png" group-title="Познавательные",Viasat Planet HD
 
 #EXTINF:-1 tvg-id="animal-planet-eu" tvg-logo="https://iptvx.one/picons/animal-planet-eu.png" group-title="Познавательные",Animal Planet HD
-http://edge02.odtv.az/o5/animalplanet/playlist.m3u8
+
 #EXTINF:-1 tvg-id="big-planet" tvg-logo="https://iptvx.one/picons/big-planet.png" group-title="Познавательные",Big Planet HD
-http://88.218.242.237:8000/play/a00k
+
 #EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://iptvx.one/picons/discovery-channel.png" group-title="Познавательные",Discovery Channel HD
-http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
+
 #EXTINF:-1 tvg-id="galaxy-tv" tvg-logo="https://iptvx.one/picons/galaxy-tv.png" group-title="Познавательные",Galaxy TV
 http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="id-xtra-eu" tvg-logo="https://iptvx.one/picons/idxtra.png" group-title="Познавательные",ID Xtra Европа
-http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
+
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://iptvx.one/picons/nat-geo-wild.png" group-title="Познавательные",Nat Geo Wild HD
-http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
+http://188.237.47.212:6005 
 #EXTINF:-1 tvg-id="ocean-tv" tvg-logo="https://iptvx.one/picons/ocean-tv.png" group-title="Познавательные",Ocean TV
-http://live.admuspeh.my/8069/index.m3u8?token=test
+
 #EXTINF:-1 tvg-id="	nano-hd" tvg-logo="https://iptvx.one/picons/nano-hd.png" group-title="Познавательные",Нано HD
 http://tv.streams.baikal-telecom.net:8080/NanoTV/index.m3u8
 
