@@ -31,7 +31,7 @@ http://178.212.71.253:8000/play/57/index.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://iptvx.one/picons/match-premiere.png" group-title="Спортивные",Матч! Премьер HD
 
 #EXTINF:-1 tvg-id="mir-basketbola" tvg-logo="https://iptvx.one/picons/mir-basketbola.png" group-title="Спортивные",Мир Баскетбола
-http://130.193.73.10:8937/play/a04m
+http://65.21.85.175:8000/play/a00c/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="kazsport" tvg-logo="https://iptvx.one/picons/kazsport.png" group-title="Спортивные",QazSport
 http://109.248.236.51/qazsport_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="3553" tvg-logo="http://epg.one/img2/3553.png" group-title="Спортивные",Premier Sport 1
@@ -103,11 +103,11 @@ http://178.219.128.68:64889/POLSSPORHD
 #EXTINF:-1 gtvg-id="polsat-sport-extra" tvg-logo="https://epg.iptvx.one/picons/polsat-sport-extra.png" group-title="Спортивные",Polsat Sport 2
 http://185.236.229.62:9981/play/a07q
 #EXTINF:-1 tvg-id="polsat-sport-news" tvg-logo="https://iptvx.one/picons/polsat-sport-news.png" group-title="Спортивные",Polsat Sport 3 HD 
-http://178.219.128.68:64889/POLSSPORNEWSHD
+http://185.236.229.62:9981/play/a06m
 #EXTINF:-1 tvg-id="polsat-sport-pr1" tvg-logo="https://epg.iptvx.one/picons/polsat-sport-pr1.png" group-title="Спортивные",Polsat Sport Premium 1
-https://cdn-nvm-chicago3.lolokoko.tv/polsatsportp1.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-id="polsat-sport-pr2" tvg-logo="https://epg.iptvx.one/picons/polsat-sport-pr2.png" group-title="Спортивные",Polsat Sport Premium 2
-https://cdn-nvm-chicago3.lolokoko.tv/polsatsportp2.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Turkmenistan_Sport.png/revision/latest?cb=20211225160814" group-title="Спортивные",Turkmenistan Sport 
 https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://epgx.site/p/okko-sport.png" group-title="Спортивные",Okko.Спорт
