@@ -899,10 +899,10 @@ http://185.23.80.28:8080/PervyjVegetarianskij/index.m3u8?token=test
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 
 
-#EXTINF:-1 tvg-id="backustv-music" tvg-logo="https://iptvx.one/picons/backustv-music.png" group-title="Музыкальные",Backus TV Music HD
 
+#
 #EXTINF:-1 tvg-id="europa-plus-tv" tvg-logo="https://iptvx.one/picons/europa-plus-tv.png" group-title="Музыкальные",Europa Plus TV HD
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Eur_Plus
+http://31.148.48.15/Europa_Plus_HD/index.m3u8
 #EXTINF:-1 tvg-id="o2tv" tvg-logo="https://iptvx.one/picons/o2tv.png" group-title="Музыкальные",О!2
 http://195.26.83.96:7006/play/1/index.m3u8
 #EXTINF:-1 tvg-id="tnt-music" tvg-logo="https://iptvx.one/picons/tnt-music.png" group-title="Музыкальные",ТНТ Music HD
