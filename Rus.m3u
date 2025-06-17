@@ -637,38 +637,24 @@ https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 http://178.212.71.253:8001/play/144/index.m3u8
 #EXTINF:-1 tvg-id="kamedi" tvg-logo="https://epg.iptvx.one/picons/kamedi.png" group-title="Фильмы,сериалы",Камеди
 
-#EXTINF:-1 group-title="Фильмы,сериалы",Sunset Fantastic
-
 #EXTINF:-1 tvg-logo="https://online-tv.live/images/1filmax.png" group-title="Фильмы,сериалы",1FILMAX Фантастика
 http://hls.goodgame.ru:8080/hls/204708.m3u8
 #EXTINF:-1 tvg-logo="https://online-tv.live/images/2filmax.png" group-title="Фильмы,сериалы",2FILMAX Комедия
 http://hls.goodgame.ru:8080/hls/204717.m3u8
-#EXTINF:-1 tvg-id="suspense" tvg-logo="https://epg.iptvx.one/picons/suspense.png" group-title="Фильмы,сериалы",Suspense
-
 #EXTINF:-1 tvg-id="kion-xit" tvg-logo="https://epg.iptvx.one/picons/kion-xit.png" group-title="Фильмы,сериалы",KION Хит
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=KIONHIT
 #EXTINF:-1 tvg-id="pobeda" tvg-logo="https://iptvx.one/picons/pobeda.png" group-title="Фильмы,сериалы",Победа
 https://streaming101.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1  tvg-id="denpobedy" tvg-logo="https://iptvx.one/picons/denpobedy.png" group-title="Фильмы,сериалы",День Победы HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Den_Pobedy
-#EXTINF:-1 tvg-id="paramount-comedy" tvg-logo="https://iptvx.one/picons/paramount-comedy.png" group-title="Фильмы,сериалы",Comedy Central HD
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Фильмы,сериалы",Смотрим Частный Детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="kinojam1" tvg-logo="https://iptvx.one/picons/kinojam1.png" group-title="Фильмы,сериалы",Kinojam 1
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_1
 #EXTINF:-1 tvg-id="kinojam2" tvg-logo="https://iptvx.one/picons/kinojam2.png" group-title="Фильмы,сериалы",Kinojam 2
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_2
-#EXTINF:-1 audio-track="ru" tvg-id="tv1000-cee" tvg-logo="https://iptvx.one/picons/tv1000-cee.png" group-title="Фильмы,сериалы",Viasat Kino
-
-#EXTINF:-1tvg-id="vip-comedy-cee" tvg-logo="https://iptvx.one/picons/vip-comedy-cee.png" group-title="Фильмы,сериалы",Viasat Kino Comedy
-
-#EXTINF:-1 tvg-id="tv1000-worldkino" tvg-logo="https://iptvx.one/picons/tv1000-worldkino.png" group-title="Фильмы,сериалы",Viasat Kino World
-
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6005.png" group-title="Фильмы,сериалы",Видеокассета HD
 https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/6005.png" group-title="Фильмы,сериалы",Видеокассета Киномир
-
 #EXTINF:-1 tvg-id="vhs-ka" tvg-logo="https://iptvx.one/picons/vhs-ka.png" group-title="Фильмы,сериалы",VHS-ка
 http://176.196.166.171:81/udp/239.255.42.88:1234
 #EXTINF:-1 tvg-id="ostrosiuzhetnoe" tvg-logo="https://iptvx.one/picons/ostrosiuzhetnoe-hd.png" group-title="Фильмы,сериалы",Остросюжетное
@@ -696,7 +682,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sovetskay_kinoclas
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-logo="https://iptvx.one/picons/lubimoe-kino.png" group-title="Фильмы,сериалы",Любимое Кино HD
 http://178.217.72.66:8080/Lyubimoe_Kino/index.m3u8
 #EXTINF:-1 tvg-id="dushevnoe" tvg-logo="https://iptvx.one/picons/dushevnoe-hd.png" group-title="Фильмы,сериалы",Душевное HD
-
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Nash_Kinoroman
 #EXTINF:-1 tvg-id="pro-lyubov" tvg-logo="https://iptvx.one/picons/pro-lyubov.png" group-title="Фильмы,сериалы",Про Любовь HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Pro_Love_HD
 #EXTINF:-1 tvg-id="lavstori-hd" tvg-logo="https://epg.iptvx.one/picons/lavstori-hd.png" group-title="Фильмы,сериалы",Лавстори HD
@@ -706,9 +692,7 @@ http://45.143.108.110:2203/FOX
 #EXTINF:-1 tvg-id="foxlife" tvg-logo="https://iptvx.one/picons/foxlife.png" group-title="Фильмы,сериалы",Fox Life
 http://188.237.47.212:6008
 #EXTINF:-1 tvg-id="filmbox-ru" tvg-logo="https://iptvx.one/picons/filmbox-ru.png" group-title="Фильмы,сериалы",FilmBox HD
-http://45.143.108.110:2200/FilmBOX 
-#EXTINF:-1 tvg-id="filmzone" tvg-logo="https://iptvx.one/picons/filmzone.png" group-title="Фильмы,сериалы",FilmZone
-
+http://45.143.108.110:2200/FilmBOX
 #EXTINF:-1 tvg-id="shot-tv" tvg-logo="https://iptvx.one/picons/shot-tv.png" group-title="Фильмы,сериалы",Shot TV
 http://31.210.208.171:8080/shottv/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="filmbox-arthouse" tvg-logo="https://iptvx.one/picons/filmbox-arthouse.png" group-title="Фильмы,сериалы",FilmBox ArtHouse HD
@@ -744,7 +728,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=FAN_HD
 #EXTINF:-1 tvg-id="kino-bez-granic" tvg-logo="https://iptvx.one/picons/kino-bez-granic.png" group-title="Фильмы,сериалы",Кино без границ
 
 #EXTINF:-1 tvg-id="bollywood-hd" tvg-logo="https://iptvx.one/picons/bollywood-hd.png" group-title="Фильмы,сериалы",Bollywood HD
-http://s1.merlive.am/Bollywood/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bollywood
 #EXTINF:-1 tvg-id="zee-tv" tvg-logo="https://iptvx.one/picons/zee-tv.png" group-title="Фильмы,сериалы",Индия
 http://31.173.165.29:8000/play/a05x/index.m3u8
 #EXTINF:-1 tvg-id="indiyskoe-kino" tvg-logo="https://iptvx.one/picons/indijskoe-kino.png" group-title="Фильмы,сериалы",Индийское Кино
@@ -755,14 +739,8 @@ http://s1.merlive.am/hollywood/index.m3u8
 http://31.173.165.29:8000/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://iptvx.one/picons/tv1000-action.png" group-title="Фильмы,сериалы",Viju TV1000 Action 
 http://178.217.72.66:8080/TV_1000_Action/index.m3u8
-#EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://iptvx.one/picons/tv1000-action.png" group-title="Фильмы,сериалы",Viju TV1000 Action HD
-
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png" group-title="Фильмы,сериалы",TV 1000 Русское кино
 http://213.91.178.133:8000/play/a0bx
-#EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-logo="https://iptvx.one/picons/viju-tv1000-novella.png" group-title="Фильмы,сериалы",Viju TV1000 Новелла
-
-#EXTINF:-1 tvg-id="viju-tv1000-romantica" tvg-logo="https://epg.iptvx.one/picons/viju-tv1000-romantica.png" group-title="Фильмы,сериалы",Viju TV1000 romantica
-
 #EXTINF:-1 tvg-id="vip-comedy" tvg-logo="https://iptvx.one/picons/vip-comedy.png" group-title="Фильмы,сериалы",Viju+ Comedy HD
 http://92.242.110.52:9835/udp/238.1.3.6:1234
 #EXTINF:-1 tvg-id="vip-serial" tvg-logo="https://iptvx.one/picons/vip-serial.png" group-title="Фильмы,сериалы",Viju+ Serial HD
