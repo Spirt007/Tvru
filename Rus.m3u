@@ -194,7 +194,7 @@ http://178.134.1.158:8081/5channel/index.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir.png" group-title="Общественные",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="vremia" tvg-logo="https://iptvx.one/picons/vremia.png" group-title="Общественные",Время
-http://45.143.108.110:2200/vremia
+http://stream-msk-10.ott.tricolor.tv/dtv/id360_MSKSG-PVR-1--Vremya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1MTI1MDg1NywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzUwNjQ2MDU3LCJzZXNzaW9uX2lkIjoiNjM1MjY0OWY0MzY1MGMzYTYxMjBlOGQwODM5YTY2ZTYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.FhKdBFbsMDMWAcwgqqZEooC95ITBwIlzyIZA28l6iGY
 #EXTINF:-1 tvg-id="domashny" tvg-logo="https://iptvx.one/picons/domashny.png" group-title="Общественные",Домашний
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=domashny
 #EXTINF:-1 tvg-id="domashny-int" tvg-logo="https://iptvx.one/picons/domashny-int.png" group-title="Общественные",Домашний International
@@ -207,8 +207,6 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 http://31.210.208.171:8080/otr/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="kultura" tvg-logo="https://iptvx.one/picons/kultura.png" group-title="Общественные",Россия Культура
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
-#EXTINF:-1 tvg-id="dozhd" tvg-logo="https://iptvx.one/picons/dozhd.png" group-title="Общественные",Дождь HD
-
 #EXTINF:-1 tvg-id="nastoyaschee-vremia" tvg-logo="https://iptvx.one/picons/nastoiaschee-vremia.png" group-title="Общественные",Настоящее время инагент заблокировали
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 #EXTINF:-1 tvg-id="neizvestnaya-rosia" tvg-logo="https://epg.iptvx.one/picons/neizvestnaya-rosia.png" group-title="Общественные",Неизвестная Россия
@@ -217,8 +215,6 @@ https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="rtd-ru" tvg-logo="https://iptvx.one/picons/rt-doc.png" group-title="Общественные",RTД
 https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
-#EXTINF:-1 tvg-id="dumatv" tvg-logo="https://iptvx.one/picons/dumatv.png" group-title="Общественные",Дума ТВ
-
 #EXTINF:-1 tvg-id="vmeste-rf" tvg-logo="https://iptvx.one/picons/vmeste-rf.png" group-title="Общественные",Вместе РФ
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="bolshaya-azia" tvg-logo="https://iptvx.one/picons/bolshaya-azia.png" group-title="Общественные",Большая Азия
