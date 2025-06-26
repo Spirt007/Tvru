@@ -463,6 +463,8 @@ https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gPMlDCP.png" group-title="Moldova",Moldova TV
 http://89.38.8.130:39435
+#EXTINF:-1 tvg-id="cinema1-md" tvg-logo="https://epg.iptvx.one/picons/cinema1-md.png" group-title="Moldova",Cinema 1 MD
+http://80.245.95.243:8888/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-id="pervy-info-by" tvg-logo="https://iptvx.one/picons/pervy-info-by.png" group-title="Новости",Первый информационный
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
@@ -632,8 +634,7 @@ https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Фильмы,сериалы",Cinema 1
-http://80.245.95.243:8888/play/a01s/index.m3u8
+
 #EXTINF:-1 tvg-id="cinemax" tvg-logo="https://epg.iptvx.one/picons/cinemax.png" group-title="Фильмы,сериалы",Cinemax HD
 http://212.42.104.243:80/ch099/mpegts
 #EXTINF:-1 tvg-id="saga-tv" tvg-logo="https://epg.iptvx.one/picons/saga-tv.png" group-title="Фильмы,сериалы",Saga TV
@@ -847,7 +848,7 @@ http://178.217.72.66:8080/Amedia_Premium_HD/index.m3u8
 #EXTINF:-1 tvg-id="premialnoe-hd" tvg-logo="https://iptvx.one/picons/premialnoe-hd.png" group-title="Премьеры,хиты",Премиальное HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Premialnoe_HD
 #EXTINF:-1 tvg-id="blokbaster-hd" tvg-logo="https://iptvx.one/picons/blokbaster.png" group-title="Премьеры,хиты",Блокбастер HD
-
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Blokbaster_HD
 
 #EXTINF:-1 tvg-id="avto24" tvg-logo="http://epg.it999.ru/img2/2008.png" group-title="Досуг",АВТО 24
 http://178.124.152.238:8088/auto24
@@ -967,19 +968,19 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 
 #EXTINF:-1 tvg-id="rzhd-tv" tvg-logo="https://epg.iptvx.one/picons/rzhd-tv.png" group-title="Познавательные",РЖД HD 
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="eureka-hd" tvg-logo="http://epg.it999.ru/img2/2310.png" group-title="Познавательные",Первый космический HD
+#EXTINF:-1 tvg-id="eureka-hd" tvg-logo="https://epg.iptvx.one/picons/kosmichesky.png" group-title="Познавательные",Первый космический HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eureka
-#EXTINF:-1 tvg-id="Da Vinci" tvg-logo="http://epg.it999.ru/img2/410.png" group-title="Познавательные",Da Vinci
+#EXTINF:-1 tvg-id="Da Vinci" tvg-logo="https://epg.iptvx.one/picons/da-vinci.png" group-title="Познавательные",Da Vinci
 http://130.193.73.10:8937/play/a014
-#EXTINF:-1 tvg-id="sovsek" tvg-logo="http://epg.it999.ru/img2/275.png" group-title="Познавательные",Совершенно Секретно
+#EXTINF:-1 tvg-id="sovsek" tvg-logo="https://epg.iptvx.one/picons/sovsek.png" group-title="Познавательные",Совершенно Секретно
 http://178.124.152.238:8088/sovsec
-#EXTINF:-1 tvg-id="istoria" tvg-logo="http://epg.it999.ru/img2/1036.png" group-title="Познавательные",История
+#EXTINF:-1 tvg-id="istoria" tvg-logo="https://epg.iptvx.one/picons/istoria.png" group-title="Познавательные",История
 http://109.200.130.123:7537/play/a025
 #EXTINF:-1 tvg-id="history" tvg-logo="https://epg.iptvx.one/picons/history.png" group-title="Познавательные",History
 http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="h2" tvg-logo="https://epg.iptvx.one/picons/h2.png" group-title="Познавательные",History2
 
-#EXTINF:-1 tvg-id="RTG" tvg-logo="http://epg.one/img2/2280.png" group-title="Познавательные",RTG TV
+#EXTINF:-1 tvg-id="RTG" tvg-logo="https://epg.iptvx.one/picons/rtg-tv.png" group-title="Познавательные",RTG TV
 http://195.26.83.96:7007/play/a00n/index.m3u8 
 #EXTINF:-1 tvg-id="moya-planeta" tvg-logo="https://iptvx.one/picons/moya-planeta.png" group-title="Познавательные",Моя Планета
 http://194.143.148.28:8080/Nauka20/mpegts
