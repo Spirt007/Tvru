@@ -220,7 +220,7 @@ https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/play
 #EXTINF:-1 tvg-id="bolshaya-azia" tvg-logo="https://iptvx.one/picons/bolshaya-azia.png" group-title="Общественные",Большая Азия
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tcb" tvg-logo="https://iptvx.one/picons/tcb.png" group-title="Общественные",ТСВ 
-
+https://tsv.md/stream/hls/tsv-online/index.m3u8
 #EXTINF:-1 tvg-id="ktk-kz" tvg-logo="https://epg.iptvx.one/picons/ktk-kz.png" group-title="Общественные",КТК
 https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="cgtn" tvg-logo="https://epg.iptvx.one/picons/cgtn.png" group-title="Общественные",CGTN
@@ -631,10 +631,22 @@ http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-id="solnce" tvg-logo="https://iptvx.one/picons/solnce.png" group-title="Детские",Солнце
 https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
+#EXTINF:-1 group-title="Детские",Советские мультфильмы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_10
 
 
 
 
+
+
+#EXTINF:-1 tvg-id="kriminalnoe-hd" tvg-logo="https://epg.iptvx.one/picons/kriminalnoe-hd.png" group-title="Фильмы,сериалы",Криминальное HD
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kriminalnoe_HD
+#EXTINF:-1 group-title="Фильмы,сериалы",Ментовские войны
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_3
+#EXTINF:-1 group-title="Фильмы,сериалы",Улицы разбитых фонарей
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal27_SD
+#EXTINF:-1 group-title="Фильмы,сериалы",Холмс и доктор Ватсон
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_1
 #EXTINF:-1 tvg-id="cinemax" tvg-logo="https://epg.iptvx.one/picons/cinemax.png" group-title="Фильмы,сериалы",Cinemax HD
 http://212.42.104.243:80/ch099/mpegts
 #EXTINF:-1 tvg-id="saga-tv" tvg-logo="https://epg.iptvx.one/picons/saga-tv.png" group-title="Фильмы,сериалы",Saga TV
