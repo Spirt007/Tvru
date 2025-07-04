@@ -13,15 +13,9 @@ http://185.57.68.33/110/mpegts
 #EXTINF:-1 tvg-id="match-football3" tvg-logo="https://iptvx.one/picons/match-football3.png" group-title="Спортивные",Матч! Футбол 3 HD* 
 http://tv.ttk.mx:9116
 #EXTINF:-1 tvg-id="setanta-sports" tvg-logo="https://iptvx.one/picons/setanta-sports.png" group-title="Спортивные",Setanta Sports 1 HD
-
+https://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="https://iptvx.one/picons/setanta-sports-plus.png" group-title="Спортивные",Setanta Sports 2 HD
-
-#EXTINF:-1 tvg-id="setanta-plus-ua" tvg-logo="https://iptvx.one/picons/setanta-plus-ua.png" group-title="Спортивные",Setanta+ Украина
-
-#EXTINF:-1 tvg-id="setanta-ua" tvg-logo="https://iptvx.one/picons/setanta-ua.png" group-title="Спортивные",Setanta Украина
-
-#EXTINF:-1 tvg-id="setanta-kz" tvg-logo="https://iptvx.one/picons/setanta-kz.png" group-title="Спортивные",Setanta Казахстан
-
+https://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спортивные",Матч!
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спортивные",Матч! HD
@@ -38,30 +32,6 @@ http://65.21.85.175:8000/play/a00c/index.m3u8?token=livetv
 https://7pal.short.gy/prsport1
 #EXTINF:-1 tvg-logo="" group-title="Спортивные",Premier Sport 2
 https://7pal.short.gy/prsport2
-#EXTINF:-1 tvg-id="Futbol.tj" tvg-logo="https://i.imgur.com/RngmCDn.png" group-title="Спортивные",Futbol
-
-#EXTINF:-1 tvg-id="sky-sports-action" tvg-logo="https://iptvx.one/picons/sky-sports-action.png" group-title="Спортивные",Sky Sports Action
-https://7pal.short.gy/ssportsat
-#EXTINF:-1 tvg-id="sky-sports-golf" tvg-logo="https://iptvx.one/picons/sky-sports-golf.png" group-title="Спортивные",Sky Sports Golf
-https://7pal.short.gy/ssportsgf
-#EXTINF:-1 tvg-id="sky-sports-apl" tvg-logo="https://iptvx.one/picons/sky-sports-apl.png" group-title="Спортивные",Sky Sports Premier League
-https://7pal.short.gy/ssportspl
-#EXTINF:-1 tvg-id="sky-sports-f1" tvg-logo="https://iptvx.one/picons/sky-sports-f1.png" group-title="Спортивные",Sky Sports F1
-https://7pal.short.gy/SSF1uhd
-#EXTINF:-1tvg-id="sky-sports-football" tvg-logo="https://iptvx.one/picons/sky-sports-football.png"  group-title="Спортивные",Sky Sports Football
-https://7pal.short.gy/ssportsfb
-#EXTINF:-1 tvg-id="sky-sports-maine" tvg-logo="https://iptvx.one/picons/sky-sports-maine.png" group-title="Спортивные",Sky Sports Main Event
-https://7pal.short.gy/skspmaine
-#EXTINF:-1 tvg-id="sky-sports-news" tvg-logo="https://iptvx.one/picons/sky-sports-news.png" group-title="Спортивные",Sky Sports News
-https://7pal.short.gy/ssportsnw
-#EXTINF:-1 tvg-id="sky-sport-hd1" tvg-logo="https://epg.iptvx.one/picons/sky-sport-hd1.png" group-title="Спортивные",Sky Sports 1
-https://7pal.short.gy/skyspt1nz
-#EXTINF:-1 tvg-id="sky-sport-hd2" tvg-logo="https://epg.iptvx.one/picons/sky-sport-hd2.png" group-title="Спортивные",Sky Sports 2 
-https://7pal.short.gy/skyspt2nz
-#EXTINF:-1 tvg-id="sky-sport-hd3" tvg-logo="https://epg.iptvx.one/picons/sky-sport-hd3.png" group-title="Спортивные",Sky Sports 3
-https://7pal.short.gy/skyspt3nz
-#EXTINF:-1 tvg-id="sky-sport-hd4" tvg-logo="https://epg.iptvx.one/picons/sky-sport-hd4.png" group-title="Спортивные",Sky Sports 4
-https://7pal.short.gy/skyspt4nz
 #EXTINF:-1 tvg-id="bt-sport1" tvg-logo="https://iptvx.one/picons/bt-sport1.png" group-title="Спортивные",TNT Sport 1
 https://7pal.short.gy/tntspts1
 #EXTINF:-1 tvg-id="bt-sport2" tvg-logo="https://iptvx.one/picons/bt-sport2.png" group-title="Спортивные",TNT Sport 2
@@ -104,10 +74,6 @@ http://178.219.128.68:64889/POLSSPORHD
 http://185.236.229.62:9981/play/a07q
 #EXTINF:-1 tvg-id="polsat-sport-news" tvg-logo="https://iptvx.one/picons/polsat-sport-news.png" group-title="Спортивные",Polsat Sport 3 HD 
 http://185.236.229.62:9981/play/a06m
-#EXTINF:-1 tvg-id="polsat-sport-pr1" tvg-logo="https://epg.iptvx.one/picons/polsat-sport-pr1.png" group-title="Спортивные",Polsat Sport Premium 1
-
-#EXTINF:-1 tvg-id="polsat-sport-pr2" tvg-logo="https://epg.iptvx.one/picons/polsat-sport-pr2.png" group-title="Спортивные",Polsat Sport Premium 2
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Turkmenistan_Sport.png/revision/latest?cb=20211225160814" group-title="Спортивные",Turkmenistan Sport 
 https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://epgx.site/p/okko-sport.png" group-title="Спортивные",Okko.Спорт
@@ -639,14 +605,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_10
 
 
 
-#EXTINF:-1 tvg-id="kriminalnoe-hd" tvg-logo="https://epg.iptvx.one/picons/kriminalnoe-hd.png" group-title="Фильмы,сериалы",Криминальное HD
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kriminalnoe_HD
-#EXTINF:-1 group-title="Фильмы,сериалы",Ментовские войны
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_3
-#EXTINF:-1 group-title="Фильмы,сериалы",Улицы разбитых фонарей
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal27_SD
-#EXTINF:-1 group-title="Фильмы,сериалы",Холмс и доктор Ватсон
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_1
+
 #EXTINF:-1 tvg-id="cinemax" tvg-logo="https://epg.iptvx.one/picons/cinemax.png" group-title="Фильмы,сериалы",Cinemax HD
 http://212.42.104.243:80/ch099/mpegts
 #EXTINF:-1 tvg-id="saga-tv" tvg-logo="https://epg.iptvx.one/picons/saga-tv.png" group-title="Фильмы,сериалы",Saga TV
@@ -654,7 +613,7 @@ http://178.212.71.253:8001/play/144/index.m3u8
 #EXTINF:-1 tvg-id="suspense" tvg-logo="https://epg.iptvx.one/picons/suspense.png" group-title="Фильмы,сериалы",Suspense
 http://77.235.1.19:8000/play/a051/index.m3u8
 #EXTINF:-1 tvg-id="kamedi" tvg-logo="https://epg.iptvx.one/picons/kamedi.png" group-title="Фильмы,сериалы",Камеди
-http://stream-msk-08.ott.tricolor.tv/dtv/id642_MSKSG-PVR-1--Kamedi_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1MTI1MDg1NywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzUwNjQ2MDU3LCJzZXNzaW9uX2lkIjoiNjM1MjY0OWY0MzY1MGMzYTYxMjBlOGQwODM5YTY2ZTYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.FhKdBFbsMDMWAcwgqqZEooC95ITBwIlzyIZA28l6iGY
+
 #EXTINF:-1 tvg-id="kion-xit" tvg-logo="https://epg.iptvx.one/picons/kion-xit.png" group-title="Фильмы,сериалы",KION Хит
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=KIONHIT
 #EXTINF:-1 tvg-id="patriot" tvg-logo="https://epg.iptvx.one/picons/patriot.png" group-title="Фильмы,сериалы",Патриот
