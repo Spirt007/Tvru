@@ -223,7 +223,7 @@ http://31.148.48.15/STS_Love/index.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="Развлекательные",ТНТ
 https://streaming.goodstream.cyou/live/38.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="Развлекательные",ТНТ HD
-https://salam-krd-ttk-120.rutube.ru/dive/river-5-553.rtbcdn.ru/gud0DY3a20jl0QqmXzTPqw/stream/genetta-319.m9.rutube.ru/DQTINhwC4efUFRvlt9TScA/1753363108/546602986e6a424d74d594876ddb3f04/1080p_stream.m3u8
+https://salam-krd-retn-119.rutube.ru/dive/river-3-321.rtbcdn.ru/agZYfaP3e_3gx3KJ1QeBOQ/stream/genetta-319.m9.rutube.ru/ZYrvSrlinLLE_KTC0qpRHg/1755035902/546602986e6a424d74d594876ddb3f04/720p_stream.m3u8
 #EXTINF:-1 tvg-id="tnt-pl2" tvg-logo="https://epg.iptvx.one/picons/tnt-pl2.png" group-title="Развлекательные",ТНТ +2
 https://streaming.televizor-24-tochka.ru/live/38.m3u8
 #EXTINF:-1 tvg-id="tnt-int-eu" tvg-logo="https://iptvx.one/picons/tnt-int-eu.png" group-title="Развлекательные",ТНТ-International
@@ -805,6 +805,39 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_1
 http://178.212.71.253:8000/play/133/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://epg.iptvx.one/picons/hustler-tv.png" group-title="Фильмы,сериалы",Horror TV
 https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
+#EXTINF:-1 group-title="Фильмы,сериалы",BCU Action HD
+http://178.217.72.66:8080/BCUActionHD/index.m3u8
+#EXTINF:-1 group-title="Фильмы,сериалы",BCU Catastrophe HD
+http://178.217.72.66:8080/BCUCatastropheHD/index.m3u8
+#EXTINF:-1 group-title="Фильмы,сериалы",BCU Comedy HD
+http://178.217.72.66:8080/BCUComedyHD/index.m3u8
+#EXTINF:-1 group-title="Фильмы,сериалы",BCU Fantastic HD
+http://178.217.72.66:8080/BCUFantasticHD/index.m3u8
+#EXTINF:-1 group-title="Фильмы,сериалы",BCU Romantic HD
+http://178.217.72.66:8080/BCURomanticHD/index.m3u8
+#EXTINF:-1 group-title="Фильмы,сериалы",BCU Stars HD
+http://178.217.72.66:8080/BCUStarsHD/index.m3u8
+#EXTINF:-1 group-title="Фильмы,сериалы",BCU VHS HD
+http://178.217.72.66:8080/BCUVHSHD/index.m3u8
+#EXTINF:-1 group-title="Фильмы,сериалы",BCU Kinorating HD
+http://178.217.72.66:8080/BCUKinoratingHD/index.m3u8
+#EXTINF:-1 group-title="Фильмы,сериалы",CineMan Action HD
+http://178.217.72.66:8080/CineMan_Action/index.m3u8
+#EXTINF:-1 group-title="Фильмы,сериалы",CineMan Comedy HD
+http://178.217.72.66:8080/CineMan_Comedy/index.m3u8
+#EXTINF:-1 group-title="Фильмы,сериалы",CineMan HD
+http://178.217.72.66:8080/CineMan/index.m3u8
+#EXTINF:-1 group-title="Фильмы,сериалы",CineMan Marvel HD
+http://178.217.72.66:8080/CineMan_Marvel/index.m3u8
+#EXTINF:-1 group-title="Фильмы,сериалы",CineMan Melodrama
+http://178.217.72.66:8080/CineMan_Melodrama/index.m3u8
+#EXTINF:-1 group-title="Фильмы,сериалы",CineMan Thriller HD
+http://178.217.72.66:8080/CineMan_Thriller/index.m3u8
+#EXTINF:-1 group-title="Фильмы,сериалы",CineMan Top HD
+http://178.217.72.66:8080/CineMan_Top/index.m3u8
+#EXTINF:-1 group-title="Фильмы,сериалы",CineMan VHS HD
+http://178.217.72.66:8080/CineMan_VHS/index.m3u8
+
 
 
 
