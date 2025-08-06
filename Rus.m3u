@@ -215,13 +215,13 @@ https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
 #EXTINF:-1 tvg-id="super" tvg-logo="https://iptvx.one/picons/subbota.png" group-title="Развлекательные",Суббота
 https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
 #EXTINF:-1 tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Развлекательные",СТС
-http://live-stream-01.ott.tricolor.tv/live/live/STS_0_hd/hls_enc/STS_0_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1MzY2OTIzMiwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzUzMDY0NDMyLCJzZXNzaW9uX2lkIjoiOWVhMThlNjgzNTUxYjNiNWVlN2NmODUyMDgxOTE1OTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.UrItlXueVDYEF_nJqKOWyvUWlExsKVhJaxFgSZbBGPg
+http://live-stream-01.ott.tricolor.tv/live/live/STS_0_hd/hls_enc/STS_0_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
 #EXTINF:-1 tvg-id="sts-int" tvg-logo="https://iptvx.one/picons/sts-int.png" group-title="Развлекательные",СТС International
-http://195.245.99.242/STS/playlist.m3u8
+
 #EXTINF:-1 tvg-id="sts-love" tvg-logo="https://iptvx.one/picons/sts-love.png" group-title="Развлекательные",СТС Love
 http://31.148.48.15/STS_Love/index.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="Развлекательные",ТНТ
-https://streaming.goodstream.cyou/live/38.m3u8
+http://178.217.72.66:8080/TNT_HD/index.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="Развлекательные",ТНТ HD
 https://salam-krd-retn-119.rutube.ru/dive/river-3-321.rtbcdn.ru/agZYfaP3e_3gx3KJ1QeBOQ/stream/genetta-319.m9.rutube.ru/ZYrvSrlinLLE_KTC0qpRHg/1755035902/546602986e6a424d74d594876ddb3f04/720p_stream.m3u8
 #EXTINF:-1 tvg-id="tnt-pl2" tvg-logo="https://epg.iptvx.one/picons/tnt-pl2.png" group-title="Развлекательные",ТНТ +2
@@ -805,37 +805,37 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_1
 http://178.212.71.253:8000/play/133/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://epg.iptvx.one/picons/hustler-tv.png" group-title="Фильмы,сериалы",Horror TV
 https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
-#EXTINF:-1 group-title="Фильмы,сериалы",BCU Action HD
+#EXTINF:-1 tvg-id="bcu-action" tvg-logo="https://epg.iptvx.one/picons/bcu-action.png" group-title="Фильмы,сериалы",BCU Action HD
 http://178.217.72.66:8080/BCUActionHD/index.m3u8
-#EXTINF:-1 group-title="Фильмы,сериалы",BCU Catastrophe HD
+#EXTINF:-1 tvg-id="bcu-catastrophe" tvg-logo="https://epg.iptvx.one/picons/bcu-catastrophe.png" group-title="Фильмы,сериалы",BCU Catastrophe HD
 http://178.217.72.66:8080/BCUCatastropheHD/index.m3u8
-#EXTINF:-1 group-title="Фильмы,сериалы",BCU Comedy HD
+#EXTINF:-1 tvg-id="bcu-comedy" tvg-logo="https://epg.iptvx.one/picons/bcu-comedy.png" group-title="Фильмы,сериалы",BCU Comedy HD
 http://178.217.72.66:8080/BCUComedyHD/index.m3u8
-#EXTINF:-1 group-title="Фильмы,сериалы",BCU Fantastic HD
+#EXTINF:-1 tvg-id="bcu-fantastic" tvg-logo="https://epg.iptvx.one/picons/bcu-fantastic.png" group-title="Фильмы,сериалы",BCU Fantastic HD
 http://178.217.72.66:8080/BCUFantasticHD/index.m3u8
-#EXTINF:-1 group-title="Фильмы,сериалы",BCU Romantic HD
+#EXTINF:-1 tvg-id="bcu-romantic" tvg-logo="https://epg.iptvx.one/picons/bcu-romantic.png" group-title="Фильмы,сериалы",BCU Romantic HD
 http://178.217.72.66:8080/BCURomanticHD/index.m3u8
-#EXTINF:-1 group-title="Фильмы,сериалы",BCU Stars HD
+#EXTINF:-1 tvg-id="bcu-stars" tvg-logo="https://epg.iptvx.one/picons/bcu-stars.png" group-title="Фильмы,сериалы",BCU Stars HD
 http://178.217.72.66:8080/BCUStarsHD/index.m3u8
-#EXTINF:-1 group-title="Фильмы,сериалы",BCU VHS HD
+#EXTINF:-1 tvg-id="bcu-vhs" tvg-logo="https://epg.iptvx.one/picons/bcu-vhs-hd.png" group-title="Фильмы,сериалы",BCU VHS HD
 http://178.217.72.66:8080/BCUVHSHD/index.m3u8
-#EXTINF:-1 group-title="Фильмы,сериалы",BCU Kinorating HD
+#EXTINF:-1 tvg-id="bcu-kinorating" tvg-logo="https://epg.iptvx.one/picons/bcu-kinorating.png" group-title="Фильмы,сериалы",BCU Kinorating HD
 http://178.217.72.66:8080/BCUKinoratingHD/index.m3u8
-#EXTINF:-1 group-title="Фильмы,сериалы",CineMan Action HD
+#EXTINF:-1 tvg-id="cineman-action" tvg-logo="https://epg.iptvx.one/picons/cineman-action.png" group-title="Фильмы,сериалы",CineMan Action HD
 http://178.217.72.66:8080/CineMan_Action/index.m3u8
-#EXTINF:-1 group-title="Фильмы,сериалы",CineMan Comedy HD
+#EXTINF:-1 tvg-id="cineman-comedy" tvg-logo="https://epg.iptvx.one/picons/cineman-comedy.png" group-title="Фильмы,сериалы",CineMan Комедия
 http://178.217.72.66:8080/CineMan_Comedy/index.m3u8
-#EXTINF:-1 group-title="Фильмы,сериалы",CineMan HD
+#EXTINF:-1 tvg-id="cineman" tvg-logo="https://epg.iptvx.one/picons/cineman.png" group-title="Фильмы,сериалы",CineMan HD
 http://178.217.72.66:8080/CineMan/index.m3u8
-#EXTINF:-1 group-title="Фильмы,сериалы",CineMan Marvel HD
+#EXTINF:-1 tvg-id="cineman-marvel" tvg-logo="https://epg.iptvx.one/picons/cineman-marvel.png" group-title="Фильмы,сериалы",CineMan Marvel HD
 http://178.217.72.66:8080/CineMan_Marvel/index.m3u8
-#EXTINF:-1 group-title="Фильмы,сериалы",CineMan Melodrama
+#EXTINF:-1 tvg-id="cineman-melodrama" tvg-logo="https://epg.iptvx.one/picons/cineman-melodrama.png" group-title="Фильмы,сериалы",CineMan Melodrama
 http://178.217.72.66:8080/CineMan_Melodrama/index.m3u8
-#EXTINF:-1 group-title="Фильмы,сериалы",CineMan Thriller HD
+#EXTINF:-1 tvg-id="cineman-thriller" tvg-logo="https://epg.iptvx.one/picons/cineman-thriller.png" group-title="Фильмы,сериалы",CineMan Thriller HD
 http://178.217.72.66:8080/CineMan_Thriller/index.m3u8
-#EXTINF:-1 group-title="Фильмы,сериалы",CineMan Top HD
+#EXTINF:-1 tvg-id="cineman-top" tvg-logo="https://epg.iptvx.one/picons/cineman-top.png" group-title="Фильмы,сериалы",CineMan Top HD
 http://178.217.72.66:8080/CineMan_Top/index.m3u8
-#EXTINF:-1 group-title="Фильмы,сериалы",CineMan VHS HD
+#EXTINF:-1 tvg-id="cineman-vhs" tvg-logo="https://epg.iptvx.one/picons/cineman-vhs.png" group-title="Фильмы,сериалы",CineMan VHS HD
 http://178.217.72.66:8080/CineMan_VHS/index.m3u8
 
 
