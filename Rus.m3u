@@ -821,24 +821,16 @@ http://95.85.109.219:7000/play/a06h
 https://132544.edgevideo.ru/streams/132544_954167/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://sun1-14.userapi.com/s/v1/ig1/ipIyCev4KHEIcx4urmZVzULjxRdlDBM6jxwVi854MGxUw6jagkf8ISPD9X5pzagyMY4hxCN1.jpg?quality=96&crop=0,0,500,500&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480&ava=1&cs=240x240" group-title="Кинозалы", KinoMix
 https://132544.edgevideo.ru/streams/132544_940640/1325441080/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tr.canlitv.watch/channels/konul-tv.png" group-title="Кинозалы", KTV
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.catcast.tv/uploads/04092021/logos/40672-61329195ca44d.jpg" group-title="Кинозалы", LAV-KINO
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
 #EXTINF:-0 tvg-id="" group-title="Кинозалы" tvg-logo="https://pluspng.com/img-png/shows-hd-png--1920.jpg",SeriesTV
 http://132544.edgevideo.ru/streams/132544_931337/1325441080/index.m3u8
-#EXTINF:-0 tvg-id="" group-title="Кинозалы" tvg-logo="https://fsd.kopilkaurokov.ru/up/html/2020/01/27/k_5e2f1ef814d50/img_user_file_5e2f1ef9dd433_0_0.jpg",WWW 
-https://132544.edgevideo.ru/streams/132544_931349/1325441080/index.m3u8
 #EXTINF:-0 tvg-id="" group-title="Кинозалы" tvg-logo="https://telik.live/images/fmc-tv.png", FMC 
 https://132544.edgevideo.ru/streams/132544_931346/1325441080/index.m3u8
 #EXTINF:-0 tvg-id="" group-title="Кинозалы" tvg-logo="https://i.postimg.cc/YS90VJYX/image.png",МУЛЬТИКИ И СКАЗКИ
 https://132544.edgevideo.ru/streams/132544_931352/132544720/index.m3u8
 #EXTINF:-0 tvg-id="" group-title="Кинозалы" tvg-logo="https://i.pinimg.com/originals/3d/69/8f/3d698f3e48bedf3ad13df350f2ccd21e.jpg", Секс в большом городе
 https://132544.edgevideo.ru/streams/132544_824978/132544360/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="" group-title="Кинозалы", MGM
-https://autopilot.catcast.tv/content/44051/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="" group-title="Кинозалы", ЛИК
-http://autopilot.catcast.tv/content/41596/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/logotip_kinomostika.png" tvg-id="" group-title="Кинозалы", Сити Эдем - КиноМистика
 https://autopilot.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1 tvg-logo="https://adindex.ru/files2/photogallery/2020_11/photo2_286493_smotrim2.jpg.jpg" tvg-id="" group-title="Кинозалы", Смотрим Кино и сериалы
@@ -846,7 +838,7 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="" group-title="Кинозалы", Alpha Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:-1 tvg-logo="http://i124.fastpic.org/big/2025/0304/12/bc24281a42d469e4b4c7f41122757912.png" tvg-id="Улицы разбитых фонарей" group-title="Кинозалы,УЛИЦЫ РАЗБИТЫХ ФОНАРЕЙ
+#EXTINF:-1 tvg-logo="http://i124.fastpic.org/big/2025/0304/12/bc24281a42d469e4b4c7f41122757912.png" tvg-id="Улицы разбитых фонарей" group-title="Кинозалы",УЛИЦЫ РАЗБИТЫХ ФОНАРЕЙ
 https://live-mirror-19.ott.tricolor.tv/dtv/id1015_MSKSG-PVR-1--Kinozal27_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1NzA4ODAyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU2NDgzMjI3LCJzZXNzaW9uX2lkIjoiNmIyMzdkODBkODVhNTIxNTc1MGNmMjM4ZDIyN2UzODMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VV5q6l0RqTpUaAS9zp_0g-CrTe8lCxwQMFkom1T_Vj4
 
 #EXTINF:-1 tvg-id="kinopremiera-hd" tvg-logo="https://iptvx.one/picons/kinopremiera.png" group-title="Премьеры,хиты",Кинопремьера
