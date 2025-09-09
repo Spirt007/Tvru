@@ -862,7 +862,7 @@ http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 https://live-mirror-19.ott.tricolor.tv/dtv/id1015_MSKSG-PVR-1--Kinozal27_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1NzkwMTYyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3Mjk2ODI3LCJzZXNzaW9uX2lkIjoiZGViZGU4OThkZTUwNjIzMGJkNjQ5NDA2NGQ2M2ZjYTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Erk3oqUptlGDma5X-k38v_XmfI6ACN8lCLfCHKsdnbU
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/SCRIPACH TV.jpg" tvg-id="" group-title="Кинозалы",SCRIPACH TV
 https://132544.edgevideo.ru/streams/132544_935537/1325441080/index.m3u8
-#EXTINF:-1 tvg-logo="http://i124.fastpic.org/big/2025/0304/85/e1a226a307b053457112bea9a834ff85.png" tvg-id="zal-01-tricolor" group-title="Кинозалы",ШЕРЛОК ХОЛМС
+#EXTINF:-1 tvg-id="zal-01-tricolor" tvg-logo="https://epg.iptvx.one/picons/zal-01-tricolor.png"  group-title="Кинозалы",ШЕРЛОК ХОЛМС
 https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1NzkwMTYyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3Mjk2ODI3LCJzZXNzaW9uX2lkIjoiZGViZGU4OThkZTUwNjIzMGJkNjQ5NDA2NGQ2M2ZjYTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Erk3oqUptlGDma5X-k38v_XmfI6ACN8lCLfCHKsdnbU
 
 
