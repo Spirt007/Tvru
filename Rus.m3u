@@ -823,7 +823,7 @@ https://autopilot.catcast.tv/content/40783/index.m3u8
 https://autopilot.catcast.tv/content/34393/index.m3u8?password=promolive
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cityeden.info/logotv/kinofantastika_logotip.png"  group-title="Фильмы,сериалы",Сити Эдем - КиноФантастика
 https://cityeden.catcast.tv/content/45268/index.m3u8
-#EXTINF:-1 group-title="Кинозалы",Сити Эдем — Кинодок
+#EXTINF:-1 group-title="Фильмы,сериалы",Сити Эдем — Кинодок
 https://cityeden.catcast.tv/content/38354/index.m3u8
 #EXTINF:-1 tvg-id="cityedem-kinoklas" tvg-logo="https://epg.iptvx.one/picons/cityedem-kinoklas.png" group-title="Фильмы,сериалы",Сити Эдем — Киноклассика
 https://autopilot.catcast.tv/content/34185/index.m3u8?password=promolive
