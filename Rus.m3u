@@ -18,6 +18,8 @@ http://178.217.72.66:8080/Match_Futbol_3_HD/video.m3u8
 http://tooontv.com:999/live/ere3444h/agape/1038.
 #EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="https://epg.iptvx.one/picons/setanta-sports-plus.png" group-title="Спортивные",Setanta Sports 2 HD
 http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="https://epg.iptvx.one/picons/setanta-sports-plus.png" group-title="Спортивные",Setanta Sports 2 HD*
+http://95.85.109.219:7000/play/a068
 #EXTINF:-1 tvg-id="setanta1-ge" tvg-logo="https://epg.iptvx.one/picons/setanta1-ge.png" group-title="Спортивные",Setanta Sports 1 Georgia
 http://94.43.1.138:8081/setanta1/index.m3u8
 #EXTINF:-1 tvg-id="setanta2-ge" tvg-logo="https://epg.iptvx.one/picons/setanta2-ge.png" group-title="Спортивные",Setanta Sports 2 Georgia
