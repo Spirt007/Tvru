@@ -1,4 +1,4 @@
-![Image alt](https://github.com/Spirt007/Tvru/blob/Master/IMG_20231109_124228.png https://github.com/Spirt007/Tvru/blob/Master/P4PvXw2kQFUA6NVcQCaD3avXvbHCKsm2.jpg.jpg)
+![Image alt](https://github.com/Spirt007/Tvru/blob/Master/P4PvXw2kQFUA6NVcQCaD3avXvbHCKsm2.jpg.jpg)
                                  
                                   
  
