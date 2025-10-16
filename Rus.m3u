@@ -316,8 +316,6 @@ https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="svoyo-tv-stavropol" tvg-logo="https://iptvx.one/picons/svoyo-tv-stavropol.png" group-title="Региональные",Своё ТВ Ставрополь
 https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
-#EXTINF:-1 tvg-id="svoyo-tv-berezniki" tvg-logo="https://epg.iptvx.one/picons/svoyo-tv-berezniki.png" group-title="Региональные",	Своё ТВ Березники
-http://live.stv24.tv:8080/svoetv/HQ_video.m3u8
 #EXTINF:-1 tvg-id="kavkaz24" tvg-logo="https://iptvx.one/picons/kavkaz24.png" group-title="Региональные",Кавказ 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
 #EXTINF:-1 tvg-id="vetta24" tvg-logo="https://iptvx.one/picons/vetta24.png" group-title="Региональные",Ветта 24 Пермь
