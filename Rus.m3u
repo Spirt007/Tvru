@@ -751,9 +751,9 @@ http://195.64.140.147:10082/82
 #EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png" group-title="Фильмы,сериалы",НСТ
 
 
-#EXTINF:-1 tvg-id="312-kino" tvg-logo="https://epg.iptvx.one/picons/312-kino.png" group-title="Movies",312 Кино
+#EXTINF:-1 tvg-id="312-kino" tvg-logo="https://epg.iptvx.one/picons/312-kino.png" group-title="Фильмы,сериалы",312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 tvg-id="312TV.kg@SD" tvg-logo="https://i.ibb.co/S6sZvqk/iLSGi6c.png" group-title="Entertainment",312 ТВ
+#EXTINF:-1 tvg-id="312TV.kg@SD" tvg-logo="https://i.ibb.co/S6sZvqk/iLSGi6c.png" group-title="Фильмы,сериалы",312 ТВ
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 tvg-id="timeless-dizi" tvg-logo="https://iptvx.one/picons/timeless-dizi.png" group-title="Фильмы,сериалы",Timeless Dizi Channel HD
 
