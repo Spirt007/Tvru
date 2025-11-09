@@ -766,21 +766,21 @@ https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.live.vkvideo.ru/user/20176540/avatar?change_time=1754116868&croped=1&mh=70&mw=70" group-title="Кинозалы",Film Best TV
-http://132544.edgevideo.ru/streams/132544_975653/1325441080/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="" group-title="Кинозалы",SeleCaoTV 1
-https://132544.edgevideo.ru/streams/132544_951371/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="" group-title="Кинозалы",SeleCaoTV 2
-https://132544.edgevideo.ru/streams/132544_954167/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",KinoMix
-https://132544.edgevideo.ru/streams/132544_940640/1325441080/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.catcast.tv/uploads/04092021/logos/40672-61329195ca44d.jpg" group-title="Кинозалы",LAV-KINO
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
 #EXTINF:-0 tvg-id="" group-title="Кинозалы" tvg-logo="https://pluspng.com/img-png/shows-hd-png--1920.jpg",SeriesTV
-http://132544.edgevideo.ru/streams/132544_931337/1325441080/index.m3u8
+
 #EXTINF:-0 tvg-id="" group-title="Кинозалы" tvg-logo="https://telik.live/images/fmc-tv.png",FMC 
-https://132544.edgevideo.ru/streams/132544_931346/1325441080/index.m3u8
+
 #EXTINF:-0 tvg-id="" group-title="Кинозалы" tvg-logo="https://i.postimg.cc/YS90VJYX/image.png",МУЛЬТИКИ И СКАЗКИ
-https://132544.edgevideo.ru/streams/132544_931352/132544720/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://adindex.ru/files2/photogallery/2020_11/photo2_286493_smotrim2.jpg.jpg" tvg-id="" group-title="Кинозалы", Смотрим Кино и сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="" group-title="Кинозалы",Alpha Cinema
@@ -795,7 +795,7 @@ http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1 tvg-id="zal-27-tricolor" tvg-logo="https://iptvx.one/picons/zal-27-tricolor.png" group-title="Кинозалы",УЛИЦЫ РАЗБИТЫХ ФОНАРЕЙ
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/SCRIPACH TV.jpg" tvg-id="" group-title="Кинозалы",SCRIPACH TV
-https://132544.edgevideo.ru/streams/132544_935537/1325441080/index.m3u8
+
 #EXTINF:-1 tvg-id="zal-01-tricolor" tvg-logo="https://epg.iptvx.one/picons/zal-01-tricolor.png"  group-title="Кинозалы",ШЕРЛОК ХОЛМС
 
 #EXTINF:-1  group-title="Кинозалы",IPTVPLAY ФАНТАСТИКА HD
