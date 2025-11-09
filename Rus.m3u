@@ -99,6 +99,8 @@ http://46.8.46.14/viasport/index.m3u8
 http://45.11.139.43:8555/extsport/index.m3u8
 #EXTINF:-1 tvg-id="start" tvg-logo="https://iptvx.one/picons/start.png" group-title="Спортивные",Старт
 
+EXTINF:-1 tvg-id="start-basket" tvg-logo="https://epg.iptvx.one/picons/start-basket.png" group-title="Спортивные",Старт Баскет
+https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?
 #EXTINF:-1 tvg-id="start-triumf" tvg-logo="https://iptvx.one/picons/start-triumf.png" group-title="Спортивные",Старт Триумф
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/_PhMnvfn3_QWzRJEM808OQ,1760562024/streaming/start-triumf/324/1/index.m3u8
