@@ -75,7 +75,7 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 #EXTINF:-1 tvg-id="nfl-network-us" tvg-logo="http://epg.one/img2/4562.png" group-title="Спортивные",NHL Network
 https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="kxl" tvg-logo="https://iptvx.one/picons/kxl.png" group-title="Спортивные",KHL
-
+http://84.245.224.71/KHLHD/mono.m3u8
 #EXTINF:-1 tvg-id="kxl-hd" tvg-logo="https://iptvx.one/picons/kxl-hd.png" group-title="Спортивные",KHL Prime
 http://tv.streams.baikal-telecom.net:8080/KHL_HD/mpegts
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://iptvx.one/picons/eurosport1.png" group-title="Спортивные",Eurosport 1 HD
@@ -90,11 +90,10 @@ http://46.8.46.14/viasport/index.m3u8
 http://45.11.139.43:8555/extsport/index.m3u8
 #EXTINF:-1 tvg-id="start" tvg-logo="https://iptvx.one/picons/start.png" group-title="Спортивные",Старт
 
-EXTINF:-1 tvg-id="start-basket" tvg-logo="https://epg.iptvx.one/picons/start-basket.png" group-title="Спортивные",Старт Баскет
+#EXTINF:-1 tvg-id="start-basket" tvg-logo="https://epg.iptvx.one/picons/start-basket.png" group-title="Спортивные",Старт Баскет
 https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?
 #EXTINF:-1 tvg-id="start-triumf" tvg-logo="https://iptvx.one/picons/start-triumf.png" group-title="Спортивные",Старт Триумф
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/_PhMnvfn3_QWzRJEM808OQ,1760562024/streaming/start-triumf/324/1/index.m3u8
+
 #EXTINF:-1 tvg-id="match-igra" tvg-logo="https://iptvx.one/picons/match-igra.png" group-title="Спортивные",Матч! Игра
 http://185.78.112.17/match_igra_hd/index.m3u8
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-logo="https://iptvx.one/picons/match-strana.png" group-title="Спортивные",Матч! Страна
@@ -111,6 +110,7 @@ https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 http://tvip.btk.teleos.ru:8081/chid50/index.m3u8
 #EXTINF:-1 tvg-id="xokkejny" tvg-logo="https://iptvx.one/picons/xokkejny.png" group-title="Спортивные",Хоккей ТВ HD
 
+#EXTINF:-1 tvg-id="konny-mir" tvg-logo="https://epg.iptvx.one/picons/konny-mir.png" group-title="Спортивные",Конный мир HD
 http://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/IMG_20230719_152756.png" group-title="Спортивные",Астрахань Спорт
 http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
