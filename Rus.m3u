@@ -139,8 +139,6 @@ http://cdn.ntv.ru/ntv0/tracks-v3a1/mono.m3u8
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="Общественные",ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="rentv" tvg-logo="https://iptvx.one/picons/rentv.png" group-title="Общественные",Рен ТВ
-
 #EXTINF:-1 tvg-id="tv3-ru" tvg-logo="https://iptvx.one/picons/tv3-ru.png" group-title="Общественные",ТВ3
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
@@ -178,8 +176,6 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 #EXTINF:-1 tvg-id="neizvestnaya-rosia" tvg-logo="https://epg.iptvx.one/picons/neizvestnaya-rosia.png" group-title="Общественные",Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="360-news" tvg-logo="https://epg.iptvx.one/picons/360-news.png" group-title="Общественные",360°
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="rtd-ru" tvg-logo="https://iptvx.one/picons/rt-doc.png" group-title="Общественные",RTД
 http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 #EXTINF:-1 tvg-id="vmeste-rf" tvg-logo="https://iptvx.one/picons/vmeste-rf.png" group-title="Общественные",Вместе РФ
@@ -425,6 +421,14 @@ http://serv30.vintera.tv:8081/sarov/sarov_stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Lugansk24.ua@SD" tvg-logo="https://i.imgur.com/AihoVc0.png" group-title="Региональные",Луганск 24
 https://streaming.televizor-24-tochka.ru/live/29.m3u8
 
+#EXTINF:-1 tvg-id="ntv-pl1" tvg-logo="https://epg.iptvx.one/picons/ntv-pl1.png" group-title="НТВ",НТВ +1
+https://cdn.ntv.ru/ntv1/playlist.m3u8
+#EXTINF:-1 tvg-id="ntv-pl2" tvg-logo="https://epg.iptvx.one/picons/ntv-pl2.png" group-title="НТВ",НТВ +2
+https://cdn.ntv.ru/ntv2/playlist.m3u8
+#EXTINF:-1 tvg-id="ntv-pl4" tvg-logo="https://epg.iptvx.one/picons/ntv-pl4.png" group-title="НТВ",НТВ +4
+https://cdn.ntv.ru/ntv4/playlist.m3u8
+#EXTINF:-1 tvg-id="ntv-pl7" tvg-logo="https://epg.iptvx.one/picons/ntv-pl7.png" group-title="НТВ",НТВ +7
+https://cdn.ntv.ru/ntv7/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://iptvx.one/picons/ntv-style.png" group-title="НТВ",НТВ Стиль
 http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-pravo" tvg-logo="https://iptvx.one/picons/ntv-pravo.png" group-title="НТВ",НТВ Право
