@@ -1,19 +1,28 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz, http://www.teleguide.info/download/new3/xmltv.xml.gz"
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Футбол 1.png" group-title="Спортивные",Матч! Футбол 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://31.148.48.15/Match_Futbol_1_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Футбол 2.png" group-title="Спортивные",Матч! Футбол 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://31.148.48.15/Match_Futbol_2_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Футбол 2 HD.png" group-title="Спортивные",Матч! Футбол 2 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/530/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Футбол 1 HD.png" group-title="Спортивные",Матч! Футбол 1 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/222/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Футбол 3 HD.png" group-title="Спортивные",Матч! Футбол 3 HD
+#EXTINF:-1 tvg-id="match-football1" tvg-logo="https://iptvx.one/picons/match-football1.png" group-title="Спортивные",Матч! Футбол 1 HD*
 
-#EXTINF:-1 tvg-id="match-football1" tvg-logo="https://iptvx.one/picons/match-football1.png" group-title="Спортивные",Матч! Футбол 1 HD
+#EXTINF:-1 tvg-id="match-football2" tvg-logo="https://iptvx.one/picons/match-football2.png" group-title="Спортивные",Матч! Футбол 2 HD*
 
-#EXTINF:-1 tvg-id="match-football2" tvg-logo="https://iptvx.one/picons/match-football2.png" group-title="Спортивные",Матч! Футбол 2 HD
-
-#EXTINF:-1 tvg-id="match-football3" tvg-logo="https://iptvx.one/picons/match-football3.png" group-title="Спортивные",Матч! Футбол 3 HD 
-
-#EXTINF:-1 tvg-id="setanta-sports" tvg-logo="https://epg.iptvx.one/picons/setanta-sports.png" group-title="Спортивные",Setanta Sports 1
-
+#EXTINF:-1 tvg-id="match-football3" tvg-logo="https://iptvx.one/picons/match-football3.png" group-title="Спортивные",Матч! Футбол 3 HD*
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://185.57.68.33/110/mpegts
 #EXTINF:-1 tvg-id="setanta-sports" tvg-logo="https://epg.iptvx.one/picons/setanta-sports.png" group-title="Спортивные",Setanta Sports 1 HD
 http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="https://epg.iptvx.one/picons/setanta-sports-plus.png" group-title="Спортивные",Setanta Sports 2 HD
 http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="https://epg.iptvx.one/picons/setanta-sports-plus.png" group-title="Спортивные",Setanta Sports 2 HD*
-
 #EXTINF:-1 tvg-id="setanta1-ge" tvg-logo="https://epg.iptvx.one/picons/setanta1-ge.png" group-title="Спортивные",Setanta Sports 1 Georgia
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 #EXTINF:-1 tvg-id="setanta2-ge" tvg-logo="https://epg.iptvx.one/picons/setanta2-ge.png" group-title="Спортивные",Setanta Sports 2 Georgia
@@ -737,7 +746,8 @@ http://185.78.112.17/kinosvidanie/index.m3u8
 #EXTINF:-1 tvg-id="domkino" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="Фильмы,сериалы",Дом Кино
 https://streaming101.goodstream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://iptvx.one/picons/domkino-premium.png" group-title="Фильмы,сериалы",Дом Кино Премиум HD
-
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://31148.rafail1982.uz/Dom_Kino_Premium_HD/index.m3u8
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="Фильмы,сериалы",Мосфильм. Золотая коллекция
 
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-logo="https://iptvx.one/picons/muzhskoe-kino.png" group-title="Фильмы,сериалы",Мужское Кино HD
