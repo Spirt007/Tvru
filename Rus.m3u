@@ -726,7 +726,7 @@ http://31.148.48.15/Kinopokaz/index.m3u8
 #EXTINF:-1 tvg-id="kinosvidanie" tvg-logo="https://iptvx.one/picons/kinosvidanie.png" group-title="Фильмы,сериалы",Киносвидание HD
 
 #EXTINF:-1 tvg-id="kinosat" tvg-logo="https://iptvx.one/picons/kinosat.png" group-title="Фильмы,сериалы",Киносат HD
-
+http://146.120.14.239:3001/play/a0fv
 #EXTINF:-1 tvg-id="pro100" tvg-logo="https://iptvx.one/picons/pro100.png" group-title="Фильмы,сериалы",Pro100
 
 #EXTINF:-1 tvg-id="sapfir" tvg-logo="https://iptvx.one/picons/sapfir.png" group-title="Фильмы,сериалы",Сапфир HD
@@ -736,7 +736,7 @@ https://streaming.thestream.cyou/live/44.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://iptvx.one/picons/domkino-premium.png" group-title="Фильмы,сериалы",Дом Кино Премиум HD
 
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="Фильмы,сериалы",Мосфильм. Золотая коллекция
-
+http://95.66.188.74/MosfilmHD/index.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-logo="https://iptvx.one/picons/muzhskoe-kino.png" group-title="Фильмы,сериалы",Мужское Кино HD
 
 #EXTINF:-1 tvg-id="nashe-muzhskoe-hd" tvg-logo="https://iptvx.one/picons/nashe-muzhskoe-hd.png" group-title="Фильмы,сериалы",Наше Мужское HD
