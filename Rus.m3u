@@ -404,6 +404,10 @@ https://e10-ll.facecast.net/rtv/0.m3u8
 http://serv30.vintera.tv:8081/sarov/sarov_stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Lugansk24.ua@SD" tvg-logo="https://i.imgur.com/AihoVc0.png" group-title="Региональные",Луганск 24
 https://streaming.televizor-24-tochka.ru/live/29.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="no_epg_news" tvg-logo="https://kamchatka1.tv/wp-content/uploads/2020/11/cropped-logo.png",Камчатка HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_KAMCHATKA/variant.m3u8
+
 
 #EXTINF:-1 tvg-id="ntv-pl1" tvg-logo="https://epg.iptvx.one/picons/ntv-pl1.png" group-title="НТВ",НТВ +1
 https://cdn.ntv.ru/ntv1/playlist.m3u8
@@ -768,26 +772,6 @@ http://176.126.166.43:1935/live/312musik/playlist.m3u8
 https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
 #EXTINF:-1 tvg-id="scream" tvg-logo="https://epg.iptvx.one/picons/scream.png" group-title="Фильмы,сериалы",Scream
 
-#EXTINF:-1 tvg-id="TV4" tvg-name="TV4" tvg-logo="https://taurerassets.xyz/tv_content/images/tv4hd.png" group-title="Vokka Production",TV4 HD
-https://dvr3.vokkavideo.xyz/TV4HD/index.m3u8
-#EXTINF:-1 tvg-id="TV4" tvg-name="TV4" tvg-logo="https://taurerassets.xyz/tv_content/images/tv4sd.png" group-title="Vokka Production",TV4 SD
-https://dvr3.vokkavideo.xyz/TV4SD/index.m3u8
-#EXTINF:-1 tvg-id="TV4RU" tvg-name="TV4RU" tvg-logo="https://i.ibb.co/mVR1d4qx/hdlogo.png" group-title="Vokka Production",TV4 Русское кино HD
-https://dvr3.vokkavideo.xyz/TV4RUKINO/index.m3u8
-#EXTINF:-1 tvg-id="HTV" tvg-name="HTV" tvg-logo="https://taurerassets.xyz/tv_content/images/htvhd.png" group-title="Vokka Production",HTV HD
-https://dvr3.vokkavideo.xyz/HTVHD/index.m3u8
-
-
-#EXTINF:-1 tvg-id="alphacinema" tvg-name="alphacinema" tvg-logo="https://taurerassets.xyz/tv_content/images/alphacinemahd.png" group-title="alpha Production",alpha Cinema HD
-https://dvr3.vokkavideo.xyz/ALPHACINEMAHD/index.m3u8
-#EXTINF:-1 tvg-id="alphamoretime" tvg-name="alphamoretime" tvg-logo="https://taurerassets.xyz/tv_content/images/alphamoretimehd.png" group-title="alpha Production",alpha Moretime HD
-https://dvr3.vokkavideo.xyz/ALPHAMORETIMEHD/index.m3u8
-#EXTINF:-1 tvg-id="alphafunny" tvg-name="alphafunny" tvg-logo="https://taurerassets.xyz/tv_content/images/alphafunnyhd.png" group-title="alpha Production",alpha Funny HD
-https://dvr3.vokkavideo.xyz/ALPHAFUNNYHD/index.m3u8
-#EXTINF:-1 tvg-id="15plusmusic" tvg-name="15plusmusic" tvg-logo="https://taurerassets.xyz/tv_content/images/15plusmusichd.png" group-title="alpha Production",15+ Music HD
-https://dvr3.vokkavideo.xyz/CRINGETVHD/index.m3u8
-#EXTINF:-1 tvg-id="newrussian" tvg-name="newrussian" tvg-logo="https://taurerassets.xyz/tv_content/images/newrussianhd.png" group-title="alpha Production",Новый Русский HD
-https://dvr3.vokkavideo.xyz/NEWRUSSIAHD/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.live.vkvideo.ru/user/20176540/avatar?change_time=1754116868&croped=1&mh=70&mw=70" group-title="Кинозалы",Film Best TV
