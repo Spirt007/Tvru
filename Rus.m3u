@@ -781,22 +781,9 @@ https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.live.vkvideo.ru/user/20176540/avatar?change_time=1754116868&croped=1&mh=70&mw=70" group-title="Кинозалы",Film Best TV
-
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="" group-title="Кинозалы",SeleCaoTV 1
-
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="" group-title="Кинозалы",SeleCaoTV 2
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",KinoMix
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.catcast.tv/uploads/04092021/logos/40672-61329195ca44d.jpg" group-title="Кинозалы",LAV-KINO
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
-#EXTINF:-0 tvg-id="" group-title="Кинозалы" tvg-logo="https://pluspng.com/img-png/shows-hd-png--1920.jpg",SeriesTV
-
-#EXTINF:-0 tvg-id="" group-title="Кинозалы" tvg-logo="https://telik.live/images/fmc-tv.png",FMC 
-
-#EXTINF:-0 tvg-id="" group-title="Кинозалы" tvg-logo="https://i.postimg.cc/YS90VJYX/image.png",МУЛЬТИКИ И СКАЗКИ
-
 #EXTINF:-1 tvg-id="chestny-detektiv" tvg-logo="https://epg.iptvx.one/picons/chestny-detektiv.png" group-title="Кинозалы",Смотрим Честный детектив
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
@@ -811,11 +798,7 @@ http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы",Alpha Moretime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
-#EXTINF:-1 tvg-id="zal-27-tricolor" tvg-logo="https://iptvx.one/picons/zal-27-tricolor.png" group-title="Кинозалы",УЛИЦЫ РАЗБИТЫХ ФОНАРЕЙ
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/SCRIPACH TV.jpg" tvg-id="" group-title="Кинозалы",SCRIPACH TV
-
-#EXTINF:-1 tvg-id="zal-01-tricolor" tvg-logo="https://epg.iptvx.one/picons/zal-01-tricolor.png"  group-title="Кинозалы",ШЕРЛОК ХОЛМС
 
 #EXTINF:-1  group-title="Кинозалы",IPTVPLAY ФАНТАСТИКА HD
 http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
