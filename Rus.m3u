@@ -796,7 +796,9 @@ https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
 #EXTINF:-0 tvg-id="" group-title="Кинозалы" tvg-logo="https://telik.live/images/fmc-tv.png",FMC 
 
 #EXTINF:-0 tvg-id="" group-title="Кинозалы" tvg-logo="https://i.postimg.cc/YS90VJYX/image.png",МУЛЬТИКИ И СКАЗКИ
-
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://rafail1982.uz/logo/kino2.png",Смотрим Честный детектив
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://adindex.ru/files2/photogallery/2020_11/photo2_286493_smotrim2.jpg.jpg" tvg-id="" group-title="Кинозалы", Смотрим Кино и сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="" group-title="Кинозалы",Alpha Cinema
