@@ -628,6 +628,9 @@ http://194.143.148.28:8080/KINEKO/index.m3u8
 http://31.148.48.15/Russkiy_Bestseller/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 tvg-id="russky-detektiv" tvg-logo="https://iptvx.one/picons/russky-detektiv.png" group-title="Фильмы,сериалы",Русский детектив
 http://31.148.48.15/Russkiy_Detektiv/index.m3u8
+#EXTINF:-1 tvg-id="russky-detektiv" tvg-logo="https://iptvx.one/picons/russky-detektiv.png" group-title="Фильмы,сериалы",Русский детектив*
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://31148.rafail1982.uz/Russkiy_Detektiv/index.m3u8
 #EXTINF:-1 tvg-id="russky-illuzion" tvg-logo="https://iptvx.one/picons/russky-illuzion.png" group-title="Фильмы,сериалы",Русский Иллюзион
 
 #EXTINF:-1 tvg-id="russky-roman" tvg-logo="https://iptvx.one/picons/russky-roman.png" group-title="Фильмы,сериалы",Русский роман
