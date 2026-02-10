@@ -454,15 +454,15 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-id="360-news" tvg-logo="https://iptvx.one/picons/360-news.png" group-title="Новости",360° Новости
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
 #EXTINF:-1 tvg-id="euronews-en" tvg-logo="https://iptvx.one/picons/euronews.png" group-title="Новости",Euronews
-https://flussonic.salomtv.uz/EURONEWS/video.m3u8
+
 #EXTINF:-1 tvg-id="xabar24" tvg-logo="https://epg.iptvx.one/picons/xabar24.png" group-title="Новости",KZ 24
-https://tvcdn01.oktv.kz/tv/24kz/index.m3u8
+
 #EXTINF:-1 tvg-id="al-jazeera-int" tvg-logo="https://iptvx.one/picons/al-jazeera-int.png" group-title="Новости",Al Jazeera
 
 #EXTINF:-1 tvg-id="mir-24" tvg-logo="https://iptvx.one/picons/mir24.png" group-title="Новости",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="Новости",Россия 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/TASS_Logo_(Cyrillic)_2017.svg/1200px-TASS_Logo_(Cyrillic)_2017.svg.png" group-title="Новости",ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="rbk" tvg-logo="https://iptvx.one/picons/rbk.png" group-title="Новости",РБК
@@ -477,8 +477,8 @@ https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-id="cnbc-europe" tvg-logo="https://iptvx.one/picons/cnbc-europe.png" group-title="Новости",CNBC
 
-EXTINF:-1 tvg-id="abc-news-live-us" tvg-logo="https://epg.iptvx.one/picons/abc-news-live-us.png" group-title="Информационные",ABC News Live HD
-https://livetv-fa.tubi.video/abc-news/index.m3u8
+#EXTINF:-1 tvg-id="abc-news-live-us" tvg-logo="https://epg.iptvx.one/picons/abc-news-live-us.png" group-title="Информационные",ABC News Live HD
+
 #EXTINF:-1 tvg-id="4fun" tvg-logo="https://iptvx.one/picons/4fun.png" group-title="Новости",4FUN TV (Польша)
 https://stream.4fun.tv:8888/hls/4f.m3u8
 #EXTINF:-1 tvg-id="fox-news-us" tvg-logo="https://iptvx.one/picons/fox-news-us.png" group-title="Новости",Fox News Channel
