@@ -814,7 +814,8 @@ http://fl1001.bozztv.com/ushba-rvisionmotor/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" ,Retrovision Кинопанорама
 https://fl1001.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://img.hhcdn.ru/employer-logo/446267.png" group-title="Кинозалы" ,Star Media
+https://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы",IPTVPLAY ФАНТАСТИКА HD
 http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 tvg-logo="https://iptv-play.ru/channels/all_icons/6823.png" group-title="Кинозалы",IPTVPLAY ИНТЕРНЫ
