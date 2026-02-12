@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz, http://www.teleguide.info/download/new3/xmltv.xml.gz"
+#EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz,https://iptvx.one/epg/epg.xml.gz"
 
 
 #EXTINF:-1 tvg-id="match-football3" tvg-logo="https://iptvx.one/picons/match-football3.png" group-title="Спортивные",Матч! Футбол 3 HD
