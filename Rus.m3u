@@ -528,61 +528,61 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее" tvg-logo="https://epg.iptvx.one/picons/tvcentr-pl7.png" tvg-id="tvcentr-pl7",ТВ Центр +7
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
-EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее"  tvg-logo="http://epg.it999.ru/img/146.png",Первый канал (+2)
+EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее" vg-logo="https://epg.iptvx.one/picons/pervy-pl2.png" tvg-id="pervy-pl2",Первый канал (+2)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
-#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее"  tvg-logo="http://epg.it999.ru/img/146.png",Первый канал (+4)
+#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее" vg-logo="https://epg.iptvx.one/picons/pervy-pl4.png" tvg-id="pervy-pl4",Первый канал (+4)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
-#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее"  tvg-logo="http://epg.it999.ru/img/146.png",Первый канал (+6)
+#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее" vg-logo="https://epg.iptvx.one/picons/pervy-pl6.png" tvg-id="pervy-pl6",Первый канал (+6)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
-#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее"  tvg-logo="http://epg.it999.ru/img/146.png",Первый канал (+7)
+#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее" vg-logo="https://epg.iptvx.one/picons/pervy-pl7.png" tvg-id="pervy-pl7",Первый канал (+7)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
-#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее"  tvg-logo="http://epg.it999.ru/img/146.png",Первый канал (+8)
+#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее" vg-logo="https://epg.iptvx.one/picons/pervy-pl8.png" tvg-id="pervy-pl8",Первый канал (+8)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
-#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее"  tvg-logo="http://epg.it999.ru/img/146.png",Первый канал (+9)
+#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее" vg-logo="https://epg.iptvx.one/picons/pervy-pl9.png" tvg-id="pervy-pl9",Первый канал (+9)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
-#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее"  tvg-logo="http://epg.it999.ru/img/711.png",Россия-1 +2
+#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее" vg-logo="https://epg.iptvx.one/picons/rossia1-pl2.png" tvg-id="rossia1-pl2",Россия-1 +2
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
-#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее"  tvg-logo="http://epg.it999.ru/img/711.png",Россия-1 +4
+#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее" vg-logo="https://epg.iptvx.one/picons/rossia1-pl4.png" tvg-id="rossia1-pl4",Россия-1 +4
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4//variant.m3u8
-#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее"  tvg-logo="http://epg.it999.ru/img/711.png",Россия-1 +6
+#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее" vg-logo="https://epg.iptvx.one/picons/rossia1-pl6.png" tvg-id="rossia1-pl6",Россия-1 +6
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
-#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее"  tvg-logo="http://epg.it999.ru/img/711.png",Россия-1 +7
+#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее" vg-logo="https://epg.iptvx.one/picons/rossia1-pl7.png" tvg-id="rossia1-pl7",Россия-1 +7
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8
-#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее",Пятница! +2
+#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее" vg-logo="https://epg.iptvx.one/picons/piatnica-pl2.png" tvg-id="piatnica-pl2",Пятница! +2
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_2/variant.m3u8
-#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее",Пятница! +5
+#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее" vg-logo="https://epg.iptvx.one/picons/piatnica-pl4.png" tvg-id="piatnica-pl4",Пятница! +4
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
-#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее",Пятница! +7
+#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее" vg-logo="https://epg.iptvx.one/picons/piatnica-pl7.png" tvg-id="piatnica-pl7",Пятница! +7
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_7/variant.m3u8
-#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее",Домашний +2
+#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее" vg-logo="https://epg.iptvx.one/picons/domashny-pl2.png" tvg-id="domashny-pl2",Домашний +2
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_2/variant.m3u8
-#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее",Домашний +4
+#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее" vg-logo="https://epg.iptvx.one/picons/domashny-pl4.png" tvg-id="domashny-pl4",Домашний +4
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
-#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее",Домашний +7
+#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее" vg-logo="https://epg.iptvx.one/picons/domashny-pl7.png" tvg-id="domashny-pl7",Домашний +7
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_7/variant.m3u8
-#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее",Пятый канал +2
+#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее" vg-id="5kanal-ru-pl2" tvg-logo="https://epg.iptvx.one/picons/5kanal-ru-pl2.png",Пятый канал +2
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
-#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее",5 канал +4
+#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее" vg-id="5kanal-ru-pl4" tvg-logo="https://epg.iptvx.one/picons/5kanal-ru-pl4.png",Пятый канал +4
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
-#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее",5 канал +7
+#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее" vg-id="5kanal-ru-pl7" tvg-logo="https://epg.iptvx.one/picons/5kanal-ru-pl7.png",Пятый канал +7
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
 
@@ -704,8 +704,6 @@ http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1 tvg-id="pobeda" tvg-logo="https://iptvx.one/picons/pobeda.png" group-title="Фильмы,сериалы",Победа
 https://streaming.thestream.cyou/live/43.m3u8
-#EXTINF:-1 tvg-id="vhs-ka" tvg-logo="https://iptvx.one/picons/vhs-ka.png" group-title="Фильмы,сериалы",VHS-ка
-http://95.66.188.74/VHS/index.m3u8
 #EXTINF:-1 tvg-id="cinema-ru" tvg-logo="https://iptvx.one/picons/cinema.png" group-title="Фильмы,сериалы",Cinema HD
 http://catchup.videoline.ru/cinema/index.m3u8
 #EXTINF:-1 tvg-id="kineko" tvg-logo="https://iptvx.one/picons/kineko.png" group-title="Фильмы,сериалы",Кинеко
