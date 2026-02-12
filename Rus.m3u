@@ -22,7 +22,7 @@ http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спортивные",Матч! HD
 http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://iptvx.one/picons/match-premiere.png" group-title="Спортивные",Матч! Премьер
-http://178.212.71.253:8000/play/57/index.m3u8
+
 #EXTINF:-1 tvg-id="okko-sport-2" tvg-logo="https://epg.iptvx.one/picons/okko-sport-2.png" group-title="Спортивные",Окко.Спорт 2
 http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="mir-basketbola" tvg-logo="https://iptvx.one/picons/mir-basketbola.png" group-title="Спортивные",Мир Баскетбола
@@ -438,6 +438,16 @@ http://4.59.210.197:8815/udp/127.0.0.1:6003
 #EXTINF:-1 tvg-id="ntv-mir" tvg-logo="https://iptvx.one/picons/ntv-mir.png" group-title="НТВ",НТВ-Мир
 https://streaming.thestream.cyou/live/213.m3u8
 
+#EXTINF:-1 tvg-id="mir-pl2" tvg-logo="https://epg.iptvx.one/picons/mir-pl2.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее",Мир (+2)
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
+#EXTINF:-1 tvg-id="mir-pl4" tvg-logo="https://epg.iptvx.one/picons/mir-pl4.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее",Мир (+4)
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8
+#EXTINF:-1 tvg-id="mir-pl7" tvg-logo="https://epg.iptvx.one/picons/mir-pl7.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее",Мир (+7)
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
+
 
 
 
@@ -669,7 +679,10 @@ http://188.237.47.212:6008
 #EXTINF:-1 tvg-id="kinoliving" tvg-logo="https://iptvx.one/picons/kinoliving.png" group-title="Фильмы,сериалы",Kinoliving HD
 
 #EXTINF:-1 tvg-id="tvxxi" tvg-logo="https://iptvx.one/picons/tvxxi.png" group-title="Фильмы,сериалы",TV XXI
-http://31.148.48.15/TV_XXI/index.m3u8
+
+#EXTINF:-1 group-title="WINK+Aрхив" tvg-id="tv21plus" tvg-logo="https://assets.iptv2022.com/static/channel/10697/logo_256_1660892137.png",ТВ21+
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R01_TV21PLUS/variant.m3u8
 #EXTINF:-1 tvg-id="illuzion-plus" tvg-logo="https://iptvx.one/picons/illuzion-plus.png" group-title="Фильмы,сериалы",Иллюзион+ HD
 http://31.148.48.15/Illusion_plus/index.m3u8
 #EXTINF:-1 tvg-id="flixsnip" tvg-logo="https://iptvx.one/picons/flixsnip.png" group-title="Фильмы,сериалы",FlixSnip
@@ -783,8 +796,7 @@ http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 tvg-id="timeless-dizi" tvg-logo="https://iptvx.one/picons/timeless-dizi.png" group-title="Фильмы,сериалы",Timeless Dizi Channel HD
 
 #EXTINF:-1 tvg-id="trashtv" tvg-logo="https://iptvx.one/picons/trashtv.png" group-title="Фильмы,сериалы",Trash TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
+
 #EXTINF:-1 tvg-id="scream" tvg-logo="https://epg.iptvx.one/picons/scream.png" group-title="Фильмы,сериалы",Scream
 
 
