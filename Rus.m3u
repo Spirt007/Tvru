@@ -434,7 +434,7 @@ https://streaming.thestream.cyou/live/213.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее" tvg-logo="https://epg.iptvx.one/picons/tnt-pl4.png" tvg-id="tnt-pl4",ТНТ (+4)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
-https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее" tvg-logo="https://epg.iptvx.one/picons/tnt-pl7.png" tvg-id="tnt-pl7",ТНТ (+7)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
@@ -452,7 +452,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_URAL_CHEL/variant.m3u8
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее" tvg-logo="https://epg.iptvx.one/picons/rentv-pl4.png" tvg-id="rentv-pl4",РЕН ТВ (+4)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
-https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_BUL_RENTV/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее" tvg-logo="https://epg.iptvx.one/picons/rentv-pl7.png" tvg-id="rentv-pl7",РЕН ТВ (+7)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
@@ -512,10 +512,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_4/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее" tvg-logo="https://epg.iptvx.one/picons/yu-pl2.png" tvg-id="yu-pl2",Ю (+2)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
-https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее" tvg-logo="https://epg.iptvx.one/picons/yu-pl4.png" tvg-id="yu-pl4",Ю (+4)
-#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
-https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
+EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее" tvg-logo="https://epg.iptvx.one/picons/yu-pl7.png" tvg-id="yu-pl7",Ю (+7)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
