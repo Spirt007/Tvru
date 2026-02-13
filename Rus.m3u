@@ -872,7 +872,7 @@ http://158.101.222.193:88/georgia_play.php?id=amediahit
 #EXTINF:-1 tvg-id="premialnoe-hd" tvg-logo="https://iptvx.one/picons/premialnoe-hd.png" group-title="Премьеры,хиты",Премиальное HD (+4)
 
 
-EXTINF:-1 tvg-id="blokbaster-hd" tvg-logo="https://iptvx.one/picons/blokbaster.png" group-title="Премьеры,хиты",Блокбастер HD
+#EXTINF:-1 tvg-id="blokbaster-hd" tvg-logo="https://iptvx.one/picons/blokbaster.png" group-title="Премьеры,хиты",Блокбастер HD
 
 
 
