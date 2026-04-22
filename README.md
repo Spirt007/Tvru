@@ -4,7 +4,7 @@
  
 Плейлист IPTV Россия для плееров IPTV, KODI (рекомендую).
 
-Протестировано VLC плеер, Kodi Xbox series S, Retropie Raspberry Pi3B,ПК. Open IPTV
+Протестировано VLC плеер, Kodi Xbox series S, Retropie Raspberry Pi3B, Open IPTV, IPTV Клиент (Windows10)
 
 
 
