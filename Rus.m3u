@@ -661,13 +661,13 @@ http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 
 #EXTINF:-1 tvg-id=""group-title="Фильмы и сериалы",NSC+
 https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210.m3u8
-#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="Фильмы и сериалы" ,Viju TV1000
+#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="Фильмы и сериалы",Viju TV1000
 http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
-#EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://iptvx.one/picons/tv1000-action.png" group-title="Фильмы и сериалы" ,Viju TV1000 Action
+#EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://iptvx.one/picons/tv1000-action.png" group-title="Фильмы и сериалы",Viju TV1000 Action
 http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
-#EXTINF:-1 tvg-id="viju-tv1000-romantica" tvg-logo="https://iptvx.one/picons/viju-tv1000-romantica.png" group-title="Фильмы и сериалы" ,Viju TV1000 romantica
+#EXTINF:-1 tvg-id="viju-tv1000-romantica" tvg-logo="https://iptvx.one/picons/viju-tv1000-romantica.png" group-title="Фильмы и сериалы",Viju TV1000 romantica
 
-#EXTINF:-1 tvg-id="vip-comedy" tvg-logo="https://iptvx.one/picons/vip-comedy.png" group-title="Фильмы и сериалы" ,Viju+ comedy HD
+#EXTINF:-1 tvg-id="vip-comedy" tvg-logo="https://iptvx.one/picons/vip-comedy.png" group-title="Фильмы и сериалы",Viju+ comedy HD
 http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/200/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6005.png" group-title="Фильмы и сериалы",Видеокассета HD
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
@@ -703,7 +703,7 @@ http://31.148.48.15/Illusion_plus/index.m3u8
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://iptvx.one/picons/sony-turbo.png" group-title="Фильмы и сериалы",.Black HD
 http://158.101.222.193:88/georgia_play.php?id=black
-#EXTINF:-1 tvg-id="sony-scifi" tvg-logo="https://iptvx.one/picons/sony-scifi.png" group-title="Фильмы и сериалы" ,.sci-fi
+#EXTINF:-1 tvg-id="sony-scifi" tvg-logo="https://iptvx.one/picons/sony-scifi.png" group-title="Фильмы и сериалы",.sci-fi
 http://188.225.31.197/bpk-tv/000000134/tve/index.m3u8
 #EXTINF:-1, tvg-id="sony-tv" tvg-logo="https://epg.iptvx.one/picons/sony.png" group-title="Фильмы и сериалы",.Red
 http://188.225.31.197/bpk-tv/000000213/tve/index.m3u8
@@ -799,9 +799,9 @@ https://tvoetv.space/tvoetv/tracks-v1a1/mono.m3u8
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1  tvg-id="tvoetv-humor" tvg-logo="https://iptvx.one/picons/tvoetv-humor.png" group-title="Твоё ТВ",Твоё ТВ HD Юмор v2
 http://tvoetv.space:8080/tvoetv_humor/video.m3u8
-#EXTINF:-1  tvg-id="tvoetv-humor" tvg-logo="https://iptvx.one/picons/tvoetv-humor.png" group-title="Твоё ТВ" ,Твоё ТВ HD Юмор v3
+#EXTINF:-1  tvg-id="tvoetv-humor" tvg-logo="https://iptvx.one/picons/tvoetv-humor.png" group-title="Твоё ТВ",Твоё ТВ HD Юмор v3
 https://tvoetv.space/tvoetv_humor/mpegts
-#EXTINF:-1  tvg-id="tvoetv-humor" tvg-logo="https://iptvx.one/picons/tvoetv-humor.png" group-title="Твоё ТВ" ,Твоё ТВ HD Юмор v4
+#EXTINF:-1  tvg-id="tvoetv-humor" tvg-logo="https://iptvx.one/picons/tvoetv-humor.png" group-title="Твоё ТВ",Твоё ТВ HD Юмор v4
 https://tvoetv.space/tvoetv_humor/index.m3u8
 #EXTINF:-1  tvg-id="tvoetv-humor" tvg-logo="https://iptvx.one/picons/tvoetv-humor.png" group-title="Твоё ТВ",Твоё ТВ HD Юмор v5
 https://tvoetv.space/tvoetv_humor/video.m3u8
@@ -972,7 +972,7 @@ http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="muzyka-pervogo" tvg-logo="https://iptvx.one/picons/muzyka-pervogo.png" group-title="Музыкальные",Музыка Первого 
 
-#EXTINF:-1 tvg-id="onemuz" tvg-logo="https://iptvx.one/picons/1muz.png" group-title="Музыкальные,Первый музыкальный HD
+#EXTINF:-1 tvg-id="onemuz" tvg-logo="https://iptvx.one/picons/1muz.png" group-title="Музыкальные",Первый музыкальный HD
 http://hz1.teleport.cc/HLS/HD.m3u8
 
 
@@ -1056,5 +1056,5 @@ http://europaplus.hostingradio.ru:8014/europaplus320.mp3
 http://nashe1.hostingradio.ru/ultra-64.mp3
 #EXTINF:-1 tvg-id="yumor-fm" tvg-logo="https://epgx.site/p/yumor-fm.png" group-title="Радио" radio="true",Юмор FM
 https://pub0301.101.ru:8443/stream/air/mp3/256/102
-#EXTINF:-1 tvg-id="avtoradio" tvg-logo="https://epgx.site/p/avtoradio.png" group-title="Радио" radio="true,Авторадио
+#EXTINF:-1 tvg-id="avtoradio" tvg-logo="https://epgx.site/p/avtoradio.png" group-title="Радио" radio="true",Авторадио
 http://ic7.101.ru:8000/v3_1
