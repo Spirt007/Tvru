@@ -15,6 +15,8 @@
 Скопируёте и вставьте ссылку:
 
  https://spirt007.github.io/Tvru/Rus.m3u
+
+ 
  https://spirt007.github.io/Tvru/Rus2.m3u8
  
  
