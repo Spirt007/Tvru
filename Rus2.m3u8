@@ -1080,8 +1080,11 @@ http://icecast.vgtrk.cdnvideo.ru/vestifm
 http://europaplus.hostingradio.ru:8014/europaplus320.mp3
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-radio-ultra.png" group-title="Радио" radio="true",Ultra
 http://nashe1.hostingradio.ru/ultra-64.mp3
-#EXTINF:-1 tvg-id="yumor-fm" tvg-logo="https://epgx.site/p/yumor-fm.png" group-title="Радио" radio="true",Юмор FM
-
+#EXTINF:-1 tvg-id="yumor-fm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Yumor_FM_logo_2015.png" group-title="Радио" radio="true",Юмор FM
+http://live.humorfm.by:8000/veseloe.m3u
 #EXTINF:-1 tvg-id="avtoradio" tvg-logo="https://epgx.site/p/avtoradio.png" group-title="Радио" radio="true",Авторадио
+http://23.105.238.4/gpm-avtoradio495.aacp
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pLM7Lj7.png" group-title="Радио" radio="true",Русский панк
+http://79.120.77.11:8000/punkru
 
 
