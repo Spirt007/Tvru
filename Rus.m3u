@@ -708,7 +708,7 @@ http://31.148.48.15/Rodnoe_kino/index.m3u8
 http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 tvg-id="foxlife" tvg-logo="https://iptvx.one/picons/foxlife.png" group-title="Фильмы и сериалы",Fox Life
 https://a3569457567-s70378.cdn.ngenix.net/fox_life/1/index.m3u8
-#EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="tv21plus" tvg-logo="https://assets.iptv2022.com/static/channel/10697/logo_256_1660892137.png",ТВ21+
+#EXTINF:-1  tvg-id="tv21plus" tvg-logo="https://epg.iptvx.one/picons/tv21plus.png" group-title="Фильмы и сериалы",ТВ21+
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R01_TV21PLUS/variant.m3u8
 #EXTINF:-1 tvg-id="illuzion-plus" tvg-logo="https://iptvx.one/picons/illuzion-plus.png" group-title="Фильмы и сериалы",Иллюзион+ HD
