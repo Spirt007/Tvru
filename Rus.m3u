@@ -1,6 +1,17 @@
 #EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz,https://iptvx.one/epg/epg.xml.gz"
 
-
+#EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер" tvg-logo="https://iptvx.one/picons/match_premier.png" group-title="Спортивные",1. Матч! Премьер (Wink)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHPREMIER/variant.m3u8
+#EXTINF:-1 tvg-id="match-football-1" tvg-name="Матч! Футбол 1" tvg-logo="https://iptvx.one/picons/match_futbol_1.png" group-title="Спортивные",2. Матч! Футбол 1 (Wink)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCH_FOOTBALL_1/variant.m3u8
+#EXTINF:-1 tvg-id="match-football-2" tvg-name="Матч! Футбол 2" tvg-logo="https://iptvx.one/picons/match_futbol_2.png" group-title="Спортивные",3. Матч! Футбол 2 (Wink)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCH_FOOTBALL_2/variant.m3u8
+#EXTINF:-1 tvg-id="match-football-3" tvg-name="Матч! Футбол 3" tvg-logo="https://iptvx.one/picons/match_futbol_3.png" group-title="Спортивные",4. Матч! Футбол 3 (Wink)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCH_FOOTBALL_3/variant.m3u8
 
 
 #EXTINF:-1 tvg-id="match-football3" tvg-logo="https://iptvx.one/picons/match-football3.png" group-title="Спортивные",Матч! Футбол 3 HD
