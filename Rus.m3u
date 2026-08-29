@@ -57,8 +57,6 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/14023/index.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://epg.iptvx.one/picons/pervy.png" group-title="Общественные",Первый канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
-#EXTINF:-1 tvg-id="pervy-kanal-eurasia-kz" tvg-logo="https://epg.iptvx.one/picons/pervy-kanal-eurasia-kz.png" group-title="Общественные",Первый канал
-http://31.148.48.15/Pervii_kanal_HD/index.m3u8
 #EXTINF:-1 tvg-id="pervy-kanal-eu" tvg-logo="https://epg.iptvx.one/picons/pervy-kanal-eu.png" group-title="Общественные",Первый канал Европа
 https://streaming.thestream.cyou/live/210.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://epg.iptvx.one/picons/pervy.png" group-title="Общественные",Первый
@@ -120,7 +118,7 @@ http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMH
 #EXTINF:-1 tvg-id="krasnaya-linia" tvg-logo="https://iptvx.one/picons/krasnaya-linia.png" group-title="Общественные",Красная линия
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ldpr-tv" tvg-logo="https://epg.iptvx.one/picons/ldpr-tv.png" group-title="Общественные",ЛДПР ТВ
-
+http:\\46.46.143.222:1935\live\mp4:ldpr.stream_480p\playlist.m3u8
 #EXTINF:-1 tvg-id="tv-brics" tvg-logo="https://iptvx.one/picons/tv-brics.png" group-title="Общественные",TV BRICS
 https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 #EXTINF:-1 tvg-id="prnk-tv" tvg-logo="https://iptvx.one/picons/prnk-tv.png" group-title="Общественные",ПРНК
@@ -221,7 +219,7 @@ http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
 #EXTINF:-1 tvg-id="arktika-24" tvg-logo="https://epg.iptvx.one/picons/arktika-24.png" group-title="Региональные",Арктика 24 Архангельск
 
 #EXTINF:-1 tvg-id="aris24" tvg-logo="https://epg.iptvx.one/picons/aris24.png" group-title="Региональные",Арис 24
-
+http:\\serv25.vintera.tv:8081\test\aris\playlist.m3u8
 #EXTINF:-1 tvg-id="arxyz24" tvg-logo="https://iptvx.one/picons/arxyz24.png" group-title="Региональные",Архыз 24
 https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
 #EXTINF:-1 tvg-id="astraxan24" tvg-logo="https://iptvx.one/picons/astraxan24.png" group-title="Региональные",Астрахань 24
@@ -947,7 +945,7 @@ https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/p
 #EXTINF:-1 tvg-id="onemuz" tvg-logo="https://iptvx.one/picons/1muz.png" group-title="Музыкальные",Первый музыкальный HD
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-id="rzhd-tv" tvg-logo="https://epg.iptvx.one/picons/rzhd-tv.png" group-title="Познавательные",РЖД HD
-
+http:\\hls.tva.cdnvideo.ru\tva\tva.sdp\playlist.m3u8
 #EXTINF:-1 tvg-id="eureka-hd" tvg-logo="https://epg.iptvx.one/picons/kosmichesky.png" group-title="Познавательные",Первый космический
 https://stream8.cinerama.uz/1415/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Da Vinci" tvg-logo="https://epg.iptvx.one/picons/da-vinci.png" group-title="Познавательные",Da Vinci
