@@ -2,27 +2,27 @@
 
 #EXTINF:-1 tvg-id="match-football3" tvg-logo="https://iptvx.one/picons/match-football3.png" group-title="Спортивные",Матч! Футбол 3 HD
 http://185.57.68.33/110/mpegts
-#EXTINF:-1 tvg-id="SetantaSports1Eurasia.ie@SD" tvg-logo="https://i.imgur.com/zlJK7ca.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Setanta Sports 1 Eurasia (1080p)
+#EXTINF:-1 tvg-id="setanta-sports" tvg-logo="https://i.imgur.com/zlJK7ca.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Спортивные",Setanta Sports 1 Eurasia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/234/index.m3u8
-#EXTINF:-1 tvg-id="SetantaSports2Eurasia.ie@SD" tvg-logo="https://i.imgur.com/ouHunnK.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Setanta Sports 2 Eurasia (1080p)
+#EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="https://i.imgur.com/ouHunnK.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Спортивные",Setanta Sports 2 Eurasia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/235/index.m3u8
-#EXTINF:-1 tvg-id="SetantaSportsPlusUkraine.ua@SD" tvg-logo="https://i.imgur.com/gHAP4p0.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Setanta Sports+ Ukraine (1080p)
+#EXTINF:-1 tvg-id="setanta-plus-ua" tvg-logo="https://i.imgur.com/gHAP4p0.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Спортивные",Setanta Sports+ Ukraine
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/390/index.m3u8
-#EXTINF:-1 tvg-id="setanta2-ge" tvg-logo="https://epg.iptvx.one/picons/setanta2-ge.png" group-title="Спортивные",Setanta Sports 2 Georgia
-
 #EXTINF:-1  catchup="append" catchup-days="7" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спортивные",Матч!ТВ
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://www.kartina.tv/media/news/images/News/SEO/kanal-match-ultra.jpg" group-title="Спортивные",Match!
+http://stream.mcquack.net/169/index.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спортивные",Матч! HD
 http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
-#EXTINF:-1 tvg-id="OkkoFutbol.ru@SD" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8986.png" group-title="Sports",Okko Futbol (1080p)
+#EXTINF:-1 tvg-id="okko-football" tvg-logo="https://epg.iptvx.one/picons/okko-football.png" group-title="Спортивные",Okko Futbol
 http://stream.mcquack.net/491/index.m3u8
-#EXTINF:-1 tvg-id="OkkoPrajmSport.ru@SD" tvg-logo="https://i.imgur.com/kQq5DMU.png" group-title="Sports",Okko Prajm Sport
+#EXTINF:-1 tvg-id="okko-sport-2" tvg-logo="https://i.imgur.com/kQq5DMU.png" group-title="Спортивные",Okko Prajm Sport
 http://stream.mcquack.net/493/index.m3u8
-#EXTINF:-1 tvg-id="OkkoSport.ru@SD" tvg-logo="https://i.imgur.com/SYOaOQc.png" group-title="Sports",Okko Sport
+#EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://i.imgur.com/SYOaOQc.png" group-title="Спортивные",Okko Sport
 http://stream.mcquack.net/492/index.m3u8
 #EXTINF:-1 tvg-id="kxl-hd" tvg-logo="https://epg.iptvx.one/picons/kxl-hd.png" group-title="Спортивные",KHL Prime
 http://stream.mcquack.net/178/index.m3u8
@@ -39,7 +39,7 @@ http://178.134.1.158:8081/eurosport/index.m3u8
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://iptvx.one/picons/eurosport2.png" group-title="Спортивные",Eurosport 2 HD
 
 #EXTINF:-1 tvg-id="viasat-sport" tvg-logo="https://iptvx.one/picons/viasat-sport.png" group-title="Спортивные",Viasat Sport
-http://178.134.1.158:8081/viasatsport/index.m3u8
+http://stream.mcquack.net/333/index.m3u8
 #EXTINF:-1 tvg-id="extreme-sports" tvg-logo="https://iptvx.one/picons/extreme-sports.png" group-title="Спортивные",Extreme Sports
 
 #EXTINF:-1 tvg-id="start" tvg-logo="https://iptvx.one/picons/start.png" group-title="Спортивные",Старт
@@ -135,7 +135,7 @@ https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 http://serv25.vintera.tv:8081/1pnk/prnk/playlist.m3u8
 #EXTINF:-1 tvg-id="kongresstv" tvg-logo="https://epg.iptvx.one/picons/kongresstv.png" group-title="Общественные",Конгресс ТВ
 
-#EXTINF:-1 tvg-id="OstWest24.de@SD" tvg-logo="https://i.imgur.com/voeQ6x1.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Общественные",Ost West 24
+#EXTINF:-1 tvg-id="ostwest24" tvg-logo="https://i.imgur.com/voeQ6x1.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Общественные",Ost West 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/455/index.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-logo="https://iptvx.one/picons/rtr-planeta.png" group-title="Общественные",РТР-Планета Европа
@@ -159,14 +159,14 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sts.png" group-title="Развлекательные" tvg-id="sts",СТС
-https://streaming.televizor-24-tochka.ru/live/296.m3u8
+http://stream.mcquack.net/138/index.m3u8
 #EXTINF:-1 tvg-id="sts-love" tvg-logo="https://iptvx.one/picons/sts-love.png" group-title="Развлекательные",СТС Love*
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="Развлекательные",ТНТ
 
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="Развлекательные",ТНТ HD
-https://streaming.televizor-24-tochka.ru/live/38.m3u8
+http://stream.mcquack.net/135/index.m3u8
 #EXTINF:-1 tvg-id="tnt-int-eu" tvg-logo="https://iptvx.one/picons/tnt-int-eu.png" group-title="Развлекательные",ТНТ4 Int.
 https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
 #EXTINF:-1 tvg-id="tnt4" tvg-logo="https://epg.iptvx.one/picons/tnt4.png" http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer" group-title="Развлекательные",ТНТ4
@@ -659,15 +659,15 @@ http://ukr2.ukrainske.tv/493/video.m3u8
 #EXTINF:-1 tvg-id="tv1000" tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="Фильмы и сериалы",Viju TV1000
 https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://iptvx.one/picons/tv1000-action.png" group-title="Фильмы и сериалы",Viju TV1000 Action
-http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
+http://stream.mcquack.net/100/index.m3u8
 #EXTINF:-1 tvg-id="viju-tv1000-romantica" tvg-logo="https://iptvx.one/picons/viju-tv1000-romantica.png" group-title="Фильмы и сериалы",Viju TV1000 romantica
 
 #EXTINF:-1 tvg-id="vip-comedy" tvg-logo="https://iptvx.one/picons/vip-comedy.png" group-title="Фильмы и сериалы",Viju+ comedy HD
-http://91.221.252.12:82/tv63
+http://stream.mcquack.net/201/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-logo="https://epg.iptvx.one/picons/tv1000-russkoe-kino.png" group-title="Фильмы и сериалы",Viju TV1000 Русское
 https://stream8.cinerama.uz/1059/mono.m3u8
-#EXTINF:-1 tvg-id="	viju-tv1000-novella" tvg-logo="https://epg.iptvx.one/picons/viju-tv1000-novella.png" group-title="Фильмы и сериалы",Viju TV1000 Новелла
-http://cdn.kubteltv.workers.dev/?ID=381
+##EXTINF:-1 tvg-id="vip-serial" tvg-logo="https://i.imgur.com/8yXZET5.png" group-title="Фильмы и сериалы",viju+ Serial HD
+http://stream.mcquack.net/311/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6005.png" group-title="Фильмы и сериалы",Видеокассета HD
 
 #EXTINF:-1 tvg-id="patriot" tvg-logo="https://epg.iptvx.one/picons/patriot.png" group-title="Фильмы и сериалы",Патриот
@@ -739,13 +739,13 @@ http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
 
 
 #EXTINF:-1 tvg-id="indiyskoe-kino" tvg-logo="https://epg.iptvx.one/picons/indijskoe-kino.png" group-title="Фильмы и сериалы",Индийское кино
-http:\\188.113.190.12\329\index.m3u8
+
 #EXTINF:-1 tvg-id="pro100" tvg-logo="https://iptvx.one/picons/pro100.png" group-title="Фильмы и сериалы",Pro100
 
 #EXTINF:-1 tvg-id="domkino" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="Фильмы и сериалы",Дом Кино
-http:\\stream.mcquack.net\236\index.m3u8
+
 #EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://iptvx.one/picons/domkino-premium.png" group-title="Фильмы и сериалы",Дом Кино Премиум HD
-http:\\stream.mcquack.net\108\index.m3u8
+
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="Фильмы и сериалы",Мосфильм. Золотая коллекция
 http://178.134.1.158:8081/mosfilm/index.m3u8
 #EXTINF:-1 tvg-id="nash-kinopokaz-hd" tvg-logo="https://iptvx.one/picons/nash-kinopokaz.png" group-title="Фильмы и сериалы",Наш кинопоказ HD
@@ -797,11 +797,11 @@ http://kinowalk.hopto.org/selecaotv1_live
 #EXTINF:-1 tvg-logo="" tvg-id="no_epg_cinema" group-title="Кинозалы",IPTVPLAY МУЛЬТСКАЗКИ HD
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 tvg-logo="" tvg-id="no_epg_cinema" group-title="Кинозалы",IPTVPLAY ПАМЯТЬ HD
-http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
+
 #EXTINF:-1 tvg-logo="" tvg-id="no_epg_cinema" group-title="Кинозалы",IPTVPLAY УЖАСТИК HD
-http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
+
 #EXTINF:-1 tvg-logo="" tvg-id="no_epg_cinema" group-title="Кинозалы",IPTVPLAY Великая Отечественная HD
-http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
+
 #EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoyo-tv-hd" group-title="Твоё ТВ",Твоё ТВ HD v1
 http://tvoetv.space:8080/tvoetv/mpegts?token=MkP9_m4vd1
 #EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoyo-tv-hd" group-title="Твоё ТВ",Твоё ТВ HD v2
@@ -826,6 +826,8 @@ http://tvoetv.space:8080/tvoetv_humor/video.m3u8
 
 #EXTINF:-1  tvg-id="tvoetv-humor" tvg-logo="https://iptvx.one/picons/tvoetv-humor.png" group-title="Твоё ТВ",Твоё ТВ HD Юмор v5
 
+
+
 #EXTINF:-1 tvg-id="kinopremiera-hd" tvg-logo="https://iptvx.one/picons/kinopremiera.png" group-title="Премьеры и хиты",Кинопремьера
 https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vip-premiere" tvg-logo="https://iptvx.one/picons/vip-premiere.png" group-title="Премьеры и хиты",Viju+ Premiere HD
@@ -834,14 +836,14 @@ http://stream.mcquack.net/202/index.m3u8
 http://192.162.64.99:5200/play/a02f/index.m3u8
 #EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://iptvx.one/picons/vip-megahit.png" group-title="Премьеры и хиты",Viju+ Megahit HD
 http://192.162.64.99:5200/play/a02e/index.m3u8
-#EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://iptvx.one/picons/vip-megahit.png" group-title="Премьеры и хиты",Viju+ Megahit HD
+#EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://iptvx.one/picons/vip-megahit.png" group-title="Премьеры и хиты",Viju+ Megahit
 http://stream.mcquack.net/200/index.m3u8
 #EXTINF:-1 tvg-id="kinoxit" tvg-logo="https://epg.iptvx.one/picons/kinoxit.png" group-title="Премьеры и хиты",Кинохит HD
 https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="amedia-hit" tvg-logo="https://iptvx.one/picons/amedia-hit.png" group-title="Премьеры и хиты",Amedia Hit HD
 http://stream.mcquack.net/162/index.m3u8
 #EXTINF:-1 tvg-id="amedia-premium" tvg-logo="https://iptvx.one/picons/amedia-premium.png" group-title="Премьеры и хиты",Amedia Premium HD
-http://tinyurl.com/TvZaTak65?id=amediapremium
+
 #EXTINF:-1 tvg-id="premialnoe-hd" tvg-logo="https://iptvx.one/picons/premialnoe-hd.png" group-title="Премьеры и хиты",Премиальное HD
 
 #EXTINF:-1 tvg-id="blokbaster-hd" tvg-logo="https://iptvx.one/picons/blokbaster.png" group-title="Премьеры и хиты",Блокбастер HD
