@@ -138,10 +138,7 @@ http://serv25.vintera.tv:8081/1pnk/prnk/playlist.m3u8
 #EXTINF:-1 tvg-id="ostwest24" tvg-logo="https://i.imgur.com/voeQ6x1.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Общественные",Ost West 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/455/index.m3u8
-#EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-logo="https://iptvx.one/picons/rtr-planeta.png" group-title="Общественные",РТР-Планета Европа
-https:\\stream.smotrim.ru\hls\planeta_rtr_euro\playlist.m3u8?entity=channel&id=510&sign=5c0ac65d75140fac2fd938d77c92138d
-#EXTINF:-1 tvg-id="rtr-planeta-azia" tvg-logo="https://iptvx.one/picons/rtr-planeta-azia.png" group-title="Общественные",РТР-Планета Азия
-https:\\stream.smotrim.ru\hls\planeta_rtr_asia\playlist.m3u8?entity=channel&id=511&sign=d1fe06cd922b67e412719536998fa43d
+
 
 
 
@@ -160,6 +157,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sts.png" group-title="Развлекательные" tvg-id="sts",СТС
 http://stream.mcquack.net/138/index.m3u8
+#EXTINF:-1 tvg-id="sts-int" tvg-logo="https://i.imgur.com/mwiC0RG.png" group-title="Undefined",СТС International
+http://178.134.1.158:8081/CTC/index.m3u8
 #EXTINF:-1 tvg-id="sts-love" tvg-logo="https://iptvx.one/picons/sts-love.png" group-title="Развлекательные",СТС Love*
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
@@ -214,7 +213,7 @@ http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
 #EXTINF:-1 tvg-id="tochka-tv" tvg-logo="https://iptvx.one/picons/tochka-tv.png" group-title="Развлекательные",Точка ТВ
 
 #EXTINF:-1 tvg-id="nostalgia" tvg-logo="https://iptvx.one/picons/nostalgia.png" group-title="Развлекательные",Ностальгия
-
+http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
 #EXTINF:-1 tvg-id="deviatka" tvg-logo="https://iptvx.one/picons/deviatka.png" group-title="Развлекательные",Девятка
 http://dmi3y-tv6.ru/hls/zabava/region/KIROV/CH_9TVHD.m3u8
 #EXTINF:-1 tvg-id="prodvizhenie" tvg-logo="https://iptvx.one/picons/prodvizhenie.png" group-title="Развлекательные",Продвижение
@@ -692,24 +691,24 @@ http://31.148.48.15/Rodnoe_kino/index.m3u8
 http://176.118.197.101/Retro/index.m3u8
 
 #EXTINF:-1 tvg-id="fox" tvg-logo="https://iptvx.one/picons/fox.png" group-title="Фильмы и сериалы",Fox
-http:\\stream.mcquack.net\182\index.m3u8
+http://stream.mcquack.net/182/index.m3u8
 #EXTINF:-1 tvg-id="foxlife" tvg-logo="https://iptvx.one/picons/foxlife.png" group-title="Фильмы и сериалы",Fox Life
-http:\\stream.mcquack.net\129\index.m3u8
+http://stream.mcquack.net/129/index.m3u8
 #EXTINF:-1  tvg-id="tv21plus" tvg-logo="https://epg.iptvx.one/picons/tv21plus.png" group-title="Фильмы и сериалы",ТВ21+
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R01_TV21PLUS/variant.m3u8
 #EXTINF:-1 tvg-id="dushevnoe" tvg-logo="https://epg.iptvx.one/picons/dushevnoe-hd.png" group-title="Фильмы и сериалы",Душевное
-http:\\stream.mcquack.net\213\index.m3u8
+http://stream.mcquack.net/213/index.m3u8
 #EXTINF:-1 tvg-id="illuzion-plus" tvg-logo="https://iptvx.one/picons/illuzion-plus.png" group-title="Фильмы и сериалы",Иллюзион+ HD
-http://31.148.48.15/Illusion_plus/index.m3u8
+
 #EXTINF:-1 tvg-id="kino-24" tvg-logo="https://iptvx.one/picons/kino-24.png" group-title="Фильмы и сериалы",Kino24
-http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+
 #EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://iptvx.one/picons/sony-turbo.png" group-title="Фильмы и сериалы",.Black HD
-http:\\stream.mcquack.net\263\index.m3u8
+http://stream.mcquack.net/263/index.m3u8
 #EXTINF:-1 tvg-id="sony-scifi" tvg-logo="https://iptvx.one/picons/sony-scifi.png" group-title="Фильмы и сериалы",.sci-fi
 http://stream.mcquack.net/180/index.m3u8
 #EXTINF:-1 tvg-id="sony-tv" tvg-logo="https://epg.iptvx.one/picons/sony.png" group-title="Фильмы и сериалы",.Red
-http://dmi3y-tv.online/hls/CH_TOCHKA_RED.m3u8
+
 #EXTINF:-1 tvg-id="amedia1" tvg-logo="https://iptvx.one/picons/amedia1.png" group-title="Фильмы и сериалы",Amedia 1 HD
 
 #EXTINF:-1 tvg-id="amedia2" tvg-logo="https://iptvx.one/picons/amedia2.png" group-title="Фильмы и сериалы",Amedia 2 HD
@@ -718,10 +717,12 @@ http://dmi3y-tv.online/hls/CH_TOCHKA_RED.m3u8
 http://31.148.48.15/Fan/index.m3u8
 #EXTINF:-1 tvg-id="hollywood-hd" tvg-logo="https://iptvx.one/picons/hollywood-hd.png" group-title="Фильмы и сериалы",HollywooD HD
 http://5.188.159.128:8070/HOLLYWOOD_HD/index.m3u8
-#EXTINF:-1 tvg-id="start-world" tvg-logo="http://epg.it999.ru/img2/6240.png" group-title="Фильмы и сериалы",Start World
-
+#EXTINF:-1 tvg-id="star-cinema" tvg-logo="https://epg.iptvx.one/picons/star-cinema.png" group-title="Фильмы и сериалы",Star Cinema
+https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="star-family" tvg-logo="https://epg.iptvx.one/picons/star-family.png" group-title="Фильмы и сериалы",Star Family
+https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="start-air" tvg-logo="https://iptvx.one/picons/start-air.png" group-title="Фильмы и сериалы",Start Air
-
+http://stream.mcquack.net/128/index.m3u8
 #EXTINF:-1 tvg-id="filmbox-ru" tvg-logo="https://epg.iptvx.one/picons/filmbox-ru.png" group-title="Фильмы и сериалы",FilmBox Russia
 
 #EXTINF:-1 tvg-id="kino1int-tviksel" tvg-logo="https://epg.iptvx.one/picons/kino1int-tviksel.png" group-title="Фильмы и сериалы",Кино 1 International
@@ -845,7 +846,7 @@ http://stream.mcquack.net/162/index.m3u8
 #EXTINF:-1 tvg-id="amedia-premium" tvg-logo="https://iptvx.one/picons/amedia-premium.png" group-title="Премьеры и хиты",Amedia Premium HD
 
 #EXTINF:-1 tvg-id="premialnoe-hd" tvg-logo="https://iptvx.one/picons/premialnoe-hd.png" group-title="Премьеры и хиты",Премиальное HD
-
+http://stream.mcquack.net/421/index.m3u8
 #EXTINF:-1 tvg-id="blokbaster-hd" tvg-logo="https://iptvx.one/picons/blokbaster.png" group-title="Премьеры и хиты",Блокбастер HD
 http:\\stream.mcquack.net\364\index.m3u8
 
