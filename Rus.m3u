@@ -146,7 +146,7 @@ http://stream.mcquack.net/455/index.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 http://194.152.35.17/Pyatnica/index.m3u8
 #EXTINF:-1 tvg-id="piatnica" tvg-logo="https://iptvx.one/picons/piatnica.png" group-title="Развлекательные",Пятница!
-http://31.131.141.195:8000/play/2060/index.m3u8
+http://185.46.16.239:8000/Pyatnitsa
 #EXTINF:-1 tvg-id="piatnica-int" tvg-logo="https://epg.iptvx.one/picons/piatnica-int.png" group-title="Развлекательные",Пятница! International
 
 #EXTINF:-1 tvg-id="super" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://iptvx.one/picons/subbota.png" group-title="Развлекательные",Суббота
@@ -798,32 +798,12 @@ http://176.126.166.43:1935/live/312musik/playlist.m3u8
 http://stream.mcquack.net/278/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.catcast.tv/uploads/04092021/logos/40672-61329195ca44d.jpg" group-title="Кинозалы",LAV-KINO
 
-#EXTINF:-1 tvg-id="chestny-detektiv" tvg-logo="https://epg.iptvx.one/picons/chestny-detektiv.png" group-title="Кинозалы",Смотрим Честный детектив
+#EXTINF:-1 group-title="Кинозалы",Смотрим Кино и сериалы
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://adindex.ru/files2/photogallery/2020_11/photo2_286493_smotrim2.jpg.jpg" group-title="Кинозалы",Смотрим Кино и сериалы
+#EXTINF:-1 group-title="Кинозалы",Смотрим Кино и сериалы*
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-klassika" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-klassika.png" group-title="Кинозалы",Смотрим 100% Классика
-https://stream.smotrim.ru/hls2/fasttv03/playlist_3.m3u8
-#EXTINF:-1 tvg-id="	smotrim-100-lubov" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-lubov.png" group-title="Кинозалы",Смотрим 100% Любовь
-
-#EXTINF:-1 tvg-id="smotrim-100-muzhskoe" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-muzhskoe.png" group-title="Кинозалы",Смотрим 100% Мужское
-
-#EXTINF:-1 tvg-id="smotrim-100-detskoe" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-detskoe.png" group-title="Кинозалы",Смотрим 100% Детское
-
-#EXTINF:-1 tvg-id="smotrim-100-prazdnik" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-prazdnik.png" group-title="Кинозалы",Смотрим 100% Праздник
-
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="" group-title="Кинозалы",Alpha Cinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы",Alpha Funny
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы",Alpha Moretime
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-
 #EXTINF:-1 group-title="Кинозалы",SeleCaoTV Фильмы
 http://kinowalk.hopto.org/selecaotv_live
 #EXTINF:-1 group-title="Кинозалы",SeleCaoTV Сериалы
