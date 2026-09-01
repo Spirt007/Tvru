@@ -806,24 +806,24 @@ http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.
 #EXTINF:-1 tvg-logo="https://adindex.ru/files2/photogallery/2020_11/photo2_286493_smotrim2.jpg.jpg" group-title="Кинозалы",Смотрим Кино и сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="smotrim-100-klassika" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-klassika.png" group-title="Кинозалы",Смотрим 100% Классика
-https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
+https://stream.smotrim.ru/hls2/fasttv03/playlist_3.m3u8
 #EXTINF:-1 tvg-id="	smotrim-100-lubov" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-lubov.png" group-title="Кинозалы",Смотрим 100% Любовь
-https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248
+
 #EXTINF:-1 tvg-id="smotrim-100-muzhskoe" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-muzhskoe.png" group-title="Кинозалы",Смотрим 100% Мужское
-https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d
+
 #EXTINF:-1 tvg-id="smotrim-100-detskoe" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-detskoe.png" group-title="Кинозалы",Смотрим 100% Детское
-https://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089
+
 #EXTINF:-1 tvg-id="smotrim-100-prazdnik" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-prazdnik.png" group-title="Кинозалы",Смотрим 100% Праздник
-https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564
+
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="" group-title="Кинозалы",Alpha Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы",Alpha Funny
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы",Alpha Moretime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
+
 #EXTINF:-1 group-title="Кинозалы",SeleCaoTV Фильмы
 http://kinowalk.hopto.org/selecaotv_live
 #EXTINF:-1 group-title="Кинозалы",SeleCaoTV Сериалы
