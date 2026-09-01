@@ -374,10 +374,22 @@ http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-xit" tvg-logo="https://iptvx.one/picons/ntv-xit.png" group-title="НТВ",НТВ Хит
 http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ntv-amerika" tvg-logo="https://iptvx.one/picons/ntv-amerika.png" group-title="НТВ",НТВ Америка
-
-#EXTINF:-1 tvg-id="ntv-mir" tvg-logo="https://iptvx.one/picons/ntv-mir.png" group-title="НТВ",НТВ-Мир
-https://streaming.thestream.cyou/live/213.m3u8
+#EXTINF:-1 tvg-id="ntv-xit" tvg-logo="https://iptvx.one/picons/ntv-xit.png" group-title="НТВ",НТВ Следствие вели...
+https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="НТВ",НТВ Шеф
+https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="НТВ",НТВ Скорая Помощь
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="НТВ",НТВ Пять минут тишины
+https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="НТВ",НТВ Пес
+https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="НТВ",НТВ Первый Отдел
+https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="НТВ",НТВ Невский
+https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="НТВ",НТВ Балабол
+https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ntv-pl1" tvg-logo="https://epg.iptvx.one/picons/ntv-pl1.png" group-title="Будущее",НТВ +1
 https://cdn.ntv.ru/ntv1/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv-pl2" tvg-logo="https://epg.iptvx.one/picons/ntv-pl2.png" group-title="Будущее",НТВ +2
