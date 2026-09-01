@@ -390,6 +390,9 @@ https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.ts.m3u8
 https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="НТВ",НТВ Балабол
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/mono.ts.m3u8
+
+
+
 #EXTINF:-1 tvg-id="ntv-pl1" tvg-logo="https://epg.iptvx.one/picons/ntv-pl1.png" group-title="Будущее",НТВ +1
 https://cdn.ntv.ru/ntv1/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv-pl2" tvg-logo="https://epg.iptvx.one/picons/ntv-pl2.png" group-title="Будущее",НТВ +2
@@ -397,7 +400,7 @@ https://cdn.ntv.ru/ntv2/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv-pl4" tvg-logo="https://epg.iptvx.one/picons/ntv-pl4.png" group-title="Будущее",НТВ +4
 https://cdn.ntv.ru/ntv4/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv-pl7" tvg-logo="https://epg.iptvx.one/picons/ntv-pl7.png" group-title="Будущее",НТВ +7
-https://cdn.ntv.ru/ntv7/playlist.m3u8
+
 #EXTINF:-1 tvg-id="tnt-pl2" tvg-logo="https://epg.iptvx.one/picons/tnt-pl2.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Будущее",ТНТ (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
@@ -579,7 +582,7 @@ http://92.50.128.180/utv/1358/index.m3u8
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="cnn" tvg-logo="https://iptvx.one/picons/cnn.png" group-title="Новости",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 ttvg-id="bbc" tvg-logo="https://iptvx.one/picons/bbc.png" group-title="Новости",BBC World News
+#EXTINF:-1 tvg-id="bbc" tvg-logo="https://iptvx.one/picons/bbc.png" group-title="Новости",BBC World News
 https://xemzi.short.gy/1000015
 #EXTINF:-1 tvg-id="france24" tvg-logo="https://iptvx.one/picons/france24.png" group-title="Новости",France 24
 http://nmk.ioapk.com:5050/4gtv-live146/index.m3u8
