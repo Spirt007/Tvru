@@ -69,9 +69,6 @@ http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/14023/index.m3u8
 http://31.131.141.195:8000/play/1010/index.m3u8
 #EXTINF:-1 tvg-id="pervy-kanal-eu" tvg-logo="https://epg.iptvx.one/picons/pervy-kanal-eu.png" group-title="Общественные",Первый канал Европа
 https://streaming.thestream.cyou/live/210.m3u8
-#EXTINF:-1 tvg-id="pervy" tvg-logo="https://epg.iptvx.one/picons/pervy.png" group-title="Общественные",Первый
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Общественные",Россия 1
 https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Общественные",НТВ
