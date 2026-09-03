@@ -115,7 +115,7 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 #EXTINF:-1 tvg-id="otr" tvg-logo="https://iptvx.one/picons/otr.png" group-title="Общественные",ОТР*
 http://31.131.141.195:8000/play/1090/index.m3u8
-#EXTINF:-1 tvg-id="360-podmoskovie" tvg-logo="https://epg.iptvx.one/picons/360-podmoskovie.png" group-title="Новости",360
+#EXTINF:-1 tvg-id="360-podmoskovie" tvg-logo="https://epg.iptvx.one/picons/360-podmoskovie.png" group-title="Общественные",360
 https://e10-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
 #EXTINF:-1 tvg-id="kultura" tvg-logo="https://iptvx.one/picons/kultura.png" group-title="Общественные",Россия Культура
 https://flussonic.mkpnet.ru/tv-111deaa2142146ee/video.m3u8
