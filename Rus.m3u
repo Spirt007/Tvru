@@ -811,7 +811,7 @@ http://stream.mcquack.net/385/index.m3u8
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 tvg-id="312TV.kg@SD" tvg-logo="https://i.ibb.co/S6sZvqk/iLSGi6c.png" group-title="Фильмы и сериалы",312 ТВ
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
-#EXTINF:-1 tvg-id="kinouzhas" tvg-logo="https://epg.iptvx.one/picons/kinouzhas.png" group-title="Movies",Киноужас
+#EXTINF:-1 tvg-id="kinouzhas" tvg-logo="https://epg.iptvx.one/picons/kinouzhas.png" group-title="Фильмы и сериалы",Киноужас
 http://stream.mcquack.net/278/index.m3u8
 
 
