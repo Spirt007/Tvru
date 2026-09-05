@@ -791,6 +791,8 @@ https://stream8.cinerama.uz/1237/index.m3u8
 https://stream8.cinerama.uz/1060/index.m3u8
 #EXTINF:-1 tvg-id="Komediynoe.ru@HD" tvg-logo="https://i.imgur.com/cEKe8XC.png" group-title="Фильмы и сериалы",Koмедийное HD
 http://stream.mcquack.net/74/index.m3u8
+#EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="https://epg.iptvx.one/picons/russkaya-komedia.png" group-title="Фильмы и сериалы",Русская комедия
+http://stream.mcquack.net/68/index.m3u8
 #EXTINF:-1 tvg-id="pro100" tvg-logo="https://iptvx.one/picons/pro100.png" group-title="Фильмы и сериалы",Pro100
 
 #EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-logo="https://epg.iptvx.one/picons/nashe-novoe-kino.png" group-title="Фильмы и сериалы",Наше новое кино
@@ -817,9 +819,7 @@ http://176.126.166.43:1935/live/312musik/playlist.m3u8
 http://stream.mcquack.net/278/index.m3u8
 #EXTINF:-1 tvg-id="	nashe-muzhskoe-hd" tvg-logo="https://epg.iptvx.one/picons/nashe-muzhskoe-hd.png" group-title="Фильмы и сериалы",Наше мужское HD
 http://stream.mcquack.net/362/index.m3u8
-#EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-logo="https://epg.iptvx.one/picons/nashe-novoe-kino.png group-title="Фильмы и сериалы",Наше новое кино
-http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8
-#EXTINF:-1 tvg-id="ntk-kz" tvg-logo="https://i.imgur.com/hHSCH4L.png" group-title="Фильмы и сериалы",НТК
+#EXTINF:-1 tvg-id="ntk-kz" tvg-logo="https://epg.iptvx.one/picons/ntk-kz.png" group-title="Фильмы и сериалы",НТК
 http://stream.mcquack.net/389/index.m3u8
 #EXTINF:-1 tvg-id="ktk-kz" tvg-logo="https://i.imgur.com/BurrNTo.png" group-title="Фильмы и сериалы",KTK HD
 http://89.218.30.37/ktklive/live.hq/playlist.m3u8
