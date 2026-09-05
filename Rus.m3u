@@ -229,8 +229,7 @@ http://v4.proofix.ru:80/7tv-live/index.m3u8
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 tvg-id="tolk" tvg-logo="https://epg.iptvx.one/picons/tolk.png" group-title="Развлекательные",Толк
 http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ktk-kz" tvg-logo="https://i.imgur.com/BurrNTo.png" group-title="Развлекательные",KTK HD
-http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="vostok-24" tvg-logo="https://iptvx.one/picons/vostok-24.png" group-title="Региональные",Восток 24
@@ -820,8 +819,10 @@ http://stream.mcquack.net/278/index.m3u8
 http://stream.mcquack.net/362/index.m3u8
 #EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-logo="https://epg.iptvx.one/picons/nashe-novoe-kino.png group-title="Фильмы и сериалы",Наше новое кино
 http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8
-
-
+#EXTINF:-1 tvg-id="ntk-kz" tvg-logo="https://i.imgur.com/hHSCH4L.png" group-title="Фильмы и сериалы",НТК
+http://stream.mcquack.net/389/index.m3u8
+#EXTINF:-1 tvg-id="ktk-kz" tvg-logo="https://i.imgur.com/BurrNTo.png" group-title="Фильмы и сериалы",KTK HD
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
 
 #EXTINF:-1 group-title="Кинозалы",Смотрим Кино и сериалы
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
