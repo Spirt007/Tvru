@@ -816,6 +816,10 @@ http://176.126.166.43:1935/live/312kino/playlist.m3u8
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 tvg-id="kinouzhas" tvg-logo="https://epg.iptvx.one/picons/kinouzhas.png" group-title="Фильмы и сериалы",Киноужас
 http://stream.mcquack.net/278/index.m3u8
+#EXTINF:-1 tvg-id="	nashe-muzhskoe-hd" tvg-logo="https://epg.iptvx.one/picons/nashe-muzhskoe-hd.png" group-title="Фильмы и сериалы",Наше мужское HD
+http://stream.mcquack.net/362/index.m3u8
+#EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-logo="https://epg.iptvx.one/picons/nashe-novoe-kino.png group-title="Фильмы и сериалы",Наше новое кино
+http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8
 
 
 
@@ -968,6 +972,8 @@ https://stream8.cinerama.uz/1423/index.m3u8
 
 #EXTINF:-1 tvg-id="kuxnia-tv" tvg-logo="https://epg.iptvx.one/picons/kuxnia-tv.png" group-title="Досуг",Кухня
 http://iptv.mega.net.ru:8888/kuhnya_tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://smotret.tv/images/kulinar-tv.webp" group-title="Досуг",Kulinar TV
+https://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 tvg-id="tonus-tv" tvg-logo="https://iptvx.one/picons/tonus-tv.png" group-title="Досуг",Тонус
 
 #EXTINF:-1 tvg-id="tochka-otryva" tvg-logo="http://epg.it999.ru/img2/617.png" group-title="Досуг",Точка Отрыва
@@ -1067,6 +1073,10 @@ https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 http://stream.mcquack.net/240/index.m3u8
 #EXTINF:-1 tvg-id="animal-planet-eu" tvg-logo="https://iptvx.one/picons/animal-planet-eu.png" group-title="Познавательные",Animal Planet HD
 
+#EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://epg.iptvx.one/picons/national-geographic.png" group-title="Познавательные",National Geographic
+http://stream.mcquack.net/116/index.m3u8
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://epg.iptvx.one/picons/nat-geo-wild.png" group-title="Познавательные",National Geographic Wild
+http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
 #EXTINF:-1 tvg-id="big-planet" tvg-logo="https://iptvx.one/picons/big-planet.png" group-title="Познавательные",Big Planet HD
 
 #EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://iptvx.one/picons/discovery-channel.png" group-title="Познавательные",Discovery Channel HD
