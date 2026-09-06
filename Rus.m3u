@@ -14,7 +14,6 @@ http://stream.mcquack.net/313/index.m3u8?
 #EXTINF:-1 tvg-id="setanta-plus-ua" tvg-logo="https://i.imgur.com/gHAP4p0.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Спортивные",Setanta Sports+ Ukraine
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/390/index.m3u8
-http://stream.mcquack.net/313/index.m3u8?
 #EXTINF:-1  catchup="append" catchup-days="7" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спортивные",Матч!ТВ
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
