@@ -183,7 +183,7 @@ http://iptv.mega.net.ru:8888/TNT/index.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="Развлекательные",ТНТ HD
 http://stream.mcquack.net/135/index.m3u8
 #EXTINF:-1 tvg-id="tnt-int-eu" tvg-logo="https://iptvx.one/picons/tnt-int-eu.png" group-title="Развлекательные",ТНТ4 Int.
-https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
+https://fs.uplink.kz/tnt4/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="tnt4" tvg-logo="https://epg.iptvx.one/picons/tnt4.png" http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer" group-title="Развлекательные",ТНТ4
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
@@ -432,8 +432,7 @@ https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.ts.m3u8
 https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/balabol_vse.jpg" group-title="НТВ",НТВ Балабол
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="НТВ",НТВ Прокурорская проверка и тп
-http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
+
 
 
 
@@ -875,7 +874,7 @@ http://kinowalk.hopto.org/selecaotv_live
 #EXTINF:-1 group-title="Кинозалы",SeleCaoTV Сериалы
 http://kinowalk.hopto.org/selecaotv1_live
 #EXTINF:-1 tvg-id="VelvetEuropeanMovies" tvg-logo="https://antiabuse-container.b-cdn.net/eurkino.png" group-title="Кинозалы",Velvet. Европейское кино
-https://cdn.rostelekom-tv.xyz/live/LQ3j0n7j0Kq4OQm8.m3u8
+
 #EXTINF:-1 tvg-id="VelvetGoldenCollection" tvg-logo="https://interra-cdn-europe1.b-cdn.net/zolo.png" group-title="Кинозалы",Velvet. Золотая коллекция
 https://cdn.rostelekom-tv.xyz/live/v804qFZr0QVQ1s9Z.m3u8
 #EXTINF:-1 tvg-id="VelvetMentovskiyeSerialy" tvg-logo="https://interra-cdn-europe1.b-cdn.net/ment.png" group-title="Кинозалы",Velvet. Ментовские сериалы
