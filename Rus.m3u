@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz,https://iptvx.one/epg/epg.xml.gz"
+#EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz,https://iptvx.one/epg/epg_lite.xml.gz"
 
 #EXTINF:-1 tvg-id="match-football3" tvg-logo="https://iptvx.one/picons/match-football3.png" group-title="Спортивные",Матч! Футбол 3 HD
 http://185.57.68.33/110/mpegts
@@ -147,6 +147,8 @@ https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 http://serv25.vintera.tv:8081/1pnk/prnk/playlist.m3u8
 #EXTINF:-1 tvg-id="kongresstv" tvg-logo="https://epg.iptvx.one/picons/kongresstv.png" group-title="Общественные",Конгресс ТВ
 http://live-3.otcnet.ru/congresstv/index.m3u8
+#EXTINF:-1 tvg-id="dumatv" tvg-logo="https://epg.iptvx.one/picons/dumatv.png" group-title="Общественные",Дума ТВ
+http://185.23.80.23:8080/DumaTV/index.m3u8
 #EXTINF:-1 tvg-id="ostwest24" tvg-logo="https://i.imgur.com/voeQ6x1.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Общественные",Ost West 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/455/index.m3u8
@@ -195,6 +197,8 @@ http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="yu" tvg-logo="https://iptvx.one/picons/yu.png" group-title="Развлекательные",Ю
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
+#EXTINF:-1 tvg-id="yu" tvg-logo="https://iptvx.one/picons/yu.png" group-title="Развлекательные",Ю ТВ rutube
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
 #EXTINF:-1 tvg-id="teatr" tvg-logo="https://iptvx.one/picons/teatr.png" group-title="Развлекательные",Театр
 http://195.26.83.96:7005/play/16/index.m3u8
 #EXTINF:-1 tvg-id="strk" tvg-logo="https://iptvx.one/picons/strk.png" group-title="Развлекательные",СТРК
@@ -251,6 +255,8 @@ http://stream.mcquack.net/464/index.m3u8
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
 #EXTINF:-1 tvg-id="zapad-24" tvg-logo="https://iptvx.one/picons/zapad-24.png" group-title="Региональные",Запад 24
 
+#EXTINF:-1 tvg-id="555" tvg-logo="https://i.imgur.com/JQZkxeA.png" group-title="Региональные",Телерадиокомпания 555 (Алушта)
+http://trk555.tv:8888/live
 #EXTINF:-1 tvg-id="arktika-24" tvg-logo="https://epg.iptvx.one/picons/arktika-24.png" group-title="Региональные",Арктика 24 Архангельск
 
 #EXTINF:-1 tvg-id="aris24" tvg-logo="https://epg.iptvx.one/picons/aris24.png" group-title="Региональные",Арис 24
@@ -756,6 +762,8 @@ http://stream.mcquack.net/129/index.m3u8
 #EXTINF:-1  tvg-id="tv21plus" tvg-logo="https://epg.iptvx.one/picons/tv21plus.png" group-title="Фильмы и сериалы",ТВ21+
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R01_TV21PLUS/variant.m3u8
+#EXTINF:-1 tvg-id="TV21International.ru" tvg-logo="https://ibb.co/BH6CZx3K" group-title="Фильмы и сериалы",TV 21 International
+http://stream.mcquack.net/152/index.m3u8
 #EXTINF:-1 tvg-id="dushevnoe" tvg-logo="https://epg.iptvx.one/picons/dushevnoe-hd.png" group-title="Фильмы и сериалы",Душевное
 http://stream.mcquack.net/213/index.m3u8
 #EXTINF:-1 tvg-id="nashe-lubimoe-hd" tvg-logo="https://epg.iptvx.one/picons/nashe-lubimoe-hd.png" group-title="Фильмы и сериалы",Любимое HD
@@ -820,8 +828,10 @@ http://stream.mcquack.net/68/index.m3u8
 
 #EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-logo="https://epg.iptvx.one/picons/nashe-novoe-kino.png" group-title="Фильмы и сериалы",Наше новое кино
 https://stream8.cinerama.uz/1051/index.m3u8
-#EXTINF:-1 tvg-id="domkino" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="Фильмы и сериалы",Дом Кино
+#EXTINF:-1 tvg-id="domkino" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="Фильмы и сериалы",Дом кино
 https://stream8.cinerama.uz/1054/index.m3u8
+#EXTINF:-1 tvg-id="domkino-int" tvg-logo="https://epg.iptvx.one/picons/domkino.png" group-title="Фильмы и сериалы",Дом кино International
+https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://iptvx.one/picons/domkino-premium.png" group-title="Фильмы и сериалы",Дом Кино Премиум HD
 http://stream.mcquack.net/108/index.m3u8
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="Фильмы и сериалы",Мосфильм. Золотая коллекция
@@ -850,6 +860,10 @@ http://stream.mcquack.net/389/index.m3u8
 http://89.218.30.37/ktklive/live.hq/playlist.m3u8
 #EXTINF:-1 tvg-id="shot-tv" tvg-logo="https://i.imgur.com/MLSG7tA.png" group-title="Фильмы и сериалы",Shot TV
 http://hls127.freeott.top:8080/SHOT_TV/video.m3u
+#EXTINF:-1 tvg-id="bolt-ru" tvg-logo="https://epg.iptvx.one/picons/bolt.png" group-title="Фильмы и сериалы",Bolt
+http://hls127.freeott.top:8080/Bolt/video.m3u8
+
+
 
 #EXTINF:-1 group-title="Кинозалы",Смотрим Кино и сериалы
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -860,7 +874,22 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v
 http://kinowalk.hopto.org/selecaotv_live
 #EXTINF:-1 group-title="Кинозалы",SeleCaoTV Сериалы
 http://kinowalk.hopto.org/selecaotv1_live
-
+#EXTINF:-1 tvg-id="VelvetEuropeanMovies.ru@HD" tvg-logo="https://antiabuse-container.b-cdn.net/eurkino.png" group-title="Кинозалы",Velvet. European Movies
+https://cdn.rostelekom-tv.xyz/live/LQ3j0n7j0Kq4OQm8.m3u8
+#EXTINF:-1 tvg-id="VelvetGoldenCollection.ru@HD" tvg-logo="https://interra-cdn-europe1.b-cdn.net/zolo.png" group-title="Кинозалы",Velvet. Golden Collection
+https://cdn.rostelekom-tv.xyz/live/v804qFZr0QVQ1s9Z.m3u8
+#EXTINF:-1 tvg-id="VelvetMentovskiyeSerialy.ru@HD" tvg-logo="https://interra-cdn-europe1.b-cdn.net/ment.png" group-title="Кинозалы",Velvet. Ментовские сериалы
+https://cdn.rostelekom-tv.xyz/live/tWQ0ge9rspBQhRst.m3u8
+#EXTINF:-1 tvg-id="VelvetScary.ru@HD" tvg-logo="https://antiabuse-container.b-cdn.net/uzh1.png" group-title="Кинозалы",Velvet. Ужасы
+https://cdn.rostelekom-tv.xyz/live/NImhIFLevxCbtcP-.m3u8
+#EXTINF:-1 tvg-id="VelvetSeriesHits.ru@HD" tvg-logo="https://antiabuse-container.b-cdn.net/serialyhity.png" group-title="Кинозалы",Velvet. Series Hits
+https://cdn.rostelekom-tv.xyz/live/DeWr3Sgw1Aj2lJd0.m3u8
+#EXTINF:-1 tvg-id="VelvetSovetskoeKino.ru@HD" tvg-logo="https://interra-cdn-europe1.b-cdn.net/soviet.png" group-title="Кинозалы",Velvet. Советское кино
+https://cdn.rostelekom-tv.xyz/live/nF4sFCa49nFPHSF_.m3u8
+#EXTINF:-1 tvg-id="VelvetSvaty.ru@HD" tvg-logo="https://interra-cdn-europe1.b-cdn.net/svatyv.png" group-title="Кинозалы",Velvet. Сваты
+https://cdn.rostelekom-tv.xyz/live/HSxyMqDlSVR54UTN.m3u8
+#EXTINF:-1 tvg-id="VelvetWorldSeries.ru@HD" tvg-logo="https://antiabuse-container.b-cdn.net/mirseriallogo.png" group-title="CКинозалы",Velvet. World Series
+https://cdn.rostelekom-tv.xyz/live/2RR44py-yGlIWQIp.m3u8
 
 
 
@@ -949,10 +978,12 @@ https://cityeden.catcast.tv/content/46421/index.m3u8
 http://stream.mcquack.net/78/index.m3u8
 #EXTINF:-1 tvg-id="avto-plus" tvg-logo="https://epg.iptvx.one/picons/avto-plus.png" group-title="Досуг",Авто Плюс
 https://stream8.cinerama.uz/1036/index.m3u8
+#EXTINF:-1 tvg-id="drive" tvg-logo="https://iptvx.one/picons/drive.png" group-title="Досуг",Драйв
+https://stream8.cinerama.uz/1421/index.m3u8
 #EXTINF:-1 tvg-id="texno-24" tvg-logo="https://epg.iptvx.one/picons/texno-24.png" group-title="Досуг",Техно 24
 https://stream8.cinerama.uz/1037/index.m3u8
 #EXTINF:-1 tvg-id="bobior" tvg-logo="https://iptvx.one/picons/bober.png" group-title="Досуг",Бобер HD
-
+https://fs.uplink.kz/bober/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="doktor" tvg-logo="https://iptvx.one/picons/doktor.png" group-title="Досуг",Доктор HD
 https://stream8.cinerama.uz/1409/index.m3u8
 #EXTINF:-1 tvg-id="domashnie-zhivotnye" tvg-logo="http://epg.it999.ru/img2/520.png" group-title="Досуг",Домашние Животные
@@ -962,10 +993,7 @@ http://stream.mcquack.net/274/index.m3u8
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-logo="http://epg.it999.ru/img2/2484.png" group-title="Досуг",Дикая рыбалка HD
 http://stream.mcquack.net/275/index.m3u8
 #EXTINF:-1 tvg-id="dikiy" tvg-logo="http://epg.it999.ru/img2/2283.png" group-title="Досуг",Дикий HD
-
-
-#EXTINF:-1 tvg-id="drive" tvg-logo="https://iptvx.one/picons/drive.png" group-title="Досуг",Драйв
-https://stream8.cinerama.uz/1421/index.m3u8
+http://hls127.freeott.top:8080/Dikiy/video.m3u8
 #EXTINF:-1 tvg-id="eda" tvg-logo="https://iptvx.one/picons/eda.png" group-title="Досуг",Еда
 
 #EXTINF:-1 tvg-id="zhivi" tvg-logo="https://epg.iptvx.one/picons/zhivi.png" group-title="Досуг",Живи
