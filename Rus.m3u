@@ -926,29 +926,29 @@ http://stream.mcquack.net/421/index.m3u8
 http://stream.mcquack.net/364/index.m3u8
 
 
-#EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-logo="http://tvoetv.space/tvoetv.png"  group-title="Твоё ТВ",Твоё ТВ HD v1
+#EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-logo="https://epg.iptvx.one/picons/tvoyo-tv-hd.png"  group-title="Твоё ТВ",Твоё ТВ HD v1
 http://tvoetv.space:8080/tvoetv/mpegts?token=MkP9_m4vd1
-#EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-logo="http://tvoetv.space/tvoetv.png" group-title="Твоё ТВ",Твоё ТВ HD v2
+#EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-logo="https://epg.iptvx.one/picons/tvoyo-tv-hd.png" group-title="Твоё ТВ",Твоё ТВ HD v2
 http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-logo="http://tvoetv.space/tvoetv.png" group-title="Твоё ТВ",Твоё ТВ HD v3
+#EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-logo="https://epg.iptvx.one/picons/tvoyo-tv-hd.png" group-title="Твоё ТВ",Твоё ТВ HD v3
 http://tvoetv.space:8080/tvoetv/video.m3u8
-#EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-logo="http://tvoetv.space/tvoetv.png" group-title="Твоё ТВ",Твоё ТВ HD v4
+#EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-logo="https://epg.iptvx.one/picons/tvoyo-tv-hd.png" group-title="Твоё ТВ",Твоё ТВ HD v4
 https://tvoetv.space/tvoetv/mpegts
-#EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-logo="http://tvoetv.space/tvoetv.png" group-title="Твоё ТВ",Твоё ТВ HD v5
+#EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-logo="https://epg.iptvx.one/picons/tvoyo-tv-hd.png" group-title="Твоё ТВ",Твоё ТВ HD v5
 https://tvoetv.space/tvoetv/index.m3u8
-#EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-logo="http://tvoetv.space/tvoetv.png" group-title="Твоё ТВ",Твоё ТВ HD v6
+#EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-logo="https://epg.iptvx.one/picons/tvoyo-tv-hd.png" group-title="Твоё ТВ",Твоё ТВ HD v6
 https://tvoetv.space/tvoetv/video.m3u8
-#EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-logo="http://tvoetv.space/tvoetv.png" group-title="Твоё ТВ",Твоё ТВ HD v7
+#EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-logo="https://epg.iptvx.one/picons/tvoyo-tv-hd.png" group-title="Твоё ТВ",Твоё ТВ HD v7
 https://tvoetv.space/tvoetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-id=""tvoetv-humor" tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png"  group-title="Твоё ТВ",Твоё ТВ HD Юмор v1
+#EXTINF:-1  tvg-id="tvoetv-humor" tvg-logo="https://epg.iptvx.one/picons/tvoetv-humor.png"  group-title="Твоё ТВ",Твоё ТВ - Юмор v1
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:-1 tvg-id=""tvoetv-humor" tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" group-title="Твоё ТВ",Твоё ТВ HD Юмор v2
+#EXTINF:-1 tvg-id="tvoetv-humor" tvg-logo="https://epg.iptvx.one/picons/tvoetv-humor.png" group-title="Твоё ТВ",Твоё ТВ - Юмор v2
 http://tvoetv.space:8080/tvoetv_humor/video.m3u8
-#EXTINF:-1 tvg-id=""tvoetv-humor" tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" group-title="Твоё ТВ",Твоё ТВ HD Юмор v3
+#EXTINF:-1 tvg-id="tvoetv-humor" tvg-logo="https://epg.iptvx.one/picons/tvoetv-humor.png" group-title="Твоё ТВ",Твоё ТВ - Юмор v3
 https://tvoetv.space/tvoetv_humor/mpegts
-#EXTINF:-1 tvg-id=""tvoetv-humor" tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" group-title="Твоё ТВ",Твоё ТВ HD Юмор v4
+#EXTINF:-1 tvg-id="tvoetv-humor" tvg-logo="https://epg.iptvx.one/picons/tvoetv-humor.png" group-title="Твоё ТВ",Твоё ТВ - Юмор v4
 https://tvoetv.space/tvoetv_humor/index.m3u8
-#EXTINF:-1 tvg-id=""tvoetv-humor" tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" group-title="Твоё ТВ",Твоё ТВ HD Юмор v5
+#EXTINF:-1 tvg-id="tvoetv-humor" tvg-logo="https://epg.iptvx.one/picons/tvoetv-humor.png" group-title="Твоё ТВ",Твоё ТВ - Юмор v5
 https://tvoetv.space/tvoetv_humor/video.m3u8
 
 
