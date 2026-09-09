@@ -875,22 +875,6 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v
 http://kinowalk.hopto.org/selecaotv_live
 #EXTINF:-1 group-title="Кинозалы",SeleCaoTV Сериалы
 http://kinowalk.hopto.org/selecaotv1_live
-#EXTINF:-1 tvg-id="VelvetEuropeanMovies" tvg-logo="https://antiabuse-container.b-cdn.net/eurkino.png" group-title="Кинозалы",Velvet. Европейское кино
-
-#EXTINF:-1 tvg-id="VelvetGoldenCollection" tvg-logo="https://interra-cdn-europe1.b-cdn.net/zolo.png" group-title="Кинозалы",Velvet. Золотая коллекция
-https://cdn.rostelekom-tv.xyz/live/v804qFZr0QVQ1s9Z.m3u8
-#EXTINF:-1 tvg-id="VelvetMentovskiyeSerialy" tvg-logo="https://interra-cdn-europe1.b-cdn.net/ment.png" group-title="Кинозалы",Velvet. Ментовские сериалы
-https://cdn.rostelekom-tv.xyz/live/tWQ0ge9rspBQhRst.m3u8
-#EXTINF:-1 tvg-id="VelvetScary" tvg-logo="https://antiabuse-container.b-cdn.net/uzh1.png" group-title="Кинозалы",Velvet. Ужасы
-https://cdn.rostelekom-tv.xyz/live/NImhIFLevxCbtcP-.m3u8
-#EXTINF:-1 tvg-id="VelvetSeriesHits" tvg-logo="https://antiabuse-container.b-cdn.net/serialyhity.png" group-title="Кинозалы",Velvet. сериалы,хиты
-https://cdn.rostelekom-tv.xyz/live/DeWr3Sgw1Aj2lJd0.m3u8
-#EXTINF:-1 tvg-id="VelvetSovetskoeKino" tvg-logo="https://interra-cdn-europe1.b-cdn.net/soviet.png" group-title="Кинозалы",Velvet. Советское кино
-https://cdn.rostelekom-tv.xyz/live/nF4sFCa49nFPHSF_.m3u8
-#EXTINF:-1 tvg-id="VelvetSvaty" tvg-logo="https://interra-cdn-europe1.b-cdn.net/svatyv.png" group-title="Кинозалы",Velvet. Сваты
-https://cdn.rostelekom-tv.xyz/live/HSxyMqDlSVR54UTN.m3u8
-#EXTINF:-1 tvg-id="VelvetWorldSeries" tvg-logo="https://antiabuse-container.b-cdn.net/mirseriallogo.png" group-title="Кинозалы",Velvet. Мировые сириалы
-https://cdn.rostelekom-tv.xyz/live/2RR44py-yGlIWQIp.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Retrovision
 https://lbgo.bozztv.com/07/ushba-rvision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Retrovision Classic
