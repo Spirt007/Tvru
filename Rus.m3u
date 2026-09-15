@@ -275,7 +275,7 @@ http://live-tvkrasnodar-soc.cdnvideo.ru/tvkrasnodar-soc/social/playlist.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
 #EXTINF:-1 tvg-id="kuban-24" tvg-logo="https://iptvx.one/picons/kuban-24.png" group-title="Региональные",Кубань 24 Rutub
-https://river-1.rutube.ru/stream/genetta-313.m9.rutube.ru/jGpvIEQgQ5VFEF7PwPL9fA/1788952990/cb2f1d99b88c9b4d38df05cd7fa0a6c2/720p_stream.m3u8
+https://salam-krd-ttk-d178.rtbcdn.ru/dive/river-3-343.rtbcdn.ru/VYb-1l8sxWFZaWiL7zqFEQ/stream/genetta-320.m9.rutube.ru/7vYMatNOODE2qCFM6W83WA/1790080935/cb2f1d99b88c9b4d38df05cd7fa0a6c2/360p_stream.m3u8
 #EXTINF:-1 tvg-id="gln24" tvg-logo="https://epg.iptvx.one/picons/gln24.png" group-title="Региональные",GLN 24 (Геленджик)
 http://serv25.vintera.tv:8081/gelendzhik/stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="sankt-peterburg" tvg-logo="https://iptvx.one/picons/sankt-peterburg.png" group-title="Региональные",Санкт-Петербург
