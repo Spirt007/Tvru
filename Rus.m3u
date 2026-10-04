@@ -260,8 +260,7 @@ http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 http://stream.mcquack.net/463/index.m3u8
 #EXTINF:-1 tvg-id="raz2" tvg-logo="https://epg.iptvx.one/picons/raz2.png" group-title="Развлекательные",RAZ 2
 http://stream.mcquack.net/464/index.m3u8
-#EXTINF:-1 tvg-id="raz3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Raz_3_%282026%29.png" group-title="Развлекательные",RAZ 3 International
-https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="almazny-kray" tvg-logo="https://epg.iptvx.one/picons/almazny-kray.png" group-title="Региональные",Алмазный край
