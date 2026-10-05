@@ -106,6 +106,8 @@ http://iptv.mega.net.ru:8888/TV_3/index.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-logo="https://iptvx.one/picons/rentv.png" group-title="Общественные",РЕН ТВ HD
 http://194.152.35.17/ren_tv/index.m3u8
+#EXTINF:-1 tvg-id="rentv-int" tvg-logo="https://epg.iptvx.one/picons/rentv-int.png" group-title="Общественные",Рен ТВ International
+http://fs.uplink.kz/ren/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-logo="https://epg.iptvx.one/picons/5kanal-ru.png" group-title="Общественные",Пятый канал
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://iptvx.one/picons/5kanal-ru.png" group-title="Общественные",Пятый канал
@@ -866,6 +868,8 @@ http://176.126.166.43:1935/live/312kino/playlist.m3u8
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 tvg-id="kinouzhas" tvg-logo="https://epg.iptvx.one/picons/kinouzhas.png" group-title="Фильмы и сериалы",Киноужас
 http://stream.mcquack.net/278/index.m3u8
+#EXTINF:-1 tvg-id="horrortv" tvg-logo="https://epg.iptvx.one/picons/horrortv.png" group-title="Фильмы и сериалы" ,Horror TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8
 #EXTINF:-1 tvg-id="shokiruyushchee-hd" tvg-logo="https://epg.iptvx.one/picons/shokiruyushchee-hd.png" group-title="Фильмы и сериалы",Шокирующее HD
 http://stream.mcquack.net/75/index.m3u8
 #EXTINF:-1 tvg-id="	nashe-muzhskoe-hd" tvg-logo="https://epg.iptvx.one/picons/nashe-muzhskoe-hd.png" group-title="Фильмы и сериалы",Наше мужское HD
