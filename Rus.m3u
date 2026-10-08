@@ -289,9 +289,11 @@ http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="kuban-24" tvg-logo="https://iptvx.one/picons/kuban-24.png" group-title="Региональные",Кубань 24
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
-#EXTINF:-1 tvg-id="kuban-24" tvg-logo="https://iptvx.one/picons/kuban-24.png" group-title="Региональные",Кубань 24 Rutub
-https://river-3-343.rtbcdn.ru/stream/genetta-320.m9.rutube.ru/7uZckeZreDo7wv4A9-gXvA/1790716953/cb2f1d99b88c9b4d38df05cd7fa0a6c2/720p_stream.m3u8
+#EXTINF:-1 tvg-id="kuban-24" tvg-logo="https://iptvx.one/picons/kuban-24.png" group-title="Региональные",Кубань 24 ХД
+https://river-m9-bln-d3121.rtbcdn.ru/stream/genetta-320.m9.rutube.ru/uhhnGdPL6zdq9HFnAVSrTA/1792056150/cb2f1d99b88c9b4d38df05cd7fa0a6c2/720p_stream.m3u8
 #EXTINF:-1 tvg-id="gln24" tvg-logo="https://epg.iptvx.one/picons/gln24.png" group-title="Региональные",GLN 24 (Геленджик)
+#EXTINF:-1 tvg-id="kuban-24" tvg-logo="https://iptvx.one/picons/kuban-24.png" group-title="Региональные",Кубань 24 Rutub
+https://river-1.rutube.ru/stream/genetta-320.m9.rutube.ru/NMlIE1mJpUc5xEisvy4cOg/1792056258/cb2f1d99b88c9b4d38df05cd7fa0a6c2/360p_stream.m3u8
 http://serv25.vintera.tv:8081/gelendzhik/stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="sankt-peterburg" tvg-logo="https://iptvx.one/picons/sankt-peterburg.png" group-title="Региональные",Санкт-Петербург
 https://live-topspb-geo.cdnvideo.ru/topspb-m4f/m4f-stream/playlist.m3u8
