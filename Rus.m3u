@@ -93,7 +93,7 @@ http://tv.ttk.mx:9003
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Общественные",НТВ HD
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="Общественные",ТВЦ
-
+https://s183.glaz.tv:8082/liveg/tvc.stream/chunks.m3u8?nimblesessionid=75354029&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNiAxMTowNTozNCBQTSZoYXNoX3ZhbHVlPXRJcUs3RzArWWFUNit1cFcrTlZaZHc9PSZ2YWxpZG1pbnV0ZXM9MjAw
 #EXTINF:-1 tvg-id="tv3-ru" tvg-logo="https://iptvx.one/picons/tv3-ru.png" group-title="Общественные",ТВ3 HD
 http://194.152.35.17/tv-3/index.m3u8
 #EXTINF:-1 tvg-id="tv3-ru" tvg-logo="https://iptvx.one/picons/tv3-ru.png" group-title="Общественные",ТВ3
@@ -290,7 +290,7 @@ http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
 #EXTINF:-1 tvg-id="kuban-24" tvg-logo="https://iptvx.one/picons/kuban-24.png" group-title="Региональные",Кубань 24 ХД
-https://river-m9-pitix-d3105.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/UMgiBotzATkbvdzkXZcTkQ/1794577887/cb2f1d99b88c9b4d38df05cd7fa0a6c2/720p_stream.m3u8
+https://river-1.rutube.ru/stream/genetta-314.m9.rutube.ru/aD0mP741ySC2SKMZJjdO7Q/1795302823/cb2f1d99b88c9b4d38df05cd7fa0a6c2/360p_stream.m3u8
 #EXTINF:-1 tvg-id="gln24" tvg-logo="https://epg.iptvx.one/picons/gln24.png" group-title="Региональные",GLN 24 (Геленджик)
 http://serv25.vintera.tv:8081/gelendzhik/stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="sankt-peterburg" tvg-logo="https://iptvx.one/picons/sankt-peterburg.png" group-title="Региональные",Санкт-Петербург
