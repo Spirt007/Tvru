@@ -97,7 +97,7 @@ https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 https://streaming.televizor-24-tochka.ru/live/13.m3u8
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="Общественные",ТВЦ*
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="tvci" tvg-logo="https://epg.iptvx.one/picons/tvci.png" group-title="Undefined" ,ТВ Центр International
+#EXTINF:-1 tvg-id="tvci" tvg-logo="https://epg.iptvx.one/picons/tvci.png" group-title="Undefined",ТВ Центр International
 https://stream8.cinerama.uz/1281/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv3-ru" tvg-logo="https://iptvx.one/picons/tv3-ru.png" group-title="Общественные",ТВ3 HD
 http://31.148.5.241/kanal_15/index.m3u8
@@ -868,7 +868,7 @@ http://176.126.166.43:1935/live/312kino/playlist.m3u8
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 tvg-id="kinouzhas" tvg-logo="https://epg.iptvx.one/picons/kinouzhas.png" group-title="Фильмы и сериалы",Киноужас
 
-#EXTINF:-1 tvg-id="horrortv" tvg-logo="https://epg.iptvx.one/picons/horrortv.png" group-title="Фильмы и сериалы" ,Horror TV
+#EXTINF:-1 tvg-id="horrortv" tvg-logo="https://epg.iptvx.one/picons/horrortv.png" group-title="Фильмы и сериалы",Horror TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8
 #EXTINF:-1 tvg-id="shokiruyushchee-hd" tvg-logo="https://epg.iptvx.one/picons/shokiruyushchee-hd.png" group-title="Фильмы и сериалы",Шокирующее HD
 
@@ -894,23 +894,23 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v
 http://kinowalk.hopto.org/selecaotv_live
 #EXTINF:-1 group-title="Кинозалы",SeleCaoTV Сериалы
 http://kinowalk.hopto.org/selecaotv1_live
-#EXTINF:-1 tvg-id="smotrim-100-gorkogo" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-gorkogo.png" group-title="Кинозалы" ,Смотрим 100% Горького
+#EXTINF:-1 tvg-id="smotrim-100-gorkogo" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-gorkogo.png" group-title="Кинозалы",Смотрим 100% Горького
 https://stream.smotrim.ru/hls2/fasttv07/playlist_3.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-k-odnomu" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-k-odnomu.png" group-title="Кинозалы" ,Смотрим 100 к 1
+#EXTINF:-1 tvg-id="smotrim-100-k-odnomu" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-k-odnomu.png" group-title="Кинозалы",Смотрим 100 к 1
 https://stream.smotrim.ru/hls2/fasttv08/playlist_2.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-detskoe" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-detskoe.png" group-title="Кинозалы" ,Смотрим 100% Детское
+#EXTINF:-1 tvg-id="smotrim-100-detskoe" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-detskoe.png" group-title="Кинозалы",Смотрим 100% Детское
 https://stream.smotrim.ru/hls3/fasttv05/playlist_3.m3u8
-#EXTINF:-1 tvg-id="	smotrim-100-klassika" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-klassika.png" group-title="Кинозалы" ,Смотрим 100% Классика
+#EXTINF:-1 tvg-id="	smotrim-100-klassika" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-klassika.png" group-title="Кинозалы",Смотрим 100% Классика
 https://stream.smotrim.ru/hls3/fasttv03/playlist_3.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-muzhskoe" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-muzhskoe.png" group-title="Кинозалы" ,Смотрим 100% Мужское
+#EXTINF:-1 tvg-id="smotrim-100-muzhskoe" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-muzhskoe.png" group-title="Кинозалы",Смотрим 100% Мужское
 https://stream.smotrim.ru/hls3/fasttv02/playlist_3.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-prazdnik" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-prazdnik.png" group-title="Кинозалы" ,Смотрим 100% Праздник
+#EXTINF:-1 tvg-id="smotrim-100-prazdnik" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-prazdnik.png" group-title="Кинозалы",Смотрим 100% Праздник
 https://stream.smotrim.ru/hls3/fasttv04/playlist_3.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-fakty" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-fakty.png" group-title="Кинозалы" ,Смотрим 100% Факты
+#EXTINF:-1 tvg-id="smotrim-100-fakty" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-fakty.png" group-title="Кинозалы",Смотрим 100% Факты
 https://stream.smotrim.ru/hls3/fasttv06/playlist_3.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-lubov" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-lubov.png" group-title="Кинозалы" ,Смотрим 100% Любовь
+#EXTINF:-1 tvg-id="smotrim-100-lubov" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-lubov.png" group-title="Кинозалы",Смотрим 100% Любовь
 https://stream.smotrim.ru/hls3/fasttv01/playlist_3.m3u8
-#EXTINF:-1 tvg-id="SmotrimChestnyyDetektiv.ru@SD" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/svg/444/241/8.svg" group-title="Кинозалы" ,Смотрим Честный детектив HD
+#EXTINF:-1 tvg-id="SmotrimChestnyyDetektiv.ru@SD" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/svg/444/241/8.svg" group-title="Кинозалы",Смотрим Честный детектив HD
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="smotrim-100-talkshow" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-talkshow.png" group-title="Кинозалы",Смотрим 100% Ток-шоу
 https://stream.smotrim.ru/hls2/fasttv09/playlist_3.m3u8
@@ -922,15 +922,15 @@ https://kinowalk.hopto.org/kinolampa_live
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 #EXTINF:-1 group-title="Кинозалы", Scripach
 https://kinowalk.hopto.org/scripachtv_live
-#EXTINF:-1 group-title="Кинозалы" ,Мы Из 90-Х
+#EXTINF:-1 group-title="Кинозалы",Мы Из 90-Х
 https://kinowalk.hopto.org/miiz90x_live
-#EXTINF:-0 group-title="Кинозалы", VHS Forever
+#EXTINF:-0 group-title="Кинозалы",VHS Forever
 https://kinowalk.hopto.org/vhs-forever_live
-#EXTINF:-1 group-title="Кинозалы", Комедии
+#EXTINF:-1 group-title="Кинозалы",Комедии
 https://kinowalk.hopto.org/cmexye4ku_live
-#EXTINF:-1 group-title="Кинозалы", Эквилибриум
+#EXTINF:-1 group-title="Кинозалы",Эквилибриум
 https://kinowalk.hopto.org/equilibrium_live
-#EXTINF:-1 group-title="Кинозалы" ,Назад В СССР
+#EXTINF:-1 group-title="Кинозалы",Назад В СССР
 https://kinowalk.hopto.org/backtotheussr_live
 #EXTINF:-1 group-title="Кинозалы",Эра VHS
 https://kinowalk.hopto.org/vhs90s_live
