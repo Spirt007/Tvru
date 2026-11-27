@@ -885,11 +885,7 @@ http://hls127.freeott.top:8080/Bolt/video.m3u8
 
 
 
-#EXTINF:-1 group-title="Кинозалы",Смотрим Кино и сериалы
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-#EXTINF:-1 group-title="Кинозалы",Смотрим Кино и сериалы*
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+
 #EXTINF:-1 group-title="Кинозалы",SeleCaoTV Фильмы
 http://kinowalk.hopto.org/selecaotv_live
 #EXTINF:-1 group-title="Кинозалы",SeleCaoTV Сериалы
@@ -914,8 +910,6 @@ https://stream.smotrim.ru/hls3/fasttv01/playlist_3.m3u8
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="smotrim-100-talkshow" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-talkshow.png" group-title="Кинозалы",Смотрим 100% Ток-шоу
 https://stream.smotrim.ru/hls2/fasttv09/playlist_3.m3u8
-#EXTINF:-1 group-title="Кинозалы",Kino Jam
-https://kinowalk.hopto.org/kinojam_live
 #EXTINF:-1 group-title="Кинозалы",Kinolampa
 https://kinowalk.hopto.org/kinolampa_live
 #EXTINF:-1 tvg-id="TVPRO.ru@SD" tvg-logo="https://i.imgur.com/sbuSefI.png" group-title="Кинозалы",TV PRO
@@ -960,9 +954,9 @@ https://kinowalk.hopto.org/cinematime_live
 #EXTINF:-1 tvg-id="kinopremiera-hd" tvg-logo="https://iptvx.one/picons/kinopremiera.png" group-title="Премьеры и хиты",Кинопремьера
 https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vip-premiere" tvg-logo="https://iptvx.one/picons/vip-premiere.png" group-title="Премьеры и хиты",Viju+ Premiere HD
-http://46.53.200.153:7777/play/Viju_Premiere/index.m3u8
+https://stream8.cinerama.uz/1056/index.m3u8
 #EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://iptvx.one/picons/vip-megahit.png" group-title="Премьеры и хиты",Viju+ Megahit HD
-http://46.53.200.153:7777/play/Viju_Megahit_HD/index.m3u8
+http://flussonic.mkpnet.ru/tv-3d1cedf99303d057/video.m3u8
 #EXTINF:-1 tvg-id="kinoxit" tvg-logo="https://epg.iptvx.one/picons/kinoxit.png" group-title="Премьеры и хиты",Кинохит HD
 http://195.64.140.147:10046/46
 #EXTINF:-1 tvg-id="amedia-hit" tvg-logo="https://iptvx.one/picons/amedia-hit.png" group-title="Премьеры и хиты",Amedia Hit HD
