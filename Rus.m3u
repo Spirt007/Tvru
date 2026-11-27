@@ -81,7 +81,7 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://epg.iptvx.one/picons/pervy.png" group-title="Общественные",Первый*
-
+http://5.137.232.82:1234/udp/225.54.205.129:5000
 #EXTINF:-1 tvg-id="pervy-kanal-eu" tvg-logo="https://epg.iptvx.one/picons/pervy-kanal-eu.png" group-title="Общественные",Первый канал Европа
 https://streaming.thestream.cyou/live/210.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Общественные",Россия 1
@@ -776,7 +776,7 @@ https://stream8.cinerama.uz/1047/index.m3u8
 #EXTINF:-1 tvg-id="fox" tvg-logo="https://iptvx.one/picons/fox.png" group-title="Фильмы и сериалы",Fox
 
 #EXTINF:-1 tvg-id="foxlife" tvg-logo="https://iptvx.one/picons/foxlife.png" group-title="Фильмы и сериалы",Fox Life
-
+http://pcdn.site/stream/XZRBCCH/channel/608.m3u8
 #EXTINF:-1  tvg-id="tv21plus" tvg-logo="https://epg.iptvx.one/picons/tv21plus.png" group-title="Фильмы и сериалы",ТВ21+
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R01_TV21PLUS/variant.m3u8
