@@ -112,7 +112,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 tvg-id="rentv-int" tvg-logo="https://epg.iptvx.one/picons/rentv-int.png" group-title="Общественные",Рен ТВ International
 
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-logo="https://epg.iptvx.one/picons/5kanal-ru.png" group-title="Общественные",Пятый канал
-https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+http://31.148.5.241/kanal_5/index.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://iptvx.one/picons/5kanal-ru.png" group-title="Общественные",Пятый канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
