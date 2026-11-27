@@ -886,16 +886,64 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v
 http://kinowalk.hopto.org/selecaotv_live
 #EXTINF:-1 group-title="Кинозалы",SeleCaoTV Сериалы
 http://kinowalk.hopto.org/selecaotv1_live
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Retrovision
-https://lbgo.bozztv.com/07/ushba-rvision/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Retrovision Classic
-https://lbgo.bozztv.com/07/ushba-rvisionclassic/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Retrovision Motor
-https://lbgo.bozztv.com/07/ushba-rvisionmotor/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Retrovision Movies
-https://lbgo.bozztv.com/07/ushba-rvisionmovies/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Retrovision Кинопанорама
-https://lbgo.bozztv.com/07/ushba-rvisionkinopanorama/index.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-detskoe" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-detskoe.png" group-title="Кинозалы" ,Смотрим 100% Детское
+https://stream.smotrim.ru/hls3/fasttv05/playlist_3.m3u8
+#EXTINF:-1 tvg-id="	smotrim-100-klassika" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-klassika.png" group-title="Кинозалы" ,Смотрим 100% Классика
+https://stream.smotrim.ru/hls3/fasttv03/playlist_3.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-muzhskoe" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-muzhskoe.png" group-title="Кинозалы" ,Смотрим 100% Мужское
+https://stream.smotrim.ru/hls3/fasttv02/playlist_3.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-prazdnik" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-prazdnik.png" group-title="Кинозалы" ,Смотрим 100% Праздник
+https://stream.smotrim.ru/hls3/fasttv04/playlist_3.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-fakty" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-fakty.png" group-title="Кинозалы" ,Смотрим 100% Факты
+https://stream.smotrim.ru/hls3/fasttv06/playlist_3.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-lubov" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-lubov.png" group-title="Кинозалы" ,Смотрим 100% Любовь
+https://stream.smotrim.ru/hls3/fasttv01/playlist_3.m3u8
+#EXTINF:-1 tvg-id="SmotrimChestnyyDetektiv.ru@SD" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/svg/444/241/8.svg" group-title="Кинозалы" ,Смотрим Честный детектив HD
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-talkshow" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-talkshow.png" group-title="Кинозалы",Смотрим 100% Ток-шоу
+https://stream.smotrim.ru/hls2/fasttv09/playlist_3.m3u8
+#EXTINF:-1 group-title="Кинозалы",Kino Jam
+https://kinowalk.hopto.org/kinojam_live
+#EXTINF:-1 group-title="Кинозалы",Kinolampa
+https://kinowalk.hopto.org/kinolampa_live
+#EXTINF:-1 tvg-id="TVPRO.ru@SD" tvg-logo="https://i.imgur.com/sbuSefI.png" group-title="Кинозалы",TV PRO
+http://rtmp.tvpro-online.ru/hls/ch1.m3u8
+#EXTINF:-1 group-title="Кинозалы", Scripach
+https://kinowalk.hopto.org/scripachtv_live
+#EXTINF:-1 group-title="Кинозалы" ,Мы Из 90-Х
+https://kinowalk.hopto.org/miiz90x_live
+#EXTINF:-0 group-title="Кинозалы", VHS Forever
+https://kinowalk.hopto.org/vhs-forever_live
+#EXTINF:-1 group-title="Кинозалы", Комедии
+https://kinowalk.hopto.org/cmexye4ku_live
+#EXTINF:-1 group-title="Кинозалы", Эквилибриум
+https://kinowalk.hopto.org/equilibrium_live
+#EXTINF:-1 group-title="Кинозалы" ,Назад В СССР
+https://kinowalk.hopto.org/backtotheussr_live
+#EXTINF:-1 group-title="Кинозалы",Эра VHS
+https://kinowalk.hopto.org/vhs90s_live
+#EXTINF:-1 group-title="Кинозалы",АPRICUS
+https://kinowalk.hopto.org/apricus_live
+#EXTINF:-1 group-title="Кинозалы",Видеокассета
+https://kinowalk.hopto.org/vhs90e_live
+#EXTINF:-1 group-title="Кинозалы",Фильмоскоп
+https://kinowalk.hopto.org/filmscope_live
+#EXTINF:-1 group-title="Кинозалы",HGTN
+https://v2.catcast.tv/content/34251/index.m3u8
+#EXTINF:-1 group-title="Кинозалы",Х-TV
+https://kinowalk.hopto.org/durkalive_live
+#EXTINF:-1 group-title="Кинозалы",Осторожно Модерн
+https://kinowalk.hopto.org/ostorozhnomodern2_live
+#EXTINF:-1 group-title="Кинозалы",Кладовая Фильмов
+https://kinowalk.hopto.org/skladfilm_live
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2mJKi7g.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Кинозалы",TVRUS
+http://213.91.179.28:8000/play/a082
+#EXTINF:-1 group-title="Кинозалы",Андийцы
+https://v2.catcast.tv/content/34114/index.m3u8
+#EXTINF:-1 group-title="Кинозалы",Igrocomp
+https://kinowalk.hopto.org/igrocomp_live
+#EXTINF:-1 group-title="Кинозалы",Cinema Time
+https://kinowalk.hopto.org/cinematime_live
 
 
 
