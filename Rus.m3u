@@ -888,6 +888,10 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v
 http://kinowalk.hopto.org/selecaotv_live
 #EXTINF:-1 group-title="Кинозалы",SeleCaoTV Сериалы
 http://kinowalk.hopto.org/selecaotv1_live
+#EXTINF:-1 tvg-id="smotrim-100-gorkogo" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-gorkogo.png" group-title="Кинозалы" ,Смотрим 100% Горького
+https://stream.smotrim.ru/hls2/fasttv07/playlist_3.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-k-odnomu" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-k-odnomu.png" group-title="Кинозалы" ,Смотрим 100 к 1
+https://stream.smotrim.ru/hls2/fasttv08/playlist_2.m3u8
 #EXTINF:-1 tvg-id="smotrim-100-detskoe" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-detskoe.png" group-title="Кинозалы" ,Смотрим 100% Детское
 https://stream.smotrim.ru/hls3/fasttv05/playlist_3.m3u8
 #EXTINF:-1 tvg-id="	smotrim-100-klassika" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-klassika.png" group-title="Кинозалы" ,Смотрим 100% Классика
