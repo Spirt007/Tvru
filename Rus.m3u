@@ -457,6 +457,26 @@ https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/mono.ts.m3u8
 
 
+#EXTINF:-1 tvg-id="smotrim-100-gorkogo" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-gorkogo.png" group-title="Смотрим 100%",Смотрим 100% Горького
+https://stream.smotrim.ru/hls2/fasttv07/playlist_3.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-k-odnomu" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-k-odnomu.png" group-title="Смотрим 100%",Смотрим 100% к 1
+https://stream.smotrim.ru/hls2/fasttv08/playlist_2.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-detskoe" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-detskoe.png" group-title="Смотрим 100%",Смотрим 100% Детское
+https://stream.smotrim.ru/hls3/fasttv05/playlist_3.m3u8
+#EXTINF:-1 tvg-id="	smotrim-100-klassika" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-klassika.png" group-title="Смотрим 100%",Смотрим 100% Классика
+https://stream.smotrim.ru/hls3/fasttv03/playlist_3.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-muzhskoe" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-muzhskoe.png" group-title="Смотрим 100%",Смотрим 100% Мужское
+https://stream.smotrim.ru/hls3/fasttv02/playlist_3.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-prazdnik" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-prazdnik.png" group-title="Смотрим 100%",Смотрим 100% Праздник
+https://stream.smotrim.ru/hls3/fasttv04/playlist_3.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-fakty" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-fakty.png" group-title="Смотрим 100%",Смотрим 100% Факты
+https://stream.smotrim.ru/hls3/fasttv06/playlist_3.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-lubov" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-lubov.png" group-title="Смотрим 100%",Смотрим 100% Любовь
+https://stream.smotrim.ru/hls3/fasttv01/playlist_3.m3u8
+#EXTINF:-1 tvg-id="chestny-detektiv" tvg-logo="https://epg.iptvx.one/picons/chestny-detektiv.png" group-title="Смотрим 100%",Смотрим Честный детектив HD
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-talkshow" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-talkshow.png" group-title="Смотрим 100%",Смотрим 100% Ток-шоу
+https://stream.smotrim.ru/hls2/fasttv09/playlist_3.m3u8
 
 
 #EXTINF:-1 tvg-id="ntv-pl1" tvg-logo="https://epg.iptvx.one/picons/ntv-pl1.png" group-title="Будущее",НТВ +1
@@ -890,26 +910,6 @@ http://hls127.freeott.top:8080/Bolt/video.m3u8
 http://kinowalk.hopto.org/selecaotv_live
 #EXTINF:-1 group-title="Кинозалы",SeleCaoTV Сериалы
 http://kinowalk.hopto.org/selecaotv1_live
-#EXTINF:-1 tvg-id="smotrim-100-gorkogo" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-gorkogo.png" group-title="Кинозалы",Смотрим 100% Горького
-https://stream.smotrim.ru/hls2/fasttv07/playlist_3.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-k-odnomu" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-k-odnomu.png" group-title="Кинозалы",Смотрим 100 к 1
-https://stream.smotrim.ru/hls2/fasttv08/playlist_2.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-detskoe" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-detskoe.png" group-title="Кинозалы",Смотрим 100% Детское
-https://stream.smotrim.ru/hls3/fasttv05/playlist_3.m3u8
-#EXTINF:-1 tvg-id="	smotrim-100-klassika" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-klassika.png" group-title="Кинозалы",Смотрим 100% Классика
-https://stream.smotrim.ru/hls3/fasttv03/playlist_3.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-muzhskoe" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-muzhskoe.png" group-title="Кинозалы",Смотрим 100% Мужское
-https://stream.smotrim.ru/hls3/fasttv02/playlist_3.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-prazdnik" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-prazdnik.png" group-title="Кинозалы",Смотрим 100% Праздник
-https://stream.smotrim.ru/hls3/fasttv04/playlist_3.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-fakty" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-fakty.png" group-title="Кинозалы",Смотрим 100% Факты
-https://stream.smotrim.ru/hls3/fasttv06/playlist_3.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-lubov" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-lubov.png" group-title="Кинозалы",Смотрим 100% Любовь
-https://stream.smotrim.ru/hls3/fasttv01/playlist_3.m3u8
-#EXTINF:-1 tvg-id="SmotrimChestnyyDetektiv.ru@SD" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/svg/444/241/8.svg" group-title="Кинозалы",Смотрим Честный детектив HD
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-talkshow" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-talkshow.png" group-title="Кинозалы",Смотрим 100% Ток-шоу
-https://stream.smotrim.ru/hls2/fasttv09/playlist_3.m3u8
 #EXTINF:-1 group-title="Кинозалы",Kinolampa
 https://kinowalk.hopto.org/kinolampa_live
 #EXTINF:-1 tvg-id="TVPRO.ru@SD" tvg-logo="https://i.imgur.com/sbuSefI.png" group-title="Кинозалы",TV PRO
