@@ -331,7 +331,7 @@ http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VEKTOR/variant.m3u8
 #EXTINF:-1 tvg-id="vitebsk" tvg-logo="https://epg.iptvx.one/picons/vitebsk.png" group-title="Региональные",Витебск
 https://live.dc.beltelecom.by/vtv/vitebsk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="gorodskoy-yaroslavl" tvg-logo="https://iptvx.one/picons/gorodskoy-yaroslavl.png" group-title="Региональные",Городской Телеканал-Ярославль
-https://gtk.tv/hls/gtyar.m3u8
+
 #EXTINF:-1 tvg-id="gubernia-samara" tvg-logo="https://iptvx.one/picons/gubernia-samara.png" group-title="Региональные",Губерния Самара
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
 #EXTINF:-1  tvg-id="enisey-region" tvg-logo="https://iptvx.one/picons/enisey-region.png" group-title="Региональные",Енисей регион
@@ -339,7 +339,7 @@ https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1  tvg-id="lipeckoe-vremia" tvg-logo="https://iptvx.one/picons/lipeckoe-vremia.png" group-title="Региональные",Липецкое время
 https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_LIPETSK_LVREM/variant.m3u8
 #EXTINF:-1 tvg-id="doverie" tvg-logo="https://iptvx.one/picons/doverie.png" group-title="Региональные",Москва. Доверие
-http://iptv.mega.net.ru:8888/Moskva_Doverie/index.m3u8
+https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
 #EXTINF:-1 tvg-id="nn-24" tvg-logo="https://iptvx.one/picons/nn-24.png" group-title="Региональные",Нижний Новгород 24
 https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
 #EXTINF:-1 tvg-id="nts-sevastopol" tvg-logo="https://iptvx.one/picons/nts-sevastopol.png" group-title="Региональные",НТС Севастополь
@@ -722,35 +722,37 @@ https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 #EXTINF:-1 tvg-id="detsky-mir" tvg-logo="https://iptvx.one/picons/detsky-mir.png" group-title="Детские",Детский мир
-http://195.26.83.96:7007/play/14/index.m3u8
+http://s7.merlive.am/DetskiMir/index.m3u8
 #EXTINF:-1 tvg-id="ryzhy" tvg-logo="https://iptvx.one/picons/ryzhy.png" group-title="Детские",Рыжий
-https://stream8.cinerama.uz/1407/index.m3u8
+https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="karusel" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Детские",Карусель
-http://185.37.150.46/Karusel/index.m3u8
+
 #EXTINF:-1 tvg-id="karusel-int" tvg-logo="https://epg.iptvx.one/picons/karusel.png" group-title="Детские",Карусель Int
 https://streaming.thestream.cyou/live/232-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="sts-kids-hd" tvg-logo="https://iptvx.one/picons/sts-kids-hd.png" group-title="Детские",СТС Kids HD
-http://195.26.83.96:7006/play/a00z/index.m3u8
+http://s7.merlive.am/STSkids/index.m3u8
 #EXTINF:-1 tvg-id="mama" tvg-logo="https://iptvx.one/picons/mama.png" group-title="Детские",Мама
 https://stream8.cinerama.uz/1244/index.m3u8
 #EXTINF:-1 tvg-id="detkinoint-tviksel" tvg-logo="https://iptvx.one/picons/detkinoint-tviksel.png" group-title="Детские",Детское кино Int
-https://v2.catcast.tv/content/38720/index.m3u8
+
 #EXTINF:-1 tvg-id="mult" tvg-logo="https://epg.iptvx.one/picons/mult.png" group-title="Детские",Мульт
 http://flussonic.mkpnet.ru/tv-c8b065a591077c26/video.m3u8
 #EXTINF:-1 tvg-id="multimania" tvg-logo="https://epg.iptvx.one/picons/multimania.png" group-title="Детские",Мультиландия
 https://stream8.cinerama.uz/1440/index.m3u8
-#EXTINF:-1 tvg-id="multimuzyka" tvg-logo="https://iptvx.one/picons/multimuzyka.png" group-title="Детские",Мульт и Музыка
-
 #EXTINF:-1 tvg-id="radost-moya" tvg-logo="https://iptvx.one/picons/radost-moya.png" group-title="Детские",Радость моя
 http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-logo="https://epg.iptvx.one/picons/v-gostiax-u-skazki.png" group-title="Детские",В гостях у сказки
-http://stream.mcquack.net/93/index.m3u8
-#EXTINF:-1 tvg-id="kernel-mashaimedved" tvg-logo="https://epg.iptvx.one/picons/kernel-mashaimedved.png" group-title="Детские",Маша и Медведь
-https://lbgo.bozztv.com/07/ushba79/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Детские",Мультфильмы
-https://lbgo.bozztv.com/07/ushba80/index.m3u8
+
+#EXTINF:-1 tvg-id="nickelodeon-ru" tvg-logo="https://epg.iptvx.one/picons/nickelodeon-ru.png" group-title="Детские",Nickelodeon
+http://s7.merlive.am/Nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="kernel-chipndale" tvg-logo="https://epg.iptvx.one/picons/kernel-chipndale.png" group-title="Детские",Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1 tvg-id="o_" tvg-logo="https://epg.iptvx.one/picons/o_.png" group-title="Детские",О! HD
+http://195.64.140.147:10124/124
+#EXTINF:-1 tvg-id="malysh" tvg-logo="https://epg.iptvx.one/picons/malysh.png" group-title="Детские",Супергерои
+http://flussonic.mkpnet.ru/tv-66968914d630446e/video.m3u8
+#EXTINF:-1 tvg-id="mama" tvg-logo="https://epg.iptvx.one/picons/mama.png" group-title="Детские",Мама*
+http://s7.merlive.am/mama/index.m3u8
 
 
 
